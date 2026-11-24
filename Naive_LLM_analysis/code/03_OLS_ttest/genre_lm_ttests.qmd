@@ -1,0 +1,662 @@
+---
+title: "Genre Combinations and AI-Coded Review Dimensions"
+format:
+  html:
+    toc: true
+    embed-resources: true
+execute:
+  warning: false
+  message: false
+---
+
+## 1. Load data
+
+```{r}
+ROOT <- "C:/Users/gujia/Downloads/independent-capstone-project/Naive_LLM_analysis"   # project root; every path below is relative to it
+setwd(ROOT)
+if (isTRUE(getOption("knitr.in.progress"))) knitr::opts_knit$set(root.dir = ROOT)  # keep ROOT for later chunks
+
+df <- read.csv("data/annotated/annotated_50000sample.csv", check.names = FALSE,
+               stringsAsFactors = FALSE, encoding = "UTF-8")
+dim(df)
+```
+
+## 2. Split Genre into combinations
+
+Each `;`-separated piece of the Genre cell is one combination, e.g. `"fantasy, paranormal; fiction"` → `"fantasy, paranormal"` and `"fiction"`.
+
+```{r}
+genre_list <- lapply(strsplit(df$Genre, ";"), trimws)
+genre_list <- lapply(genre_list, function(x) x[x != ""])
+combos <- sort(unique(unlist(genre_list)))
+
+# syntactic variable names: "fantasy, paranormal" -> "fantasy_paranormal"
+clean_name <- function(x) gsub("_+", "_", gsub("[^A-Za-z0-9]+", "_", x))
+data.frame(combination = combos, variable = clean_name(combos))
+```
+
+## 3. One-hot encoding
+
+1 = the book has this combination, 0 = it does not.
+
+```{r}
+for (cmb in combos) {
+  df[[clean_name(cmb)]] <- as.integer(vapply(genre_list, function(g) cmb %in% g, logical(1)))
+}
+
+# rename outcome columns: "Absence of Naive Realism_AI" -> "Absence_of_Naive_Realism_AI"
+ai_cols <- grep("_AI$", names(df), value = TRUE)
+names(df)[match(ai_cols, names(df))] <- clean_name(ai_cols)
+
+# number of reviews per combination
+colSums(df[clean_name(combos)])
+
+write.csv(df, "data/analysis_ready/annotated_50000sample_onehot.csv", row.names = FALSE, fileEncoding = "UTF-8")
+```
+
+## 4. Linear models (t-tests on each genre coefficient)
+
+### 4.1 Absence of Naive Realism
+
+```{r}
+m1 <- lm(Absence_of_Naive_Realism_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+           fiction + history_historical_fiction_biography + mystery_thriller_crime +
+           non_fiction + poetry + romance + young_adult, data = df)
+summary(m1)
+```
+
+### 4.2 Theme
+
+```{r}
+m2 <- lm(Theme_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+           fiction + history_historical_fiction_biography + mystery_thriller_crime +
+           non_fiction + poetry + romance + young_adult, data = df)
+summary(m2)
+```
+
+### 4.3 Thought-Provoking
+
+```{r}
+m3 <- lm(Thought_Provoking_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+           fiction + history_historical_fiction_biography + mystery_thriller_crime +
+           non_fiction + poetry + romance + young_adult, data = df)
+summary(m3)
+```
+
+### 4.4 Ease
+
+```{r}
+m4 <- lm(Ease_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+           fiction + history_historical_fiction_biography + mystery_thriller_crime +
+           non_fiction + poetry + romance + young_adult, data = df)
+summary(m4)
+```
+
+### 4.5 Critic
+
+```{r}
+m5 <- lm(Critic_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+           fiction + history_historical_fiction_biography + mystery_thriller_crime +
+           non_fiction + poetry + romance + young_adult, data = df)
+summary(m5)
+```
+
+### 4.6 Surprise
+
+```{r}
+m6 <- lm(Surprise_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+           fiction + history_historical_fiction_biography + mystery_thriller_crime +
+           non_fiction + poetry + romance + young_adult, data = df)
+summary(m6)
+```
+
+### 4.7 Change
+
+```{r}
+m7 <- lm(Change_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+           fiction + history_historical_fiction_biography + mystery_thriller_crime +
+           non_fiction + poetry + romance + young_adult, data = df)
+summary(m7)
+```
+
+## 5. All coefficients in one table
+
+```{r}
+res_m1 <- as.data.frame(coef(summary(m1)))
+names(res_m1) <- c("estimate", "std_error", "t_value", "p_value")
+
+res_m1$term <- rownames(res_m1)
+res_m1$n <- nobs(m1)
+res_m1$outcome <- "Absence_of_Naive_Realism"
+
+res_m1$sig <- as.character(cut(
+  res_m1$p_value,
+  breaks = c(-Inf, .001, .01, .05, Inf),
+  labels = c("***", "**", "*", "")
+))
+
+res_m1 <- res_m1[, c("outcome", "term", "estimate", "std_error",
+                     "t_value", "p_value", "sig", "n")]
+
+knitr::kable(res_m1, digits = 4)
+```
+
+```{r}
+res_m2 <- as.data.frame(coef(summary(m2)))
+names(res_m2) <- c("estimate", "std_error", "t_value", "p_value")
+
+res_m2$term <- rownames(res_m2)
+res_m2$n <- nobs(m2)
+res_m2$outcome <- "Theme"
+
+res_m2$sig <- as.character(cut(
+  res_m2$p_value,
+  breaks = c(-Inf, .001, .01, .05, Inf),
+  labels = c("***", "**", "*", "")
+))
+
+res_m2 <- res_m2[, c("outcome", "term", "estimate", "std_error",
+                     "t_value", "p_value", "sig", "n")]
+
+knitr::kable(res_m2, digits = 4)
+```
+
+```{r}
+res_m3 <- as.data.frame(coef(summary(m3)))
+names(res_m3) <- c("estimate", "std_error", "t_value", "p_value")
+
+res_m3$term <- rownames(res_m3)
+res_m3$n <- nobs(m3)
+res_m3$outcome <- "Thought_Provoking"
+
+res_m3$sig <- as.character(cut(
+  res_m3$p_value,
+  breaks = c(-Inf, .001, .01, .05, Inf),
+  labels = c("***", "**", "*", "")
+))
+
+res_m3 <- res_m3[, c("outcome", "term", "estimate", "std_error",
+                     "t_value", "p_value", "sig", "n")]
+
+knitr::kable(res_m3, digits = 4)
+```
+
+```{r}
+res_m4 <- as.data.frame(coef(summary(m4)))
+names(res_m4) <- c("estimate", "std_error", "t_value", "p_value")
+
+res_m4$term <- rownames(res_m4)
+res_m4$n <- nobs(m4)
+res_m4$outcome <- "Ease"
+
+res_m4$sig <- as.character(cut(
+  res_m4$p_value,
+  breaks = c(-Inf, .001, .01, .05, Inf),
+  labels = c("***", "**", "*", "")
+))
+
+res_m4 <- res_m4[, c("outcome", "term", "estimate", "std_error",
+                     "t_value", "p_value", "sig", "n")]
+
+knitr::kable(res_m4, digits = 4)
+```
+
+```{r}
+res_m5 <- as.data.frame(coef(summary(m5)))
+names(res_m5) <- c("estimate", "std_error", "t_value", "p_value")
+
+res_m5$term <- rownames(res_m5)
+res_m5$n <- nobs(m5)
+res_m5$outcome <- "Critic"
+
+res_m5$sig <- as.character(cut(
+  res_m5$p_value,
+  breaks = c(-Inf, .001, .01, .05, Inf),
+  labels = c("***", "**", "*", "")
+))
+
+res_m5 <- res_m5[, c("outcome", "term", "estimate", "std_error",
+                     "t_value", "p_value", "sig", "n")]
+
+knitr::kable(res_m5, digits = 4)
+```
+
+```{r}
+res_m6 <- as.data.frame(coef(summary(m6)))
+names(res_m6) <- c("estimate", "std_error", "t_value", "p_value")
+
+res_m6$term <- rownames(res_m6)
+res_m6$n <- nobs(m6)
+res_m6$outcome <- "Surprise"
+
+res_m6$sig <- as.character(cut(
+  res_m6$p_value,
+  breaks = c(-Inf, .001, .01, .05, Inf),
+  labels = c("***", "**", "*", "")
+))
+
+res_m6 <- res_m6[, c("outcome", "term", "estimate", "std_error",
+                     "t_value", "p_value", "sig", "n")]
+
+knitr::kable(res_m6, digits = 4)
+```
+
+```{r}
+res_m7 <- as.data.frame(coef(summary(m7)))
+names(res_m7) <- c("estimate", "std_error", "t_value", "p_value")
+
+res_m7$term <- rownames(res_m7)
+res_m7$n <- nobs(m7)
+res_m7$outcome <- "Change"
+
+res_m7$sig <- as.character(cut(
+  res_m7$p_value,
+  breaks = c(-Inf, .001, .01, .05, Inf),
+  labels = c("***", "**", "*", "")
+))
+
+res_m7 <- res_m7[, c("outcome", "term", "estimate", "std_error",
+                     "t_value", "p_value", "sig", "n")]
+
+knitr::kable(res_m7, digits = 4)
+```
+
+## 6. Graph
+
+```{r}
+library(ggplot2)
+library(dplyr)
+
+# Genre predictors
+genre_vars <- c(
+  "children",
+  "comics_graphic",
+  "fantasy_paranormal",
+  "fiction",
+  "history_historical_fiction_biography",
+  "mystery_thriller_crime",
+  "non_fiction",
+  "poetry",
+  "romance",
+  "young_adult"
+)
+
+# More readable labels
+genre_labels <- c(
+  "Children",
+  "Comics & Graphic",
+  "Fantasy & Paranormal",
+  "Fiction",
+  "History / Biography",
+  "Mystery / Thriller / Crime",
+  "Non-fiction",
+  "Poetry",
+  "Romance",
+  "Young Adult"
+)
+
+# Function to extract coefficients and 95% CI
+make_plot_data <- function(model) {
+
+  ct <- as.data.frame(coef(summary(model)))
+
+  ct$term <- rownames(ct)
+
+  names(ct)[1:4] <- c(
+    "estimate",
+    "std_error",
+    "t_value",
+    "p_value"
+  )
+
+  ct <- ct %>%
+    filter(term %in% genre_vars) %>%
+    mutate(
+      lower = estimate - 1.96 * std_error,
+      upper = estimate + 1.96 * std_error,
+      significance = case_when(
+        p_value < .001 ~ "***",
+        p_value < .01 ~ "**",
+        p_value < .05 ~ "*",
+        TRUE ~ "ns"
+      ),
+      term = factor(
+        term,
+        levels = genre_vars,
+        labels = genre_labels
+      )
+    )
+
+  return(ct)
+}
+```
+
+```{r}
+plot_data_m1 <- make_plot_data(m1)
+
+p1 <- ggplot(plot_data_m1,
+             aes(x = estimate, y = term)) +
+
+  geom_vline(
+    xintercept = 0,
+    linetype = "dashed",
+    color = "gray50"
+  ) +
+
+  geom_errorbar(
+    aes(xmin = lower, xmax = upper),
+    width = 0.2,
+    orientation = "y"
+  ) +
+
+  geom_point(
+    aes(color = significance),
+    size = 3
+  ) +
+
+  scale_color_manual(
+    values = c(
+      "***" = "#B2182B",
+      "**" = "#EF8A62",
+      "*" = "#67A9CF",
+      "ns" = "gray65"
+    )
+  ) +
+
+  labs(
+    title = "Absence of Naive Realism",
+    x = "Regression Coefficient (β)",
+    y = "Genre Combination",
+    color = "Significance"
+  ) +
+
+  theme_minimal(base_size = 12) +
+
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5),
+    legend.position = "bottom"
+  )
+
+p1
+```
+
+```{r}
+plot_data_m2 <- make_plot_data(m2)
+
+p2 <- ggplot(plot_data_m2,
+             aes(x = estimate, y = term)) +
+
+  geom_vline(xintercept = 0, linetype = "dashed",
+             color = "gray50") +
+
+  geom_errorbar(
+    aes(xmin = lower, xmax = upper),
+    width = 0.2,
+    orientation = "y"
+  ) +
+
+  geom_point(aes(color = significance), size = 3) +
+
+  scale_color_manual(
+    values = c(
+      "***" = "#B2182B",
+      "**" = "#EF8A62",
+      "*" = "#67A9CF",
+      "ns" = "gray65"
+    )
+  ) +
+
+  labs(
+    title = "Theme",
+    x = "Regression Coefficient (β)",
+    y = "Genre Combination",
+    color = "Significance"
+  ) +
+
+  theme_minimal(base_size = 12) +
+
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5),
+    legend.position = "bottom"
+  )
+
+p2
+```
+
+```{r}
+plot_data_m3 <- make_plot_data(m3)
+
+p3 <- ggplot(plot_data_m3,
+             aes(x = estimate, y = term)) +
+
+  geom_vline(xintercept = 0, linetype = "dashed",
+             color = "gray50") +
+
+  geom_errorbar(
+    aes(xmin = lower, xmax = upper),
+    width = 0.2,
+    orientation = "y"
+  ) +
+
+  geom_point(aes(color = significance), size = 3) +
+
+  scale_color_manual(
+    values = c(
+      "***" = "#B2182B",
+      "**" = "#EF8A62",
+      "*" = "#67A9CF",
+      "ns" = "gray65"
+    )
+  ) +
+
+  labs(
+    title = "Thought-Provoking",
+    x = "Regression Coefficient (β)",
+    y = "Genre Combination",
+    color = "Significance"
+  ) +
+
+  theme_minimal(base_size = 12) +
+
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5),
+    legend.position = "bottom"
+  )
+
+p3
+```
+
+```{r}
+plot_data_m4 <- make_plot_data(m4)
+
+p4 <- ggplot(plot_data_m4,
+             aes(x = estimate, y = term)) +
+
+  geom_vline(xintercept = 0, linetype = "dashed",
+             color = "gray50") +
+
+  geom_errorbar(
+    aes(xmin = lower, xmax = upper),
+    width = 0.2,
+    orientation = "y"
+  ) +
+
+  geom_point(aes(color = significance), size = 3) +
+
+  scale_color_manual(
+    values = c(
+      "***" = "#B2182B",
+      "**" = "#EF8A62",
+      "*" = "#67A9CF",
+      "ns" = "gray65"
+    )
+  ) +
+
+  labs(
+    title = "Ease",
+    x = "Regression Coefficient (β)",
+    y = "Genre Combination",
+    color = "Significance"
+  ) +
+
+  theme_minimal(base_size = 12) +
+
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5),
+    legend.position = "bottom"
+  )
+
+p4
+```
+
+```{r}
+plot_data_m5 <- make_plot_data(m5)
+
+p5 <- ggplot(plot_data_m5,
+             aes(x = estimate, y = term)) +
+
+  geom_vline(xintercept = 0, linetype = "dashed",
+             color = "gray50") +
+
+  geom_errorbar(
+    aes(xmin = lower, xmax = upper),
+    width = 0.2,
+    orientation = "y"
+  ) +
+
+  geom_point(aes(color = significance), size = 3) +
+
+  scale_color_manual(
+    values = c(
+      "***" = "#B2182B",
+      "**" = "#EF8A62",
+      "*" = "#67A9CF",
+      "ns" = "gray65"
+    )
+  ) +
+
+  labs(
+    title = "Critic",
+    x = "Regression Coefficient (β)",
+    y = "Genre Combination",
+    color = "Significance"
+  ) +
+
+  theme_minimal(base_size = 12) +
+
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5),
+    legend.position = "bottom"
+  )
+
+p5
+```
+
+```{r}
+plot_data_m6 <- make_plot_data(m6)
+
+p6 <- ggplot(plot_data_m6,
+             aes(x = estimate, y = term)) +
+
+  geom_vline(xintercept = 0, linetype = "dashed",
+             color = "gray50") +
+
+  geom_errorbar(
+    aes(xmin = lower, xmax = upper),
+    width = 0.2,
+    orientation = "y"
+  ) +
+
+  geom_point(aes(color = significance), size = 3) +
+
+  scale_color_manual(
+    values = c(
+      "***" = "#B2182B",
+      "**" = "#EF8A62",
+      "*" = "#67A9CF",
+      "ns" = "gray65"
+    )
+  ) +
+
+  labs(
+    title = "Surprise",
+    x = "Regression Coefficient (β)",
+    y = "Genre Combination",
+    color = "Significance"
+  ) +
+
+  theme_minimal(base_size = 12) +
+
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5),
+    legend.position = "bottom"
+  )
+
+p6
+```
+
+```{r}
+plot_data_m7 <- make_plot_data(m7)
+
+p7 <- ggplot(plot_data_m7,
+             aes(x = estimate, y = term)) +
+
+  geom_vline(xintercept = 0, linetype = "dashed",
+             color = "gray50") +
+
+  geom_errorbar(
+    aes(xmin = lower, xmax = upper),
+    width = 0.2,
+    orientation = "y"
+  ) +
+
+  geom_point(aes(color = significance), size = 3) +
+
+  scale_color_manual(
+    values = c(
+      "***" = "#B2182B",
+      "**" = "#EF8A62",
+      "*" = "#67A9CF",
+      "ns" = "gray65"
+    )
+  ) +
+
+  labs(
+    title = "Change",
+    x = "Regression Coefficient (β)",
+    y = "Genre Combination",
+    color = "Significance"
+  ) +
+
+  theme_minimal(base_size = 12) +
+
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5),
+    legend.position = "bottom"
+  )
+
+p7
+```
+
+```{r}
+ggsave("figures/OLS_ttest/Graph_1_Naive_Realism.png", p1,
+       width = 9, height = 6, dpi = 300)
+
+ggsave("figures/OLS_ttest/Graph_2_Theme.png", p2,
+       width = 9, height = 6, dpi = 300)
+
+ggsave("figures/OLS_ttest/Graph_3_Thought_Provoking.png", p3,
+       width = 9, height = 6, dpi = 300)
+
+ggsave("figures/OLS_ttest/Graph_4_Ease.png", p4,
+       width = 9, height = 6, dpi = 300)
+
+ggsave("figures/OLS_ttest/Graph_5_Critic.png", p5,
+       width = 9, height = 6, dpi = 300)
+
+ggsave("figures/OLS_ttest/Graph_6_Surprise.png", p6,
+       width = 9, height = 6, dpi = 300)
+
+ggsave("figures/OLS_ttest/Graph_7_Change.png", p7,
+       width = 9, height = 6, dpi = 300)
+```

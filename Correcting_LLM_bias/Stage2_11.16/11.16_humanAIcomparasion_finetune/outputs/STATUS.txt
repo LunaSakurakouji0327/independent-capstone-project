@@ -1,0 +1,1 @@
+All 5 folds complete (2026-11-16 ~22:30). evaluate.py done (run with PYTHONIOENCODING=utf-8). Report: Stage2_FineTune_Report.pdf (builder: report/make_stage2_report.js, extras: code/report_extras.py).

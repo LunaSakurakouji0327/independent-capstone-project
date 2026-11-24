@@ -1,0 +1,18 @@
+{"unit_id": "G1", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "G2", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "G7", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "G13", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "G16", "construct": "Change", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "G20", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "G28", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "G37", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "G45", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "G45", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "G46", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "G58", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "G63", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "G74", "construct": "Change", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "G97", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "G98", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "G98", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "G109", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}

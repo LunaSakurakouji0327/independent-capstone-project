@@ -1,0 +1,16 @@
+{
+ "gold_yuhao": {
+  "rows": 100,
+  "kept": 100,
+  "<=25 words": 0,
+  "not English": 0,
+  "prompt v2 example": 0
+ },
+ "gold_group": {
+  "rows": 120,
+  "kept": 85,
+  "<=25 words": 25,
+  "not English": 0,
+  "prompt v2 example": 10
+ }
+}

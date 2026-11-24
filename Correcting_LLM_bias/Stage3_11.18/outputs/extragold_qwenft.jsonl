@@ -1,0 +1,1295 @@
+{"unit_id": "Y1", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.03309, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y1", "construct": "Theme", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y1", "construct": "Thought-Provoking", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y1", "construct": "Ease", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y1", "construct": "Critic", "label": "1", "p1": 0.9149, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y1", "construct": "Surprise", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y1", "construct": "Change", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y2", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y2", "construct": "Theme", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y2", "construct": "Thought-Provoking", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y2", "construct": "Ease", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y2", "construct": "Critic", "label": "1", "p1": 0.96691, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y2", "construct": "Surprise", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y2", "construct": "Change", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y3", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y3", "construct": "Theme", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y3", "construct": "Thought-Provoking", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y3", "construct": "Ease", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y3", "construct": "Critic", "label": "0", "p1": 0.0015, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y3", "construct": "Surprise", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y3", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y4", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y4", "construct": "Theme", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y4", "construct": "Thought-Provoking", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y4", "construct": "Ease", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y4", "construct": "Critic", "label": "1", "p1": 0.96267, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y4", "construct": "Surprise", "label": "1", "p1": 0.97702, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y4", "construct": "Change", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y5", "construct": "Absence of Naive Realism", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y5", "construct": "Theme", "label": "1", "p1": 0.96267, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y5", "construct": "Thought-Provoking", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y5", "construct": "Ease", "label": "0", "p1": 0.03309, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y5", "construct": "Critic", "label": "1", "p1": 0.98757, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y5", "construct": "Surprise", "label": "1", "p1": 0.95791, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y5", "construct": "Change", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y6", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y6", "construct": "Theme", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y6", "construct": "Thought-Provoking", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y6", "construct": "Ease", "label": "0", "p1": 0.03309, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y6", "construct": "Critic", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y6", "construct": "Surprise", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y6", "construct": "Change", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y7", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y7", "construct": "Theme", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y7", "construct": "Thought-Provoking", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y7", "construct": "Ease", "label": "0", "p1": 0.20181, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y7", "construct": "Critic", "label": "1", "p1": 0.96267, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y7", "construct": "Surprise", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y7", "construct": "Change", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y8", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y8", "construct": "Theme", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y8", "construct": "Thought-Provoking", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y8", "construct": "Ease", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y8", "construct": "Critic", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y8", "construct": "Surprise", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y8", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y9", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y9", "construct": "Theme", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y9", "construct": "Thought-Provoking", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y9", "construct": "Ease", "label": "0", "p1": 0.06755, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y9", "construct": "Critic", "label": "1", "p1": 0.92414, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y9", "construct": "Surprise", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y9", "construct": "Change", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y10", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y10", "construct": "Theme", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y10", "construct": "Thought-Provoking", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y10", "construct": "Ease", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y10", "construct": "Critic", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y10", "construct": "Surprise", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y10", "construct": "Change", "label": "0", "p1": 0.00193, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y11", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y11", "construct": "Theme", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y11", "construct": "Thought-Provoking", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y11", "construct": "Ease", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y11", "construct": "Critic", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y11", "construct": "Surprise", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y11", "construct": "Change", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y12", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y12", "construct": "Theme", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y12", "construct": "Thought-Provoking", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y12", "construct": "Ease", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y12", "construct": "Critic", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y12", "construct": "Surprise", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y12", "construct": "Change", "label": "0", "p1": 0.0015, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y13", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y13", "construct": "Theme", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y13", "construct": "Thought-Provoking", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y13", "construct": "Ease", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y13", "construct": "Critic", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y13", "construct": "Surprise", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y13", "construct": "Change", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y14", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y14", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y14", "construct": "Thought-Provoking", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y14", "construct": "Ease", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y14", "construct": "Critic", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y14", "construct": "Surprise", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y14", "construct": "Change", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y15", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y15", "construct": "Theme", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y15", "construct": "Thought-Provoking", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y15", "construct": "Ease", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y15", "construct": "Critic", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y15", "construct": "Surprise", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y15", "construct": "Change", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y16", "construct": "Absence of Naive Realism", "label": "1", "p1": 0.65135, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y16", "construct": "Theme", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y16", "construct": "Thought-Provoking", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y16", "construct": "Ease", "label": "0", "p1": 0.01243, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y16", "construct": "Critic", "label": "1", "p1": 0.98757, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y16", "construct": "Surprise", "label": "0", "p1": 0.00971, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y16", "construct": "Change", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y17", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y17", "construct": "Theme", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y17", "construct": "Thought-Provoking", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y17", "construct": "Ease", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y17", "construct": "Critic", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y17", "construct": "Surprise", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y17", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y18", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y18", "construct": "Theme", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y18", "construct": "Thought-Provoking", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y18", "construct": "Ease", "label": "0", "p1": 0.02033, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y18", "construct": "Critic", "label": "1", "p1": 0.98594, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y18", "construct": "Surprise", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y18", "construct": "Change", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y19", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y19", "construct": "Theme", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y19", "construct": "Thought-Provoking", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y19", "construct": "Ease", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y19", "construct": "Critic", "label": "0", "p1": 0.00117, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y19", "construct": "Surprise", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y19", "construct": "Change", "label": "0", "p1": 0.0015, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y20", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y20", "construct": "Theme", "label": "1", "p1": 0.9149, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y20", "construct": "Thought-Provoking", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y20", "construct": "Ease", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y20", "construct": "Critic", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y20", "construct": "Surprise", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y20", "construct": "Change", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y21", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y21", "construct": "Theme", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y21", "construct": "Thought-Provoking", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y21", "construct": "Ease", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y21", "construct": "Critic", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y21", "construct": "Surprise", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y21", "construct": "Change", "label": "0", "p1": 0.0015, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y22", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y22", "construct": "Theme", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y22", "construct": "Thought-Provoking", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y22", "construct": "Ease", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y22", "construct": "Critic", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y22", "construct": "Surprise", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y22", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y23", "construct": "Absence of Naive Realism", "label": "1", "p1": 0.92414, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y23", "construct": "Theme", "label": "1", "p1": 0.97967, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y23", "construct": "Thought-Provoking", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y23", "construct": "Ease", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y23", "construct": "Critic", "label": "1", "p1": 0.98757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y23", "construct": "Surprise", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y23", "construct": "Change", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y24", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02033, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y24", "construct": "Theme", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y24", "construct": "Thought-Provoking", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y24", "construct": "Ease", "label": "0", "p1": 0.16452, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y24", "construct": "Critic", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y24", "construct": "Surprise", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y24", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y25", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y25", "construct": "Theme", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y25", "construct": "Thought-Provoking", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y25", "construct": "Ease", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y25", "construct": "Critic", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y25", "construct": "Surprise", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y25", "construct": "Change", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y26", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00591, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y26", "construct": "Theme", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y26", "construct": "Thought-Provoking", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y26", "construct": "Ease", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y26", "construct": "Critic", "label": "0", "p1": 0.00193, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y26", "construct": "Surprise", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y26", "construct": "Change", "label": "0", "p1": 0.0015, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y27", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y27", "construct": "Theme", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y27", "construct": "Thought-Provoking", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y27", "construct": "Ease", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y27", "construct": "Critic", "label": "1", "p1": 0.98901, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y27", "construct": "Surprise", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y27", "construct": "Change", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y28", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y28", "construct": "Theme", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y28", "construct": "Thought-Provoking", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y28", "construct": "Ease", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y28", "construct": "Critic", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y28", "construct": "Surprise", "label": "0", "p1": 0.00193, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y28", "construct": "Change", "label": "0", "p1": 0.0015, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y29", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y29", "construct": "Theme", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y29", "construct": "Thought-Provoking", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y29", "construct": "Ease", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y29", "construct": "Critic", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y29", "construct": "Surprise", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y29", "construct": "Change", "label": "0", "p1": 0.0015, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y30", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y30", "construct": "Theme", "label": "1", "p1": 0.9466, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y30", "construct": "Thought-Provoking", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y30", "construct": "Ease", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y30", "construct": "Critic", "label": "1", "p1": 0.9466, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y30", "construct": "Surprise", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y30", "construct": "Change", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y31", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y31", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y31", "construct": "Thought-Provoking", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y31", "construct": "Ease", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y31", "construct": "Critic", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y31", "construct": "Surprise", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y31", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y32", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y32", "construct": "Theme", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y32", "construct": "Thought-Provoking", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y32", "construct": "Ease", "label": "0", "p1": 0.0534, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y32", "construct": "Critic", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y32", "construct": "Surprise", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y32", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y33", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02596, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y33", "construct": "Theme", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y33", "construct": "Thought-Provoking", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y33", "construct": "Ease", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y33", "construct": "Critic", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y33", "construct": "Surprise", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y33", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y34", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y34", "construct": "Theme", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y34", "construct": "Thought-Provoking", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y34", "construct": "Ease", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y34", "construct": "Critic", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y34", "construct": "Surprise", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y34", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y35", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y35", "construct": "Theme", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y35", "construct": "Thought-Provoking", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y35", "construct": "Ease", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y35", "construct": "Critic", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y35", "construct": "Surprise", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y35", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y36", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y36", "construct": "Theme", "label": "1", "p1": 0.93245, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y36", "construct": "Thought-Provoking", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y36", "construct": "Ease", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y36", "construct": "Critic", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y36", "construct": "Surprise", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y36", "construct": "Change", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y37", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y37", "construct": "Theme", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y37", "construct": "Thought-Provoking", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y37", "construct": "Ease", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y37", "construct": "Critic", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y37", "construct": "Surprise", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y37", "construct": "Change", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y38", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02596, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y38", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y38", "construct": "Thought-Provoking", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y38", "construct": "Ease", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y38", "construct": "Critic", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y38", "construct": "Surprise", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y38", "construct": "Change", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y39", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y39", "construct": "Theme", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y39", "construct": "Thought-Provoking", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y39", "construct": "Ease", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y39", "construct": "Critic", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y39", "construct": "Surprise", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y39", "construct": "Change", "label": "0", "p1": 0.00117, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y40", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.0534, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y40", "construct": "Theme", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y40", "construct": "Thought-Provoking", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y40", "construct": "Ease", "label": "0", "p1": 0.16452, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y40", "construct": "Critic", "label": "1", "p1": 0.99142, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y40", "construct": "Surprise", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y40", "construct": "Change", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y41", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y41", "construct": "Theme", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y41", "construct": "Thought-Provoking", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y41", "construct": "Ease", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y41", "construct": "Critic", "label": "1", "p1": 0.92414, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y41", "construct": "Surprise", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y41", "construct": "Change", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y42", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y42", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y42", "construct": "Thought-Provoking", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y42", "construct": "Ease", "label": "0", "p1": 0.10669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y42", "construct": "Critic", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y42", "construct": "Surprise", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y42", "construct": "Change", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y43", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y43", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y43", "construct": "Thought-Provoking", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y43", "construct": "Ease", "label": "0", "p1": 0.10669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y43", "construct": "Critic", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y43", "construct": "Surprise", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y43", "construct": "Change", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y44", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y44", "construct": "Theme", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y44", "construct": "Thought-Provoking", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y44", "construct": "Ease", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y44", "construct": "Critic", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y44", "construct": "Surprise", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y44", "construct": "Change", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y45", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y45", "construct": "Theme", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y45", "construct": "Thought-Provoking", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y45", "construct": "Ease", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y45", "construct": "Critic", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y45", "construct": "Surprise", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y45", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y46", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y46", "construct": "Theme", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y46", "construct": "Thought-Provoking", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y46", "construct": "Ease", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y46", "construct": "Critic", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y46", "construct": "Surprise", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y46", "construct": "Change", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y47", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y47", "construct": "Theme", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y47", "construct": "Thought-Provoking", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y47", "construct": "Ease", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y47", "construct": "Critic", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y47", "construct": "Surprise", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y47", "construct": "Change", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y48", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y48", "construct": "Theme", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y48", "construct": "Thought-Provoking", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y48", "construct": "Ease", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y48", "construct": "Critic", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y48", "construct": "Surprise", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y48", "construct": "Change", "label": "0", "p1": 0.00133, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y49", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y49", "construct": "Theme", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y49", "construct": "Thought-Provoking", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y49", "construct": "Ease", "label": "0", "p1": 0.16452, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y49", "construct": "Critic", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y49", "construct": "Surprise", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y49", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y50", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y50", "construct": "Theme", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y50", "construct": "Thought-Provoking", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y50", "construct": "Ease", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y50", "construct": "Critic", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y50", "construct": "Surprise", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y50", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y51", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.0534, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y51", "construct": "Theme", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y51", "construct": "Thought-Provoking", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y51", "construct": "Ease", "label": "1", "p1": 0.79819, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y51", "construct": "Critic", "label": "1", "p1": 0.98201, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y51", "construct": "Surprise", "label": "1", "p1": 0.86704, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y51", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y52", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.13296, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y52", "construct": "Theme", "label": "1", "p1": 0.97967, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y52", "construct": "Thought-Provoking", "label": "1", "p1": 0.98201, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y52", "construct": "Ease", "label": "1", "p1": 0.92414, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y52", "construct": "Critic", "label": "1", "p1": 0.9149, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y52", "construct": "Surprise", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y52", "construct": "Change", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y53", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y53", "construct": "Theme", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y53", "construct": "Thought-Provoking", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y53", "construct": "Ease", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y53", "construct": "Critic", "label": "1", "p1": 0.98757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y53", "construct": "Surprise", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y53", "construct": "Change", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y54", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y54", "construct": "Theme", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y54", "construct": "Thought-Provoking", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y54", "construct": "Ease", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y54", "construct": "Critic", "label": "1", "p1": 0.98409, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y54", "construct": "Surprise", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y54", "construct": "Change", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y55", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y55", "construct": "Theme", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y55", "construct": "Thought-Provoking", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y55", "construct": "Ease", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y55", "construct": "Critic", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y55", "construct": "Surprise", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y55", "construct": "Change", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y56", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y56", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y56", "construct": "Thought-Provoking", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y56", "construct": "Ease", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y56", "construct": "Critic", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y56", "construct": "Surprise", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y56", "construct": "Change", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y57", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01591, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y57", "construct": "Theme", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y57", "construct": "Thought-Provoking", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y57", "construct": "Ease", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y57", "construct": "Critic", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y57", "construct": "Surprise", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y57", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y58", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y58", "construct": "Theme", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y58", "construct": "Thought-Provoking", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y58", "construct": "Ease", "label": "0", "p1": 0.0851, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y58", "construct": "Critic", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y58", "construct": "Surprise", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y58", "construct": "Change", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y59", "construct": "Absence of Naive Realism", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y59", "construct": "Theme", "label": "1", "p1": 0.9149, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y59", "construct": "Thought-Provoking", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y59", "construct": "Ease", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y59", "construct": "Critic", "label": "1", "p1": 0.98757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y59", "construct": "Surprise", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y59", "construct": "Change", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y60", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y60", "construct": "Theme", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y60", "construct": "Thought-Provoking", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y60", "construct": "Ease", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y60", "construct": "Critic", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y60", "construct": "Surprise", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y60", "construct": "Change", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y61", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y61", "construct": "Theme", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y61", "construct": "Thought-Provoking", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y61", "construct": "Ease", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y61", "construct": "Critic", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y61", "construct": "Surprise", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y61", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y62", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y62", "construct": "Theme", "label": "1", "p1": 0.97069, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y62", "construct": "Thought-Provoking", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y62", "construct": "Ease", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y62", "construct": "Critic", "label": "1", "p1": 0.97967, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y62", "construct": "Surprise", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y62", "construct": "Change", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y63", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y63", "construct": "Theme", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y63", "construct": "Thought-Provoking", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y63", "construct": "Ease", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y63", "construct": "Critic", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y63", "construct": "Surprise", "label": "0", "p1": 0.00193, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y63", "construct": "Change", "label": "0", "p1": 0.0015, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y64", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y64", "construct": "Theme", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y64", "construct": "Thought-Provoking", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y64", "construct": "Ease", "label": "0", "p1": 0.10669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y64", "construct": "Critic", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y64", "construct": "Surprise", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y64", "construct": "Change", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y65", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.16452, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y65", "construct": "Theme", "label": "1", "p1": 0.89331, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y65", "construct": "Thought-Provoking", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y65", "construct": "Ease", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y65", "construct": "Critic", "label": "1", "p1": 0.98901, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y65", "construct": "Surprise", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y65", "construct": "Change", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y66", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y66", "construct": "Theme", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y66", "construct": "Thought-Provoking", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y66", "construct": "Ease", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y66", "construct": "Critic", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y66", "construct": "Surprise", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y66", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y67", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y67", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y67", "construct": "Thought-Provoking", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y67", "construct": "Ease", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y67", "construct": "Critic", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y67", "construct": "Surprise", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y67", "construct": "Change", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y68", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y68", "construct": "Theme", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y68", "construct": "Thought-Provoking", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y68", "construct": "Ease", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y68", "construct": "Critic", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y68", "construct": "Surprise", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y68", "construct": "Change", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y69", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y69", "construct": "Theme", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y69", "construct": "Thought-Provoking", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y69", "construct": "Ease", "label": "0", "p1": 0.20181, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y69", "construct": "Critic", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y69", "construct": "Surprise", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y69", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y70", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y70", "construct": "Theme", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y70", "construct": "Thought-Provoking", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y70", "construct": "Ease", "label": "0", "p1": 0.02596, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y70", "construct": "Critic", "label": "1", "p1": 0.97967, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y70", "construct": "Surprise", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y70", "construct": "Change", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y71", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y71", "construct": "Theme", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y71", "construct": "Thought-Provoking", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y71", "construct": "Ease", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y71", "construct": "Critic", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y71", "construct": "Surprise", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y71", "construct": "Change", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y72", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y72", "construct": "Theme", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y72", "construct": "Thought-Provoking", "label": "1", "p1": 0.92414, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y72", "construct": "Ease", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y72", "construct": "Critic", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y72", "construct": "Surprise", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y72", "construct": "Change", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y73", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y73", "construct": "Theme", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y73", "construct": "Thought-Provoking", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y73", "construct": "Ease", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y73", "construct": "Critic", "label": "1", "p1": 0.93245, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y73", "construct": "Surprise", "label": "1", "p1": 0.92414, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y73", "construct": "Change", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y74", "construct": "Absence of Naive Realism", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y74", "construct": "Theme", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y74", "construct": "Thought-Provoking", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y74", "construct": "Ease", "label": "0", "p1": 0.06755, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y74", "construct": "Critic", "label": "1", "p1": 0.97967, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y74", "construct": "Surprise", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y74", "construct": "Change", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y75", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00591, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y75", "construct": "Theme", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y75", "construct": "Thought-Provoking", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y75", "construct": "Ease", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y75", "construct": "Critic", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y75", "construct": "Surprise", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y75", "construct": "Change", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y76", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y76", "construct": "Theme", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y76", "construct": "Thought-Provoking", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y76", "construct": "Ease", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y76", "construct": "Critic", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y76", "construct": "Surprise", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y76", "construct": "Change", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y77", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y77", "construct": "Theme", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y77", "construct": "Thought-Provoking", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y77", "construct": "Ease", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y77", "construct": "Critic", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y77", "construct": "Surprise", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y77", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y78", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y78", "construct": "Theme", "label": "1", "p1": 0.98201, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y78", "construct": "Thought-Provoking", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y78", "construct": "Ease", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y78", "construct": "Critic", "label": "1", "p1": 0.98594, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y78", "construct": "Surprise", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y78", "construct": "Change", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y79", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y79", "construct": "Theme", "label": "1", "p1": 0.96267, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y79", "construct": "Thought-Provoking", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y79", "construct": "Ease", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y79", "construct": "Critic", "label": "1", "p1": 0.98757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y79", "construct": "Surprise", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y79", "construct": "Change", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y80", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y80", "construct": "Theme", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y80", "construct": "Thought-Provoking", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y80", "construct": "Ease", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y80", "construct": "Critic", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y80", "construct": "Surprise", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y80", "construct": "Change", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y81", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06755, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y81", "construct": "Theme", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y81", "construct": "Thought-Provoking", "label": "1", "p1": 0.96267, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y81", "construct": "Ease", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y81", "construct": "Critic", "label": "1", "p1": 0.97702, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y81", "construct": "Surprise", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y81", "construct": "Change", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y82", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y82", "construct": "Theme", "label": "1", "p1": 0.95791, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y82", "construct": "Thought-Provoking", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y82", "construct": "Ease", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y82", "construct": "Critic", "label": "1", "p1": 0.97967, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y82", "construct": "Surprise", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y82", "construct": "Change", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y83", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00971, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y83", "construct": "Theme", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y83", "construct": "Thought-Provoking", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y83", "construct": "Ease", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y83", "construct": "Critic", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y83", "construct": "Surprise", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y83", "construct": "Change", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y84", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y84", "construct": "Theme", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y84", "construct": "Thought-Provoking", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y84", "construct": "Ease", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y84", "construct": "Critic", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y84", "construct": "Surprise", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y84", "construct": "Change", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y85", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y85", "construct": "Theme", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y85", "construct": "Thought-Provoking", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y85", "construct": "Ease", "label": "0", "p1": 0.03309, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y85", "construct": "Critic", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y85", "construct": "Surprise", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y85", "construct": "Change", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y86", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y86", "construct": "Theme", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y86", "construct": "Thought-Provoking", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y86", "construct": "Ease", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y86", "construct": "Critic", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y86", "construct": "Surprise", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y86", "construct": "Change", "label": "0", "p1": 0.0015, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y87", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y87", "construct": "Theme", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y87", "construct": "Thought-Provoking", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y87", "construct": "Ease", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y87", "construct": "Critic", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y87", "construct": "Surprise", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y87", "construct": "Change", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y88", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y88", "construct": "Theme", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y88", "construct": "Thought-Provoking", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y88", "construct": "Ease", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y88", "construct": "Critic", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y88", "construct": "Surprise", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y88", "construct": "Change", "label": "0", "p1": 0.0015, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y89", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y89", "construct": "Theme", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y89", "construct": "Thought-Provoking", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y89", "construct": "Ease", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y89", "construct": "Critic", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y89", "construct": "Surprise", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y89", "construct": "Change", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y90", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y90", "construct": "Theme", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y90", "construct": "Thought-Provoking", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y90", "construct": "Ease", "label": "0", "p1": 0.06755, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y90", "construct": "Critic", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y90", "construct": "Surprise", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y90", "construct": "Change", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y91", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y91", "construct": "Theme", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y91", "construct": "Thought-Provoking", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y91", "construct": "Ease", "label": "0", "p1": 0.04209, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y91", "construct": "Critic", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y91", "construct": "Surprise", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y91", "construct": "Change", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y92", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y92", "construct": "Theme", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y92", "construct": "Thought-Provoking", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y92", "construct": "Ease", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y92", "construct": "Critic", "label": "0", "p1": 0.00193, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y92", "construct": "Surprise", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y92", "construct": "Change", "label": "0", "p1": 0.00117, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y93", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y93", "construct": "Theme", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y93", "construct": "Thought-Provoking", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y93", "construct": "Ease", "label": "0", "p1": 0.03309, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y93", "construct": "Critic", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y93", "construct": "Surprise", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y93", "construct": "Change", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y94", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y94", "construct": "Theme", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y94", "construct": "Thought-Provoking", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y94", "construct": "Ease", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y94", "construct": "Critic", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y94", "construct": "Surprise", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y94", "construct": "Change", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y95", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y95", "construct": "Theme", "label": "1", "p1": 0.89331, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y95", "construct": "Thought-Provoking", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y95", "construct": "Ease", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y95", "construct": "Critic", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y95", "construct": "Surprise", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y95", "construct": "Change", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y96", "construct": "Absence of Naive Realism", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y96", "construct": "Theme", "label": "1", "p1": 0.97404, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y96", "construct": "Thought-Provoking", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y96", "construct": "Ease", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y96", "construct": "Critic", "label": "1", "p1": 0.99409, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y96", "construct": "Surprise", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y96", "construct": "Change", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "Y97", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y97", "construct": "Theme", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y97", "construct": "Thought-Provoking", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y97", "construct": "Ease", "label": "0", "p1": 0.01591, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y97", "construct": "Critic", "label": "0", "p1": 0.00193, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y97", "construct": "Surprise", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y97", "construct": "Change", "label": "0", "p1": 0.00193, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y98", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y98", "construct": "Theme", "label": "1", "p1": 0.92414, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y98", "construct": "Thought-Provoking", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y98", "construct": "Ease", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y98", "construct": "Critic", "label": "1", "p1": 0.99331, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y98", "construct": "Surprise", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y98", "construct": "Change", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y99", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y99", "construct": "Theme", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y99", "construct": "Thought-Provoking", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y99", "construct": "Ease", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y99", "construct": "Critic", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y99", "construct": "Surprise", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y99", "construct": "Change", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y100", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y100", "construct": "Theme", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y100", "construct": "Thought-Provoking", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y100", "construct": "Ease", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y100", "construct": "Critic", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y100", "construct": "Surprise", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "Y100", "construct": "Change", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K1", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K1", "construct": "Theme", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K1", "construct": "Thought-Provoking", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K1", "construct": "Ease", "label": "0", "p1": 0.03309, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K1", "construct": "Critic", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K1", "construct": "Surprise", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K1", "construct": "Change", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K2", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06755, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K2", "construct": "Theme", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K2", "construct": "Thought-Provoking", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K2", "construct": "Ease", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K2", "construct": "Critic", "label": "1", "p1": 0.96691, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K2", "construct": "Surprise", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K2", "construct": "Change", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K3", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K3", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K3", "construct": "Thought-Provoking", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K3", "construct": "Ease", "label": "0", "p1": 0.0851, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K3", "construct": "Critic", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K3", "construct": "Surprise", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K3", "construct": "Change", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K4", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K4", "construct": "Theme", "label": "1", "p1": 0.97404, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K4", "construct": "Thought-Provoking", "label": "1", "p1": 0.93245, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K4", "construct": "Ease", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K4", "construct": "Critic", "label": "1", "p1": 0.98594, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K4", "construct": "Surprise", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K4", "construct": "Change", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K5", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K5", "construct": "Theme", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K5", "construct": "Thought-Provoking", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K5", "construct": "Ease", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K5", "construct": "Critic", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K5", "construct": "Surprise", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K5", "construct": "Change", "label": "0", "p1": 0.00193, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K6", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K6", "construct": "Theme", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K6", "construct": "Thought-Provoking", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K6", "construct": "Ease", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K6", "construct": "Critic", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K6", "construct": "Surprise", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K6", "construct": "Change", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K7", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K7", "construct": "Theme", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K7", "construct": "Thought-Provoking", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K7", "construct": "Ease", "label": "0", "p1": 0.16452, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K7", "construct": "Critic", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K7", "construct": "Surprise", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K7", "construct": "Change", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K8", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K8", "construct": "Theme", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K8", "construct": "Thought-Provoking", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K8", "construct": "Ease", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K8", "construct": "Critic", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K8", "construct": "Surprise", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K8", "construct": "Change", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K9", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K9", "construct": "Theme", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K9", "construct": "Thought-Provoking", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K9", "construct": "Ease", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K9", "construct": "Critic", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K9", "construct": "Surprise", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K9", "construct": "Change", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K10", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K10", "construct": "Theme", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K10", "construct": "Thought-Provoking", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K10", "construct": "Ease", "label": "0", "p1": 0.02596, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K10", "construct": "Critic", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K10", "construct": "Surprise", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K10", "construct": "Change", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K11", "construct": "Absence of Naive Realism", "label": "1", "p1": 0.83548, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K11", "construct": "Theme", "label": "1", "p1": 0.98594, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K11", "construct": "Thought-Provoking", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K11", "construct": "Ease", "label": "0", "p1": 0.04209, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K11", "construct": "Critic", "label": "1", "p1": 0.99242, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K11", "construct": "Surprise", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K11", "construct": "Change", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K12", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K12", "construct": "Theme", "label": "1", "p1": 0.89331, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K12", "construct": "Thought-Provoking", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K12", "construct": "Ease", "label": "0", "p1": 0.0851, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K12", "construct": "Critic", "label": "1", "p1": 0.97404, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K12", "construct": "Surprise", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K12", "construct": "Change", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K13", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K13", "construct": "Theme", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K13", "construct": "Thought-Provoking", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K13", "construct": "Ease", "label": "0", "p1": 0.04209, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K13", "construct": "Critic", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K13", "construct": "Surprise", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K13", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K14", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K14", "construct": "Theme", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K14", "construct": "Thought-Provoking", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K14", "construct": "Ease", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K14", "construct": "Critic", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K14", "construct": "Surprise", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K14", "construct": "Change", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K15", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K15", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K15", "construct": "Thought-Provoking", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K15", "construct": "Ease", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K15", "construct": "Critic", "label": "1", "p1": 0.96691, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K15", "construct": "Surprise", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K15", "construct": "Change", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K16", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K16", "construct": "Theme", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K16", "construct": "Thought-Provoking", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K16", "construct": "Ease", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K16", "construct": "Critic", "label": "1", "p1": 0.96691, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K16", "construct": "Surprise", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K16", "construct": "Change", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K17", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04209, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K17", "construct": "Theme", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K17", "construct": "Thought-Provoking", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K17", "construct": "Ease", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K17", "construct": "Critic", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K17", "construct": "Surprise", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K17", "construct": "Change", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K18", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K18", "construct": "Theme", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K18", "construct": "Thought-Provoking", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K18", "construct": "Ease", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K18", "construct": "Critic", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K18", "construct": "Surprise", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K18", "construct": "Change", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K19", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00758, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K19", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K19", "construct": "Thought-Provoking", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K19", "construct": "Ease", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K19", "construct": "Critic", "label": "0", "p1": 0.00971, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K19", "construct": "Surprise", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K19", "construct": "Change", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K20", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04209, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K20", "construct": "Theme", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K20", "construct": "Thought-Provoking", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K20", "construct": "Ease", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K20", "construct": "Critic", "label": "1", "p1": 0.98901, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K20", "construct": "Surprise", "label": "1", "p1": 0.92414, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K20", "construct": "Change", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K21", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K21", "construct": "Theme", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K21", "construct": "Thought-Provoking", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K21", "construct": "Ease", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K21", "construct": "Critic", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K21", "construct": "Surprise", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K21", "construct": "Change", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K22", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K22", "construct": "Theme", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K22", "construct": "Thought-Provoking", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K22", "construct": "Ease", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K22", "construct": "Critic", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K22", "construct": "Surprise", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K22", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K23", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02033, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K23", "construct": "Theme", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K23", "construct": "Thought-Provoking", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K23", "construct": "Ease", "label": "0", "p1": 0.0851, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K23", "construct": "Critic", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K23", "construct": "Surprise", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K23", "construct": "Change", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K24", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K24", "construct": "Theme", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K24", "construct": "Thought-Provoking", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K24", "construct": "Ease", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K24", "construct": "Critic", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K24", "construct": "Surprise", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K24", "construct": "Change", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K25", "construct": "Absence of Naive Realism", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K25", "construct": "Theme", "label": "1", "p1": 0.96267, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K25", "construct": "Thought-Provoking", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K25", "construct": "Ease", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K25", "construct": "Critic", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K25", "construct": "Surprise", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K25", "construct": "Change", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K26", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K26", "construct": "Theme", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K26", "construct": "Thought-Provoking", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K26", "construct": "Ease", "label": "0", "p1": 0.02033, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K26", "construct": "Critic", "label": "1", "p1": 0.97702, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K26", "construct": "Surprise", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K26", "construct": "Change", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K27", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K27", "construct": "Theme", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K27", "construct": "Thought-Provoking", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K27", "construct": "Ease", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K27", "construct": "Critic", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K27", "construct": "Surprise", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K27", "construct": "Change", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K28", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K28", "construct": "Theme", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K28", "construct": "Thought-Provoking", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K28", "construct": "Ease", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K28", "construct": "Critic", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K28", "construct": "Surprise", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K28", "construct": "Change", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K29", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01591, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K29", "construct": "Theme", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K29", "construct": "Thought-Provoking", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K29", "construct": "Ease", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K29", "construct": "Critic", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K29", "construct": "Surprise", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K29", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K30", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K30", "construct": "Theme", "label": "1", "p1": 0.9466, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K30", "construct": "Thought-Provoking", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K30", "construct": "Ease", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K30", "construct": "Critic", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K30", "construct": "Surprise", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K30", "construct": "Change", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K31", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K31", "construct": "Theme", "label": "1", "p1": 0.9466, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K31", "construct": "Thought-Provoking", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K31", "construct": "Ease", "label": "1", "p1": 0.92414, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K31", "construct": "Critic", "label": "1", "p1": 0.95791, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K31", "construct": "Surprise", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K31", "construct": "Change", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K32", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.10669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K32", "construct": "Theme", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K32", "construct": "Thought-Provoking", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K32", "construct": "Ease", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K32", "construct": "Critic", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K32", "construct": "Surprise", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K32", "construct": "Change", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K33", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K33", "construct": "Theme", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K33", "construct": "Thought-Provoking", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K33", "construct": "Ease", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K33", "construct": "Critic", "label": "1", "p1": 0.95791, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K33", "construct": "Surprise", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K33", "construct": "Change", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K34", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.32082, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K34", "construct": "Theme", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K34", "construct": "Thought-Provoking", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K34", "construct": "Ease", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K34", "construct": "Critic", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K34", "construct": "Surprise", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K34", "construct": "Change", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K35", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K35", "construct": "Theme", "label": "1", "p1": 0.96267, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K35", "construct": "Thought-Provoking", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K35", "construct": "Ease", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K35", "construct": "Critic", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K35", "construct": "Surprise", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K35", "construct": "Change", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K36", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K36", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K36", "construct": "Thought-Provoking", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K36", "construct": "Ease", "label": "1", "p1": 0.83548, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K36", "construct": "Critic", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K36", "construct": "Surprise", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K36", "construct": "Change", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K37", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K37", "construct": "Theme", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K37", "construct": "Thought-Provoking", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K37", "construct": "Ease", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K37", "construct": "Critic", "label": "1", "p1": 0.98409, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K37", "construct": "Surprise", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K37", "construct": "Change", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K38", "construct": "Absence of Naive Realism", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K38", "construct": "Theme", "label": "1", "p1": 0.93245, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K38", "construct": "Thought-Provoking", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K38", "construct": "Ease", "label": "0", "p1": 0.0534, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K38", "construct": "Critic", "label": "1", "p1": 0.9466, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K38", "construct": "Surprise", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K38", "construct": "Change", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K39", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K39", "construct": "Theme", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K39", "construct": "Thought-Provoking", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K39", "construct": "Ease", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K39", "construct": "Critic", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K39", "construct": "Surprise", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K39", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K40", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K40", "construct": "Theme", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K40", "construct": "Thought-Provoking", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K40", "construct": "Ease", "label": "0", "p1": 0.16452, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K40", "construct": "Critic", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K40", "construct": "Surprise", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K40", "construct": "Change", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K41", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K41", "construct": "Theme", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K41", "construct": "Thought-Provoking", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K41", "construct": "Ease", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K41", "construct": "Critic", "label": "0", "p1": 0.00193, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K41", "construct": "Surprise", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K41", "construct": "Change", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K42", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K42", "construct": "Theme", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K42", "construct": "Thought-Provoking", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K42", "construct": "Ease", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K42", "construct": "Critic", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K42", "construct": "Surprise", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K42", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K43", "construct": "Absence of Naive Realism", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K43", "construct": "Theme", "label": "1", "p1": 0.92414, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K43", "construct": "Thought-Provoking", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K43", "construct": "Ease", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K43", "construct": "Critic", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K43", "construct": "Surprise", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K43", "construct": "Change", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K44", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K44", "construct": "Theme", "label": "1", "p1": 0.86704, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K44", "construct": "Thought-Provoking", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K44", "construct": "Ease", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K44", "construct": "Critic", "label": "1", "p1": 0.96691, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K44", "construct": "Surprise", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K44", "construct": "Change", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": true, "source": "final adapter"}
+{"unit_id": "K45", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K45", "construct": "Theme", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K45", "construct": "Thought-Provoking", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K45", "construct": "Ease", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K45", "construct": "Critic", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K45", "construct": "Surprise", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K45", "construct": "Change", "label": "0", "p1": 0.00117, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K46", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K46", "construct": "Theme", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K46", "construct": "Thought-Provoking", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K46", "construct": "Ease", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K46", "construct": "Critic", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K46", "construct": "Surprise", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K46", "construct": "Change", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K47", "construct": "Absence of Naive Realism", "label": "1", "p1": 0.92414, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K47", "construct": "Theme", "label": "1", "p1": 0.97702, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K47", "construct": "Thought-Provoking", "label": "1", "p1": 0.93991, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K47", "construct": "Ease", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K47", "construct": "Critic", "label": "1", "p1": 0.9466, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K47", "construct": "Surprise", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K47", "construct": "Change", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K48", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K48", "construct": "Theme", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K48", "construct": "Thought-Provoking", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K48", "construct": "Ease", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K48", "construct": "Critic", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K48", "construct": "Surprise", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K48", "construct": "Change", "label": "0", "p1": 0.00193, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K49", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K49", "construct": "Theme", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K49", "construct": "Thought-Provoking", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K49", "construct": "Ease", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K49", "construct": "Critic", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K49", "construct": "Surprise", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K49", "construct": "Change", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K50", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K50", "construct": "Theme", "label": "1", "p1": 0.97702, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K50", "construct": "Thought-Provoking", "label": "1", "p1": 0.95791, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K50", "construct": "Ease", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K50", "construct": "Critic", "label": "1", "p1": 0.98409, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K50", "construct": "Surprise", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K50", "construct": "Change", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K51", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01591, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K51", "construct": "Theme", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K51", "construct": "Thought-Provoking", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K51", "construct": "Ease", "label": "0", "p1": 0.00758, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K51", "construct": "Critic", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K51", "construct": "Surprise", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K51", "construct": "Change", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K52", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K52", "construct": "Theme", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K52", "construct": "Thought-Provoking", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K52", "construct": "Ease", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K52", "construct": "Critic", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K52", "construct": "Surprise", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K52", "construct": "Change", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K53", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K53", "construct": "Theme", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K53", "construct": "Thought-Provoking", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K53", "construct": "Ease", "label": "0", "p1": 0.01591, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K53", "construct": "Critic", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K53", "construct": "Surprise", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K53", "construct": "Change", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K54", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K54", "construct": "Theme", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K54", "construct": "Thought-Provoking", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K54", "construct": "Ease", "label": "0", "p1": 0.02596, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K54", "construct": "Critic", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K54", "construct": "Surprise", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K54", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K55", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.0851, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K55", "construct": "Theme", "label": "1", "p1": 0.97702, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K55", "construct": "Thought-Provoking", "label": "1", "p1": 0.97702, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K55", "construct": "Ease", "label": "0", "p1": 0.20181, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K55", "construct": "Critic", "label": "1", "p1": 0.98594, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K55", "construct": "Surprise", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K55", "construct": "Change", "label": "1", "p1": 0.92414, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K56", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K56", "construct": "Theme", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K56", "construct": "Thought-Provoking", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K56", "construct": "Ease", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K56", "construct": "Critic", "label": "0", "p1": 0.00193, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K56", "construct": "Surprise", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K56", "construct": "Change", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K57", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K57", "construct": "Theme", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K57", "construct": "Thought-Provoking", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K57", "construct": "Ease", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K57", "construct": "Critic", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K57", "construct": "Surprise", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K57", "construct": "Change", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K58", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K58", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K58", "construct": "Thought-Provoking", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K58", "construct": "Ease", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K58", "construct": "Critic", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K58", "construct": "Surprise", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K58", "construct": "Change", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K59", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K59", "construct": "Theme", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K59", "construct": "Thought-Provoking", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K59", "construct": "Ease", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K59", "construct": "Critic", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K59", "construct": "Surprise", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K59", "construct": "Change", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K60", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K60", "construct": "Theme", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K60", "construct": "Thought-Provoking", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K60", "construct": "Ease", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K60", "construct": "Critic", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K60", "construct": "Surprise", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K60", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K61", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K61", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K61", "construct": "Thought-Provoking", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K61", "construct": "Ease", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K61", "construct": "Critic", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K61", "construct": "Surprise", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K61", "construct": "Change", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K62", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K62", "construct": "Theme", "label": "1", "p1": 0.95791, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K62", "construct": "Thought-Provoking", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K62", "construct": "Ease", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K62", "construct": "Critic", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K62", "construct": "Surprise", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K62", "construct": "Change", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K63", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K63", "construct": "Theme", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K63", "construct": "Thought-Provoking", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K63", "construct": "Ease", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K63", "construct": "Critic", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K63", "construct": "Surprise", "label": "0", "p1": 0.00247, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K63", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K64", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K64", "construct": "Theme", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K64", "construct": "Thought-Provoking", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K64", "construct": "Ease", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K64", "construct": "Critic", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K64", "construct": "Surprise", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K64", "construct": "Change", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K65", "construct": "Absence of Naive Realism", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K65", "construct": "Theme", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K65", "construct": "Thought-Provoking", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K65", "construct": "Ease", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K65", "construct": "Critic", "label": "1", "p1": 0.98201, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K65", "construct": "Surprise", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K65", "construct": "Change", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K66", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02596, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K66", "construct": "Theme", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K66", "construct": "Thought-Provoking", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K66", "construct": "Ease", "label": "0", "p1": 0.0534, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K66", "construct": "Critic", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K66", "construct": "Surprise", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K66", "construct": "Change", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K67", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K67", "construct": "Theme", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K67", "construct": "Thought-Provoking", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K67", "construct": "Ease", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K67", "construct": "Critic", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K67", "construct": "Surprise", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K67", "construct": "Change", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K68", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K68", "construct": "Theme", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K68", "construct": "Thought-Provoking", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K68", "construct": "Ease", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K68", "construct": "Critic", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K68", "construct": "Surprise", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K68", "construct": "Change", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K69", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K69", "construct": "Theme", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K69", "construct": "Thought-Provoking", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K69", "construct": "Ease", "label": "0", "p1": 0.02596, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K69", "construct": "Critic", "label": "1", "p1": 0.96691, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K69", "construct": "Surprise", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K69", "construct": "Change", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K70", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K70", "construct": "Theme", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K70", "construct": "Thought-Provoking", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K70", "construct": "Ease", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K70", "construct": "Critic", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K70", "construct": "Surprise", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K70", "construct": "Change", "label": "0", "p1": 0.00193, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K71", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K71", "construct": "Theme", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K71", "construct": "Thought-Provoking", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K71", "construct": "Ease", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K71", "construct": "Critic", "label": "1", "p1": 0.9149, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K71", "construct": "Surprise", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K71", "construct": "Change", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K72", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K72", "construct": "Theme", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K72", "construct": "Thought-Provoking", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K72", "construct": "Ease", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K72", "construct": "Critic", "label": "1", "p1": 0.62246, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K72", "construct": "Surprise", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K72", "construct": "Change", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K73", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K73", "construct": "Theme", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K73", "construct": "Thought-Provoking", "label": "0", "p1": 0.01799, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K73", "construct": "Ease", "label": "0", "p1": 0.03733, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K73", "construct": "Critic", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K73", "construct": "Surprise", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K73", "construct": "Change", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K74", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K74", "construct": "Theme", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K74", "construct": "Thought-Provoking", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K74", "construct": "Ease", "label": "0", "p1": 0.03309, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K74", "construct": "Critic", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K74", "construct": "Surprise", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K74", "construct": "Change", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K75", "construct": "Absence of Naive Realism", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K75", "construct": "Theme", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K75", "construct": "Thought-Provoking", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K75", "construct": "Ease", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K75", "construct": "Critic", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K75", "construct": "Surprise", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K75", "construct": "Change", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K76", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K76", "construct": "Theme", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K76", "construct": "Thought-Provoking", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K76", "construct": "Ease", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K76", "construct": "Critic", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K76", "construct": "Surprise", "label": "0", "p1": 0.00407, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K76", "construct": "Change", "label": "0", "p1": 0.0015, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K77", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K77", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K77", "construct": "Thought-Provoking", "label": "1", "p1": 0.5, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K77", "construct": "Ease", "label": "0", "p1": 0.04743, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K77", "construct": "Critic", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K77", "construct": "Surprise", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K77", "construct": "Change", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K78", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.0851, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K78", "construct": "Theme", "label": "1", "p1": 0.92414, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K78", "construct": "Thought-Provoking", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K78", "construct": "Ease", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K78", "construct": "Critic", "label": "1", "p1": 0.95257, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K78", "construct": "Surprise", "label": "0", "p1": 0.2227, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K78", "construct": "Change", "label": "0", "p1": 0.00858, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K79", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K79", "construct": "Theme", "label": "1", "p1": 0.90465, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K79", "construct": "Thought-Provoking", "label": "0", "p1": 0.43782, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K79", "construct": "Ease", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K79", "construct": "Critic", "label": "1", "p1": 0.9466, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K79", "construct": "Surprise", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K79", "construct": "Change", "label": "0", "p1": 0.01099, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K80", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.14805, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K80", "construct": "Theme", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K80", "construct": "Thought-Provoking", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K80", "construct": "Ease", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K80", "construct": "Critic", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K80", "construct": "Surprise", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K80", "construct": "Change", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K81", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.01406, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K81", "construct": "Theme", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K81", "construct": "Thought-Provoking", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K81", "construct": "Ease", "label": "1", "p1": 0.81757, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K81", "construct": "Critic", "label": "1", "p1": 0.67918, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K81", "construct": "Surprise", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K81", "construct": "Change", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K82", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K82", "construct": "Theme", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K82", "construct": "Thought-Provoking", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K82", "construct": "Ease", "label": "0", "p1": 0.37754, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K82", "construct": "Critic", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K82", "construct": "Surprise", "label": "0", "p1": 0.00317, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K82", "construct": "Change", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K83", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.0851, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K83", "construct": "Theme", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K83", "construct": "Thought-Provoking", "label": "0", "p1": 0.1192, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K83", "construct": "Ease", "label": "0", "p1": 0.02931, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K83", "construct": "Critic", "label": "0", "p1": 0.07586, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K83", "construct": "Surprise", "label": "0", "p1": 0.00522, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K83", "construct": "Change", "label": "0", "p1": 0.00669, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K84", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K84", "construct": "Theme", "label": "1", "p1": 0.7773, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K84", "construct": "Thought-Provoking", "label": "1", "p1": 0.73106, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K84", "construct": "Ease", "label": "0", "p1": 0.06755, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K84", "construct": "Critic", "label": "1", "p1": 0.97702, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K84", "construct": "Surprise", "label": "0", "p1": 0.09535, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K84", "construct": "Change", "label": "0", "p1": 0.02298, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K85", "construct": "Absence of Naive Realism", "label": "0", "p1": 0.06009, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K85", "construct": "Theme", "label": "1", "p1": 0.95791, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K85", "construct": "Thought-Provoking", "label": "1", "p1": 0.8808, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K85", "construct": "Ease", "label": "0", "p1": 0.26894, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K85", "construct": "Critic", "label": "1", "p1": 0.85195, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K85", "construct": "Surprise", "label": "1", "p1": 0.56218, "prompt": "v1", "truncated": false, "source": "final adapter"}
+{"unit_id": "K85", "construct": "Change", "label": "0", "p1": 0.18243, "prompt": "v1", "truncated": false, "source": "final adapter"}

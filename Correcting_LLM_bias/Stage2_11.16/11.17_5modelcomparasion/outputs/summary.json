@@ -1,0 +1,64 @@
+{
+ "cost": [
+  {
+   "model": "Sonnet 5.5",
+   "calls": 1050,
+   "cost_usd": 9.745,
+   "note": "API-equivalent (Claude Code CLI total_cost_usd); plus $2.70 for 48 discarded calls with the default CLI setup"
+  },
+  {
+   "model": "Gemma 3 12B",
+   "calls": 1050,
+   "cost_usd": 0.0,
+   "note": "local GPU (Ollama)"
+  },
+  {
+   "model": "Qwen3-14B fine-tuned",
+   "calls": 1050,
+   "cost_usd": 0.0,
+   "note": "local GPU"
+  },
+  {
+   "model": "GPT-6 Luna",
+   "calls": 1050,
+   "input_tokens": 1146977,
+   "cached_tokens": 0,
+   "output_tokens": 56934,
+   "reasoning_tokens": 46452,
+   "cost_usd": 0.1432,
+   "note": "$0.1/$0.01/$0.5 per 1M in/cached/out"
+  },
+  {
+   "model": "GPT-5.4 mini",
+   "calls": 1050,
+   "input_tokens": 1146977,
+   "cached_tokens": 0,
+   "output_tokens": 4482,
+   "reasoning_tokens": 0,
+   "cost_usd": 0.8804,
+   "note": "$0.75/$0.075/$4.5 per 1M in/cached/out"
+  }
+ ],
+ "fleiss": {
+  "Absence of Naive Realism": 0.42438133958389473,
+  "Theme": 0.6009049773755658,
+  "Thought-Provoking": 0.46398061396553825,
+  "Ease": 0.5558385458599119,
+  "Critic": 0.6479098649254208,
+  "Surprise": 0.6305054685190659,
+  "Change": 0.5695592286501386,
+  "Macro (6, excl. Change)": 0.5539201350382329
+ },
+ "pairwise_macro": {
+  "Sonnet 5.5 \u2013 Gemma 3 12B": 0.5603905662484481,
+  "Sonnet 5.5 \u2013 Qwen3-14B fine-tuned": 0.5229462374633607,
+  "Sonnet 5.5 \u2013 GPT-6 Luna": 0.6888680944620292,
+  "Sonnet 5.5 \u2013 GPT-5.4 mini": 0.558863244355821,
+  "Gemma 3 12B \u2013 Qwen3-14B fine-tuned": 0.5382291329960142,
+  "Gemma 3 12B \u2013 GPT-6 Luna": 0.5175011676817491,
+  "Gemma 3 12B \u2013 GPT-5.4 mini": 0.591335338306667,
+  "Qwen3-14B fine-tuned \u2013 GPT-6 Luna": 0.4834331397668606,
+  "Qwen3-14B fine-tuned \u2013 GPT-5.4 mini": 0.5223119290541154,
+  "GPT-6 Luna \u2013 GPT-5.4 mini": 0.5766196867533323
+ }
+}

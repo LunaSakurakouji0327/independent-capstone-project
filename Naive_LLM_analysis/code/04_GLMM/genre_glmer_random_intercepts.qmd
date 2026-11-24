@@ -1,0 +1,678 @@
+---
+title: "Genre Combinations and AI-Coded Review Dimensions: Random-Intercept Logistic Models"
+format:
+  html:
+    toc: true
+    embed-resources: true
+execute:
+  warning: false
+  message: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## 1. Load data and align reviewer_id / book_id
+
+`book_id_mapping.csv` was produced by `match_book_ids.py`, which matched
+every one of the 50,000 annotated reviews to
+`goodreads_reviews_dedup.json` on **user_id = Reviewer ID** and
+**identical (whitespace-normalised) review text**.
+
+```{r}
+ROOT <- "C:/Users/gujia/Downloads/independent-capstone-project/Naive_LLM_analysis"   # project root; every path below is relative to it
+setwd(ROOT)
+if (isTRUE(getOption("knitr.in.progress"))) knitr::opts_knit$set(root.dir = ROOT)  # keep ROOT for later chunks
+
+library(lme4)
+library(ggplot2)
+library(dplyr)
+
+df  <- read.csv("data/annotated/annotated_50000sample.csv", check.names = FALSE,
+                stringsAsFactors = FALSE, encoding = "UTF-8")
+map <- read.csv("data/book_id_mapping/book_id_mapping.csv", stringsAsFactors = FALSE,
+                colClasses = c(book_id = "character", review_id = "character"))
+
+df$row         <- seq_len(nrow(df)) - 1      # 0-based row index used by the Python script
+df             <- merge(df, map, by = "row", all.x = TRUE, sort = TRUE)
+df$reviewer_id <- df[["Reviewer ID"]]
+
+table(df$match_type, useNA = "ifany")
+```
+
+```{r}
+# keep reviews that were aligned to a book_id
+df <- df[!is.na(df$book_id) & df$book_id != "", ]
+
+c(reviews   = nrow(df),
+  reviewers = length(unique(df$reviewer_id)),
+  books     = length(unique(df$book_id)))
+
+# how clustered is the data?
+summary(as.vector(table(df$reviewer_id)))   # reviews per reviewer
+summary(as.vector(table(df$book_id)))       # reviews per book
+```
+
+## 2. Split Genre into combinations
+
+Each `;`-separated piece of the Genre cell is one combination, e.g.
+`"fantasy, paranormal; fiction"` → `"fantasy, paranormal"` and
+`"fiction"`.
+
+```{r}
+genre_list <- lapply(strsplit(df$Genre, ";"), trimws)
+genre_list <- lapply(genre_list, function(x) x[x != ""])
+combos <- sort(unique(unlist(genre_list)))
+
+# syntactic variable names: "fantasy, paranormal" -> "fantasy_paranormal"
+clean_name <- function(x) gsub("_+", "_", gsub("[^A-Za-z0-9]+", "_", x))
+data.frame(combination = combos, variable = clean_name(combos))
+```
+
+## 3. One-hot encoding
+
+1 = the book has this combination, 0 = it does not.
+
+```{r}
+for (cmb in combos) {
+  df[[clean_name(cmb)]] <- as.integer(vapply(genre_list, function(g) cmb %in% g, logical(1)))
+}
+
+# rename outcome columns: "Absence of Naive Realism_AI" -> "Absence_of_Naive_Realism_AI"
+ai_cols <- grep("_AI$", names(df), value = TRUE)
+names(df)[match(ai_cols, names(df))] <- clean_name(ai_cols)
+
+df$reviewer_id <- factor(df$reviewer_id)
+df$book_id     <- factor(df$book_id)
+
+# number of reviews per combination
+colSums(df[clean_name(combos)])
+
+write.csv(df, "data/analysis_ready/annotated_50000sample_onehot_ids.csv", row.names = FALSE, fileEncoding = "UTF-8")
+```
+
+## 4. Random-intercept logistic models
+
+$$
+\operatorname{logit} P(Y_{ijk}=1) = \beta_0 + \sum_{g}\beta_g\,\text{Genre}_{g,k} + u_{j} + v_{k},
+\qquad u_j \sim N(0,\sigma^2_{\text{reviewer}}),\; v_k \sim N(0,\sigma^2_{\text{book}})
+$$
+
+for review *i* written by reviewer *j* about book *k*. The two random
+intercepts absorb the non-independence of reviews written by the same
+reviewer and reviews of the same book.
+
+```{r}
+ctrl <- glmerControl(optimizer = "bobyqa", optCtrl = list(maxfun = 2e5))
+
+# nAGQ = 0: fast approximation used for the main results (nAGQ = 1 = Laplace, compared in Section 8)
+NAGQ <- 0
+dir.create("cache/models_nagq0", showWarnings = FALSE)
+
+# Fit a model, or load it if it was already fitted (fit_glmm_parallel.R fits all 7 in parallel).
+# For nAGQ = 1 the nAGQ = 0 estimates are used as starting values.
+fit_glmm <- function(name, formula, nAGQ = NAGQ) {
+  path <- if (nAGQ == 0) sprintf("cache/models_nagq0/%s_nagq0.rds", name) else
+    sprintf("cache/models_nagq1/%s_nagq%d.rds", name, nAGQ)
+  if (file.exists(path)) return(readRDS(path))
+  start <- NULL
+  path0 <- sprintf("cache/models_nagq0/%s_nagq0.rds", name)
+  if (nAGQ > 0 && file.exists(path0)) {
+    m0 <- readRDS(path0)
+    start <- list(theta = getME(m0, "theta"), fixef = fixef(m0))
+  }
+  m <- glmer(formula, data = df, family = binomial, control = ctrl, nAGQ = nAGQ, start = start)
+  saveRDS(m, path)
+  m
+}
+```
+
+### 4.1 Absence of Naive Realism
+
+```{r}
+g1 <- fit_glmm("g1",
+               Absence_of_Naive_Realism_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+                 fiction + history_historical_fiction_biography + mystery_thriller_crime +
+                 non_fiction + poetry + romance + young_adult +
+                 (1 | reviewer_id) + (1 | book_id))
+summary(g1)
+```
+
+### 4.2 Theme
+
+```{r}
+g2 <- fit_glmm("g2",
+               Theme_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+                 fiction + history_historical_fiction_biography + mystery_thriller_crime +
+                 non_fiction + poetry + romance + young_adult +
+                 (1 | reviewer_id) + (1 | book_id))
+summary(g2)
+```
+
+### 4.3 Thought-Provoking
+
+```{r}
+g3 <- fit_glmm("g3",
+               Thought_Provoking_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+                 fiction + history_historical_fiction_biography + mystery_thriller_crime +
+                 non_fiction + poetry + romance + young_adult +
+                 (1 | reviewer_id) + (1 | book_id))
+summary(g3)
+```
+
+### 4.4 Ease
+
+```{r}
+g4 <- fit_glmm("g4",
+               Ease_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+                 fiction + history_historical_fiction_biography + mystery_thriller_crime +
+                 non_fiction + poetry + romance + young_adult +
+                 (1 | reviewer_id) + (1 | book_id))
+summary(g4)
+```
+
+### 4.5 Critic
+
+```{r}
+g5 <- fit_glmm("g5",
+               Critic_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+                 fiction + history_historical_fiction_biography + mystery_thriller_crime +
+                 non_fiction + poetry + romance + young_adult +
+                 (1 | reviewer_id) + (1 | book_id))
+summary(g5)
+```
+
+### 4.6 Surprise
+
+```{r}
+g6 <- fit_glmm("g6",
+               Surprise_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+                 fiction + history_historical_fiction_biography + mystery_thriller_crime +
+                 non_fiction + poetry + romance + young_adult +
+                 (1 | reviewer_id) + (1 | book_id))
+summary(g6)
+```
+
+### 4.7 Change
+
+```{r}
+g7 <- fit_glmm("g7",
+               Change_AI ~ 1 + children + comics_graphic + fantasy_paranormal +
+                 fiction + history_historical_fiction_biography + mystery_thriller_crime +
+                 non_fiction + poetry + romance + young_adult +
+                 (1 | reviewer_id) + (1 | book_id))
+summary(g7)
+```
+
+## 5. Tables
+
+Fixed effects are reported on the log-odds scale and as odds ratios (OR)
+with Wald 95% CIs. OR \> 1: reviews of books with this genre combination
+are more likely to be coded 1.
+
+```{r}
+make_table <- function(model, outcome) {
+  ct <- as.data.frame(coef(summary(model)))
+  names(ct) <- c("log_odds", "std_error", "z_value", "p_value")
+  ct$term     <- rownames(ct)
+  ct$OR       <- exp(ct$log_odds)
+  ct$OR_lower <- exp(ct$log_odds - 1.96 * ct$std_error)
+  ct$OR_upper <- exp(ct$log_odds + 1.96 * ct$std_error)
+  ct$sig <- as.character(cut(ct$p_value, breaks = c(-Inf, .001, .01, .05, Inf),
+                             labels = c("***", "**", "*", "")))
+  ct$outcome <- outcome
+  ct$n <- nobs(model)
+  rownames(ct) <- NULL
+  ct[, c("outcome", "term", "log_odds", "std_error", "z_value", "p_value", "sig",
+         "OR", "OR_lower", "OR_upper", "n")]
+}
+
+make_re_table <- function(model, outcome) {
+  vc <- as.data.frame(VarCorr(model))
+  v_rev  <- vc$vcov[vc$grp == "reviewer_id"]
+  v_book <- vc$vcov[vc$grp == "book_id"]
+  total  <- v_rev + v_book + pi^2 / 3          # latent-scale residual variance of logit
+  data.frame(outcome = outcome,
+             var_reviewer = v_rev, var_book = v_book,
+             ICC_reviewer = v_rev / total, ICC_book = v_book / total)
+}
+```
+
+```{r}
+res_g1 <- make_table(g1, "Absence_of_Naive_Realism")
+knitr::kable(res_g1, digits = 4)
+```
+
+```{r}
+res_g2 <- make_table(g2, "Theme")
+knitr::kable(res_g2, digits = 4)
+```
+
+```{r}
+res_g3 <- make_table(g3, "Thought_Provoking")
+knitr::kable(res_g3, digits = 4)
+```
+
+```{r}
+res_g4 <- make_table(g4, "Ease")
+knitr::kable(res_g4, digits = 4)
+```
+
+```{r}
+res_g5 <- make_table(g5, "Critic")
+knitr::kable(res_g5, digits = 4)
+```
+
+```{r}
+res_g6 <- make_table(g6, "Surprise")
+knitr::kable(res_g6, digits = 4)
+```
+
+```{r}
+res_g7 <- make_table(g7, "Change")
+knitr::kable(res_g7, digits = 4)
+```
+
+### Random-effect variances and ICCs
+
+```{r}
+re_all <- rbind(make_re_table(g1, "Absence_of_Naive_Realism"),
+                make_re_table(g2, "Theme"),
+                make_re_table(g3, "Thought_Provoking"),
+                make_re_table(g4, "Ease"),
+                make_re_table(g5, "Critic"),
+                make_re_table(g6, "Surprise"),
+                make_re_table(g7, "Change"))
+knitr::kable(re_all, digits = 3)
+```
+
+```{r}
+res_all <- rbind(res_g1, res_g2, res_g3, res_g4, res_g5, res_g6, res_g7)
+write.csv(res_all, "results/GLMM_nAGQ0/genre_glmer_coefficients.csv", row.names = FALSE)
+write.csv(re_all,  "results/GLMM_nAGQ0/genre_glmer_random_effects.csv", row.names = FALSE)
+```
+
+## 6. Graphs
+
+```{r}
+genre_vars <- c("children", "comics_graphic", "fantasy_paranormal", "fiction",
+                "history_historical_fiction_biography", "mystery_thriller_crime",
+                "non_fiction", "poetry", "romance", "young_adult")
+
+genre_labels <- c("Children", "Comics & Graphic", "Fantasy & Paranormal", "Fiction",
+                  "History / Biography", "Mystery / Thriller / Crime", "Non-fiction",
+                  "Poetry", "Romance", "Young Adult")
+
+make_plot_data <- function(res) {
+  res %>%
+    filter(term %in% genre_vars) %>%
+    mutate(significance = ifelse(sig == "", "ns", sig),
+           term = factor(term, levels = genre_vars, labels = genre_labels))
+}
+
+plot_or <- function(res, title) {
+  ggplot(make_plot_data(res), aes(x = OR, y = term)) +
+    geom_vline(xintercept = 1, linetype = "dashed", color = "gray50") +
+    geom_errorbar(aes(xmin = OR_lower, xmax = OR_upper), width = 0.2, orientation = "y") +
+    geom_point(aes(color = significance), size = 3) +
+    scale_x_log10() +
+    scale_color_manual(values = c("***" = "#B2182B", "**" = "#EF8A62",
+                                  "*" = "#67A9CF", "ns" = "gray65"),
+                       drop = FALSE) +
+    labs(title = title,
+         subtitle = paste0("Random intercepts for reviewer and book (nAGQ = ", NAGQ, ")"),
+         x = "Odds Ratio (log scale, 95% CI)", y = "Genre Combination",
+         color = "Significance") +
+    theme_minimal(base_size = 12) +
+    theme(plot.title = element_text(face = "bold", hjust = 0.5),
+          plot.subtitle = element_text(hjust = 0.5),
+          legend.position = "bottom")
+}
+```
+
+```{r}
+q1 <- plot_or(res_g1, "Absence of Naive Realism")
+q1
+```
+
+```{r}
+q2 <- plot_or(res_g2, "Theme")
+q2
+```
+
+```{r}
+q3 <- plot_or(res_g3, "Thought-Provoking")
+q3
+```
+
+```{r}
+q4 <- plot_or(res_g4, "Ease")
+q4
+```
+
+```{r}
+q5 <- plot_or(res_g5, "Critic")
+q5
+```
+
+```{r}
+q6 <- plot_or(res_g6, "Surprise")
+q6
+```
+
+```{r}
+q7 <- plot_or(res_g7, "Change")
+q7
+```
+
+```{r}
+ggsave("figures/GLMM_nAGQ0/GLMM_Graph_1_Naive_Realism.png",     q1, width = 9, height = 6, dpi = 300)
+ggsave("figures/GLMM_nAGQ0/GLMM_Graph_2_Theme.png",             q2, width = 9, height = 6, dpi = 300)
+ggsave("figures/GLMM_nAGQ0/GLMM_Graph_3_Thought_Provoking.png", q3, width = 9, height = 6, dpi = 300)
+ggsave("figures/GLMM_nAGQ0/GLMM_Graph_4_Ease.png",              q4, width = 9, height = 6, dpi = 300)
+ggsave("figures/GLMM_nAGQ0/GLMM_Graph_5_Critic.png",            q5, width = 9, height = 6, dpi = 300)
+ggsave("figures/GLMM_nAGQ0/GLMM_Graph_6_Surprise.png",          q6, width = 9, height = 6, dpi = 300)
+ggsave("figures/GLMM_nAGQ0/GLMM_Graph_7_Change.png",            q7, width = 9, height = 6, dpi = 300)
+```
+
+### Overview: all constructs
+
+```{r}
+#| fig-height: 9
+#| fig-width: 12
+ggplot(make_plot_data(res_all), aes(x = OR, y = term, color = significance)) +
+  geom_vline(xintercept = 1, linetype = "dashed", color = "gray50") +
+  geom_errorbar(aes(xmin = OR_lower, xmax = OR_upper), width = 0.2, orientation = "y") +
+  geom_point(size = 2) +
+  scale_x_log10() +
+  facet_wrap(~ outcome, ncol = 4) +
+  scale_color_manual(values = c("***" = "#B2182B", "**" = "#EF8A62",
+                                "*" = "#67A9CF", "ns" = "gray65")) +
+  labs(x = "Odds Ratio (log scale, 95% CI)", y = NULL, color = "Significance") +
+  theme_minimal(base_size = 11) +
+  theme(legend.position = "bottom")
+```
+
+## 7. Summary
+
+### 7.1 Data alignment
+
+```{r}
+mt <- table(read.csv("data/book_id_mapping/book_id_mapping.csv")$match_type)
+n_rev  <- length(unique(df$reviewer_id))
+n_book <- length(unique(df$book_id))
+```
+
+-   Of the 50,000 annotated reviews,
+    **`r format(nrow(df), big.mark=",")`** were aligned to a Goodreads
+    `book_id` via `goodreads_reviews_dedup.json`
+    (`r round(100*nrow(df)/50000, 1)`%).
+    `r format(sum(mt[c("exact_text","exact_text+rating")]), big.mark=",")`
+    matched on identical text, `r format(mt["prefix200"], big.mark=",")`
+    on the first 200 characters, and
+    `r format(mt["fuzzy_text>=0.9"], big.mark=",")` by fuzzy text
+    similarity (≥ 0.90) within the same reviewer, rating and genre set.
+    For every matched review the raw rating equals the star rating and
+    the book's genre set equals the Genre cell, which confirms the
+    alignment.
+-   `r sum(mt[c("ambiguous","unmatched")])` reviews could not be aligned
+    uniquely (the same reviewer posted identical text for several books,
+    or no match) and are excluded.
+-   The analysed data contain **`r format(n_rev, big.mark=",")`
+    reviewers** and **`r format(n_book, big.mark=",")` books**.
+
+### 7.2 Clustering: who writes the review vs. which book is reviewed
+
+```{r}
+re_show <- re_all
+re_show$ICC_total <- re_show$ICC_reviewer + re_show$ICC_book
+knitr::kable(re_show[, c("outcome", "var_reviewer", "var_book", "ICC_reviewer", "ICC_book", "ICC_total")],
+             digits = 3, col.names = c("Construct", "Var reviewer", "Var book",
+                                       "ICC reviewer", "ICC book", "ICC total"))
+```
+
+- **Non-independence is substantial for every construct.** Reviewer and book together account for
+  roughly 11% (Surprise) to 26% (Critic, Thought-Provoking, Change) of the latent variance. Treating the
+  49,823 reviews as independent, as the OLS t-tests did, therefore overstates precision.
+- **The source of clustering differs by construct, which is substantively informative:**
+    - *Reviewer-driven* constructs: **Critic** (ICC reviewer = .23 vs. book = .03), **Theme** (.19 vs. .05)
+      and **Absence of Naive Realism** (.15 vs. .05). Whether a review offers reasoned evaluation,
+      interprets meaning, or acknowledges other viewpoints is largely a stable *writing style* of the
+      reviewer, not a property of the book.
+    - *Book-driven* constructs: **Change** (book = .20 vs. reviewer = .07) and **Thought-Provoking**
+      (.18 vs. .08). Whether a review reports being made to think or having its author's views changed
+      depends more on *which book* was read.
+    - **Ease** is split fairly evenly (.11 vs. .09); **Surprise** shows the least clustering of either kind.
+
+### 7.3 Genre effects by construct
+
+Odds ratios from the random-intercept models (\*p < .05, \*\*p < .01, \*\*\*p < .001):
+
+```{r}
+or_wide <- res_all[res_all$term %in% genre_vars, ]
+or_wide$cell <- sprintf("%.2f%s", or_wide$OR, or_wide$sig)
+or_wide <- reshape(or_wide[, c("term", "outcome", "cell")], idvar = "term",
+                   timevar = "outcome", direction = "wide")
+names(or_wide) <- sub("^cell\\.", "", names(or_wide))
+or_wide$term <- genre_labels[match(or_wide$term, genre_vars)]
+knitr::kable(or_wide, row.names = FALSE)
+```
+
+53 of the 70 genre coefficients are significant at p < .05. Read by genre, they form clear profiles:
+
+- **Non-fiction: the strongest "reflective" profile.** Non-fiction reviews have almost three times the
+  odds of reporting a change in views (**Change** OR = 2.90\*\*\*), and much higher odds of being
+  **Thought-Provoking** (2.29\*\*\*), discussing **Theme** (1.80\*\*\*) and showing **Absence of Naive
+  Realism** (1.38\*\*\*). They are, however, *less* likely to contain craft-oriented **Critic** evaluation
+  (0.72\*\*\*). Ease and Surprise do not differ.
+- **Poetry: similar but weaker.** Higher odds of **Thought-Provoking** (1.83\*\*\*), **Theme** (1.32\*)
+  and **Absence of Naive Realism** (1.31\*), lower odds of **Critic** (0.72\*\*). Poetry is the smallest
+  category (about 500 reviews), so its intervals are wide.
+- **Young Adult: consistently positive.** Higher odds on six of seven constructs: **Change** (1.46\*\*\*),
+  **Thought-Provoking** (1.35\*\*\*), **Theme** (1.18\*\*\*), **Surprise** (1.16\*\*\*), **Absence of
+  Naive Realism** (1.15\*\*\*) and **Critic** (1.10\*\*\*); only **Ease** is slightly lower (0.94\*).
+- **History / Biography: modestly reflective.** Higher **Theme** (1.17\*\*\*), **Absence of Naive
+  Realism** (1.14\*\*\*), **Critic** (1.09\*\*) and **Thought-Provoking** (1.09\*); lower **Ease** (0.92\*\*).
+- **Romance: easy, but less reflective.** The highest-ease adult genre (**Ease** 1.24\*\*\*), but about
+  half the odds of **Thought-Provoking** (0.51\*\*\*) and **Change** (0.51\*\*\*), and lower **Theme**
+  (0.68\*\*\*) and **Absence of Naive Realism** (0.72\*\*\*). Critic and Surprise do not differ.
+- **Children and Comics & Graphic: easy, but lower on everything else.** These are the two genres with the
+  highest **Ease** (1.47\*\*\* and 1.38\*\*\*), and they are significantly *lower* on all six other
+  constructs (ORs between 0.61 and 0.87).
+- **Mystery / Thriller / Crime: surprise and critique.** Higher **Surprise** (1.19\*\*\*) and **Critic**
+  (1.19\*\*\*), consistent with plot-twist-driven reading, but lower **Change** (0.69\*\*\*) and **Theme**
+  (0.89\*\*\*).
+- **Fantasy & Paranormal: slightly less reflective.** Lower **Change** (0.56\*\*\*), **Thought-Provoking**
+  (0.72\*\*\*), **Theme** (0.91\*\*\*), **Absence of Naive Realism** (0.89\*\*\*) and **Ease** (0.93\*\*);
+  marginally higher **Critic** (1.08\*\*) and **Surprise** (1.06\*).
+- **Fiction** applies to about 98% of books, so its effect is weakly identified; it is significant only for
+  **Absence of Naive Realism** (1.26\*) and **Theme** (1.26\*\*).
+
+### 7.4 Patterns across constructs
+
+```{r}
+genre_only <- res_all[res_all$term %in% genre_vars, ]
+cross <- data.frame(
+  genre        = genre_labels,
+  n_sig_up     = sapply(genre_vars, function(g) sum(genre_only$term == g & genre_only$p_value < .05 & genre_only$OR > 1)),
+  n_sig_down   = sapply(genre_vars, function(g) sum(genre_only$term == g & genre_only$p_value < .05 & genre_only$OR < 1)),
+  n_ns         = sapply(genre_vars, function(g) sum(genre_only$term == g & genre_only$p_value >= .05)),
+  row.names = NULL)
+knitr::kable(cross, col.names = c("Genre combination", "# constructs higher (p<.05)",
+                                  "# constructs lower (p<.05)", "# not significant"))
+```
+
+1. **An ease-reflection trade-off.** The genres that make reading feel easiest (Children, Comics &
+   Graphic, Romance) are the ones whose reviews are least likely to be thought-provoking, thematic or
+   view-changing. Non-fiction and Poetry show the reverse pattern. At the genre level, Ease behaves almost
+   as a mirror image of the reflective constructs.
+2. **Change and Thought-Provoking are the most genre-sensitive constructs** (widest OR range, 0.51 to
+   2.90), consistent with their book-level ICCs being the largest: these experiences depend on *what* is
+   read.
+3. **Critic follows a different logic.** It is higher for plot-driven genres (Mystery 1.19, Young Adult
+   1.10, Fantasy 1.08) and lower for Non-fiction, Poetry and Children, and its clustering is almost
+   entirely at the reviewer level. Critical evaluation appears to be more a property of the reviewer and
+   of narrative genres than of intellectually demanding content.
+4. **Surprise is the least genre-dependent construct** (5 significant effects, the lowest ICCs), and is
+   mainly elevated for Mystery / Thriller / Crime and Young Adult.
+
+### 7.5 Comparison with the OLS models (`genre_lm_ttests.qmd`)
+
+- After accounting for reviewer and book, **53 of 70** genre effects remain significant, compared with
+  56 in OLS. All 53 GLMM-significant effects were also significant in OLS, and the direction of the
+  effect agrees for 69 of 70 coefficients. The one disagreement (Poetry on Change) is null in both models.
+- Three effects lose significance in the nAGQ = 0 models: **Fiction on Thought-Provoking**
+  (OLS p = .002, GLMM p = .064), **Mystery / Thriller / Crime on Thought-Provoking** (p < .001, GLMM
+  p = .057) and **Romance on Critic** (p < .001, GLMM p = .099). With the more accurate Laplace fit
+  (nAGQ = 1, Section 8) all three return to p < .05 (p = .028, .034, .034). They are therefore
+  **borderline effects whose significance depends on the estimation method** and should be reported
+  with caution rather than as clear differences.
+- The substantive conclusions are therefore robust; modelling non-independence mainly corrects the
+  over-precision of the OLS estimates.
+
+### 7.6 Interpretation notes
+
+-   Genre is a **book-level** variable, so its effects are estimated
+    mainly from differences *between books*; the book random intercept
+    captures remaining book-to-book differences not explained by genre.
+-   Each OR compares books **with** a genre combination to books
+    **without** it, holding the other nine combinations constant. The
+    intercept (a book with none of the ten combinations) does not occur
+    in the data and should not be interpreted.
+-   Odds ratios are conditional (reviewer- and book-specific) effects,
+    so they are typically larger in magnitude than population-averaged
+    effects from the OLS models in `genre_lm_ttests.qmd`.
+-   Change (≈3% coded 1) and Absence of Naive Realism (≈14%) are rare
+    outcomes; their CIs are wider, especially for small genres such as
+    Poetry (n ≈ 500) and Non-fiction (n ≈ 1,700).
+-   Outcomes are GPT-4o codes (v1 prompts), so effects describe how the
+    AI coder labels reviews; any systematic coder error that correlates
+    with genre would also appear here.
+
+## 8. Robustness: nAGQ = 0 vs nAGQ = 1 (Laplace)
+
+The main results use `nAGQ = 0`, which estimates the fixed effects inside the penalised
+iteratively re-weighted least-squares step (fast). `nAGQ = 1` (Laplace approximation) optimises the
+fixed effects and variance components jointly on the approximate likelihood (slow, more accurate).
+The nAGQ = 1 models were fitted with the nAGQ = 0 estimates as starting values.
+
+```{r}
+have_nagq1 <- all(file.exists(sprintf("cache/models_nagq1/g%d_nagq1.rds", 1:7)))
+have_nagq1
+```
+
+```{r}
+#| eval: !expr have_nagq1
+outcome_names <- c("Absence_of_Naive_Realism", "Theme", "Thought_Provoking", "Ease",
+                   "Critic", "Surprise", "Change")
+m1_list <- lapply(1:7, function(k) readRDS(sprintf("cache/models_nagq1/g%d_nagq1.rds", k)))
+
+res_all_1 <- do.call(rbind, Map(make_table, m1_list, outcome_names))
+re_all_1  <- do.call(rbind, Map(make_re_table, m1_list, outcome_names))
+write.csv(res_all_1, "results/GLMM_nAGQ1/genre_glmer_coefficients_nagq1.csv", row.names = FALSE)
+write.csv(re_all_1,  "results/GLMM_nAGQ1/genre_glmer_random_effects_nagq1.csv", row.names = FALSE)
+
+cmp <- merge(res_all[, c("outcome", "term", "log_odds", "std_error", "p_value", "sig")],
+             res_all_1[, c("outcome", "term", "log_odds", "std_error", "p_value", "sig")],
+             by = c("outcome", "term"), suffixes = c("_q0", "_q1"))
+cmp <- cmp[cmp$term %in% genre_vars, ]
+cmp$diff_log_odds <- cmp$log_odds_q1 - cmp$log_odds_q0
+cmp$same_sig_at_05 <- (cmp$p_value_q0 < .05) == (cmp$p_value_q1 < .05)
+cmp$same_sign <- sign(cmp$log_odds_q0) == sign(cmp$log_odds_q1)
+cmp$outcome <- factor(cmp$outcome, levels = outcome_names)
+cmp <- cmp[order(cmp$outcome, cmp$term), ]
+knitr::kable(cmp, digits = 4, row.names = FALSE)
+```
+
+```{r}
+#| eval: !expr have_nagq1
+re_cmp <- merge(re_all, re_all_1, by = "outcome", suffixes = c("_q0", "_q1"))
+re_cmp <- re_cmp[match(outcome_names, re_cmp$outcome),
+                 c("outcome", "var_reviewer_q0", "var_reviewer_q1", "var_book_q0", "var_book_q1",
+                   "ICC_reviewer_q0", "ICC_reviewer_q1", "ICC_book_q0", "ICC_book_q1")]
+knitr::kable(re_cmp, digits = 3, row.names = FALSE)
+
+fit_cmp <- data.frame(
+  outcome = outcome_names,
+  logLik_q0 = sapply(list(g1, g2, g3, g4, g5, g6, g7), function(m) as.numeric(logLik(m))),
+  logLik_q1 = sapply(m1_list, function(m) as.numeric(logLik(m))),
+  converged_q1 = sapply(m1_list, function(m) is.null(m@optinfo$conv$lme4$messages)))
+knitr::kable(fit_cmp, digits = 1)
+```
+
+```{r}
+#| eval: !expr have_nagq1
+#| fig-height: 6
+#| fig-width: 7
+ggplot(cmp, aes(x = log_odds_q0, y = log_odds_q1, color = outcome)) +
+  geom_abline(slope = 1, intercept = 0, linetype = "dashed", color = "gray50") +
+  geom_point(size = 2.5) +
+  labs(title = "Genre coefficients: nAGQ = 0 vs nAGQ = 1",
+       x = "log-odds, nAGQ = 0", y = "log-odds, nAGQ = 1", color = "Construct") +
+  theme_minimal(base_size = 12) +
+  theme(plot.title = element_text(face = "bold", hjust = 0.5))
+```
+
+```{r}
+#| eval: !expr have_nagq1
+#| results: asis
+cat(sprintf("- Correlation of the %d genre coefficients across the two methods: r = %.4f.\n",
+            nrow(cmp), cor(cmp$log_odds_q0, cmp$log_odds_q1)))
+cat(sprintf("- Largest absolute difference in log-odds: %.3f (%s, %s).\n",
+            max(abs(cmp$diff_log_odds)), cmp$term[which.max(abs(cmp$diff_log_odds))],
+            cmp$outcome[which.max(abs(cmp$diff_log_odds))]))
+cat(sprintf("- Same sign: %d / %d; same significance decision at p < .05: %d / %d.\n",
+            sum(cmp$same_sign), nrow(cmp), sum(cmp$same_sig_at_05), nrow(cmp)))
+if (any(!cmp$same_sig_at_05)) {
+  d <- cmp[!cmp$same_sig_at_05, ]
+  cat("- Coefficients whose significance differs:",
+      paste(sprintf("%s / %s (p = %.3f vs %.3f)", d$outcome, d$term, d$p_value_q0, d$p_value_q1),
+            collapse = "; "), "\n")
+}
+```
+
+### 8.1 Diagnosis of the Change model under nAGQ = 1
+
+```{r}
+#| eval: !expr have_nagq1
+g7_q1 <- m1_list[[7]]
+data.frame(method = c("nAGQ = 0", "nAGQ = 1"),
+           sd_book     = c(attr(VarCorr(g7)$book_id, "stddev"), attr(VarCorr(g7_q1)$book_id, "stddev")),
+           sd_reviewer = c(attr(VarCorr(g7)$reviewer_id, "stddev"), attr(VarCorr(g7_q1)$reviewer_id, "stddev")),
+           intercept   = c(fixef(g7)[1], fixef(g7_q1)[1]),
+           median_se_genre = c(median(sqrt(diag(vcov(g7)))[-1]), median(sqrt(diag(vcov(g7_q1)))[-1]))) |>
+  knitr::kable(digits = 3)
+```
+
+```{r}
+#| eval: !expr have_nagq1
+ok6 <- cmp$outcome != "Change"
+c(r_6_models = cor(cmp$log_odds_q0[ok6], cmp$log_odds_q1[ok6]),
+  max_abs_diff_6_models = max(abs(cmp$diff_log_odds[ok6])),
+  same_sig_6_models = sum(cmp$same_sig_at_05[ok6]), n_6_models = sum(ok6))
+```
+
+### 8.2 Conclusions of the robustness check
+
+- **For six of the seven constructs the two methods agree almost perfectly.** The genre coefficients
+  correlate at r > .999 within every one of these models, the largest difference is 0.18 on the log-odds
+  scale, every sign is the same, and the random-effect SDs are similar (the Laplace fit gives slightly
+  larger variances, most visibly for books in Absence of Naive Realism: SD 0.44 vs. 0.58).
+- **Four borderline coefficients cross p = .05**, all from just above to just below:
+  Fiction and Mystery / Thriller / Crime on Thought-Provoking (p = .064 → .028; .057 → .034),
+  Romance on Critic (.099 → .034) and Poetry on Surprise (.059 → .047). None of the clearly
+  significant effects changes. These four should be described as weak or borderline.
+- **The nAGQ = 1 fit of Change is degenerate and should not be used.** Both random-intercept SDs
+  explode to about 27 on the logit scale (vs. 0.94 and 0.54 with nAGQ = 0), the intercept moves from
+  −3.0 to −30.9, and the genre standard errors inflate 20- to 50-fold, so no genre effect is significant
+  and some odds ratios become absurd (e.g. Non-fiction OR = 355). This is a known failure of the Laplace
+  approximation for **rare binary outcomes with many singleton clusters**: only 3% of reviews are coded
+  Change = 1, and 32% of reviewers and 44% of books contribute a single review, so the approximate
+  likelihood keeps "improving" as each positive review is absorbed into its own random effect. The higher
+  log-likelihood of this fit (−5045 vs. −6285) is an artefact of the approximation, not a better model.
+  The optimiser reports convergence only because it stopped, not because it found a valid estimate.
+- **Recommendation:** report the nAGQ = 0 models as the main results (Sections 4–7), mention that the
+  Laplace fits confirm them for six constructs, and treat the Change model's variance components with
+  caution. If a stricter check for Change is needed, a model with a weakly informative prior on the
+  random-effect variances (e.g. `blme::bglmer`), or a reviewer-only or book-only random intercept,
+  would avoid the degenerate solution.

@@ -1,0 +1,51 @@
+A done
+random Absence of Naive Realism 9s
+random Theme 8s
+random Thought-Provoking 10s
+random Ease 9s
+random Critic 8s
+random Surprise 9s
+latin Absence of Naive Realism 10s
+latin Theme 9s
+latin Thought-Provoking 9s
+latin Ease 9s
+latin Critic 8s
+latin Surprise 9s
+== A gold, between-group pairs (9): median residual corr / #p<.05
+                           med          sig            n       
+design                   latin random latin random latin random
+construct                                                      
+Absence of Naive Realism  0.21   0.31     0      4     9      9
+Critic                    0.40   0.46     7      8     9      9
+Ease                      0.39   0.40     6      6     9      9
+Surprise                  0.34   0.32     4      5     9      9
+Theme                     0.40   0.41     8      7     9      9
+Thought-Provoking         0.29   0.32     4      9     9      9
+== B overidentification
+design                construct  prevalence  BVR total  bootstrap p worst group pair  worst pair BVR
+random Absence of Naive Realism       0.103     13.873        0.050      Gemma – GPT           7.438
+random                    Theme       0.463      7.579        0.109     Sonnet – GPT           3.515
+random        Thought-Provoking       0.270     10.805        0.099     Sonnet – GPT           8.429
+random                     Ease       0.288     15.827        0.030    Qwen-FT – GPT           8.649
+random                   Critic       0.499     19.744        0.010  Gemma – Qwen-FT           6.494
+random                 Surprise       0.160     17.328        0.030     Sonnet – GPT          12.194
+ latin Absence of Naive Realism       0.094     13.529        0.030      Gemma – GPT           7.525
+ latin                    Theme       0.533     10.297        0.158     Sonnet – GPT           3.649
+ latin        Thought-Provoking       0.224     14.630        0.030     Sonnet – GPT          10.495
+ latin                     Ease       0.296     13.232        0.010    Qwen-FT – GPT           6.801
+ latin                   Critic       0.498     15.233        0.010  Gemma – Qwen-FT           6.157
+ latin                 Surprise       0.198     12.453        0.069    Qwen-FT – GPT           5.927
+== B subset
+design                construct  min subset prevalence  max subset prevalence  heterogeneity p
+random Absence of Naive Realism                  0.054                  0.111            0.213
+random                    Theme                  0.401                  0.516            0.098
+random        Thought-Provoking                  0.176                  0.284            0.082
+random                     Ease                  0.252                  0.430            0.066
+random                   Critic                  0.456                  0.565            0.213
+random                 Surprise                  0.155                  0.230            0.115
+ latin Absence of Naive Realism                  0.064                  0.134            0.115
+ latin                    Theme                  0.350                  0.541            0.033
+ latin        Thought-Provoking                  0.156                  0.255            0.164
+ latin                     Ease                  0.239                  0.435            0.016
+ latin                   Critic                  0.463                  0.537            0.475
+ latin                 Surprise                  0.198                  0.221            0.770

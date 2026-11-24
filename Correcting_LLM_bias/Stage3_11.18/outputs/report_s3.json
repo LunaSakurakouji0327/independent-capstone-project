@@ -1,0 +1,839 @@
+{
+ "ci_full": [
+  {
+   "construct": "Absence of Naive Realism",
+   "overidentification BVR": 11.87071462525338,
+   "bootstrap p": 0.01639344262295082,
+   "worst pair": "Qwen-FT \u2013 GPT",
+   "subset prevalence min": 0.09302133192994246,
+   "subset prevalence max": 0.11489846938867182,
+   "gold residual corr median": 0.40647720384989444,
+   "gold pairs p<.05": 2,
+   "gold pairs": 3,
+   "Gemma + Qwen-FT + GPT": 0.11281267662114643,
+   "Gemma + Qwen-FT + Luna": 0.09302133192994246,
+   "Gemma + Qwen-FT + Mini": 0.11489846938867182
+  },
+  {
+   "construct": "Theme",
+   "overidentification BVR": 11.704944314804003,
+   "bootstrap p": 0.01639344262295082,
+   "worst pair": "Qwen-FT \u2013 GPT",
+   "subset prevalence min": 0.45814650970103854,
+   "subset prevalence max": 0.47237258774257723,
+   "gold residual corr median": 0.2872884288256941,
+   "gold pairs p<.05": 3,
+   "gold pairs": 3,
+   "Gemma + Qwen-FT + GPT": 0.46422601348535475,
+   "Gemma + Qwen-FT + Luna": 0.45814650970103854,
+   "Gemma + Qwen-FT + Mini": 0.47237258774257723
+  },
+  {
+   "construct": "Thought-Provoking",
+   "overidentification BVR": 6.72228778207347,
+   "bootstrap p": 0.03278688524590164,
+   "worst pair": "Gemma \u2013 GPT",
+   "subset prevalence min": 0.2338348818386895,
+   "subset prevalence max": 0.26585191143217535,
+   "gold residual corr median": 0.5034834305726853,
+   "gold pairs p<.05": 3,
+   "gold pairs": 3,
+   "Gemma + Qwen-FT + GPT": 0.2626602167965075,
+   "Gemma + Qwen-FT + Luna": 0.2338348818386895,
+   "Gemma + Qwen-FT + Mini": 0.26585191143217535
+  },
+  {
+   "construct": "Ease",
+   "overidentification BVR": 5.98633666038452,
+   "bootstrap p": 0.03278688524590164,
+   "worst pair": "Qwen-FT \u2013 GPT",
+   "subset prevalence min": 0.3799817009252844,
+   "subset prevalence max": 0.39466092638198763,
+   "gold residual corr median": 0.39901473066629156,
+   "gold pairs p<.05": 2,
+   "gold pairs": 3,
+   "Gemma + Qwen-FT + GPT": 0.38526449061140483,
+   "Gemma + Qwen-FT + Luna": 0.3799817009252844,
+   "Gemma + Qwen-FT + Mini": 0.39466092638198763
+  },
+  {
+   "construct": "Critic",
+   "overidentification BVR": 3.3604944552897464,
+   "bootstrap p": 0.19672131147540983,
+   "worst pair": "Gemma \u2013 GPT",
+   "subset prevalence min": 0.49169944038477326,
+   "subset prevalence max": 0.5137609519277141,
+   "gold residual corr median": 0.4098198680313353,
+   "gold pairs p<.05": 3,
+   "gold pairs": 3,
+   "Gemma + Qwen-FT + GPT": 0.511737739644805,
+   "Gemma + Qwen-FT + Luna": 0.49169944038477326,
+   "Gemma + Qwen-FT + Mini": 0.5137609519277141
+  },
+  {
+   "construct": "Surprise",
+   "overidentification BVR": 20.40832980872407,
+   "bootstrap p": 0.01639344262295082,
+   "worst pair": "Qwen-FT \u2013 GPT",
+   "subset prevalence min": 0.1812361513298158,
+   "subset prevalence max": 0.19376638306498498,
+   "gold residual corr median": 0.2844407275875691,
+   "gold pairs p<.05": 1,
+   "gold pairs": 3,
+   "Gemma + Qwen-FT + GPT": 0.189458963869554,
+   "Gemma + Qwen-FT + Luna": 0.19376638306498498,
+   "Gemma + Qwen-FT + Mini": 0.1812361513298158
+  }
+ ],
+ "ci_nogenre": [
+  {
+   "construct": "Absence of Naive Realism",
+   "overidentification BVR": 11.704501498604818,
+   "bootstrap p": 0.01639344262295082,
+   "worst pair": "Gemma \u2013 Qwen-FT",
+   "subset prevalence min": 0.08581523298317184,
+   "subset prevalence max": 0.11326698291160646,
+   "gold residual corr median": 0.3890950708588743,
+   "gold pairs p<.05": 2,
+   "gold pairs": 3,
+   "Gemma + Qwen-FT + GPT": 0.11326698291160646,
+   "Gemma + Qwen-FT + Luna": 0.08581523298317184,
+   "Gemma + Qwen-FT + Mini": 0.09601051896228917
+  },
+  {
+   "construct": "Theme",
+   "overidentification BVR": 8.56930308820599,
+   "bootstrap p": 0.03278688524590164,
+   "worst pair": "Qwen-FT \u2013 GPT",
+   "subset prevalence min": 0.45239527502145493,
+   "subset prevalence max": 0.47091012606862015,
+   "gold residual corr median": 0.3290277243583834,
+   "gold pairs p<.05": 3,
+   "gold pairs": 3,
+   "Gemma + Qwen-FT + GPT": 0.4627819352499132,
+   "Gemma + Qwen-FT + Luna": 0.45239527502145493,
+   "Gemma + Qwen-FT + Mini": 0.47091012606862015
+  },
+  {
+   "construct": "Thought-Provoking",
+   "overidentification BVR": 8.41312640846093,
+   "bootstrap p": 0.01639344262295082,
+   "worst pair": "Gemma \u2013 GPT",
+   "subset prevalence min": 0.23564942916611778,
+   "subset prevalence max": 0.2661055275676465,
+   "gold residual corr median": 0.451330537433994,
+   "gold pairs p<.05": 3,
+   "gold pairs": 3,
+   "Gemma + Qwen-FT + GPT": 0.2631273193457827,
+   "Gemma + Qwen-FT + Luna": 0.23564942916611778,
+   "Gemma + Qwen-FT + Mini": 0.2661055275676465
+  },
+  {
+   "construct": "Ease",
+   "overidentification BVR": 5.914841326430147,
+   "bootstrap p": 0.01639344262295082,
+   "worst pair": "Qwen-FT \u2013 GPT",
+   "subset prevalence min": 0.38354908061042503,
+   "subset prevalence max": 0.3994336531570869,
+   "gold residual corr median": 0.3881772801727075,
+   "gold pairs p<.05": 2,
+   "gold pairs": 3,
+   "Gemma + Qwen-FT + GPT": 0.38799610930274747,
+   "Gemma + Qwen-FT + Luna": 0.38354908061042503,
+   "Gemma + Qwen-FT + Mini": 0.3994336531570869
+  },
+  {
+   "construct": "Critic",
+   "overidentification BVR": 3.1474892503480394,
+   "bootstrap p": 0.18032786885245902,
+   "worst pair": "Qwen-FT \u2013 GPT",
+   "subset prevalence min": 0.49462749349949325,
+   "subset prevalence max": 0.5184331482436767,
+   "gold residual corr median": 0.4400904471340018,
+   "gold pairs p<.05": 3,
+   "gold pairs": 3,
+   "Gemma + Qwen-FT + GPT": 0.5135430873374246,
+   "Gemma + Qwen-FT + Luna": 0.49462749349949325,
+   "Gemma + Qwen-FT + Mini": 0.5184331482436767
+  },
+  {
+   "construct": "Surprise",
+   "overidentification BVR": 21.70423665026907,
+   "bootstrap p": 0.01639344262295082,
+   "worst pair": "Qwen-FT \u2013 GPT",
+   "subset prevalence min": 0.18098176750067257,
+   "subset prevalence max": 0.19287125012023004,
+   "gold residual corr median": 0.2853214736441326,
+   "gold pairs p<.05": 1,
+   "gold pairs": 3,
+   "Gemma + Qwen-FT + GPT": 0.18869111883026093,
+   "Gemma + Qwen-FT + Luna": 0.19287125012023004,
+   "Gemma + Qwen-FT + Mini": 0.18098176750067257
+  }
+ ],
+ "bridge": [
+  {
+   "construct": "Absence of Naive Realism",
+   "mean H | gold X*=1": 0.3342130697381462,
+   "mean H | gold X*=0": 0.03301991808883519,
+   "n gold": 100,
+   "H min": -31.247878960135367,
+   "H max": 19.33499722742259
+  },
+  {
+   "construct": "Theme",
+   "mean H | gold X*=1": 0.9119501541089536,
+   "mean H | gold X*=0": 0.36071495162575606,
+   "n gold": 100,
+   "H min": -24.034000422852774,
+   "H max": 88.08330672463045
+  },
+  {
+   "construct": "Thought-Provoking",
+   "mean H | gold X*=1": 0.2310350564047807,
+   "mean H | gold X*=0": 0.1515593678393269,
+   "n gold": 100,
+   "H min": -7.851422062710711,
+   "H max": 12.024984106141618
+  },
+  {
+   "construct": "Ease",
+   "mean H | gold X*=1": 0.8034020069148639,
+   "mean H | gold X*=0": 0.18874886082095033,
+   "n gold": 100,
+   "H min": -30.001562861608498,
+   "H max": 8.877355168600602
+  },
+  {
+   "construct": "Critic",
+   "mean H | gold X*=1": 0.8162696307585002,
+   "mean H | gold X*=0": 0.2398020250332476,
+   "n gold": 100,
+   "H min": -12.983478752943793,
+   "H max": 12.19083455667692
+  },
+  {
+   "construct": "Surprise",
+   "mean H | gold X*=1": 0.8093312611925859,
+   "mean H | gold X*=0": 0.09236322409483398,
+   "n gold": 100,
+   "H min": -4.451450113199257,
+   "H max": 4.041723922661575
+  }
+ ],
+ "estimates": [
+  {
+   "construct": "Absence of Naive Realism",
+   "estimator": "gold only (100 reviews)",
+   "prevalence": 0.1,
+   "prevalence SE": 0.03015113445777636,
+   "rating coef": -0.21931974172801189,
+   "rating coef SE": 0.48671017385155024,
+   "SE ratio vs gold only (prevalence)": 1.0,
+   "SE ratio vs gold only (rating coef)": 1.0,
+   "effective n of human codes (prevalence)": 100.0
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "estimator": "DMM",
+   "prevalence": 0.028458857372896527,
+   "prevalence SE": 0.028537884778593547,
+   "rating coef": 1.317184224212726,
+   "rating coef SE": 3.139877121433313,
+   "SE ratio vs gold only (prevalence)": 0.9464945612098938,
+   "SE ratio vs gold only (rating coef)": 6.451225575553709,
+   "effective n of human codes (prevalence)": 111.625586693044
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "estimator": "DMM-DSL",
+   "prevalence": 0.06531962411913024,
+   "prevalence SE": 0.05159641976651907,
+   "rating coef": -2.603889833122873,
+   "rating coef SE": 5.173414866854031,
+   "SE ratio vs gold only (prevalence)": 1.7112596489122052,
+   "SE ratio vs gold only (rating coef)": 10.629354274463875,
+   "effective n of human codes (prevalence)": 34.14822860785654
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "estimator": "DSL, majority vote (no training)",
+   "prevalence": 0.11033333333333334,
+   "prevalence SE": 0.02663875317439848,
+   "rating coef": -0.4438636824715661,
+   "rating coef SE": 0.46047653100501196,
+   "SE ratio vs gold only (prevalence)": 0.883507491623686,
+   "SE ratio vs gold only (rating coef)": 0.9461000729881194,
+   "effective n of human codes (prevalence)": 128.1089663703355
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "estimator": "DSL, supervised: labels only",
+   "prevalence": 0.11404044195276626,
+   "prevalence SE": 0.02952145858622741,
+   "rating coef": -0.5343486529487581,
+   "rating coef SE": 0.4903518512600891,
+   "SE ratio vs gold only (prevalence)": 0.9791160139453211,
+   "SE ratio vs gold only (rating coef)": 1.007482229885849,
+   "effective n of human codes (prevalence)": 104.31138036940425
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "estimator": "DSL, supervised: labels + embedding + genre + length",
+   "prevalence": 0.11584346154010622,
+   "prevalence SE": 0.03205322292256253,
+   "rating coef": -0.5113107363017186,
+   "rating coef SE": 0.4935432971302402,
+   "SE ratio vs gold only (prevalence)": 1.0630851375575885,
+   "SE ratio vs gold only (rating coef)": 1.0140394091716154,
+   "effective n of human codes (prevalence)": 88.48382882101954
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "estimator": "naive (majority of groups)",
+   "prevalence": 0.086,
+   "prevalence SE": 0.005118723799281744,
+   "rating coef": -0.27833918471615765,
+   "rating coef SE": 0.07038206568538737,
+   "SE ratio vs gold only (prevalence)": 0.1697688624768001,
+   "SE ratio vs gold only (rating coef)": 0.14460775522406555,
+   "effective n of human codes (prevalence)": 3469.636058308391
+  },
+  {
+   "construct": "Theme",
+   "estimator": "gold only (100 reviews)",
+   "prevalence": 0.36,
+   "prevalence SE": 0.04824181513244218,
+   "rating coef": 0.10633896490320893,
+   "rating coef SE": 0.24840386699975694,
+   "SE ratio vs gold only (prevalence)": 1.0,
+   "SE ratio vs gold only (rating coef)": 1.0,
+   "effective n of human codes (prevalence)": 100.0
+  },
+  {
+   "construct": "Theme",
+   "estimator": "DMM",
+   "prevalence": 0.476571671590303,
+   "prevalence SE": 0.03575065223280925,
+   "rating coef": 0.5730771205174753,
+   "rating coef SE": 0.5293656655074596,
+   "SE ratio vs gold only (prevalence)": 0.7410718716669361,
+   "SE ratio vs gold only (rating coef)": 2.1310685373025113,
+   "effective n of human codes (prevalence)": 182.0871679430533
+  },
+  {
+   "construct": "Theme",
+   "estimator": "DMM-DSL",
+   "prevalence": 0.27741204707059575,
+   "prevalence SE": 0.07406200314292194,
+   "rating coef": 0.5582831203394146,
+   "rating coef SE": 0.854845505221422,
+   "SE ratio vs gold only (prevalence)": 1.535224222794965,
+   "SE ratio vs gold only (rating coef)": 3.441353452127452,
+   "effective n of human codes (prevalence)": 42.428372376823
+  },
+  {
+   "construct": "Theme",
+   "estimator": "DSL, majority vote (no training)",
+   "prevalence": 0.3403333333333333,
+   "prevalence SE": 0.046927990197107645,
+   "rating coef": -0.03809670512882438,
+   "rating coef SE": 0.27619658922605517,
+   "SE ratio vs gold only (prevalence)": 0.972765847808015,
+   "SE ratio vs gold only (rating coef)": 1.111885223696318,
+   "effective n of human codes (prevalence)": 105.67770431267007
+  },
+  {
+   "construct": "Theme",
+   "estimator": "DSL, supervised: labels only",
+   "prevalence": 0.33424634682900606,
+   "prevalence SE": 0.04092012483563477,
+   "rating coef": -0.18245947930305026,
+   "rating coef SE": 0.2781313224312547,
+   "SE ratio vs gold only (prevalence)": 0.8482293778393998,
+   "SE ratio vs gold only (rating coef)": 1.1196738834646518,
+   "effective n of human codes (prevalence)": 138.98674377413278
+  },
+  {
+   "construct": "Theme",
+   "estimator": "DSL, supervised: labels + embedding + genre + length",
+   "prevalence": 0.35344063002523,
+   "prevalence SE": 0.03985587620987323,
+   "rating coef": -0.07806304238530953,
+   "rating coef SE": 0.26508546683969186,
+   "SE ratio vs gold only (prevalence)": 0.8261686692437598,
+   "SE ratio vs gold only (rating coef)": 1.067155153586845,
+   "effective n of human codes (prevalence)": 146.50841081219025
+  },
+  {
+   "construct": "Theme",
+   "estimator": "naive (majority of groups)",
+   "prevalence": 0.483,
+   "prevalence SE": 0.009123431372022262,
+   "rating coef": 0.24805016929516763,
+   "rating coef SE": 0.04537923060450685,
+   "SE ratio vs gold only (prevalence)": 0.18911874163472006,
+   "SE ratio vs gold only (rating coef)": 0.1826832695988233,
+   "effective n of human codes (prevalence)": 2795.959401795749
+  },
+  {
+   "construct": "Thought-Provoking",
+   "estimator": "gold only (100 reviews)",
+   "prevalence": 0.29,
+   "prevalence SE": 0.04560480215720686,
+   "rating coef": -0.46680706852503107,
+   "rating coef SE": 0.2686672042722201,
+   "SE ratio vs gold only (prevalence)": 1.0,
+   "SE ratio vs gold only (rating coef)": 1.0,
+   "effective n of human codes (prevalence)": 100.0
+  },
+  {
+   "construct": "Thought-Provoking",
+   "estimator": "DMM",
+   "prevalence": 0.2619427095406679,
+   "prevalence SE": 0.014035802100749332,
+   "rating coef": 0.16330634236410072,
+   "rating coef SE": 0.09391275345629142,
+   "SE ratio vs gold only (prevalence)": 0.3077702662181438,
+   "SE ratio vs gold only (rating coef)": 0.34955049206950006,
+   "effective n of human codes (prevalence)": 1055.7149693418737
+  },
+  {
+   "construct": "Thought-Provoking",
+   "estimator": "DMM-DSL",
+   "prevalence": 0.37733539201735933,
+   "prevalence SE": 0.09423410974629298,
+   "rating coef": 0.29728667417838656,
+   "rating coef SE": 2.6171562000783086,
+   "SE ratio vs gold only (prevalence)": 2.0663198893277364,
+   "SE ratio vs gold only (rating coef)": 9.741256686568052,
+   "effective n of human codes (prevalence)": 23.4209705492256
+  },
+  {
+   "construct": "Thought-Provoking",
+   "estimator": "DSL, majority vote (no training)",
+   "prevalence": 0.309,
+   "prevalence SE": 0.043686105631826365,
+   "rating coef": -0.2614954545509156,
+   "rating coef SE": 0.3655695843909058,
+   "SE ratio vs gold only (prevalence)": 0.957927752459786,
+   "SE ratio vs gold only (rating coef)": 1.3606781124669831,
+   "effective n of human codes (prevalence)": 108.97690985937395
+  },
+  {
+   "construct": "Thought-Provoking",
+   "estimator": "DSL, supervised: labels only",
+   "prevalence": 0.28654489173516035,
+   "prevalence SE": 0.03674051158341691,
+   "rating coef": -0.19174117148786216,
+   "rating coef SE": 0.2942671387165009,
+   "SE ratio vs gold only (prevalence)": 0.8056281322472717,
+   "SE ratio vs gold only (rating coef)": 1.0952849251311758,
+   "effective n of human codes (prevalence)": 154.0744952185701
+  },
+  {
+   "construct": "Thought-Provoking",
+   "estimator": "DSL, supervised: labels + embedding + genre + length",
+   "prevalence": 0.2656152146133743,
+   "prevalence SE": 0.03664669657293749,
+   "rating coef": -0.32061171218015677,
+   "rating coef SE": 0.31100379650620563,
+   "SE ratio vs gold only (prevalence)": 0.8035710021635576,
+   "SE ratio vs gold only (rating coef)": 1.1575800527968017,
+   "effective n of human codes (prevalence)": 154.86436188555123
+  },
+  {
+   "construct": "Thought-Provoking",
+   "estimator": "naive (majority of groups)",
+   "prevalence": 0.27366666666666667,
+   "prevalence SE": 0.008139885794084626,
+   "rating coef": 0.16558850402667508,
+   "rating coef SE": 0.04881982504187099,
+   "SE ratio vs gold only (prevalence)": 0.1784874708155771,
+   "SE ratio vs gold only (rating coef)": 0.18171114399361363,
+   "effective n of human codes (prevalence)": 3138.9509460275767
+  },
+  {
+   "construct": "Ease",
+   "estimator": "gold only (100 reviews)",
+   "prevalence": 0.32,
+   "prevalence SE": 0.04688261722621506,
+   "rating coef": 0.5327333307150508,
+   "rating coef SE": 0.23691509310372966,
+   "SE ratio vs gold only (prevalence)": 1.0,
+   "SE ratio vs gold only (rating coef)": 1.0,
+   "effective n of human codes (prevalence)": 100.0
+  },
+  {
+   "construct": "Ease",
+   "estimator": "DMM",
+   "prevalence": 0.383665488606701,
+   "prevalence SE": 0.016132341874118522,
+   "rating coef": 0.725002158487495,
+   "rating coef SE": 0.066743810400419,
+   "SE ratio vs gold only (prevalence)": 0.34410070999828696,
+   "SE ratio vs gold only (rating coef)": 0.28172038144989037,
+   "effective n of human codes (prevalence)": 844.5567990991045
+  },
+  {
+   "construct": "Ease",
+   "estimator": "DMM-DSL",
+   "prevalence": 0.3182276210356984,
+   "prevalence SE": 0.07579360587479458,
+   "rating coef": 1.0579291604427754,
+   "rating coef SE": 0.502196065509386,
+   "SE ratio vs gold only (prevalence)": 1.6166675488503561,
+   "SE ratio vs gold only (rating coef)": 2.1197301485959237,
+   "effective n of human codes (prevalence)": 38.26119748222617
+  },
+  {
+   "construct": "Ease",
+   "estimator": "DSL, majority vote (no training)",
+   "prevalence": 0.2896666666666667,
+   "prevalence SE": 0.04788198190370401,
+   "rating coef": 0.5830394872856034,
+   "rating coef SE": 0.2320660698679866,
+   "SE ratio vs gold only (prevalence)": 1.021316315867497,
+   "SE ratio vs gold only (rating coef)": 0.9795326537781197,
+   "effective n of human codes (prevalence)": 95.86927875119017
+  },
+  {
+   "construct": "Ease",
+   "estimator": "DSL, supervised: labels only",
+   "prevalence": 0.3022459546634265,
+   "prevalence SE": 0.03938189000228404,
+   "rating coef": 0.4718820215395739,
+   "rating coef SE": 0.18269968963170127,
+   "SE ratio vs gold only (prevalence)": 0.8400104843179086,
+   "SE ratio vs gold only (rating coef)": 0.771161040177837,
+   "effective n of human codes (prevalence)": 141.7198182831145
+  },
+  {
+   "construct": "Ease",
+   "estimator": "DSL, supervised: labels + embedding + genre + length",
+   "prevalence": 0.3084261581002581,
+   "prevalence SE": 0.03920287774528757,
+   "rating coef": 0.5039819068073108,
+   "rating coef SE": 0.183029135771161,
+   "SE ratio vs gold only (prevalence)": 0.8361921766468008,
+   "SE ratio vs gold only (rating coef)": 0.772551606456852,
+   "effective n of human codes (prevalence)": 143.01704484462937
+  },
+  {
+   "construct": "Ease",
+   "estimator": "naive (majority of groups)",
+   "prevalence": 0.399,
+   "prevalence SE": 0.008940525711612265,
+   "rating coef": 0.8311821162162742,
+   "rating coef SE": 0.03397883789852388,
+   "SE ratio vs gold only (prevalence)": 0.1907002262367948,
+   "SE ratio vs gold only (rating coef)": 0.14342200597429544,
+   "effective n of human codes (prevalence)": 2749.777686287012
+  },
+  {
+   "construct": "Critic",
+   "estimator": "gold only (100 reviews)",
+   "prevalence": 0.44,
+   "prevalence SE": 0.04988876515698589,
+   "rating coef": -0.4625829193301992,
+   "rating coef SE": 0.29070813833169745,
+   "SE ratio vs gold only (prevalence)": 1.0,
+   "SE ratio vs gold only (rating coef)": 1.0,
+   "effective n of human codes (prevalence)": 100.0
+  },
+  {
+   "construct": "Critic",
+   "estimator": "DMM",
+   "prevalence": 0.5323669170603191,
+   "prevalence SE": 0.01655610249032979,
+   "rating coef": -0.5135130484465353,
+   "rating coef SE": 0.09718820981379628,
+   "SE ratio vs gold only (prevalence)": 0.3318603384596191,
+   "SE ratio vs gold only (rating coef)": 0.33431540778849717,
+   "effective n of human codes (prevalence)": 908.0072087398739
+  },
+  {
+   "construct": "Critic",
+   "estimator": "DMM-DSL",
+   "prevalence": 0.4789191455079604,
+   "prevalence SE": 0.06983945772594893,
+   "rating coef": -1.56254752714546,
+   "rating coef SE": 1.184955438673709,
+   "SE ratio vs gold only (prevalence)": 1.399903515474553,
+   "SE ratio vs gold only (rating coef)": 4.076099986308869,
+   "effective n of human codes (prevalence)": 51.02744129012935
+  },
+  {
+   "construct": "Critic",
+   "estimator": "DSL, majority vote (no training)",
+   "prevalence": 0.4543333333333333,
+   "prevalence SE": 0.044907056606909974,
+   "rating coef": -0.9114295355930891,
+   "rating coef SE": 0.37783868941383497,
+   "SE ratio vs gold only (prevalence)": 0.9001436789545726,
+   "SE ratio vs gold only (rating coef)": 1.2997183071040197,
+   "effective n of human codes (prevalence)": 123.41738146616605
+  },
+  {
+   "construct": "Critic",
+   "estimator": "DSL, supervised: labels only",
+   "prevalence": 0.4312589342549689,
+   "prevalence SE": 0.039283790556237444,
+   "rating coef": -0.8892515858075131,
+   "rating coef SE": 0.38707947685244515,
+   "SE ratio vs gold only (prevalence)": 0.787427598831569,
+   "SE ratio vs gold only (rating coef)": 1.3315054716864796,
+   "effective n of human codes (prevalence)": 161.27933909304446
+  },
+  {
+   "construct": "Critic",
+   "estimator": "DSL, supervised: labels + embedding + genre + length",
+   "prevalence": 0.42607744554818655,
+   "prevalence SE": 0.03547955687960776,
+   "rating coef": -0.6078428553552742,
+   "rating coef SE": 0.23996678854473802,
+   "SE ratio vs gold only (prevalence)": 0.7111732825609851,
+   "SE ratio vs gold only (rating coef)": 0.8254560395930036,
+   "effective n of human codes (prevalence)": 197.71933208933797
+  },
+  {
+   "construct": "Critic",
+   "estimator": "naive (majority of groups)",
+   "prevalence": 0.5346666666666666,
+   "prevalence SE": 0.009106741499611194,
+   "rating coef": -0.5845144842510115,
+   "rating coef SE": 0.04184964173707459,
+   "SE ratio vs gold only (prevalence)": 0.18254092822211263,
+   "SE ratio vs gold only (rating coef)": 0.14395758569828623,
+   "effective n of human codes (prevalence)": 3001.0932554001815
+  },
+  {
+   "construct": "Surprise",
+   "estimator": "gold only (100 reviews)",
+   "prevalence": 0.12,
+   "prevalence SE": 0.03265986323710904,
+   "rating coef": -0.431130434187359,
+   "rating coef SE": 0.4989299247181743,
+   "SE ratio vs gold only (prevalence)": 1.0,
+   "SE ratio vs gold only (rating coef)": 1.0,
+   "effective n of human codes (prevalence)": 100.0
+  },
+  {
+   "construct": "Surprise",
+   "estimator": "DMM",
+   "prevalence": 0.18256612078281098,
+   "prevalence SE": 0.008224653986596287,
+   "rating coef": -0.19713431744288068,
+   "rating coef SE": 0.0667931103513383,
+   "SE ratio vs gold only (prevalence)": 0.2518275697263548,
+   "SE ratio vs gold only (rating coef)": 0.1338727284980292,
+   "effective n of human codes (prevalence)": 1576.8611427629319
+  },
+  {
+   "construct": "Surprise",
+   "estimator": "DMM-DSL",
+   "prevalence": 0.12416673223624679,
+   "prevalence SE": 0.0385365141994438,
+   "rating coef": -0.09818953435432637,
+   "rating coef SE": 0.5589108037483577,
+   "SE ratio vs gold only (prevalence)": 1.1799349531769487,
+   "SE ratio vs gold only (rating coef)": 1.1202190449171077,
+   "effective n of human codes (prevalence)": 71.82636153184475
+  },
+  {
+   "construct": "Surprise",
+   "estimator": "DSL, majority vote (no training)",
+   "prevalence": 0.16466666666666666,
+   "prevalence SE": 0.030268067394860074,
+   "rating coef": -0.5276035883214805,
+   "rating coef SE": 0.3196661633377662,
+   "SE ratio vs gold only (prevalence)": 0.9267665077197463,
+   "SE ratio vs gold only (rating coef)": 0.6407035286935995,
+   "effective n of human codes (prevalence)": 116.42850984415865
+  },
+  {
+   "construct": "Surprise",
+   "estimator": "DSL, supervised: labels only",
+   "prevalence": 0.13631604411831771,
+   "prevalence SE": 0.02446150635513471,
+   "rating coef": -0.21820156441318467,
+   "rating coef SE": 0.34866165773154123,
+   "SE ratio vs gold only (prevalence)": 0.7489776113741,
+   "SE ratio vs gold only (rating coef)": 0.6988188931110643,
+   "effective n of human codes (prevalence)": 178.26345860226093
+  },
+  {
+   "construct": "Surprise",
+   "estimator": "DSL, supervised: labels + embedding + genre + length",
+   "prevalence": 0.13050904661106344,
+   "prevalence SE": 0.02582979907740932,
+   "rating coef": -0.2023526028082281,
+   "rating coef SE": 0.40217540879782315,
+   "SE ratio vs gold only (prevalence)": 0.7908728487283067,
+   "SE ratio vs gold only (rating coef)": 0.8060759414761423,
+   "effective n of human codes (prevalence)": 159.8772493545199
+  },
+  {
+   "construct": "Surprise",
+   "estimator": "naive (majority of groups)",
+   "prevalence": 0.20466666666666666,
+   "prevalence SE": 0.007366098520072033,
+   "rating coef": -0.26303446395432595,
+   "rating coef SE": 0.052632059370886754,
+   "SE ratio vs gold only (prevalence)": 0.22553978461558494,
+   "SE ratio vs gold only (rating coef)": 0.10548988297428043,
+   "effective n of human codes (prevalence)": 1965.8649396179123
+  }
+ ],
+ "predictors": [
+  {
+   "construct": "Absence of Naive Realism",
+   "predictor": "labels only",
+   "AUC on human codes (out-of-fold)": 0.6505555555555556,
+   "log loss": 0.30622743584291257,
+   "accuracy": 0.89,
+   "majority-vote accuracy": 0.93,
+   "penalties chosen": "[10, 10, 100, 30, 10]"
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "predictor": "labels + embedding + genre + length",
+   "AUC on human codes (out-of-fold)": 0.8322222222222222,
+   "log loss": 0.33133320511589326,
+   "accuracy": 0.86,
+   "majority-vote accuracy": 0.93,
+   "penalties chosen": "[3, 30, 100, 30, 10]"
+  },
+  {
+   "construct": "Theme",
+   "predictor": "labels only",
+   "AUC on human codes (out-of-fold)": 0.7766927083333333,
+   "log loss": 0.5549150644710871,
+   "accuracy": 0.81,
+   "majority-vote accuracy": 0.78,
+   "penalties chosen": "[10, 30, 0.3, 10, 0.3]"
+  },
+  {
+   "construct": "Theme",
+   "predictor": "labels + embedding + genre + length",
+   "AUC on human codes (out-of-fold)": 0.8229166666666667,
+   "log loss": 0.48616637199888113,
+   "accuracy": 0.79,
+   "majority-vote accuracy": 0.78,
+   "penalties chosen": "[30, 30, 10, 10, 30]"
+  },
+  {
+   "construct": "Thought-Provoking",
+   "predictor": "labels only",
+   "AUC on human codes (out-of-fold)": 0.8433705682370083,
+   "log loss": 0.4241776516466029,
+   "accuracy": 0.83,
+   "majority-vote accuracy": 0.81,
+   "penalties chosen": "[3, 1, 10, 3, 10]"
+  },
+  {
+   "construct": "Thought-Provoking",
+   "predictor": "labels + embedding + genre + length",
+   "AUC on human codes (out-of-fold)": 0.8431277319086935,
+   "log loss": 0.43008903324197156,
+   "accuracy": 0.83,
+   "majority-vote accuracy": 0.81,
+   "penalties chosen": "[10, 10, 10, 30, 30]"
+  },
+  {
+   "construct": "Ease",
+   "predictor": "labels only",
+   "AUC on human codes (out-of-fold)": 0.8244485294117646,
+   "log loss": 0.470577060914223,
+   "accuracy": 0.78,
+   "majority-vote accuracy": 0.77,
+   "penalties chosen": "[10, 3, 3, 3, 10]"
+  },
+  {
+   "construct": "Ease",
+   "predictor": "labels + embedding + genre + length",
+   "AUC on human codes (out-of-fold)": 0.8432904411764706,
+   "log loss": 0.45949048131689685,
+   "accuracy": 0.76,
+   "majority-vote accuracy": 0.77,
+   "penalties chosen": "[10, 10, 10, 10, 10]"
+  },
+  {
+   "construct": "Critic",
+   "predictor": "labels only",
+   "AUC on human codes (out-of-fold)": 0.8443587662337663,
+   "log loss": 0.4731313489350044,
+   "accuracy": 0.8,
+   "majority-vote accuracy": 0.8,
+   "penalties chosen": "[3, 10, 3, 0.3, 3]"
+  },
+  {
+   "construct": "Critic",
+   "predictor": "labels + embedding + genre + length",
+   "AUC on human codes (out-of-fold)": 0.8969155844155845,
+   "log loss": 0.4100929380018697,
+   "accuracy": 0.86,
+   "majority-vote accuracy": 0.8,
+   "penalties chosen": "[10, 10, 3, 10, 10]"
+  },
+  {
+   "construct": "Surprise",
+   "predictor": "labels only",
+   "AUC on human codes (out-of-fold)": 0.8977272727272726,
+   "log loss": 0.20422324691726318,
+   "accuracy": 0.91,
+   "majority-vote accuracy": 0.91,
+   "penalties chosen": "[1, 3, 1, 3, 10]"
+  },
+  {
+   "construct": "Surprise",
+   "predictor": "labels + embedding + genre + length",
+   "AUC on human codes (out-of-fold)": 0.9138257575757575,
+   "log loss": 0.22313269245217332,
+   "accuracy": 0.9,
+   "majority-vote accuracy": 0.91,
+   "penalties chosen": "[1, 10, 1, 3, 10]"
+  }
+ ],
+ "cost": {
+  "luna": 2.835244899999994,
+  "mini": 17.43791325,
+  "embeddings": 0.08567156
+ },
+ "genre_top": {
+  "fiction": 687,
+  "fantasy, paranormal": 589,
+  "romance": 488,
+  "mystery, thriller, crime": 322,
+  "non-fiction": 303,
+  "young-adult": 241,
+  "history, historical fiction, biography": 132,
+  "children": 107,
+  "comics, graphic": 101,
+  "none": 17,
+  "poetry": 13
+ },
+ "gold_genre_top": {
+  "fiction": 28,
+  "fantasy, paranormal": 20,
+  "romance": 17,
+  "non-fiction": 11,
+  "mystery, thriller, crime": 10,
+  "young-adult": 6,
+  "history, historical fiction, biography": 4,
+  "comics, graphic": 3,
+  "none": 1
+ },
+ "n_words_median": {
+  "gold": 130.5,
+  "new": 102.0
+ },
+ "rating_dist": {
+  "0": 69,
+  "1": 66,
+  "2": 220,
+  "3": 586,
+  "4": 1006,
+  "5": 953
+ }
+}

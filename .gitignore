@@ -1,0 +1,18 @@
+# ---- Large files (GitHub warns above 50 MB, rejects above 100 MB) ----
+# Python env and Hugging Face model weights (~16 GB, re-downloadable)
+venv/
+hf_cache/
+# LoRA adapters (245 MB each)
+**/adapters/
+**/qwenft_adapter_all100/
+**/_invalid_run_prepare_kbit/
+# 50k-review CSVs (67-73 MB). The same annotations are kept as
+# data/annotated/annotated_50000sample.xlsx; the one-hot CSVs are rebuilt by the qmd scripts.
+Naive_LLM_analysis/data/annotated/annotated_50000sample.csv
+Naive_LLM_analysis/data/analysis_ready/*.csv
+
+# ---- Caches / temp / secrets ----
+__pycache__/
+node_modules/
+~$*
+.openai_key*

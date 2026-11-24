@@ -1,0 +1,1292 @@
+{
+ "A": [
+  {
+   "design": "random",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Gemma 3 12B",
+   "n": 98,
+   "residual corr": 0.38354596844488886,
+   "p": 0.022210482264647613
+  },
+  {
+   "design": "random",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 98,
+   "residual corr": 0.31172565153942994,
+   "p": 0.16980383005199662
+  },
+  {
+   "design": "random",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-6 Luna",
+   "n": 98,
+   "residual corr": 0.47566055319077727,
+   "p": 0.02945206622784613
+  },
+  {
+   "design": "random",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-5.4 mini",
+   "n": 98,
+   "residual corr": 0.1694734761718428,
+   "p": 0.2040625888262635
+  },
+  {
+   "design": "random",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Gemma 3 12B",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 98,
+   "residual corr": 0.4068156292659829,
+   "p": 0.08837515030533893
+  },
+  {
+   "design": "random",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-6 Luna",
+   "n": 98,
+   "residual corr": 0.2768903318821119,
+   "p": 0.03008378429199876
+  },
+  {
+   "design": "random",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-5.4 mini",
+   "n": 98,
+   "residual corr": 0.40817076225955634,
+   "p": 0.010712709897253259
+  },
+  {
+   "design": "random",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-6 Luna",
+   "n": 98,
+   "residual corr": 0.17717859403080036,
+   "p": 0.2171646526353017
+  },
+  {
+   "design": "random",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-5.4 mini",
+   "n": 98,
+   "residual corr": 0.24786381502422672,
+   "p": 0.10845663955250506
+  },
+  {
+   "design": "random",
+   "construct": "Theme",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Gemma 3 12B",
+   "n": 98,
+   "residual corr": 0.4962935476781017,
+   "p": 2.5802827470222667e-06
+  },
+  {
+   "design": "random",
+   "construct": "Theme",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 98,
+   "residual corr": 0.45316766615264903,
+   "p": 0.00020744193555688462
+  },
+  {
+   "design": "random",
+   "construct": "Theme",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-6 Luna",
+   "n": 98,
+   "residual corr": 0.439524010264241,
+   "p": 0.00010226422181713879
+  },
+  {
+   "design": "random",
+   "construct": "Theme",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-5.4 mini",
+   "n": 98,
+   "residual corr": 0.15320039888853565,
+   "p": 0.028490305587764997
+  },
+  {
+   "design": "random",
+   "construct": "Theme",
+   "model 1": "Gemma 3 12B",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 98,
+   "residual corr": 0.22014716557702285,
+   "p": 0.0591354801081474
+  },
+  {
+   "design": "random",
+   "construct": "Theme",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-6 Luna",
+   "n": 98,
+   "residual corr": 0.6193258948865004,
+   "p": 4.142508913229648e-06
+  },
+  {
+   "design": "random",
+   "construct": "Theme",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-5.4 mini",
+   "n": 98,
+   "residual corr": 0.40770452910075317,
+   "p": 0.000607520182427157
+  },
+  {
+   "design": "random",
+   "construct": "Theme",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-6 Luna",
+   "n": 98,
+   "residual corr": 0.4104198778137184,
+   "p": 0.0035556260126856643
+  },
+  {
+   "design": "random",
+   "construct": "Theme",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-5.4 mini",
+   "n": 98,
+   "residual corr": 0.21124422012994593,
+   "p": 0.06060188711223713
+  },
+  {
+   "design": "random",
+   "construct": "Thought-Provoking",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Gemma 3 12B",
+   "n": 95,
+   "residual corr": 0.21266629090713185,
+   "p": 0.04647890158072965
+  },
+  {
+   "design": "random",
+   "construct": "Thought-Provoking",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 95,
+   "residual corr": 0.25613308525762607,
+   "p": 0.01243429166900345
+  },
+  {
+   "design": "random",
+   "construct": "Thought-Provoking",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-6 Luna",
+   "n": 95,
+   "residual corr": 0.5871675773410392,
+   "p": 0.00593722718186962
+  },
+  {
+   "design": "random",
+   "construct": "Thought-Provoking",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-5.4 mini",
+   "n": 95,
+   "residual corr": 0.33394860073393207,
+   "p": 0.011043475339276743
+  },
+  {
+   "design": "random",
+   "construct": "Thought-Provoking",
+   "model 1": "Gemma 3 12B",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 95,
+   "residual corr": 0.26008356485629314,
+   "p": 0.04361856276702292
+  },
+  {
+   "design": "random",
+   "construct": "Thought-Provoking",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-6 Luna",
+   "n": 95,
+   "residual corr": 0.24356897071499822,
+   "p": 0.04722992254159686
+  },
+  {
+   "design": "random",
+   "construct": "Thought-Provoking",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-5.4 mini",
+   "n": 95,
+   "residual corr": 0.37252769885514025,
+   "p": 0.0030965377365763658
+  },
+  {
+   "design": "random",
+   "construct": "Thought-Provoking",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-6 Luna",
+   "n": 95,
+   "residual corr": 0.41284009636167196,
+   "p": 0.002279557332411919
+  },
+  {
+   "design": "random",
+   "construct": "Thought-Provoking",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-5.4 mini",
+   "n": 95,
+   "residual corr": 0.32417048292685424,
+   "p": 0.008098790507519382
+  },
+  {
+   "design": "random",
+   "construct": "Ease",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Gemma 3 12B",
+   "n": 96,
+   "residual corr": 0.39939070900187507,
+   "p": 0.0024167971266155774
+  },
+  {
+   "design": "random",
+   "construct": "Ease",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 96,
+   "residual corr": 0.2661862629667061,
+   "p": 0.03323314785250853
+  },
+  {
+   "design": "random",
+   "construct": "Ease",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-6 Luna",
+   "n": 96,
+   "residual corr": 0.5709702639817168,
+   "p": 3.377833287565579e-05
+  },
+  {
+   "design": "random",
+   "construct": "Ease",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-5.4 mini",
+   "n": 96,
+   "residual corr": 0.5239036144108323,
+   "p": 2.602364462211959e-05
+  },
+  {
+   "design": "random",
+   "construct": "Ease",
+   "model 1": "Gemma 3 12B",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 96,
+   "residual corr": 0.15555379509531986,
+   "p": 0.16996266740489197
+  },
+  {
+   "design": "random",
+   "construct": "Ease",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-6 Luna",
+   "n": 96,
+   "residual corr": 0.4729269948067384,
+   "p": 0.00010431235485608426
+  },
+  {
+   "design": "random",
+   "construct": "Ease",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-5.4 mini",
+   "n": 96,
+   "residual corr": 0.5700963186013762,
+   "p": 8.337430523752687e-07
+  },
+  {
+   "design": "random",
+   "construct": "Ease",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-6 Luna",
+   "n": 96,
+   "residual corr": 0.09822103398488238,
+   "p": 0.1803131884840503
+  },
+  {
+   "design": "random",
+   "construct": "Ease",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-5.4 mini",
+   "n": 96,
+   "residual corr": 0.1390546462267248,
+   "p": 0.13764084462651915
+  },
+  {
+   "design": "random",
+   "construct": "Critic",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Gemma 3 12B",
+   "n": 98,
+   "residual corr": 0.47139898030683164,
+   "p": 0.00012074327406952357
+  },
+  {
+   "design": "random",
+   "construct": "Critic",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 98,
+   "residual corr": 0.45401278385046573,
+   "p": 0.0009355065945562124
+  },
+  {
+   "design": "random",
+   "construct": "Critic",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-6 Luna",
+   "n": 98,
+   "residual corr": 0.4631958994444459,
+   "p": 0.00017730288360695567
+  },
+  {
+   "design": "random",
+   "construct": "Critic",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-5.4 mini",
+   "n": 98,
+   "residual corr": 0.48129276015412703,
+   "p": 0.00027080164425474784
+  },
+  {
+   "design": "random",
+   "construct": "Critic",
+   "model 1": "Gemma 3 12B",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 98,
+   "residual corr": 0.24262475514515972,
+   "p": 0.036760050906812225
+  },
+  {
+   "design": "random",
+   "construct": "Critic",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-6 Luna",
+   "n": 98,
+   "residual corr": 0.5766130945794823,
+   "p": 3.755133353156026e-07
+  },
+  {
+   "design": "random",
+   "construct": "Critic",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-5.4 mini",
+   "n": 98,
+   "residual corr": 0.6082285995665294,
+   "p": 2.8425965425959987e-06
+  },
+  {
+   "design": "random",
+   "construct": "Critic",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-6 Luna",
+   "n": 98,
+   "residual corr": 0.134235376596823,
+   "p": 0.2572796105588331
+  },
+  {
+   "design": "random",
+   "construct": "Critic",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-5.4 mini",
+   "n": 98,
+   "residual corr": 0.32665691434831456,
+   "p": 0.00795534583416524
+  },
+  {
+   "design": "random",
+   "construct": "Surprise",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Gemma 3 12B",
+   "n": 96,
+   "residual corr": 0.23145533925828762,
+   "p": 0.09903055962555607
+  },
+  {
+   "design": "random",
+   "construct": "Surprise",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 96,
+   "residual corr": 0.32291526651354613,
+   "p": 0.0535710322313534
+  },
+  {
+   "design": "random",
+   "construct": "Surprise",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-6 Luna",
+   "n": 96,
+   "residual corr": 0.5400695177566923,
+   "p": 0.0037662870033736695
+  },
+  {
+   "design": "random",
+   "construct": "Surprise",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-5.4 mini",
+   "n": 96,
+   "residual corr": 0.47798155100982775,
+   "p": 0.003753826247481662
+  },
+  {
+   "design": "random",
+   "construct": "Surprise",
+   "model 1": "Gemma 3 12B",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 96,
+   "residual corr": 0.5342493229836432,
+   "p": 0.0040289606723531435
+  },
+  {
+   "design": "random",
+   "construct": "Surprise",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-6 Luna",
+   "n": 96,
+   "residual corr": 0.24637773339848215,
+   "p": 0.09428900456684053
+  },
+  {
+   "design": "random",
+   "construct": "Surprise",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-5.4 mini",
+   "n": 96,
+   "residual corr": 0.323013941526365,
+   "p": 0.00725339947873227
+  },
+  {
+   "design": "random",
+   "construct": "Surprise",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-6 Luna",
+   "n": 96,
+   "residual corr": 0.13502356637486101,
+   "p": 0.3758740089205992
+  },
+  {
+   "design": "random",
+   "construct": "Surprise",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-5.4 mini",
+   "n": 96,
+   "residual corr": 0.4599096876115691,
+   "p": 0.008715027212846005
+  },
+  {
+   "design": "latin",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Gemma 3 12B",
+   "n": 92,
+   "residual corr": 0.12331807614919958,
+   "p": 0.4449628010491855
+  },
+  {
+   "design": "latin",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 92,
+   "residual corr": -0.032255878978149015,
+   "p": 0.36987116708700807
+  },
+  {
+   "design": "latin",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.3402951299839371,
+   "p": 0.17786246853058074
+  },
+  {
+   "design": "latin",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.07198996805595011,
+   "p": 0.6241249898534913
+  },
+  {
+   "design": "latin",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Gemma 3 12B",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 92,
+   "residual corr": 0.28193919215980523,
+   "p": 0.34438687836037163
+  },
+  {
+   "design": "latin",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.2107795566674951,
+   "p": 0.20639705446083223
+  },
+  {
+   "design": "latin",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.3189614621405829,
+   "p": 0.07797232773451146
+  },
+  {
+   "design": "latin",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": -0.0036478424844990057,
+   "p": 0.8111127739858062
+  },
+  {
+   "design": "latin",
+   "construct": "Absence of Naive Realism",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.2793390239380343,
+   "p": 0.3017966919682422
+  },
+  {
+   "design": "latin",
+   "construct": "Theme",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Gemma 3 12B",
+   "n": 92,
+   "residual corr": 0.5525299694024544,
+   "p": 1.5701530979850276e-05
+  },
+  {
+   "design": "latin",
+   "construct": "Theme",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 92,
+   "residual corr": 0.44557134807918597,
+   "p": 0.000719739751642301
+  },
+  {
+   "design": "latin",
+   "construct": "Theme",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.4619562172087553,
+   "p": 0.0004549208570991947
+  },
+  {
+   "design": "latin",
+   "construct": "Theme",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.24705401016350825,
+   "p": 0.03879163797560148
+  },
+  {
+   "design": "latin",
+   "construct": "Theme",
+   "model 1": "Gemma 3 12B",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 92,
+   "residual corr": 0.20505376542346596,
+   "p": 0.07469723813878515
+  },
+  {
+   "design": "latin",
+   "construct": "Theme",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.4160013999854218,
+   "p": 0.0003055185740661326
+  },
+  {
+   "design": "latin",
+   "construct": "Theme",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.30526662462635373,
+   "p": 0.009785540278907767
+  },
+  {
+   "design": "latin",
+   "construct": "Theme",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.40334932575542226,
+   "p": 0.003548861248936497
+  },
+  {
+   "design": "latin",
+   "construct": "Theme",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.2439914059564433,
+   "p": 0.027928266191535656
+  },
+  {
+   "design": "latin",
+   "construct": "Thought-Provoking",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Gemma 3 12B",
+   "n": 92,
+   "residual corr": 0.1696794112377281,
+   "p": 0.0909824215858055
+  },
+  {
+   "design": "latin",
+   "construct": "Thought-Provoking",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 92,
+   "residual corr": 0.29338040044632197,
+   "p": 0.02949672123887792
+  },
+  {
+   "design": "latin",
+   "construct": "Thought-Provoking",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.30651603383037146,
+   "p": 0.09392542872426834
+  },
+  {
+   "design": "latin",
+   "construct": "Thought-Provoking",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.1497090446528256,
+   "p": 0.2691323586590908
+  },
+  {
+   "design": "latin",
+   "construct": "Thought-Provoking",
+   "model 1": "Gemma 3 12B",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 92,
+   "residual corr": 0.2032221504832092,
+   "p": 0.13111527791103983
+  },
+  {
+   "design": "latin",
+   "construct": "Thought-Provoking",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.22255743088200267,
+   "p": 0.08515960888502305
+  },
+  {
+   "design": "latin",
+   "construct": "Thought-Provoking",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.38942971255565345,
+   "p": 0.0064765283499905735
+  },
+  {
+   "design": "latin",
+   "construct": "Thought-Provoking",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.35406875637487784,
+   "p": 0.0027650477637295445
+  },
+  {
+   "design": "latin",
+   "construct": "Thought-Provoking",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.4362998389310711,
+   "p": 0.000820710641529665
+  },
+  {
+   "design": "latin",
+   "construct": "Ease",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Gemma 3 12B",
+   "n": 92,
+   "residual corr": 0.533656668519204,
+   "p": 1.4297631730109117e-05
+  },
+  {
+   "design": "latin",
+   "construct": "Ease",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 92,
+   "residual corr": 0.2309416038658708,
+   "p": 0.10895484348467854
+  },
+  {
+   "design": "latin",
+   "construct": "Ease",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.38148598700020614,
+   "p": 8.882752337102673e-05
+  },
+  {
+   "design": "latin",
+   "construct": "Ease",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.4221017713214831,
+   "p": 0.00011112637960897231
+  },
+  {
+   "design": "latin",
+   "construct": "Ease",
+   "model 1": "Gemma 3 12B",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 92,
+   "residual corr": 0.3884861765722119,
+   "p": 0.0022441396008483494
+  },
+  {
+   "design": "latin",
+   "construct": "Ease",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.46264233176554104,
+   "p": 1.9473890597643262e-05
+  },
+  {
+   "design": "latin",
+   "construct": "Ease",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.5566247555071362,
+   "p": 3.820962091616309e-06
+  },
+  {
+   "design": "latin",
+   "construct": "Ease",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.09344780719197614,
+   "p": 0.22012896488841727
+  },
+  {
+   "design": "latin",
+   "construct": "Ease",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.06768553942238069,
+   "p": 0.4294952555755376
+  },
+  {
+   "design": "latin",
+   "construct": "Critic",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Gemma 3 12B",
+   "n": 92,
+   "residual corr": 0.22509558076362937,
+   "p": 0.042412981598236366
+  },
+  {
+   "design": "latin",
+   "construct": "Critic",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 92,
+   "residual corr": 0.2439242217900899,
+   "p": 0.07196422068058994
+  },
+  {
+   "design": "latin",
+   "construct": "Critic",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.51115639283558,
+   "p": 0.00012399293070197714
+  },
+  {
+   "design": "latin",
+   "construct": "Critic",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.3841789097665045,
+   "p": 0.0032413577046574993
+  },
+  {
+   "design": "latin",
+   "construct": "Critic",
+   "model 1": "Gemma 3 12B",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 92,
+   "residual corr": 0.4341811535958329,
+   "p": 0.002772916532694625
+  },
+  {
+   "design": "latin",
+   "construct": "Critic",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.39545374647766685,
+   "p": 0.0013752143756056157
+  },
+  {
+   "design": "latin",
+   "construct": "Critic",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.5445167394072132,
+   "p": 4.4361052644825705e-05
+  },
+  {
+   "design": "latin",
+   "construct": "Critic",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.14150544580537314,
+   "p": 0.2517792979439244
+  },
+  {
+   "design": "latin",
+   "construct": "Critic",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.43484258308692336,
+   "p": 0.0025232704511530812
+  },
+  {
+   "design": "latin",
+   "construct": "Surprise",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Gemma 3 12B",
+   "n": 92,
+   "residual corr": 0.21832543237851695,
+   "p": 0.15884476779796008
+  },
+  {
+   "design": "latin",
+   "construct": "Surprise",
+   "model 1": "Sonnet 5.5",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 92,
+   "residual corr": 0.2265306531957257,
+   "p": 0.2443190815686651
+  },
+  {
+   "design": "latin",
+   "construct": "Surprise",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.5329400184551517,
+   "p": 0.006775553153535618
+  },
+  {
+   "design": "latin",
+   "construct": "Surprise",
+   "model 1": "Sonnet 5.5",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.4957483619112176,
+   "p": 0.0312909240781043
+  },
+  {
+   "design": "latin",
+   "construct": "Surprise",
+   "model 1": "Gemma 3 12B",
+   "model 2": "Qwen3-14B fine-tuned",
+   "n": 92,
+   "residual corr": 0.546157468789207,
+   "p": 0.013774201837735145
+  },
+  {
+   "design": "latin",
+   "construct": "Surprise",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.35464138340366047,
+   "p": 0.037248109027251175
+  },
+  {
+   "design": "latin",
+   "construct": "Surprise",
+   "model 1": "Gemma 3 12B",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.20557726271502974,
+   "p": 0.1413014195325113
+  },
+  {
+   "design": "latin",
+   "construct": "Surprise",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-6 Luna",
+   "n": 92,
+   "residual corr": 0.22733706275845791,
+   "p": 0.16820366712805868
+  },
+  {
+   "design": "latin",
+   "construct": "Surprise",
+   "model 1": "Qwen3-14B fine-tuned",
+   "model 2": "GPT-5.4 mini",
+   "n": 92,
+   "residual corr": 0.3392652237024447,
+   "p": 0.06683293482338182
+  }
+ ],
+ "Bo": [
+  {
+   "design": "random",
+   "construct": "Absence of Naive Realism",
+   "prevalence": 0.10268701197880797,
+   "BVR total": 13.873195290630733,
+   "bootstrap p": 0.04950495049504951,
+   "worst group pair": "Gemma \u2013 GPT",
+   "worst pair BVR": 7.437851003045253,
+   "BVR Sonnet \u2013 Gemma": 0.026834020237939325,
+   "BVR Sonnet \u2013 Qwen-FT": 0.787825692054543,
+   "BVR Sonnet \u2013 GPT": 0.5074432397983273,
+   "BVR Gemma \u2013 Qwen-FT": 3.1060386376597977,
+   "BVR Gemma \u2013 GPT": 7.437851003045253,
+   "BVR Qwen-FT \u2013 GPT": 2.007202697834873
+  },
+  {
+   "design": "random",
+   "construct": "Theme",
+   "prevalence": 0.4627628016658109,
+   "BVR total": 7.579201037695437,
+   "bootstrap p": 0.10891089108910891,
+   "worst group pair": "Sonnet \u2013 GPT",
+   "worst pair BVR": 3.5149990977144956,
+   "BVR Sonnet \u2013 Gemma": 0.9021937435509981,
+   "BVR Sonnet \u2013 Qwen-FT": 0.19570127353332367,
+   "BVR Sonnet \u2013 GPT": 3.5149990977144956,
+   "BVR Gemma \u2013 Qwen-FT": 0.33951621339555205,
+   "BVR Gemma \u2013 GPT": 1.8163449021555833,
+   "BVR Qwen-FT \u2013 GPT": 0.8104458073454848
+  },
+  {
+   "design": "random",
+   "construct": "Thought-Provoking",
+   "prevalence": 0.26960953645151403,
+   "BVR total": 10.805476040622697,
+   "bootstrap p": 0.09900990099009901,
+   "worst group pair": "Sonnet \u2013 GPT",
+   "worst pair BVR": 8.428529495083744,
+   "BVR Sonnet \u2013 Gemma": 0.921328404660381,
+   "BVR Sonnet \u2013 Qwen-FT": 0.08875670115523823,
+   "BVR Sonnet \u2013 GPT": 8.428529495083744,
+   "BVR Gemma \u2013 Qwen-FT": 0.007532889047477549,
+   "BVR Gemma \u2013 GPT": 0.7534228977657718,
+   "BVR Qwen-FT \u2013 GPT": 0.6059056529100844
+  },
+  {
+   "design": "random",
+   "construct": "Ease",
+   "prevalence": 0.2877399970544287,
+   "BVR total": 15.827264263556948,
+   "bootstrap p": 0.0297029702970297,
+   "worst group pair": "Qwen-FT \u2013 GPT",
+   "worst pair BVR": 8.64889059633071,
+   "BVR Sonnet \u2013 Gemma": 0.05872707487300459,
+   "BVR Sonnet \u2013 Qwen-FT": 0.0016450109503458165,
+   "BVR Sonnet \u2013 GPT": 1.6100870959446103,
+   "BVR Gemma \u2013 Qwen-FT": 0.04727602874391595,
+   "BVR Gemma \u2013 GPT": 5.46063845671436,
+   "BVR Qwen-FT \u2013 GPT": 8.64889059633071
+  },
+  {
+   "design": "random",
+   "construct": "Critic",
+   "prevalence": 0.49865764444557026,
+   "BVR total": 19.743799504124567,
+   "bootstrap p": 0.009900990099009901,
+   "worst group pair": "Gemma \u2013 Qwen-FT",
+   "worst pair BVR": 6.494093301297783,
+   "BVR Sonnet \u2013 Gemma": 0.04993091985602611,
+   "BVR Sonnet \u2013 Qwen-FT": 0.011032822752595529,
+   "BVR Sonnet \u2013 GPT": 3.9685273903729343,
+   "BVR Gemma \u2013 Qwen-FT": 6.494093301297783,
+   "BVR Gemma \u2013 GPT": 4.266315164269107,
+   "BVR Qwen-FT \u2013 GPT": 4.95389990557612
+  },
+  {
+   "design": "random",
+   "construct": "Surprise",
+   "prevalence": 0.1604979443254859,
+   "BVR total": 17.328110816917487,
+   "bootstrap p": 0.0297029702970297,
+   "worst group pair": "Sonnet \u2013 GPT",
+   "worst pair BVR": 12.193843347114344,
+   "BVR Sonnet \u2013 Gemma": 0.013823578231185624,
+   "BVR Sonnet \u2013 Qwen-FT": 0.35426009916126533,
+   "BVR Sonnet \u2013 GPT": 12.193843347114344,
+   "BVR Gemma \u2013 Qwen-FT": 0.018737838097991965,
+   "BVR Gemma \u2013 GPT": 2.840881954603904,
+   "BVR Qwen-FT \u2013 GPT": 1.9065639997087993
+  },
+  {
+   "design": "latin",
+   "construct": "Absence of Naive Realism",
+   "prevalence": 0.09415089832578483,
+   "BVR total": 13.529461499880064,
+   "bootstrap p": 0.0297029702970297,
+   "worst group pair": "Gemma \u2013 GPT",
+   "worst pair BVR": 7.52451552712141,
+   "BVR Sonnet \u2013 Gemma": 0.05106536117982788,
+   "BVR Sonnet \u2013 Qwen-FT": 0.037805191904926934,
+   "BVR Sonnet \u2013 GPT": 0.12043968440473904,
+   "BVR Gemma \u2013 Qwen-FT": 3.5650046371745994,
+   "BVR Gemma \u2013 GPT": 7.52451552712141,
+   "BVR Qwen-FT \u2013 GPT": 2.2306310980945603
+  },
+  {
+   "design": "latin",
+   "construct": "Theme",
+   "prevalence": 0.5326061723945219,
+   "BVR total": 10.296583012394006,
+   "bootstrap p": 0.15841584158415842,
+   "worst group pair": "Sonnet \u2013 GPT",
+   "worst pair BVR": 3.6487848687771436,
+   "BVR Sonnet \u2013 Gemma": 1.3342575722497927,
+   "BVR Sonnet \u2013 Qwen-FT": 1.3152464135663653,
+   "BVR Sonnet \u2013 GPT": 3.6487848687771436,
+   "BVR Gemma \u2013 Qwen-FT": 2.7933418369517486,
+   "BVR Gemma \u2013 GPT": 0.5811038444379449,
+   "BVR Qwen-FT \u2013 GPT": 0.6238484764110127
+  },
+  {
+   "design": "latin",
+   "construct": "Thought-Provoking",
+   "prevalence": 0.22431755182895685,
+   "BVR total": 14.62979735905786,
+   "bootstrap p": 0.0297029702970297,
+   "worst group pair": "Sonnet \u2013 GPT",
+   "worst pair BVR": 10.49497864259439,
+   "BVR Sonnet \u2013 Gemma": 0.1048660982421282,
+   "BVR Sonnet \u2013 Qwen-FT": 0.025873150630512633,
+   "BVR Sonnet \u2013 GPT": 10.49497864259439,
+   "BVR Gemma \u2013 Qwen-FT": 0.6300382877058692,
+   "BVR Gemma \u2013 GPT": 2.815330335748819,
+   "BVR Qwen-FT \u2013 GPT": 0.5587108441361432
+  },
+  {
+   "design": "latin",
+   "construct": "Ease",
+   "prevalence": 0.2964681480381424,
+   "BVR total": 13.232157902954555,
+   "bootstrap p": 0.009900990099009901,
+   "worst group pair": "Qwen-FT \u2013 GPT",
+   "worst pair BVR": 6.80099752550946,
+   "BVR Sonnet \u2013 Gemma": 0.060977680259428166,
+   "BVR Sonnet \u2013 Qwen-FT": 0.26538375180237017,
+   "BVR Sonnet \u2013 GPT": 1.4509874908263012,
+   "BVR Gemma \u2013 Qwen-FT": 1.0298851466434773,
+   "BVR Gemma \u2013 GPT": 3.6239263079135173,
+   "BVR Qwen-FT \u2013 GPT": 6.80099752550946
+  },
+  {
+   "design": "latin",
+   "construct": "Critic",
+   "prevalence": 0.4976325159827496,
+   "BVR total": 15.233306351701327,
+   "bootstrap p": 0.009900990099009901,
+   "worst group pair": "Gemma \u2013 Qwen-FT",
+   "worst pair BVR": 6.156510615320597,
+   "BVR Sonnet \u2013 Gemma": 0.07747532901015589,
+   "BVR Sonnet \u2013 Qwen-FT": 0.017211257903629765,
+   "BVR Sonnet \u2013 GPT": 4.948242300445392,
+   "BVR Gemma \u2013 Qwen-FT": 6.156510615320597,
+   "BVR Gemma \u2013 GPT": 1.502117097278209,
+   "BVR Qwen-FT \u2013 GPT": 2.5317497517433436
+  },
+  {
+   "design": "latin",
+   "construct": "Surprise",
+   "prevalence": 0.19761526926410908,
+   "BVR total": 12.453439261834736,
+   "bootstrap p": 0.06930693069306931,
+   "worst group pair": "Qwen-FT \u2013 GPT",
+   "worst pair BVR": 5.927080256264867,
+   "BVR Sonnet \u2013 Gemma": 0.0987839784687603,
+   "BVR Sonnet \u2013 Qwen-FT": 4.920871835942486,
+   "BVR Sonnet \u2013 GPT": 0.8286684527268795,
+   "BVR Gemma \u2013 Qwen-FT": 0.09831572403551925,
+   "BVR Gemma \u2013 GPT": 0.5797190143962248,
+   "BVR Qwen-FT \u2013 GPT": 5.927080256264867
+  }
+ ],
+ "Bs": [
+  {
+   "design": "random",
+   "construct": "Absence of Naive Realism",
+   "min subset prevalence": 0.05397167510346918,
+   "max subset prevalence": 0.11099910852123945,
+   "heterogeneity p": 0.21311475409836064,
+   "Sonnet + Gemma + Qwen-FT": 0.05397167510346918,
+   "Sonnet + Gemma + GPT": 0.11099910852123945,
+   "Sonnet + Qwen-FT + GPT": 0.094198057037144,
+   "Gemma + Qwen-FT + GPT": 0.09065386541073046
+  },
+  {
+   "design": "random",
+   "construct": "Theme",
+   "min subset prevalence": 0.40119483643027526,
+   "max subset prevalence": 0.5158760127512451,
+   "heterogeneity p": 0.09836065573770492,
+   "Sonnet + Gemma + Qwen-FT": 0.40119483643027526,
+   "Sonnet + Gemma + GPT": 0.4182893665711742,
+   "Sonnet + Qwen-FT + GPT": 0.4353574844868326,
+   "Gemma + Qwen-FT + GPT": 0.5158760127512451
+  },
+  {
+   "design": "random",
+   "construct": "Thought-Provoking",
+   "min subset prevalence": 0.17590840082356346,
+   "max subset prevalence": 0.284314181170603,
+   "heterogeneity p": 0.08196721311475409,
+   "Sonnet + Gemma + Qwen-FT": 0.19258994628300727,
+   "Sonnet + Gemma + GPT": 0.24055175561439843,
+   "Sonnet + Qwen-FT + GPT": 0.17590840082356346,
+   "Gemma + Qwen-FT + GPT": 0.284314181170603
+  },
+  {
+   "design": "random",
+   "construct": "Ease",
+   "min subset prevalence": 0.2517522973002257,
+   "max subset prevalence": 0.4297191103722046,
+   "heterogeneity p": 0.06557377049180328,
+   "Sonnet + Gemma + Qwen-FT": 0.2517522973002257,
+   "Sonnet + Gemma + GPT": 0.29690687717096836,
+   "Sonnet + Qwen-FT + GPT": 0.3379609468198864,
+   "Gemma + Qwen-FT + GPT": 0.4297191103722046
+  },
+  {
+   "design": "random",
+   "construct": "Critic",
+   "min subset prevalence": 0.4563474155901442,
+   "max subset prevalence": 0.5652128354106447,
+   "heterogeneity p": 0.21311475409836064,
+   "Sonnet + Gemma + Qwen-FT": 0.4563474155901442,
+   "Sonnet + Gemma + GPT": 0.5652128354106447,
+   "Sonnet + Qwen-FT + GPT": 0.531725394546608,
+   "Gemma + Qwen-FT + GPT": 0.523298343209228
+  },
+  {
+   "design": "random",
+   "construct": "Surprise",
+   "min subset prevalence": 0.15491702038953897,
+   "max subset prevalence": 0.22957937391686173,
+   "heterogeneity p": 0.11475409836065574,
+   "Sonnet + Gemma + Qwen-FT": 0.15491702038953897,
+   "Sonnet + Gemma + GPT": 0.22957937391686173,
+   "Sonnet + Qwen-FT + GPT": 0.20884483696968453,
+   "Gemma + Qwen-FT + GPT": 0.18463309705573194
+  },
+  {
+   "design": "latin",
+   "construct": "Absence of Naive Realism",
+   "min subset prevalence": 0.06415738810998252,
+   "max subset prevalence": 0.13414160977160713,
+   "heterogeneity p": 0.11475409836065574,
+   "Sonnet + Gemma + Qwen-FT": 0.06415738810998252,
+   "Sonnet + Gemma + GPT": 0.13414160977160713,
+   "Sonnet + Qwen-FT + GPT": 0.09439809915625591,
+   "Gemma + Qwen-FT + GPT": 0.11462406840835968
+  },
+  {
+   "design": "latin",
+   "construct": "Theme",
+   "min subset prevalence": 0.35010282543507665,
+   "max subset prevalence": 0.5408956542074131,
+   "heterogeneity p": 0.03278688524590164,
+   "Sonnet + Gemma + Qwen-FT": 0.35010282543507665,
+   "Sonnet + Gemma + GPT": 0.5408956542074131,
+   "Sonnet + Qwen-FT + GPT": 0.5081566241301071,
+   "Gemma + Qwen-FT + GPT": 0.532509790473695
+  },
+  {
+   "design": "latin",
+   "construct": "Thought-Provoking",
+   "min subset prevalence": 0.1556951927013706,
+   "max subset prevalence": 0.2552395640668248,
+   "heterogeneity p": 0.16393442622950818,
+   "Sonnet + Gemma + Qwen-FT": 0.2170351924511067,
+   "Sonnet + Gemma + GPT": 0.2070257121317506,
+   "Sonnet + Qwen-FT + GPT": 0.1556951927013706,
+   "Gemma + Qwen-FT + GPT": 0.2552395640668248
+  },
+  {
+   "design": "latin",
+   "construct": "Ease",
+   "min subset prevalence": 0.2391399740909161,
+   "max subset prevalence": 0.4351962050767205,
+   "heterogeneity p": 0.01639344262295082,
+   "Sonnet + Gemma + Qwen-FT": 0.2391399740909161,
+   "Sonnet + Gemma + GPT": 0.34681142116969627,
+   "Sonnet + Qwen-FT + GPT": 0.4152534008878663,
+   "Gemma + Qwen-FT + GPT": 0.4351962050767205
+  },
+  {
+   "design": "latin",
+   "construct": "Critic",
+   "min subset prevalence": 0.46275074696708696,
+   "max subset prevalence": 0.5365030941318266,
+   "heterogeneity p": 0.47540983606557374,
+   "Sonnet + Gemma + Qwen-FT": 0.46275074696708696,
+   "Sonnet + Gemma + GPT": 0.510747445926085,
+   "Sonnet + Qwen-FT + GPT": 0.5365030941318266,
+   "Gemma + Qwen-FT + GPT": 0.4897126947039025
+  },
+  {
+   "design": "latin",
+   "construct": "Surprise",
+   "min subset prevalence": 0.19771662771724005,
+   "max subset prevalence": 0.221375451871166,
+   "heterogeneity p": 0.7704918032786885,
+   "Sonnet + Gemma + Qwen-FT": 0.19771662771724005,
+   "Sonnet + Gemma + GPT": 0.21759473917250186,
+   "Sonnet + Qwen-FT + GPT": 0.221375451871166,
+   "Gemma + Qwen-FT + GPT": 0.2092861281564679
+  }
+ ]
+}

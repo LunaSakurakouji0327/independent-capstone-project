@@ -1,0 +1,15 @@
+2,000,000 lines, 13s, full matches 5,932
+4,000,000 lines, 27s, full matches 11,924
+6,000,000 lines, 40s, full matches 17,845
+8,000,000 lines, 54s, full matches 23,887
+10,000,000 lines, 69s, full matches 30,667
+12,000,000 lines, 82s, full matches 37,005
+14,000,000 lines, 96s, full matches 43,452
+match_type
+exact_text           45959
+prefix200             3269
+unmatched              566
+ambiguous              186
+exact_text+rating       20
+rating agrees: 49248 of 49248
+done in 103s

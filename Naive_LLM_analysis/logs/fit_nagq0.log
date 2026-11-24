@@ -1,0 +1,31 @@
+[1] "C:\\Users\\gujia\\AppData\\Local\\Temp\\RtmpO08HoA/glmm_qmd_code.R"
+nAGQ = 0 | models to fit: g1, g2, g3, g4, g5, g6, g7 
+[[1]]
+NULL
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+g1: 8.2 min (converged OK)
+g2: 7.9 min (converged OK)
+g3: 6.6 min (converged OK)
+g4: 7.5 min (converged OK)
+g5: 7.9 min (converged OK)
+g6: 7.4 min (converged OK)
+g7: 7.1 min (converged OK)
+All done in 8.2 min

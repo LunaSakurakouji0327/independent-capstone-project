@@ -1,0 +1,856 @@
+{
+ "kappa": {
+  "Qwen3-14B fine-tuned (5-fold CV) | Absence of Naive Realism": [
+   0.27419354838709664,
+   -0.032110091743119185,
+   0.5942967329278234
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Theme": [
+   0.6231155778894473,
+   0.4553684404766089,
+   0.7675062578222778
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Thought-Provoking": [
+   0.5628946090335114,
+   0.3546581321718124,
+   0.735710277654622
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Ease": [
+   0.5078740157480315,
+   0.30492149758454107,
+   0.6808740321620012
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Critic": [
+   0.6190858059342422,
+   0.46223750991276763,
+   0.7404255366656395
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Surprise": [
+   0.20382165605095537,
+   -0.07361963190184051,
+   0.446027889365798
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Change": [
+   -0.025104602510460206,
+   -0.04561717352415034,
+   0.0
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Macro mean (excl. Change)": [
+   0.4651642021738807,
+   0.36721626125852014,
+   0.5445452216826397
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Absence of Naive Realism": [
+   0.3396226415094339,
+   0.03409090909090917,
+   0.5916386983802714
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Theme": [
+   0.24841772151898733,
+   0.07275981377385597,
+   0.44095577501073413
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Thought-Provoking": [
+   0.43093636833936877,
+   0.21151056775797766,
+   0.6177487975550285
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Ease": [
+   0.14350355526826108,
+   0.057355305633223455,
+   0.2500172699158762
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Critic": [
+   0.5789895749799518,
+   0.41522219273873817,
+   0.7195730337078651
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Surprise": [
+   0.4428969359331476,
+   0.1770911127707245,
+   0.6252852153667053
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Change": [
+   0.38493723849372385,
+   -0.025104602510460206,
+   0.8780817613412436
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Macro mean (excl. Change)": [
+   0.3640611329248584,
+   0.26705856710411563,
+   0.43743001358885913
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Absence of Naive Realism": [
+   0.45945945945945954,
+   0.09444858420268253,
+   0.723096566908169
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Theme": [
+   0.2597898758357211,
+   0.05520936754679378,
+   0.4323387672536887
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Thought-Provoking": [
+   0.3708971553610504,
+   0.15349406837477256,
+   0.5753759398496239
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Ease": [
+   0.4556765163297045,
+   0.29680756537192177,
+   0.6099364254700202
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Critic": [
+   0.6365105008077545,
+   0.4701282962825143,
+   0.7775080906148867
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Surprise": [
+   0.5588235294117647,
+   0.32882575086808896,
+   0.7686535490876834
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Change": [
+   -0.015544041450777257,
+   -0.03219800960878515,
+   0.0
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Macro mean (excl. Change)": [
+   0.45685950620090915,
+   0.3542400698033538,
+   0.5332326298503618
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Absence of Naive Realism": [
+   0.29487179487179493,
+   -0.04712041884816753,
+   0.6051635968159936
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Theme": [
+   0.43336355394378967,
+   0.2135347395238184,
+   0.6304617715835323
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Thought-Provoking": [
+   0.22744128553770082,
+   0.03669724770642191,
+   0.4211009161491549
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Ease": [
+   0.5998315080033698,
+   0.4288201630464125,
+   0.7365377221462748
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Critic": [
+   0.5497259201252936,
+   0.39843928816662855,
+   0.6841097200991151
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Surprise": [
+   0.6065808297567954,
+   0.3943518767437805,
+   0.7907618498847578
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Change": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Macro mean (excl. Change)": [
+   0.4519691487064574,
+   0.3685535010218282,
+   0.5281318342637213
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Absence of Naive Realism": [
+   0.3396226415094339,
+   0.06887515644555689,
+   0.5932995062402302
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Theme": [
+   0.34709351305812974,
+   0.14349249543976533,
+   0.5333050487908357
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Thought-Provoking": [
+   0.37677053824362605,
+   0.1564288403614458,
+   0.5593262344730943
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Ease": [
+   0.30959302325581406,
+   0.18103071120962952,
+   0.45304682831042437
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Critic": [
+   0.4349181605611846,
+   0.28675904541955344,
+   0.5936032863849763
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Surprise": [
+   0.5350500715307582,
+   0.3130230290064809,
+   0.7031803956948625
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Change": [
+   0.480106100795756,
+   -0.024860244186844026,
+   0.852017937219731
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Macro mean (excl. Change)": [
+   0.3905079913598244,
+   0.30530865174255833,
+   0.4484450684761516
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Absence of Naive Realism": [
+   0.33333333333333337,
+   0.005805911473500303,
+   0.5856100523916172
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Theme": [
+   0.371859296482412,
+   0.17898193760262726,
+   0.5496512436517915
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Thought-Provoking": [
+   0.40505701536936045,
+   0.18081232171452513,
+   0.5855556019543157
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Ease": [
+   0.4147157190635452,
+   0.2306801346669732,
+   0.5964625048350328
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Critic": [
+   0.37791601866251945,
+   0.2157518347368648,
+   0.531977844248454
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Surprise": [
+   0.5591939546599496,
+   0.35569905026901744,
+   0.7272727272727273
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Change": [
+   0.3731343283582089,
+   -0.027972027972027913,
+   0.7400530503978779
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Macro mean (excl. Change)": [
+   0.41034588959518664,
+   0.3239785902565066,
+   0.47767536104499136
+  ]
+ },
+ "accuracy": {
+  "Qwen3-14B fine-tuned (5-fold CV) | Absence of Naive Realism": [
+   0.91,
+   0.85,
+   0.96
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Theme": [
+   0.82,
+   0.74,
+   0.89
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Thought-Provoking": [
+   0.82,
+   0.74,
+   0.9
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Ease": [
+   0.8,
+   0.71475,
+   0.87
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Critic": [
+   0.81,
+   0.73,
+   0.87
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Surprise": [
+   0.85,
+   0.78,
+   0.91
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Change": [
+   0.9489795918367347,
+   0.9081632653061225,
+   0.9897959183673469
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Macro mean (excl. Change)": [
+   0.835,
+   0.8000000000000002,
+   0.865
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Absence of Naive Realism": [
+   0.86,
+   0.79,
+   0.93
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Theme": [
+   0.62,
+   0.52,
+   0.72
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Thought-Provoking": [
+   0.78,
+   0.7,
+   0.86
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Ease": [
+   0.47,
+   0.36475,
+   0.57
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Critic": [
+   0.79,
+   0.71,
+   0.86
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Surprise": [
+   0.84,
+   0.76475,
+   0.9
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Change": [
+   0.9693877551020408,
+   0.9292929292929293,
+   1.0
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Macro mean (excl. Change)": [
+   0.7266666666666666,
+   0.6833333333333332,
+   0.765
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Absence of Naive Realism": [
+   0.92,
+   0.86,
+   0.97
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Theme": [
+   0.69,
+   0.59,
+   0.77
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Thought-Provoking": [
+   0.77,
+   0.69,
+   0.85
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Ease": [
+   0.72,
+   0.63475,
+   0.81
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Critic": [
+   0.82,
+   0.74,
+   0.89
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Surprise": [
+   0.88,
+   0.81,
+   0.94
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Change": [
+   0.9591836734693877,
+   0.9191919191919192,
+   0.99
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Macro mean (excl. Change)": [
+   0.7999999999999999,
+   0.765,
+   0.8258749999999999
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Absence of Naive Realism": [
+   0.89,
+   0.83,
+   0.95
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Theme": [
+   0.75,
+   0.65475,
+   0.84
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Thought-Provoking": [
+   0.75,
+   0.66,
+   0.83
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Ease": [
+   0.81,
+   0.73,
+   0.88
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Critic": [
+   0.77,
+   0.69,
+   0.84
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Surprise": [
+   0.89,
+   0.83,
+   0.95
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Change": [
+   0.9693877551020408,
+   0.9378060567010309,
+   1.0
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Macro mean (excl. Change)": [
+   0.81,
+   0.7816666666666666,
+   0.8392083333333332
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Absence of Naive Realism": [
+   0.86,
+   0.79,
+   0.92
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Theme": [
+   0.69,
+   0.59,
+   0.78
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Thought-Provoking": [
+   0.78,
+   0.7,
+   0.85
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Ease": [
+   0.62,
+   0.53,
+   0.71
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Critic": [
+   0.71,
+   0.63,
+   0.7952499999999998
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Surprise": [
+   0.87,
+   0.81,
+   0.9252499999999998
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Change": [
+   0.9591836734693877,
+   0.9170747422680412,
+   0.98989898989899
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Macro mean (excl. Change)": [
+   0.755,
+   0.7233333333333333,
+   0.7833333333333333
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Absence of Naive Realism": [
+   0.88,
+   0.81,
+   0.94
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Theme": [
+   0.7,
+   0.6,
+   0.79
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Thought-Provoking": [
+   0.76,
+   0.66,
+   0.84
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Ease": [
+   0.72,
+   0.63,
+   0.82
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Critic": [
+   0.68,
+   0.59475,
+   0.76
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Surprise": [
+   0.86,
+   0.79,
+   0.92
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Change": [
+   0.9387755102040817,
+   0.8894166666666666,
+   0.9797979797979798
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Macro mean (excl. Change)": [
+   0.7666666666666666,
+   0.735,
+   0.7983333333333333
+  ]
+ },
+ "f1": {
+  "Qwen3-14B fine-tuned (5-fold CV) | Absence of Naive Realism": [
+   0.3076923076923077,
+   0.0,
+   0.625
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Theme": [
+   0.7692307692307693,
+   0.662061403508772,
+   0.8661940298507462
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Thought-Provoking": [
+   0.6896551724137931,
+   0.5399839743589744,
+   0.8201134930643127
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Ease": [
+   0.6428571428571429,
+   0.4727272727272727,
+   0.7808879573170732
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Critic": [
+   0.7956989247311828,
+   0.7016924564796906,
+   0.8686868686868687
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Surprise": [
+   0.2857142857142857,
+   0.0,
+   0.5173835125448027
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Change": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "Qwen3-14B fine-tuned (5-fold CV) | Macro mean (excl. Change)": [
+   0.5818081004399135,
+   0.49513856731708406,
+   0.6510471092672435
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Absence of Naive Realism": [
+   0.4166666666666667,
+   0.125,
+   0.64
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Theme": [
+   0.5681818181818182,
+   0.4427287581699346,
+   0.6923076923076923
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Thought-Provoking": [
+   0.5769230769230769,
+   0.3902439024390244,
+   0.7272727272727273
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Ease": [
+   0.5391304347826087,
+   0.4173863636363636,
+   0.6446418808091853
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Critic": [
+   0.7741935483870968,
+   0.6772168674698795,
+   0.8484848484848485
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Surprise": [
+   0.5294117647058824,
+   0.2777777777777778,
+   0.7027027027027027
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Change": [
+   0.4,
+   0.0,
+   0.883333333333333
+  ],
+  "Qwen3-14B zero-shot (same prompt v1) | Macro mean (excl. Change)": [
+   0.5674178849411916,
+   0.48453892405293264,
+   0.6297296344923451
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Absence of Naive Realism": [
+   0.5,
+   0.1480769230769231,
+   0.75
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Theme": [
+   0.45614035087719296,
+   0.2879032258064516,
+   0.5970149253731343
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Thought-Provoking": [
+   0.5106382978723404,
+   0.3076923076923077,
+   0.6736666666666664
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Ease": [
+   0.6744186046511628,
+   0.5555555555555556,
+   0.7749803921568627
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Critic": [
+   0.8,
+   0.6923076923076923,
+   0.88
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Surprise": [
+   0.625,
+   0.4,
+   0.8116976351351352
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Change": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "GPT-4o (prompt v2, Exp. 3) | Macro mean (excl. Change)": [
+   0.5943662089001159,
+   0.4981142418674204,
+   0.6679889797085401
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Absence of Naive Realism": [
+   0.35294117647058826,
+   0.0,
+   0.6522727272727266
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Theme": [
+   0.6153846153846154,
+   0.43636363636363634,
+   0.7567567567567568
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Thought-Provoking": [
+   0.32432432432432434,
+   0.12301136363636364,
+   0.5122540250447227
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Ease": [
+   0.7466666666666667,
+   0.63,
+   0.8382955536181342
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Critic": [
+   0.7766990291262136,
+   0.6885237068965517,
+   0.8534199522102748
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Surprise": [
+   0.6666666666666666,
+   0.463974358974359,
+   0.8353682170542636
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Change": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "Sonnet 5.5 (prompt v2, Exp. 3) | Macro mean (excl. Change)": [
+   0.5804470797731792,
+   0.4956362865167806,
+   0.64588277369959
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Absence of Naive Realism": [
+   0.4166666666666667,
+   0.13333333333333333,
+   0.6581081081081077
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Theme": [
+   0.5974025974025974,
+   0.47228422619047616,
+   0.7124999999999999
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Thought-Provoking": [
+   0.5,
+   0.2822259136212625,
+   0.6666666666666666
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Ease": [
+   0.6041666666666666,
+   0.48807430516165623,
+   0.7081313131313131
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Critic": [
+   0.7238095238095238,
+   0.6358647566884348,
+   0.810589468779124
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Surprise": [
+   0.6060606060606061,
+   0.3870967741935484,
+   0.7594594594594594
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Change": [
+   0.5,
+   0.0,
+   0.8571428571428571
+  ],
+  "Qwen3-14B Ollama (prompt v2, Exp. 3) | Macro mean (excl. Change)": [
+   0.5746843434343435,
+   0.49273895449540817,
+   0.6316379897696907
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Absence of Naive Realism": [
+   0.4,
+   0.1,
+   0.623886639676113
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Theme": [
+   0.6153846153846154,
+   0.4860810810810811,
+   0.7380434782608695
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Thought-Provoking": [
+   0.5714285714285714,
+   0.37368972746331236,
+   0.7167136018023091
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Ease": [
+   0.631578947368421,
+   0.48924657534246574,
+   0.7514112903225806
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Critic": [
+   0.6981132075471698,
+   0.6010215053763441,
+   0.7882359315177346
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Surprise": [
+   0.631578947368421,
+   0.42232142857142857,
+   0.7920794025157233
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Change": [
+   0.4,
+   0.0,
+   0.75
+  ],
+  "Gemma 3 12B (prompt v2, Exp. 3) | Macro mean (excl. Change)": [
+   0.5913473815161998,
+   0.5125970235213673,
+   0.6547059748956957
+  ]
+ },
+ "diff_kappa": {
+  "FT - Qwen3-14B zero-shot (same prompt v1) | Absence of Naive Realism": [
+   -0.06542909312233725,
+   -0.39057653036417567,
+   0.28673499641520384,
+   0.334
+  ],
+  "FT - Qwen3-14B zero-shot (same prompt v1) | Theme": [
+   0.37469785637045994,
+   0.23733683331386543,
+   0.5355464483042336,
+   1.0
+  ],
+  "FT - Qwen3-14B zero-shot (same prompt v1) | Thought-Provoking": [
+   0.13195824069414264,
+   -0.08875553524670267,
+   0.35069256295224993,
+   0.87
+  ],
+  "FT - Qwen3-14B zero-shot (same prompt v1) | Ease": [
+   0.3643704604797704,
+   0.14939965366267824,
+   0.5370558246678625,
+   1.0
+  ],
+  "FT - Qwen3-14B zero-shot (same prompt v1) | Critic": [
+   0.04009623095429038,
+   -0.061161213681136466,
+   0.1406230439951209,
+   0.76
+  ],
+  "FT - Qwen3-14B zero-shot (same prompt v1) | Surprise": [
+   -0.23907527988219224,
+   -0.5098186374078385,
+   0.012133763372303409,
+   0.038
+  ],
+  "FT - Qwen3-14B zero-shot (same prompt v1) | Change": [
+   -0.41004184100418406,
+   -0.8888888888888888,
+   0.0,
+   0.0
+  ],
+  "FT - Qwen3-14B zero-shot (same prompt v1) | Macro mean (excl. Change)": [
+   0.10110306924902229,
+   0.0025044465910936684,
+   0.20600727895473106,
+   0.98
+  ],
+  "FT - GPT-4o (prompt v2, Exp. 3) | Absence of Naive Realism": [
+   -0.1852659110723629,
+   -0.4939641202902193,
+   0.0954335795627101,
+   0.12
+  ],
+  "FT - GPT-4o (prompt v2, Exp. 3) | Theme": [
+   0.36332570205372616,
+   0.16138393020930047,
+   0.5528222746013571,
+   1.0
+  ],
+  "FT - GPT-4o (prompt v2, Exp. 3) | Thought-Provoking": [
+   0.19199745367246102,
+   -0.018897777715803536,
+   0.39060362769245455,
+   0.968
+  ],
+  "FT - GPT-4o (prompt v2, Exp. 3) | Ease": [
+   0.052197499418326965,
+   -0.14856359816963083,
+   0.25628038519797763,
+   0.696
+  ],
+  "FT - GPT-4o (prompt v2, Exp. 3) | Critic": [
+   -0.01742469487351228,
+   -0.19655398023484383,
+   0.16515656289772132,
+   0.428
+  ],
+  "FT - GPT-4o (prompt v2, Exp. 3) | Surprise": [
+   -0.35500187336080935,
+   -0.697608603186682,
+   -0.01550175808057737,
+   0.022
+  ],
+  "FT - GPT-4o (prompt v2, Exp. 3) | Change": [
+   -0.009560561059682948,
+   -0.030293191522326547,
+   0.0,
+   0.0
+  ],
+  "FT - GPT-4o (prompt v2, Exp. 3) | Macro mean (excl. Change)": [
+   0.008304695972971565,
+   -0.09742555952587875,
+   0.10849922686443518,
+   0.576
+  ]
+ },
+ "prevalence": {
+  "Absence of Naive Realism": [
+   10,
+   100
+  ],
+  "Theme": [
+   36,
+   100
+  ],
+  "Thought-Provoking": [
+   29,
+   100
+  ],
+  "Ease": [
+   32,
+   100
+  ],
+  "Critic": [
+   44,
+   100
+  ],
+  "Surprise": [
+   12,
+   100
+  ],
+  "Change": [
+   3,
+   98
+  ]
+ }
+}

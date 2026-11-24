@@ -1,0 +1,28 @@
+{
+ "macro_kappa_2ep": 0.4651642021738807,
+ "macro_kappa_1ep": 0.40069694390520655,
+ "acc_2ep": 0.835,
+ "acc_1ep": 0.81,
+ "per_construct_kappa_2ep": {
+  "Absence of Naive Realism": 0.27419354838709664,
+  "Theme": 0.6231155778894473,
+  "Thought-Provoking": 0.5628946090335114,
+  "Ease": 0.5078740157480315,
+  "Critic": 0.6190858059342422,
+  "Surprise": 0.20382165605095537
+ },
+ "per_construct_kappa_1ep": {
+  "Absence of Naive Realism": 0.13793103448275867,
+  "Theme": 0.4313395113732097,
+  "Thought-Provoking": 0.3850267379679144,
+  "Ease": 0.3821292775665399,
+  "Critic": 0.6799999999999999,
+  "Surprise": 0.3877551020408164
+ },
+ "diff_1ep_minus_2ep": [
+  -0.064146328251738,
+  -0.1445392249532936,
+  0.009711422889116946,
+  0.042
+ ]
+}

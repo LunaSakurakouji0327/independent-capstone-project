@@ -1,0 +1,6 @@
+{
+ "model": "text-embedding-3-large",
+ "texts": 250,
+ "tokens": 53530,
+ "cost_usd": 0.0069589000000000005
+}

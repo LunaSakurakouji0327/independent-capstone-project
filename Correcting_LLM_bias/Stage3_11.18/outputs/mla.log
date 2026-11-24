@@ -1,0 +1,38 @@
+A Absence of Naive Realism 0.094 0.023 -0.466 0.187 37s
+A Theme 0.345 0.043 0.222 0.157 38s
+A Thought-Provoking 0.266 0.036 0.355 0.13 38s
+A Ease 0.37 0.042 0.456 0.151 37s
+A Critic 0.446 0.045 -0.675 0.143 39s
+A Surprise 0.113 0.022 0.012 0.105 41s
+B Absence of Naive Realism 799s
+B Theme 670s
+B Thought-Provoking 645s
+B Ease 688s
+B Critic 592s
+B Surprise 661s
+            part                construct   n  draw  prevalence  prevalence SE  rating coef  rating coef SE  n_actual
+A (original 100) Absence of Naive Realism 100     0       0.094          0.023       -0.466           0.187       NaN
+A (original 100)                    Theme 100     0       0.345          0.043        0.222           0.157       NaN
+A (original 100)        Thought-Provoking 100     0       0.266          0.036        0.355           0.130       NaN
+A (original 100)                     Ease 100     0       0.370          0.042        0.456           0.151       NaN
+A (original 100)                   Critic 100     0       0.446          0.045       -0.675           0.143       NaN
+A (original 100)                 Surprise 100     0       0.113          0.022        0.012           0.105       NaN
+               construct   n  prevalence  mean_SE  SD_across_draws  rating_coef  rating_mean_SE  rating_SD_across_draws  draws  n_actual
+Absence of Naive Realism 100       0.139    0.040            0.028       -0.006           0.155                   0.392     20     100.0
+Absence of Naive Realism 200       0.123    0.046            0.014       -0.198           0.166                   0.208     20     200.0
+Absence of Naive Realism 300       0.126    0.044              NaN       -0.155           0.152                     NaN      1     273.0
+                  Critic 100       0.504    0.032            0.024       -0.563           0.117                   0.179     20     100.0
+                  Critic 200       0.484    0.027            0.015       -0.544           0.118                   0.093     20     200.0
+                  Critic 300       0.475    0.025              NaN       -0.544           0.113                     NaN      1     272.0
+                    Ease 100       0.344    0.046            0.062        0.421           0.195                   0.148     20     100.0
+                    Ease 200       0.331    0.035            0.018        0.468           0.199                   0.048     20     200.0
+                    Ease 300       0.326    0.030              NaN        0.468           0.160                     NaN      1     273.0
+                Surprise 100       0.182    0.027            0.032        0.053           0.121                   0.096     20     100.0
+                Surprise 200       0.184    0.023            0.013        0.048           0.118                   0.069     20     200.0
+                Surprise 300       0.180    0.021              NaN        0.040           0.106                     NaN      1     274.0
+                   Theme 100       0.433    0.037            0.035        0.343           0.143                   0.090     20     100.0
+                   Theme 200       0.418    0.031            0.018        0.254           0.144                   0.093     20     200.0
+                   Theme 300       0.422    0.027              NaN        0.228           0.137                     NaN      1     276.0
+       Thought-Provoking 100       0.300    0.037            0.040        0.627           0.115                   0.120     20     100.0
+       Thought-Provoking 200       0.286    0.032            0.013        0.442           0.118                   0.080     20     200.0
+       Thought-Provoking 300       0.285    0.028              NaN        0.400           0.111                     NaN      1     273.0

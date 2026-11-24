@@ -1,0 +1,840 @@
+{"review_id": 0, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 911, "raw": "0"}
+{"review_id": 0, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 884, "raw": "0"}
+{"review_id": 1, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1019, "raw": "0"}
+{"review_id": 0, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 906, "raw": "0"}
+{"review_id": 0, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1017, "raw": "0"}
+{"review_id": 0, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 883, "raw": "1"}
+{"review_id": 0, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 751, "raw": "0"}
+{"review_id": 0, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 820, "raw": "0"}
+{"review_id": 1, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 885, "raw": "1"}
+{"review_id": 1, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 908, "raw": "0"}
+{"review_id": 1, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 886, "raw": "0"}
+{"review_id": 1, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 753, "raw": "0"}
+{"review_id": 2, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1011, "raw": "0"}
+{"review_id": 1, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 822, "raw": "0"}
+{"review_id": 1, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 913, "raw": "0"}
+{"review_id": 2, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 900, "raw": "0"}
+{"review_id": 2, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 814, "raw": "0"}
+{"review_id": 2, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 877, "raw": "0"}
+{"review_id": 2, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 905, "raw": "0"}
+{"review_id": 3, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1044, "raw": "0"}
+{"review_id": 2, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 745, "raw": "0"}
+{"review_id": 3, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 847, "raw": "0"}
+{"review_id": 3, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 933, "raw": "0"}
+{"review_id": 2, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 878, "raw": "0"}
+{"review_id": 3, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 938, "raw": "0"}
+{"review_id": 3, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 910, "raw": "1"}
+{"review_id": 3, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 911, "raw": "0"}
+{"review_id": 4, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 999, "raw": "0"}
+{"review_id": 4, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 865, "raw": "1"}
+{"review_id": 4, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 802, "raw": "0"}
+{"review_id": 4, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 888, "raw": "1"}
+{"review_id": 3, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 778, "raw": "0"}
+{"review_id": 4, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 893, "raw": "0"}
+{"review_id": 4, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 866, "raw": "0"}
+{"review_id": 5, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1911, "raw": "0"}
+{"review_id": 4, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 733, "raw": "0"}
+{"review_id": 5, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1777, "raw": "0"}
+{"review_id": 5, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1714, "raw": "1"}
+{"review_id": 5, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1805, "raw": "1"}
+{"review_id": 5, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1800, "raw": "1"}
+{"review_id": 5, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1778, "raw": "1"}
+{"review_id": 6, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1391, "raw": "0"}
+{"review_id": 6, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1257, "raw": "0"}
+{"review_id": 6, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1280, "raw": "0"}
+{"review_id": 5, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1645, "raw": "0"}
+{"review_id": 6, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1285, "raw": "1"}
+{"review_id": 6, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1194, "raw": "0"}
+{"review_id": 6, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1258, "raw": "0"}
+{"review_id": 6, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1125, "raw": "0"}
+{"review_id": 7, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1425, "raw": "0"}
+{"review_id": 7, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1314, "raw": "1"}
+{"review_id": 7, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1228, "raw": "1"}
+{"review_id": 7, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1291, "raw": "1"}
+{"review_id": 7, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1319, "raw": "1"}
+{"review_id": 7, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1159, "raw": "0"}
+{"review_id": 7, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1292, "raw": "0"}
+{"review_id": 8, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 978, "raw": "0"}
+{"review_id": 8, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 867, "raw": "0"}
+{"review_id": 8, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 781, "raw": "0"}
+{"review_id": 8, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 844, "raw": "0"}
+{"review_id": 8, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 872, "raw": "0"}
+{"review_id": 8, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 712, "raw": "0"}
+{"review_id": 8, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 845, "raw": "0"}
+{"review_id": 9, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1060, "raw": "0"}
+{"review_id": 9, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 949, "raw": "0"}
+{"review_id": 9, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 863, "raw": "0"}
+{"review_id": 9, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 954, "raw": "1"}
+{"review_id": 9, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 927, "raw": "0"}
+{"review_id": 10, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1958, "raw": "1"}
+{"review_id": 10, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 2044, "raw": "1"}
+{"review_id": 10, "construct": "Absence of Naive Realism", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 2155, "raw": "1"}
+{"review_id": 9, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 794, "raw": "0"}
+{"review_id": 10, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 2021, "raw": "1"}
+{"review_id": 9, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 926, "raw": "0"}
+{"review_id": 10, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 2049, "raw": "1"}
+{"review_id": 10, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 2022, "raw": "0"}
+{"review_id": 11, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1592, "raw": "0"}
+{"review_id": 10, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1889, "raw": "0"}
+{"review_id": 11, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1395, "raw": "1"}
+{"review_id": 11, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1486, "raw": "1"}
+{"review_id": 11, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1481, "raw": "0"}
+{"review_id": 11, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1458, "raw": "0"}
+{"review_id": 11, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1459, "raw": "1"}
+{"review_id": 12, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1271, "raw": "0"}
+{"review_id": 11, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1326, "raw": "0"}
+{"review_id": 12, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1137, "raw": "0"}
+{"review_id": 12, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1074, "raw": "0"}
+{"review_id": 12, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1165, "raw": "1"}
+{"review_id": 12, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1138, "raw": "0"}
+{"review_id": 12, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1005, "raw": "0"}
+{"review_id": 13, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1269, "raw": "0"}
+{"review_id": 12, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1160, "raw": "0"}
+{"review_id": 13, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1158, "raw": "1"}
+{"review_id": 13, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1135, "raw": "1"}
+{"review_id": 13, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1136, "raw": "0"}
+{"review_id": 13, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1072, "raw": "1"}
+{"review_id": 13, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1163, "raw": "1"}
+{"review_id": 13, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1003, "raw": "0"}
+{"review_id": 14, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1027, "raw": "0"}
+{"review_id": 14, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 941, "raw": "0"}
+{"review_id": 14, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1138, "raw": "0"}
+{"review_id": 14, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1004, "raw": "1"}
+{"review_id": 14, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1032, "raw": "1"}
+{"review_id": 14, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 872, "raw": "0"}
+{"review_id": 14, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1005, "raw": "0"}
+{"review_id": 15, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1726, "raw": "0"}
+{"review_id": 15, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1615, "raw": "0"}
+{"review_id": 15, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1592, "raw": "1"}
+{"review_id": 15, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1529, "raw": "0"}
+{"review_id": 15, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1620, "raw": "1"}
+{"review_id": 15, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1593, "raw": "1"}
+{"review_id": 16, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 997, "raw": "0"}
+{"review_id": 15, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1460, "raw": "0"}
+{"review_id": 16, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 886, "raw": "0"}
+{"review_id": 16, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 863, "raw": "0"}
+{"review_id": 16, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 800, "raw": "0"}
+{"review_id": 16, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 864, "raw": "1"}
+{"review_id": 17, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1082, "raw": "0"}
+{"review_id": 16, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 891, "raw": "1"}
+{"review_id": 16, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 731, "raw": "0"}
+{"review_id": 17, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 971, "raw": "0"}
+{"review_id": 17, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 948, "raw": "1"}
+{"review_id": 17, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 885, "raw": "0"}
+{"review_id": 17, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 976, "raw": "1"}
+{"review_id": 18, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1018, "raw": "0"}
+{"review_id": 17, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 949, "raw": "1"}
+{"review_id": 18, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 907, "raw": "0"}
+{"review_id": 17, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 816, "raw": "0"}
+{"review_id": 18, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 821, "raw": "0"}
+{"review_id": 18, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 884, "raw": "1"}
+{"review_id": 18, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 912, "raw": "0"}
+{"review_id": 19, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1392, "raw": "0"}
+{"review_id": 19, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1281, "raw": "0"}
+{"review_id": 18, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 885, "raw": "0"}
+{"review_id": 18, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 752, "raw": "0"}
+{"review_id": 19, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1258, "raw": "1"}
+{"review_id": 19, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1195, "raw": "0"}
+{"review_id": 19, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1286, "raw": "1"}
+{"review_id": 19, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1259, "raw": "1"}
+{"review_id": 19, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1126, "raw": "0"}
+{"review_id": 20, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 990, "raw": "0"}
+{"review_id": 20, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 793, "raw": "0"}
+{"review_id": 20, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 879, "raw": "0"}
+{"review_id": 20, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 856, "raw": "1"}
+{"review_id": 20, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 857, "raw": "0"}
+{"review_id": 21, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 981, "raw": "0"}
+{"review_id": 20, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 724, "raw": "0"}
+{"review_id": 21, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 870, "raw": "0"}
+{"review_id": 20, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 884, "raw": "0"}
+{"review_id": 21, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 847, "raw": "1"}
+{"review_id": 21, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 875, "raw": "0"}
+{"review_id": 21, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 715, "raw": "0"}
+{"review_id": 22, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 2091, "raw": "0"}
+{"review_id": 21, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 848, "raw": "0"}
+{"review_id": 22, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1980, "raw": "1"}
+{"review_id": 22, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1894, "raw": "0"}
+{"review_id": 22, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1957, "raw": "1"}
+{"review_id": 22, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1985, "raw": "1"}
+{"review_id": 22, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1958, "raw": "1"}
+{"review_id": 23, "construct": "Absence of Naive Realism", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1432, "raw": "1"}
+{"review_id": 22, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1825, "raw": "0"}
+{"review_id": 21, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 784, "raw": "0"}
+{"review_id": 23, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1321, "raw": "1"}
+{"review_id": 23, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1235, "raw": "1"}
+{"review_id": 23, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1298, "raw": "1"}
+{"review_id": 23, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1326, "raw": "1"}
+{"review_id": 23, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1299, "raw": "0"}
+{"review_id": 24, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 989, "raw": "0"}
+{"review_id": 24, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 926, "raw": "0"}
+{"review_id": 24, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1123, "raw": "0"}
+{"review_id": 24, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1012, "raw": "0"}
+{"review_id": 23, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1166, "raw": "0"}
+{"review_id": 24, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1017, "raw": "0"}
+{"review_id": 24, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 990, "raw": "1"}
+{"review_id": 24, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 857, "raw": "0"}
+{"review_id": 25, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 979, "raw": "0"}
+{"review_id": 25, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 873, "raw": "0"}
+{"review_id": 25, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 845, "raw": "1"}
+{"review_id": 25, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 868, "raw": "0"}
+{"review_id": 25, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 846, "raw": "0"}
+{"review_id": 25, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 782, "raw": "0"}
+{"review_id": 25, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 713, "raw": "0"}
+{"review_id": 26, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1452, "raw": "0"}
+{"review_id": 26, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1318, "raw": "1"}
+{"review_id": 26, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1341, "raw": "1"}
+{"review_id": 26, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1319, "raw": "0"}
+{"review_id": 26, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1255, "raw": "1"}
+{"review_id": 26, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1346, "raw": "0"}
+{"review_id": 27, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 996, "raw": "0"}
+{"review_id": 26, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1186, "raw": "0"}
+{"review_id": 27, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 885, "raw": "0"}
+{"review_id": 27, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 799, "raw": "0"}
+{"review_id": 27, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 862, "raw": "1"}
+{"review_id": 27, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 890, "raw": "0"}
+{"review_id": 27, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 863, "raw": "0"}
+{"review_id": 28, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1094, "raw": "0"}
+{"review_id": 28, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 983, "raw": "0"}
+{"review_id": 27, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 730, "raw": "0"}
+{"review_id": 28, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 897, "raw": "0"}
+{"review_id": 28, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 988, "raw": "1"}
+{"review_id": 29, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1120, "raw": "0"}
+{"review_id": 28, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 828, "raw": "0"}
+{"review_id": 28, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 961, "raw": "0"}
+{"review_id": 28, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 960, "raw": "0"}
+{"review_id": 29, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1009, "raw": "0"}
+{"review_id": 29, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 923, "raw": "0"}
+{"review_id": 29, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 986, "raw": "0"}
+{"review_id": 29, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1014, "raw": "1"}
+{"review_id": 29, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 854, "raw": "0"}
+{"review_id": 30, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1063, "raw": "0"}
+{"review_id": 30, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 952, "raw": "0"}
+{"review_id": 29, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 987, "raw": "0"}
+{"review_id": 30, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 866, "raw": "0"}
+{"review_id": 30, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 929, "raw": "1"}
+{"review_id": 30, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 957, "raw": "0"}
+{"review_id": 31, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1345, "raw": "0"}
+{"review_id": 31, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1234, "raw": "0"}
+{"review_id": 30, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 930, "raw": "1"}
+{"review_id": 31, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1211, "raw": "1"}
+{"review_id": 31, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1148, "raw": "0"}
+{"review_id": 30, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 797, "raw": "0"}
+{"review_id": 31, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1239, "raw": "1"}
+{"review_id": 31, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1212, "raw": "1"}
+{"review_id": 31, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1079, "raw": "0"}
+{"review_id": 32, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1218, "raw": "0"}
+{"review_id": 32, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1107, "raw": "1"}
+{"review_id": 32, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1021, "raw": "1"}
+{"review_id": 32, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1112, "raw": "1"}
+{"review_id": 32, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1085, "raw": "1"}
+{"review_id": 32, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1084, "raw": "0"}
+{"review_id": 32, "construct": "Change", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 952, "raw": "1"}
+{"review_id": 33, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1030, "raw": "0"}
+{"review_id": 33, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 919, "raw": "0"}
+{"review_id": 33, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 833, "raw": "0"}
+{"review_id": 33, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 924, "raw": "1"}
+{"review_id": 33, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 897, "raw": "0"}
+{"review_id": 34, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 979, "raw": "0"}
+{"review_id": 33, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 896, "raw": "1"}
+{"review_id": 33, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 764, "raw": "0"}
+{"review_id": 34, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 868, "raw": "1"}
+{"review_id": 34, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 782, "raw": "0"}
+{"review_id": 35, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1297, "raw": "0"}
+{"review_id": 34, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 845, "raw": "0"}
+{"review_id": 34, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 873, "raw": "0"}
+{"review_id": 34, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 846, "raw": "1"}
+{"review_id": 34, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 713, "raw": "0"}
+{"review_id": 35, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1186, "raw": "0"}
+{"review_id": 35, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1163, "raw": "0"}
+{"review_id": 35, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1100, "raw": "0"}
+{"review_id": 36, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1104, "raw": "0"}
+{"review_id": 35, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1164, "raw": "0"}
+{"review_id": 35, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1031, "raw": "0"}
+{"review_id": 36, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 993, "raw": "1"}
+{"review_id": 35, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1191, "raw": "0"}
+{"review_id": 36, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 907, "raw": "1"}
+{"review_id": 36, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 970, "raw": "0"}
+{"review_id": 36, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 998, "raw": "0"}
+{"review_id": 37, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1650, "raw": "0"}
+{"review_id": 36, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 838, "raw": "0"}
+{"review_id": 36, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 971, "raw": "0"}
+{"review_id": 37, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1539, "raw": "0"}
+{"review_id": 37, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1453, "raw": "0"}
+{"review_id": 37, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1516, "raw": "0"}
+{"review_id": 37, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1544, "raw": "0"}
+{"review_id": 38, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1022, "raw": "0"}
+{"review_id": 37, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1517, "raw": "0"}
+{"review_id": 38, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 911, "raw": "0"}
+{"review_id": 37, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1384, "raw": "0"}
+{"review_id": 38, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 888, "raw": "1"}
+{"review_id": 38, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 916, "raw": "0"}
+{"review_id": 38, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 825, "raw": "0"}
+{"review_id": 38, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 889, "raw": "0"}
+{"review_id": 38, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 756, "raw": "0"}
+{"review_id": 39, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 966, "raw": "0"}
+{"review_id": 39, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1029, "raw": "1"}
+{"review_id": 39, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1052, "raw": "0"}
+{"review_id": 39, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1163, "raw": "0"}
+{"review_id": 39, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1057, "raw": "0"}
+{"review_id": 39, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 897, "raw": "0"}
+{"review_id": 39, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1030, "raw": "0"}
+{"review_id": 40, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1151, "raw": "0"}
+{"review_id": 40, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1040, "raw": "0"}
+{"review_id": 40, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1017, "raw": "0"}
+{"review_id": 40, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 954, "raw": "0"}
+{"review_id": 40, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1045, "raw": "0"}
+{"review_id": 40, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1018, "raw": "1"}
+{"review_id": 40, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 885, "raw": "0"}
+{"review_id": 41, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1035, "raw": "0"}
+{"review_id": 41, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 924, "raw": "0"}
+{"review_id": 41, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 901, "raw": "1"}
+{"review_id": 42, "construct": "Absence of Naive Realism", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1313, "raw": "1"}
+{"review_id": 41, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 902, "raw": "0"}
+{"review_id": 41, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 929, "raw": "0"}
+{"review_id": 41, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 838, "raw": "0"}
+{"review_id": 41, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 769, "raw": "0"}
+{"review_id": 42, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1202, "raw": "0"}
+{"review_id": 42, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1116, "raw": "0"}
+{"review_id": 42, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1179, "raw": "0"}
+{"review_id": 42, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1207, "raw": "0"}
+{"review_id": 43, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1239, "raw": "0"}
+{"review_id": 43, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1128, "raw": "0"}
+{"review_id": 42, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1180, "raw": "0"}
+{"review_id": 42, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1047, "raw": "0"}
+{"review_id": 43, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1133, "raw": "0"}
+{"review_id": 43, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1105, "raw": "1"}
+{"review_id": 43, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1042, "raw": "0"}
+{"review_id": 44, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1102, "raw": "0"}
+{"review_id": 44, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 991, "raw": "0"}
+{"review_id": 43, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 973, "raw": "0"}
+{"review_id": 43, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1106, "raw": "0"}
+{"review_id": 44, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 905, "raw": "0"}
+{"review_id": 44, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 996, "raw": "1"}
+{"review_id": 44, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 968, "raw": "1"}
+{"review_id": 44, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 969, "raw": "0"}
+{"review_id": 45, "construct": "Absence of Naive Realism", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 996, "raw": "1"}
+{"review_id": 44, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 836, "raw": "0"}
+{"review_id": 45, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 885, "raw": "0"}
+{"review_id": 45, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 799, "raw": "0"}
+{"review_id": 45, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 890, "raw": "0"}
+{"review_id": 45, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 863, "raw": "1"}
+{"review_id": 45, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 862, "raw": "0"}
+{"review_id": 45, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 730, "raw": "0"}
+{"review_id": 46, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1133, "raw": "0"}
+{"review_id": 46, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 936, "raw": "0"}
+{"review_id": 46, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1022, "raw": "0"}
+{"review_id": 46, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 999, "raw": "1"}
+{"review_id": 46, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1027, "raw": "1"}
+{"review_id": 46, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1000, "raw": "0"}
+{"review_id": 47, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1412, "raw": "0"}
+{"review_id": 46, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 867, "raw": "0"}
+{"review_id": 47, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1301, "raw": "1"}
+{"review_id": 47, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1215, "raw": "1"}
+{"review_id": 47, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1278, "raw": "0"}
+{"review_id": 47, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1306, "raw": "1"}
+{"review_id": 47, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1279, "raw": "1"}
+{"review_id": 48, "construct": "Absence of Naive Realism", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1232, "raw": "1"}
+{"review_id": 47, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1146, "raw": "0"}
+{"review_id": 48, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1121, "raw": "1"}
+{"review_id": 48, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1126, "raw": "1"}
+{"review_id": 48, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1035, "raw": "0"}
+{"review_id": 48, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1099, "raw": "0"}
+{"review_id": 48, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1098, "raw": "1"}
+{"review_id": 49, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1051, "raw": "0"}
+{"review_id": 49, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 940, "raw": "0"}
+{"review_id": 48, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 966, "raw": "0"}
+{"review_id": 49, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 854, "raw": "0"}
+{"review_id": 49, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 945, "raw": "1"}
+{"review_id": 49, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 917, "raw": "1"}
+{"review_id": 49, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 785, "raw": "0"}
+{"review_id": 49, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 918, "raw": "0"}
+{"review_id": 50, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 976, "raw": "0"}
+{"review_id": 50, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 865, "raw": "0"}
+{"review_id": 50, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 842, "raw": "0"}
+{"review_id": 50, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 779, "raw": "0"}
+{"review_id": 50, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 870, "raw": "0"}
+{"review_id": 50, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 843, "raw": "0"}
+{"review_id": 51, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 997, "raw": "0"}
+{"review_id": 50, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 710, "raw": "0"}
+{"review_id": 51, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 886, "raw": "0"}
+{"review_id": 51, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 863, "raw": "0"}
+{"review_id": 51, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 800, "raw": "0"}
+{"review_id": 51, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 891, "raw": "0"}
+{"review_id": 51, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 864, "raw": "0"}
+{"review_id": 51, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 731, "raw": "0"}
+{"review_id": 52, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1041, "raw": "0"}
+{"review_id": 52, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 930, "raw": "0"}
+{"review_id": 52, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 844, "raw": "0"}
+{"review_id": 52, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 907, "raw": "1"}
+{"review_id": 52, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 935, "raw": "0"}
+{"review_id": 52, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 908, "raw": "0"}
+{"review_id": 52, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 775, "raw": "0"}
+{"review_id": 53, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1298, "raw": "0"}
+{"review_id": 53, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1164, "raw": "0"}
+{"review_id": 53, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1101, "raw": "0"}
+{"review_id": 53, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1187, "raw": "0"}
+{"review_id": 53, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1032, "raw": "0"}
+{"review_id": 53, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1165, "raw": "0"}
+{"review_id": 53, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1192, "raw": "1"}
+{"review_id": 54, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1383, "raw": "0"}
+{"review_id": 54, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1272, "raw": "1"}
+{"review_id": 54, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1249, "raw": "1"}
+{"review_id": 54, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1186, "raw": "1"}
+{"review_id": 54, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1277, "raw": "1"}
+{"review_id": 54, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1250, "raw": "0"}
+{"review_id": 54, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1117, "raw": "0"}
+{"review_id": 55, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1449, "raw": "0"}
+{"review_id": 55, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1338, "raw": "1"}
+{"review_id": 55, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1252, "raw": "0"}
+{"review_id": 55, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1343, "raw": "1"}
+{"review_id": 55, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1316, "raw": "0"}
+{"review_id": 55, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1315, "raw": "1"}
+{"review_id": 55, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1183, "raw": "0"}
+{"review_id": 56, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1406, "raw": "0"}
+{"review_id": 56, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1383, "raw": "1"}
+{"review_id": 56, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1517, "raw": "0"}
+{"review_id": 56, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1411, "raw": "0"}
+{"review_id": 56, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1384, "raw": "0"}
+{"review_id": 56, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1320, "raw": "0"}
+{"review_id": 56, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1251, "raw": "0"}
+{"review_id": 57, "construct": "Absence of Naive Realism", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1150, "raw": "1"}
+{"review_id": 57, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1039, "raw": "0"}
+{"review_id": 57, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1016, "raw": "0"}
+{"review_id": 57, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 953, "raw": "0"}
+{"review_id": 57, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1044, "raw": "0"}
+{"review_id": 58, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1014, "raw": "0"}
+{"review_id": 57, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 884, "raw": "0"}
+{"review_id": 57, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1017, "raw": "0"}
+{"review_id": 58, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 903, "raw": "0"}
+{"review_id": 58, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 880, "raw": "0"}
+{"review_id": 58, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 881, "raw": "0"}
+{"review_id": 58, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 817, "raw": "0"}
+{"review_id": 58, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 908, "raw": "0"}
+{"review_id": 58, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 748, "raw": "0"}
+{"review_id": 59, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 901, "raw": "1"}
+{"review_id": 59, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 924, "raw": "0"}
+{"review_id": 59, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1035, "raw": "0"}
+{"review_id": 59, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 838, "raw": "0"}
+{"review_id": 59, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 929, "raw": "0"}
+{"review_id": 59, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 902, "raw": "0"}
+{"review_id": 59, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 769, "raw": "0"}
+{"review_id": 60, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1062, "raw": "0"}
+{"review_id": 60, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 865, "raw": "0"}
+{"review_id": 60, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 951, "raw": "1"}
+{"review_id": 60, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 928, "raw": "1"}
+{"review_id": 60, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 956, "raw": "1"}
+{"review_id": 60, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 929, "raw": "0"}
+{"review_id": 61, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1025, "raw": "0"}
+{"review_id": 60, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 796, "raw": "0"}
+{"review_id": 61, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 914, "raw": "0"}
+{"review_id": 61, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 828, "raw": "0"}
+{"review_id": 62, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 993, "raw": "0"}
+{"review_id": 61, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 891, "raw": "1"}
+{"review_id": 61, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 759, "raw": "0"}
+{"review_id": 61, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 892, "raw": "0"}
+{"review_id": 61, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 919, "raw": "0"}
+{"review_id": 62, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 882, "raw": "0"}
+{"review_id": 62, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 859, "raw": "1"}
+{"review_id": 63, "construct": "Absence of Naive Realism", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1996, "raw": "1"}
+{"review_id": 62, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 887, "raw": "0"}
+{"review_id": 63, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1885, "raw": "0"}
+{"review_id": 62, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 860, "raw": "0"}
+{"review_id": 62, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 727, "raw": "0"}
+{"review_id": 63, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1799, "raw": "0"}
+{"review_id": 63, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1862, "raw": "1"}
+{"review_id": 64, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1099, "raw": "0"}
+{"review_id": 63, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1730, "raw": "0"}
+{"review_id": 63, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1863, "raw": "0"}
+{"review_id": 63, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1890, "raw": "1"}
+{"review_id": 64, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 988, "raw": "0"}
+{"review_id": 64, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 902, "raw": "0"}
+{"review_id": 62, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 796, "raw": "0"}
+{"review_id": 64, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 965, "raw": "0"}
+{"review_id": 64, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 993, "raw": "0"}
+{"review_id": 65, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1011, "raw": "0"}
+{"review_id": 64, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 833, "raw": "0"}
+{"review_id": 64, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 966, "raw": "0"}
+{"review_id": 65, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 900, "raw": "0"}
+{"review_id": 65, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 814, "raw": "0"}
+{"review_id": 65, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 905, "raw": "0"}
+{"review_id": 65, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 745, "raw": "0"}
+{"review_id": 65, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 877, "raw": "0"}
+{"review_id": 65, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 878, "raw": "0"}
+{"review_id": 66, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 902, "raw": "0"}
+{"review_id": 66, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1013, "raw": "0"}
+{"review_id": 66, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 816, "raw": "0"}
+{"review_id": 66, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 879, "raw": "0"}
+{"review_id": 66, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 907, "raw": "0"}
+{"review_id": 67, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 880, "raw": "0"}
+{"review_id": 66, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 880, "raw": "0"}
+{"review_id": 67, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 794, "raw": "0"}
+{"review_id": 67, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 991, "raw": "0"}
+{"review_id": 67, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 857, "raw": "1"}
+{"review_id": 66, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 747, "raw": "0"}
+{"review_id": 67, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 885, "raw": "0"}
+{"review_id": 68, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1100, "raw": "0"}
+{"review_id": 68, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 989, "raw": "0"}
+{"review_id": 67, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 858, "raw": "0"}
+{"review_id": 67, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 725, "raw": "0"}
+{"review_id": 68, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 903, "raw": "0"}
+{"review_id": 68, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 994, "raw": "0"}
+{"review_id": 68, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 966, "raw": "1"}
+{"review_id": 68, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 967, "raw": "0"}
+{"review_id": 69, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 990, "raw": "0"}
+{"review_id": 68, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 834, "raw": "0"}
+{"review_id": 69, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 879, "raw": "0"}
+{"review_id": 69, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 793, "raw": "0"}
+{"review_id": 69, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 856, "raw": "1"}
+{"review_id": 69, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 857, "raw": "0"}
+{"review_id": 69, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 884, "raw": "0"}
+{"review_id": 69, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 724, "raw": "0"}
+{"review_id": 70, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1087, "raw": "0"}
+{"review_id": 70, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 976, "raw": "0"}
+{"review_id": 70, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 953, "raw": "0"}
+{"review_id": 70, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 981, "raw": "1"}
+{"review_id": 70, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 954, "raw": "0"}
+{"review_id": 70, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 821, "raw": "0"}
+{"review_id": 70, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 890, "raw": "1"}
+{"review_id": 71, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1097, "raw": "0"}
+{"review_id": 71, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 986, "raw": "0"}
+{"review_id": 71, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 963, "raw": "1"}
+{"review_id": 71, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 964, "raw": "0"}
+{"review_id": 71, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 900, "raw": "0"}
+{"review_id": 72, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1183, "raw": "0"}
+{"review_id": 72, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1072, "raw": "0"}
+{"review_id": 71, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 991, "raw": "1"}
+{"review_id": 71, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 831, "raw": "0"}
+{"review_id": 72, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 986, "raw": "0"}
+{"review_id": 72, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1049, "raw": "0"}
+{"review_id": 73, "construct": "Absence of Naive Realism", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1335, "raw": "1"}
+{"review_id": 72, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1050, "raw": "1"}
+{"review_id": 72, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1077, "raw": "1"}
+{"review_id": 73, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1224, "raw": "1"}
+{"review_id": 72, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 917, "raw": "0"}
+{"review_id": 73, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1138, "raw": "1"}
+{"review_id": 73, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1201, "raw": "1"}
+{"review_id": 73, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1229, "raw": "1"}
+{"review_id": 74, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 975, "raw": "0"}
+{"review_id": 73, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1202, "raw": "1"}
+{"review_id": 73, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1069, "raw": "0"}
+{"review_id": 74, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 864, "raw": "0"}
+{"review_id": 74, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 841, "raw": "0"}
+{"review_id": 74, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 778, "raw": "0"}
+{"review_id": 74, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 842, "raw": "0"}
+{"review_id": 74, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 869, "raw": "0"}
+{"review_id": 75, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1102, "raw": "0"}
+{"review_id": 74, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 709, "raw": "0"}
+{"review_id": 75, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 991, "raw": "0"}
+{"review_id": 75, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 905, "raw": "0"}
+{"review_id": 75, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 968, "raw": "1"}
+{"review_id": 75, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 996, "raw": "0"}
+{"review_id": 75, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 969, "raw": "0"}
+{"review_id": 76, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 975, "raw": "0"}
+{"review_id": 75, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 836, "raw": "0"}
+{"review_id": 76, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 841, "raw": "0"}
+{"review_id": 76, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 778, "raw": "0"}
+{"review_id": 76, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 864, "raw": "0"}
+{"review_id": 76, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 869, "raw": "0"}
+{"review_id": 76, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 842, "raw": "0"}
+{"review_id": 77, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1315, "raw": "0"}
+{"review_id": 76, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 709, "raw": "0"}
+{"review_id": 77, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1181, "raw": "0"}
+{"review_id": 77, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1204, "raw": "1"}
+{"review_id": 77, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1182, "raw": "0"}
+{"review_id": 77, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1209, "raw": "0"}
+{"review_id": 77, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1049, "raw": "0"}
+{"review_id": 77, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1118, "raw": "0"}
+{"review_id": 78, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1151, "raw": "0"}
+{"review_id": 78, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1017, "raw": "0"}
+{"review_id": 78, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1040, "raw": "0"}
+{"review_id": 78, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 954, "raw": "0"}
+{"review_id": 78, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1045, "raw": "1"}
+{"review_id": 78, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 885, "raw": "0"}
+{"review_id": 78, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1018, "raw": "0"}
+{"review_id": 79, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1173, "raw": "0"}
+{"review_id": 79, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1062, "raw": "0"}
+{"review_id": 79, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1039, "raw": "1"}
+{"review_id": 79, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 976, "raw": "0"}
+{"review_id": 80, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1008, "raw": "0"}
+{"review_id": 79, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1040, "raw": "0"}
+{"review_id": 79, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 907, "raw": "0"}
+{"review_id": 79, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1067, "raw": "0"}
+{"review_id": 80, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 897, "raw": "0"}
+{"review_id": 80, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 811, "raw": "0"}
+{"review_id": 80, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 874, "raw": "0"}
+{"review_id": 80, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 902, "raw": "1"}
+{"review_id": 81, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1018, "raw": "0"}
+{"review_id": 80, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 742, "raw": "0"}
+{"review_id": 80, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 875, "raw": "0"}
+{"review_id": 81, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 907, "raw": "1"}
+{"review_id": 81, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 821, "raw": "1"}
+{"review_id": 81, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 884, "raw": "0"}
+{"review_id": 82, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1109, "raw": "0"}
+{"review_id": 81, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 912, "raw": "0"}
+{"review_id": 82, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 998, "raw": "0"}
+{"review_id": 81, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 885, "raw": "0"}
+{"review_id": 81, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 752, "raw": "0"}
+{"review_id": 82, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 975, "raw": "0"}
+{"review_id": 82, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 912, "raw": "0"}
+{"review_id": 82, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1003, "raw": "1"}
+{"review_id": 83, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1562, "raw": "0"}
+{"review_id": 83, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1673, "raw": "0"}
+{"review_id": 82, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 843, "raw": "0"}
+{"review_id": 83, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1476, "raw": "1"}
+{"review_id": 83, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1539, "raw": "0"}
+{"review_id": 83, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1567, "raw": "1"}
+{"review_id": 82, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 976, "raw": "1"}
+{"review_id": 83, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1540, "raw": "1"}
+{"review_id": 83, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1407, "raw": "0"}
+{"review_id": 84, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1111, "raw": "0"}
+{"review_id": 84, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 914, "raw": "0"}
+{"review_id": 84, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1000, "raw": "0"}
+{"review_id": 84, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 977, "raw": "1"}
+{"review_id": 84, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 978, "raw": "0"}
+{"review_id": 84, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1005, "raw": "0"}
+{"review_id": 85, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 978, "raw": "0"}
+{"review_id": 84, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 845, "raw": "0"}
+{"review_id": 85, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 867, "raw": "0"}
+{"review_id": 85, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 781, "raw": "0"}
+{"review_id": 86, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1654, "raw": "0"}
+{"review_id": 85, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 844, "raw": "0"}
+{"review_id": 86, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1543, "raw": "1"}
+{"review_id": 85, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 845, "raw": "0"}
+{"review_id": 85, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 872, "raw": "0"}
+{"review_id": 85, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 712, "raw": "0"}
+{"review_id": 86, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1457, "raw": "1"}
+{"review_id": 86, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1520, "raw": "0"}
+{"review_id": 87, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1016, "raw": "0"}
+{"review_id": 86, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1388, "raw": "0"}
+{"review_id": 86, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1548, "raw": "1"}
+{"review_id": 87, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 819, "raw": "0"}
+{"review_id": 87, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 905, "raw": "0"}
+{"review_id": 86, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1521, "raw": "1"}
+{"review_id": 87, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 882, "raw": "1"}
+{"review_id": 87, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 910, "raw": "0"}
+{"review_id": 87, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 883, "raw": "0"}
+{"review_id": 88, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1243, "raw": "0"}
+{"review_id": 88, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1132, "raw": "0"}
+{"review_id": 87, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 750, "raw": "0"}
+{"review_id": 88, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1046, "raw": "0"}
+{"review_id": 88, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1109, "raw": "1"}
+{"review_id": 88, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1110, "raw": "0"}
+{"review_id": 88, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1137, "raw": "1"}
+{"review_id": 88, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 977, "raw": "0"}
+{"review_id": 89, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 889, "raw": "0"}
+{"review_id": 89, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 894, "raw": "0"}
+{"review_id": 89, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 803, "raw": "0"}
+{"review_id": 89, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 866, "raw": "1"}
+{"review_id": 89, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1000, "raw": "0"}
+{"review_id": 89, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 867, "raw": "0"}
+{"review_id": 89, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 734, "raw": "0"}
+{"review_id": 90, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 6293, "raw": "0"}
+{"review_id": 90, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 6182, "raw": "1"}
+{"review_id": 90, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 6096, "raw": "1"}
+{"review_id": 90, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 6187, "raw": "0"}
+{"review_id": 90, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 6160, "raw": "0"}
+{"review_id": 91, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 982, "raw": "0"}
+{"review_id": 90, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 6159, "raw": "0"}
+{"review_id": 91, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 871, "raw": "0"}
+{"review_id": 90, "construct": "Change", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 6027, "raw": "1"}
+{"review_id": 91, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 785, "raw": "0"}
+{"review_id": 91, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 876, "raw": "0"}
+{"review_id": 91, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 849, "raw": "0"}
+{"review_id": 91, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 848, "raw": "1"}
+{"review_id": 91, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 716, "raw": "0"}
+{"review_id": 92, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1052, "raw": "0"}
+{"review_id": 92, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 918, "raw": "0"}
+{"review_id": 92, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 941, "raw": "0"}
+{"review_id": 92, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 855, "raw": "0"}
+{"review_id": 92, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 786, "raw": "0"}
+{"review_id": 93, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1219, "raw": "0"}
+{"review_id": 92, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 919, "raw": "0"}
+{"review_id": 92, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 946, "raw": "1"}
+{"review_id": 93, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1108, "raw": "0"}
+{"review_id": 93, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1085, "raw": "0"}
+{"review_id": 93, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1113, "raw": "1"}
+{"review_id": 93, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1022, "raw": "0"}
+{"review_id": 93, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 953, "raw": "0"}
+{"review_id": 93, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1086, "raw": "0"}
+{"review_id": 94, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1011, "raw": "0"}
+{"review_id": 94, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 900, "raw": "0"}
+{"review_id": 94, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 814, "raw": "0"}
+{"review_id": 94, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 877, "raw": "0"}
+{"review_id": 94, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 905, "raw": "0"}
+{"review_id": 95, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1741, "raw": "0"}
+{"review_id": 95, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1630, "raw": "0"}
+{"review_id": 94, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 745, "raw": "0"}
+{"review_id": 95, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1544, "raw": "0"}
+{"review_id": 95, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1607, "raw": "0"}
+{"review_id": 95, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1635, "raw": "1"}
+{"review_id": 94, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 878, "raw": "0"}
+{"review_id": 95, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1475, "raw": "0"}
+{"review_id": 95, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1608, "raw": "1"}
+{"review_id": 96, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1071, "raw": "1"}
+{"review_id": 96, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1182, "raw": "0"}
+{"review_id": 96, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 985, "raw": "1"}
+{"review_id": 96, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1048, "raw": "0"}
+{"review_id": 96, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1076, "raw": "1"}
+{"review_id": 96, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1049, "raw": "0"}
+{"review_id": 97, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1133, "raw": "1"}
+{"review_id": 97, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1047, "raw": "1"}
+{"review_id": 97, "construct": "Absence of Naive Realism", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1244, "raw": "1"}
+{"review_id": 96, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 916, "raw": "0"}
+{"review_id": 97, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1110, "raw": "1"}
+{"review_id": 97, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1138, "raw": "1"}
+{"review_id": 98, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1097, "raw": "0"}
+{"review_id": 97, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 978, "raw": "0"}
+{"review_id": 98, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 900, "raw": "0"}
+{"review_id": 98, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 963, "raw": "1"}
+{"review_id": 97, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1111, "raw": "0"}
+{"review_id": 98, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 986, "raw": "0"}
+{"review_id": 98, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 991, "raw": "0"}
+{"review_id": 98, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 964, "raw": "0"}
+{"review_id": 99, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1179, "raw": "0"}
+{"review_id": 98, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 831, "raw": "0"}
+{"review_id": 99, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1045, "raw": "1"}
+{"review_id": 99, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 982, "raw": "0"}
+{"review_id": 99, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1073, "raw": "1"}
+{"review_id": 99, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1068, "raw": "0"}
+{"review_id": 99, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1046, "raw": "0"}
+{"review_id": 99, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 913, "raw": "0"}
+{"review_id": 100, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1357, "raw": "0"}
+{"review_id": 100, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1246, "raw": "0"}
+{"review_id": 100, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1160, "raw": "1"}
+{"review_id": 100, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1223, "raw": "1"}
+{"review_id": 100, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1251, "raw": "1"}
+{"review_id": 100, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1224, "raw": "0"}
+{"review_id": 101, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1646, "raw": "0"}
+{"review_id": 100, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1091, "raw": "0"}
+{"review_id": 101, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1535, "raw": "0"}
+{"review_id": 101, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1449, "raw": "0"}
+{"review_id": 101, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1512, "raw": "1"}
+{"review_id": 102, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1161, "raw": "0"}
+{"review_id": 101, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1380, "raw": "0"}
+{"review_id": 101, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1540, "raw": "1"}
+{"review_id": 102, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1027, "raw": "0"}
+{"review_id": 102, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1055, "raw": "1"}
+{"review_id": 101, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1513, "raw": "0"}
+{"review_id": 102, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 964, "raw": "0"}
+{"review_id": 102, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1028, "raw": "0"}
+{"review_id": 102, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 895, "raw": "0"}
+{"review_id": 102, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1050, "raw": "0"}
+{"review_id": 103, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1102, "raw": "0"}
+{"review_id": 103, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 991, "raw": "0"}
+{"review_id": 103, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 905, "raw": "0"}
+{"review_id": 103, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 968, "raw": "0"}
+{"review_id": 103, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 996, "raw": "1"}
+{"review_id": 103, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 969, "raw": "0"}
+{"review_id": 104, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 981, "raw": "0"}
+{"review_id": 103, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 836, "raw": "0"}
+{"review_id": 104, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 875, "raw": "0"}
+{"review_id": 104, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 870, "raw": "0"}
+{"review_id": 104, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 847, "raw": "1"}
+{"review_id": 104, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 848, "raw": "0"}
+{"review_id": 104, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 715, "raw": "0"}
+{"review_id": 105, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 994, "raw": "0"}
+{"review_id": 104, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 784, "raw": "0"}
+{"review_id": 105, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 883, "raw": "1"}
+{"review_id": 105, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 797, "raw": "0"}
+{"review_id": 105, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 888, "raw": "0"}
+{"review_id": 105, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 861, "raw": "0"}
+{"review_id": 106, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 988, "raw": "0"}
+{"review_id": 105, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 860, "raw": "0"}
+{"review_id": 105, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 728, "raw": "0"}
+{"review_id": 106, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 877, "raw": "1"}
+{"review_id": 106, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 791, "raw": "1"}
+{"review_id": 106, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 854, "raw": "0"}
+{"review_id": 107, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1507, "raw": "0"}
+{"review_id": 106, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 855, "raw": "0"}
+{"review_id": 106, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 882, "raw": "0"}
+{"review_id": 106, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 722, "raw": "0"}
+{"review_id": 107, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1396, "raw": "1"}
+{"review_id": 107, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1310, "raw": "0"}
+{"review_id": 107, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1373, "raw": "1"}
+{"review_id": 107, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1401, "raw": "1"}
+{"review_id": 107, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1374, "raw": "0"}
+{"review_id": 108, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 900, "raw": "0"}
+{"review_id": 108, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1011, "raw": "0"}
+{"review_id": 108, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 877, "raw": "1"}
+{"review_id": 108, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 814, "raw": "0"}
+{"review_id": 107, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1241, "raw": "0"}
+{"review_id": 108, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 905, "raw": "0"}
+{"review_id": 108, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 878, "raw": "0"}
+{"review_id": 108, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 745, "raw": "0"}
+{"review_id": 109, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1215, "raw": "0"}
+{"review_id": 109, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1104, "raw": "0"}
+{"review_id": 109, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1018, "raw": "0"}
+{"review_id": 109, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1081, "raw": "0"}
+{"review_id": 109, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1082, "raw": "0"}
+{"review_id": 109, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1109, "raw": "1"}
+{"review_id": 109, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 949, "raw": "0"}
+{"review_id": 110, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1026, "raw": "0"}
+{"review_id": 110, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 829, "raw": "1"}
+{"review_id": 110, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 892, "raw": "0"}
+{"review_id": 110, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 915, "raw": "0"}
+{"review_id": 110, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 920, "raw": "1"}
+{"review_id": 110, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 893, "raw": "0"}
+{"review_id": 111, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1037, "raw": "0"}
+{"review_id": 111, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 926, "raw": "0"}
+{"review_id": 111, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 931, "raw": "0"}
+{"review_id": 110, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 760, "raw": "0"}
+{"review_id": 111, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 903, "raw": "0"}
+{"review_id": 111, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 904, "raw": "0"}
+{"review_id": 112, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1039, "raw": "0"}
+{"review_id": 111, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 840, "raw": "0"}
+{"review_id": 111, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 771, "raw": "0"}
+{"review_id": 112, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 928, "raw": "1"}
+{"review_id": 112, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 842, "raw": "1"}
+{"review_id": 112, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 905, "raw": "0"}
+{"review_id": 112, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 933, "raw": "1"}
+{"review_id": 112, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 906, "raw": "0"}
+{"review_id": 113, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1089, "raw": "0"}
+{"review_id": 112, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 773, "raw": "0"}
+{"review_id": 113, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 978, "raw": "1"}
+{"review_id": 113, "construct": "Thought-Provoking", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 892, "raw": "1"}
+{"review_id": 113, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 956, "raw": "0"}
+{"review_id": 113, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 983, "raw": "1"}
+{"review_id": 113, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 955, "raw": "0"}
+{"review_id": 114, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1202, "raw": "0"}
+{"review_id": 113, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 823, "raw": "0"}
+{"review_id": 114, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1091, "raw": "0"}
+{"review_id": 114, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1005, "raw": "0"}
+{"review_id": 114, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1096, "raw": "1"}
+{"review_id": 114, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1068, "raw": "0"}
+{"review_id": 114, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 936, "raw": "0"}
+{"review_id": 115, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1720, "raw": "0"}
+{"review_id": 115, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1609, "raw": "0"}
+{"review_id": 115, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1523, "raw": "0"}
+{"review_id": 114, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1069, "raw": "0"}
+{"review_id": 115, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1586, "raw": "1"}
+{"review_id": 115, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1614, "raw": "1"}
+{"review_id": 115, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1587, "raw": "1"}
+{"review_id": 115, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1454, "raw": "0"}
+{"review_id": 116, "construct": "Theme", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 926, "raw": "1"}
+{"review_id": 116, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1037, "raw": "0"}
+{"review_id": 116, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 903, "raw": "0"}
+{"review_id": 116, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 840, "raw": "0"}
+{"review_id": 116, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 931, "raw": "0"}
+{"review_id": 116, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 904, "raw": "0"}
+{"review_id": 117, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1057, "raw": "0"}
+{"review_id": 116, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 771, "raw": "0"}
+{"review_id": 117, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 946, "raw": "0"}
+{"review_id": 117, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 860, "raw": "0"}
+{"review_id": 117, "construct": "Ease", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 923, "raw": "0"}
+{"review_id": 117, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 951, "raw": "0"}
+{"review_id": 117, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 924, "raw": "0"}
+{"review_id": 117, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 791, "raw": "0"}
+{"review_id": 118, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 984, "raw": "0"}
+{"review_id": 118, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 873, "raw": "0"}
+{"review_id": 118, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 850, "raw": "1"}
+{"review_id": 118, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 787, "raw": "0"}
+{"review_id": 118, "construct": "Surprise", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 851, "raw": "0"}
+{"review_id": 118, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 718, "raw": "0"}
+{"review_id": 119, "construct": "Theme", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 991, "raw": "0"}
+{"review_id": 119, "construct": "Absence of Naive Realism", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 1102, "raw": "0"}
+{"review_id": 118, "construct": "Critic", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 878, "raw": "1"}
+{"review_id": 119, "construct": "Ease", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 968, "raw": "1"}
+{"review_id": 119, "construct": "Thought-Provoking", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 905, "raw": "0"}
+{"review_id": 119, "construct": "Critic", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 996, "raw": "0"}
+{"review_id": 119, "construct": "Surprise", "label": "1", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 969, "raw": "1"}
+{"review_id": 119, "construct": "Change", "label": "0", "model": "gpt-4o", "resolved_model": "gpt-4o-2024-08-06", "prompt_tokens": 836, "raw": "0"}

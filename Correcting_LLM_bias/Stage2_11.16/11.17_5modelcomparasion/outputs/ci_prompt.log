@@ -1,0 +1,76 @@
+A done
+Absence of Naive Realism prompt only 16s
+Absence of Naive Realism pc=5 + prompt 17s
+Theme prompt only 11s
+Theme pc=5 + prompt 13s
+Thought-Provoking prompt only 15s
+Thought-Provoking pc=5 + prompt 16s
+Ease prompt only 14s
+Ease pc=5 + prompt 16s
+Critic prompt only 11s
+Critic pc=5 + prompt 13s
+Surprise prompt only 13s
+Surprise pc=5 + prompt 15s
+== A: pairs involving Luna/5.4 mini, median residual corr and #p<.05
+                           med                  sig                    n               
+D                        pc=10 pc=10 + prompt pc=10 pc=10 + prompt pc=10 pc=10 + prompt
+construct                                                                              
+Absence of Naive Realism  0.36           0.37     7              7    11             11
+Critic                    0.47           0.47    10             10    11             11
+Ease                      0.53           0.52     9              9    11             11
+Surprise                  0.39           0.39     9              9    11             11
+Theme                     0.38           0.40    10              9    11             11
+Thought-Provoking         0.34           0.33     8              8    11             11
+== A: 5 Stage-3 models
+                           med                  sig               
+D                        pc=10 pc=10 + prompt pc=10 pc=10 + prompt
+construct                                                         
+Absence of Naive Realism  0.35           0.35     5              5
+Critic                    0.47           0.47     9              9
+Ease                      0.44           0.44     7              7
+Surprise                  0.36           0.35     6              6
+Theme                     0.39           0.41     8              8
+Thought-Provoking         0.33           0.33    10             10
+== same vs different prompt
+group                     GPT-5.4 mini vs v2-fixed models: also v2  GPT-5.4 mini vs v2-fixed models: v3/v4  GPT-6 Luna vs v2-fixed models: also v2  GPT-6 Luna vs v2-fixed models: v3/v4  different prompt  same prompt
+construct                                                                                                                                                                                                              
+Absence of Naive Realism                                      0.27                                    0.35                                    0.16                                  0.45              0.60         0.61
+Critic                                                        0.51                                    0.54                                    0.43                                  0.48              0.50         0.63
+Ease                                                          0.53                                    0.49                                    0.65                                  0.35              0.52         0.63
+Surprise                                                      0.30                                    0.49                                    0.29                                  0.45              0.31         0.51
+Theme                                                         0.29                                    0.24                                    0.60                                  0.42              0.28         0.52
+Thought-Provoking                                             0.36                                    0.34                                    0.44                                  0.28              0.25         0.70
+group
+GPT-5.4 mini vs v2-fixed models: also v2    34
+GPT-5.4 mini vs v2-fixed models: v3/v4      64
+GPT-6 Luna vs v2-fixed models: also v2      34
+GPT-6 Luna vs v2-fixed models: v3/v4        64
+different prompt                            60
+same prompt                                 38
+== B
+               construct             D  prevalence  BVR total  bootstrap p                          worst pair  worst pair BVR
+Absence of Naive Realism   prompt only       0.097     10.555         0.03          Gemma 3 12B – GPT-5.4 mini           4.143
+Absence of Naive Realism pc=5 + prompt       0.066      7.531         0.01             Sonnet 5.5 – GPT-6 Luna           3.545
+                   Theme   prompt only       0.481      8.322         0.03             Sonnet 5.5 – GPT-6 Luna           3.142
+                   Theme pc=5 + prompt       0.464      5.646         0.02             Sonnet 5.5 – GPT-6 Luna           2.374
+       Thought-Provoking   prompt only       0.280     16.189         0.01             Sonnet 5.5 – GPT-6 Luna          11.195
+       Thought-Provoking pc=5 + prompt       0.265      9.551         0.02             Sonnet 5.5 – GPT-6 Luna           6.611
+                    Ease   prompt only       0.301     11.876         0.01           GPT-6 Luna – GPT-5.4 mini           5.896
+                    Ease pc=5 + prompt       0.283     11.535         0.01           GPT-6 Luna – GPT-5.4 mini           6.352
+                  Critic   prompt only       0.486     12.948         0.01  Gemma 3 12B – Qwen3-14B fine-tuned           6.688
+                  Critic pc=5 + prompt       0.499     11.575         0.01  Gemma 3 12B – Qwen3-14B fine-tuned           6.502
+                Surprise   prompt only       0.157      6.374         0.01             Sonnet 5.5 – GPT-6 Luna           1.870
+                Surprise pc=5 + prompt       0.161      5.834         0.01 Qwen3-14B fine-tuned – GPT-5.4 mini           1.870
+               construct             D  min subset prevalence  max subset prevalence  heterogeneity p
+Absence of Naive Realism   prompt only                  0.040                  0.118            0.131
+Absence of Naive Realism pc=5 + prompt                  0.038                  0.098            0.197
+                   Theme   prompt only                  0.381                  0.505            0.033
+                   Theme pc=5 + prompt                  0.388                  0.511            0.164
+       Thought-Provoking   prompt only                  0.110                  0.294            0.016
+       Thought-Provoking pc=5 + prompt                  0.111                  0.287            0.049
+                    Ease   prompt only                  0.246                  0.455            0.016
+                    Ease pc=5 + prompt                  0.252                  0.484            0.016
+                  Critic   prompt only                  0.429                  0.576            0.049
+                  Critic pc=5 + prompt                  0.423                  0.564            0.082
+                Surprise   prompt only                  0.137                  0.217            0.033
+                Surprise pc=5 + prompt                  0.138                  0.222            0.082

@@ -1,0 +1,700 @@
+{"review_id": 3, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.02033, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 3, "construct": "Theme", "fold": 0, "pred": 0, "p1": 0.01099, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 3, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.00461, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 3, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.01406, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 3, "construct": "Critic", "fold": 0, "pred": 0, "p1": 0.01591, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 3, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.0008, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 3, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.00055, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 4, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.04209, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 4, "construct": "Theme", "fold": 0, "pred": 0, "p1": 0.37754, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 4, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.06755, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 4, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.20181, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 4, "construct": "Critic", "fold": 0, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 4, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.00071, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 4, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.0017, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 12, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.16452, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 12, "construct": "Theme", "fold": 0, "pred": 1, "p1": 0.70579, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 12, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.16452, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 12, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.32082, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 12, "construct": "Critic", "fold": 0, "pred": 1, "p1": 0.86704, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 12, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.37754, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 12, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.0851, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 13, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.26894, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 13, "construct": "Theme", "fold": 0, "pred": 1, "p1": 0.73106, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 13, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.2227, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 13, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 13, "construct": "Critic", "fold": 0, "pred": 1, "p1": 0.86704, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 13, "construct": "Surprise", "fold": 0, "pred": 1, "p1": 0.53121, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 13, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 14, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 14, "construct": "Theme", "fold": 0, "pred": 1, "p1": 0.73106, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 14, "construct": "Thought-Provoking", "fold": 0, "pred": 1, "p1": 0.65135, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 14, "construct": "Ease", "fold": 0, "pred": 1, "p1": 0.56218, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 14, "construct": "Critic", "fold": 0, "pred": 1, "p1": 0.79819, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 14, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.04743, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 14, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.06755, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 18, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.0534, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 18, "construct": "Theme", "fold": 0, "pred": 0, "p1": 0.37754, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 18, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.13296, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 18, "construct": "Ease", "fold": 0, "pred": 1, "p1": 0.59267, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 18, "construct": "Critic", "fold": 0, "pred": 0, "p1": 0.37754, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 18, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.00858, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 18, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.00218, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 21, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.02596, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 21, "construct": "Theme", "fold": 0, "pred": 0, "p1": 0.0534, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 21, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.00317, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 21, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.24509, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 21, "construct": "Critic", "fold": 0, "pred": 0, "p1": 0.01799, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 21, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.00018, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 21, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.00091, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 42, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.03733, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 42, "construct": "Theme", "fold": 0, "pred": 0, "p1": 0.01591, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 42, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.01243, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 42, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.40733, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 42, "construct": "Critic", "fold": 0, "pred": 0, "p1": 0.02033, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 42, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.00103, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 42, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.0015, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 46, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.14805, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 46, "construct": "Theme", "fold": 0, "pred": 0, "p1": 0.00091, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 46, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.00049, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 46, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.01799, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 46, "construct": "Critic", "fold": 0, "pred": 0, "p1": 0.00133, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 46, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.0017, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 46, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.00012, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 50, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.06009, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 50, "construct": "Theme", "fold": 0, "pred": 1, "p1": 0.5, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 50, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.0851, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 50, "construct": "Ease", "fold": 0, "pred": 1, "p1": 0.53121, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 50, "construct": "Critic", "fold": 0, "pred": 0, "p1": 0.24509, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 50, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.00049, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 50, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.0017, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 57, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.16452, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 57, "construct": "Theme", "fold": 0, "pred": 1, "p1": 0.59267, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 57, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 57, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.43782, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 57, "construct": "Critic", "fold": 0, "pred": 1, "p1": 0.56218, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 57, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.0851, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 57, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.02596, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 61, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 61, "construct": "Theme", "fold": 0, "pred": 1, "p1": 0.73106, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 61, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.03309, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 61, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.40733, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 61, "construct": "Critic", "fold": 0, "pred": 1, "p1": 0.59267, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 61, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.00758, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 61, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.00522, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 63, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.04743, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 63, "construct": "Theme", "fold": 0, "pred": 0, "p1": 0.00758, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 63, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.00359, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 63, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.34865, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 63, "construct": "Critic", "fold": 0, "pred": 0, "p1": 0.06755, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 63, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.0003, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 63, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.00014, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 72, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 72, "construct": "Theme", "fold": 0, "pred": 0, "p1": 0.40733, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 72, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.03309, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 72, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.46879, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 72, "construct": "Critic", "fold": 0, "pred": 1, "p1": 0.65135, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 72, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.0017, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 72, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.00218, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 74, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.2227, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 74, "construct": "Theme", "fold": 0, "pred": 1, "p1": 0.7773, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 74, "construct": "Thought-Provoking", "fold": 0, "pred": 1, "p1": 0.70579, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 74, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.43782, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 74, "construct": "Critic", "fold": 0, "pred": 0, "p1": 0.32082, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 74, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.1192, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 74, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.40733, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 79, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 79, "construct": "Theme", "fold": 0, "pred": 1, "p1": 0.56218, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 79, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.20181, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 79, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.40733, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 79, "construct": "Critic", "fold": 0, "pred": 0, "p1": 0.37754, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 79, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.00858, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 79, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.00971, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 83, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.06009, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 83, "construct": "Theme", "fold": 0, "pred": 0, "p1": 0.32082, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 83, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.03733, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 83, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.03733, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 83, "construct": "Critic", "fold": 0, "pred": 1, "p1": 0.65135, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 83, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.01243, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 83, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.01099, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 84, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.18243, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 84, "construct": "Theme", "fold": 0, "pred": 1, "p1": 0.73106, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 84, "construct": "Thought-Provoking", "fold": 0, "pred": 1, "p1": 0.67918, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 84, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.16452, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 84, "construct": "Critic", "fold": 0, "pred": 1, "p1": 0.85195, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 84, "construct": "Surprise", "fold": 0, "pred": 1, "p1": 0.56218, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 84, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.18243, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 99, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.06009, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 99, "construct": "Theme", "fold": 0, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 99, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.01799, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 99, "construct": "Ease", "fold": 0, "pred": 1, "p1": 0.5, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 99, "construct": "Critic", "fold": 0, "pred": 0, "p1": 0.06755, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 99, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.00055, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 99, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.00133, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 104, "construct": "Absence of Naive Realism", "fold": 0, "pred": 0, "p1": 0.04743, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 104, "construct": "Theme", "fold": 0, "pred": 0, "p1": 0.24509, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 104, "construct": "Thought-Provoking", "fold": 0, "pred": 0, "p1": 0.02596, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 104, "construct": "Ease", "fold": 0, "pred": 0, "p1": 0.02033, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 104, "construct": "Critic", "fold": 0, "pred": 1, "p1": 0.53121, "gold": 1, "truncated": false, "run": "fold0"}
+{"review_id": 104, "construct": "Surprise", "fold": 0, "pred": 0, "p1": 0.00461, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 104, "construct": "Change", "fold": 0, "pred": 0, "p1": 0.00758, "gold": 0, "truncated": false, "run": "fold0"}
+{"review_id": 2, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.00016, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 2, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.0017, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 2, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.0017, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 2, "construct": "Ease", "fold": 1, "pred": 1, "p1": 0.81757, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 2, "construct": "Critic", "fold": 1, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 2, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.00103, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 2, "construct": "Change", "fold": 1, "pred": 0, "p1": 6e-05, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 5, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.00012, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 5, "construct": "Theme", "fold": 1, "pred": 1, "p1": 0.59267, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 5, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.16452, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 5, "construct": "Ease", "fold": 1, "pred": 0, "p1": 0.40733, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 5, "construct": "Critic", "fold": 1, "pred": 1, "p1": 0.65135, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 5, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.0008, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 5, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.00055, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 9, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.0, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 9, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 9, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.00522, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 9, "construct": "Ease", "fold": 1, "pred": 0, "p1": 0.00043, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 9, "construct": "Critic", "fold": 1, "pred": 0, "p1": 0.00016, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 9, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.0, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 9, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.00014, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 20, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.00461, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 20, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.26894, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 20, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.0851, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 20, "construct": "Ease", "fold": 1, "pred": 1, "p1": 0.59267, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 20, "construct": "Critic", "fold": 1, "pred": 1, "p1": 0.7773, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 20, "construct": "Surprise", "fold": 1, "pred": 1, "p1": 0.59267, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 20, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.01406, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 27, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.0534, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 27, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.40733, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 27, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.46879, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 27, "construct": "Ease", "fold": 1, "pred": 1, "p1": 0.56218, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 27, "construct": "Critic", "fold": 1, "pred": 0, "p1": 0.32082, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 27, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.18243, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 27, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 28, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.0, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 28, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.16452, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 28, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.00758, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 28, "construct": "Ease", "fold": 1, "pred": 1, "p1": 0.67918, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 28, "construct": "Critic", "fold": 1, "pred": 0, "p1": 0.02033, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 28, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 3e-05, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 28, "construct": "Change", "fold": 1, "pred": 0, "p1": 1e-05, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 30, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.01591, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 30, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.2227, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 30, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.16452, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 30, "construct": "Ease", "fold": 1, "pred": 0, "p1": 0.2227, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 30, "construct": "Critic", "fold": 1, "pred": 1, "p1": 0.83548, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 30, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.00522, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 30, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.00522, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 33, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.34865, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 33, "construct": "Theme", "fold": 1, "pred": 1, "p1": 0.79819, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 33, "construct": "Thought-Provoking", "fold": 1, "pred": 1, "p1": 0.7773, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 33, "construct": "Ease", "fold": 1, "pred": 0, "p1": 0.18243, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 33, "construct": "Critic", "fold": 1, "pred": 1, "p1": 0.7773, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 33, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.24509, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 33, "construct": "Change", "fold": 1, "pred": 1, "p1": 0.62246, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 36, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.00522, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 36, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.37754, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 36, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.20181, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 36, "construct": "Ease", "fold": 1, "pred": 1, "p1": 0.5, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 36, "construct": "Critic", "fold": 1, "pred": 1, "p1": 0.73106, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 36, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 36, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.01406, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 37, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.01406, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 37, "construct": "Theme", "fold": 1, "pred": 1, "p1": 0.7773, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 37, "construct": "Thought-Provoking", "fold": 1, "pred": 1, "p1": 0.53121, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 37, "construct": "Ease", "fold": 1, "pred": 0, "p1": 0.0534, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 37, "construct": "Critic", "fold": 1, "pred": 0, "p1": 0.14805, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 37, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.00012, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 37, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.13296, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 52, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 1e-05, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 52, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.00218, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 52, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 52, "construct": "Ease", "fold": 1, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 52, "construct": "Critic", "fold": 1, "pred": 0, "p1": 0.24509, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 52, "construct": "Surprise", "fold": 1, "pred": 1, "p1": 0.67918, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 52, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.0015, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 54, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.20181, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 54, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.34865, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 54, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.34865, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 54, "construct": "Ease", "fold": 1, "pred": 0, "p1": 0.20181, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 54, "construct": "Critic", "fold": 1, "pred": 1, "p1": 0.90465, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 54, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.01799, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 54, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 71, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.00858, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 71, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.0851, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 71, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.18243, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 71, "construct": "Ease", "fold": 1, "pred": 0, "p1": 0.10669, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 71, "construct": "Critic", "fold": 1, "pred": 0, "p1": 0.29421, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 71, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.01243, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 71, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.00055, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 80, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 8e-05, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 80, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.13296, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 80, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.06009, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 80, "construct": "Ease", "fold": 1, "pred": 1, "p1": 0.8808, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 80, "construct": "Critic", "fold": 1, "pred": 1, "p1": 0.53121, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 80, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.0008, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 80, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.0003, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 81, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.00193, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 81, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.04743, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 81, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.06009, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 81, "construct": "Ease", "fold": 1, "pred": 0, "p1": 0.13296, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 81, "construct": "Critic", "fold": 1, "pred": 0, "p1": 0.32082, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 81, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.00011, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 81, "construct": "Change", "fold": 1, "pred": 0, "p1": 8e-05, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 88, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.00055, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 88, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.03309, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 88, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.0017, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 88, "construct": "Ease", "fold": 1, "pred": 1, "p1": 0.70579, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 88, "construct": "Critic", "fold": 1, "pred": 0, "p1": 0.00071, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 88, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.00023, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 88, "construct": "Change", "fold": 1, "pred": 0, "p1": 3e-05, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 89, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.02596, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 89, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.2227, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 89, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.37754, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 89, "construct": "Ease", "fold": 1, "pred": 1, "p1": 0.62246, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 89, "construct": "Critic", "fold": 1, "pred": 1, "p1": 0.56218, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 89, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.0851, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 89, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.00063, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 101, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.0534, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 101, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.37754, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 101, "construct": "Thought-Provoking", "fold": 1, "pred": 1, "p1": 0.5, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 101, "construct": "Ease", "fold": 1, "pred": 0, "p1": 0.32082, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 101, "construct": "Critic", "fold": 1, "pred": 1, "p1": 0.9149, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 101, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 101, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.01243, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 103, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 103, "construct": "Theme", "fold": 1, "pred": 0, "p1": 0.34865, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 103, "construct": "Thought-Provoking", "fold": 1, "pred": 0, "p1": 0.24509, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 103, "construct": "Ease", "fold": 1, "pred": 0, "p1": 0.16452, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 103, "construct": "Critic", "fold": 1, "pred": 1, "p1": 0.89331, "gold": 1, "truncated": false, "run": "fold1"}
+{"review_id": 103, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 103, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.00669, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 107, "construct": "Absence of Naive Realism", "fold": 1, "pred": 0, "p1": 1e-05, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 107, "construct": "Theme", "fold": 1, "pred": 1, "p1": 0.62246, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 107, "construct": "Thought-Provoking", "fold": 1, "pred": 1, "p1": 0.56218, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 107, "construct": "Ease", "fold": 1, "pred": 0, "p1": 0.00317, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 107, "construct": "Critic", "fold": 1, "pred": 0, "p1": 0.29421, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 107, "construct": "Surprise", "fold": 1, "pred": 0, "p1": 1e-05, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 107, "construct": "Change", "fold": 1, "pred": 0, "p1": 0.01406, "gold": 0, "truncated": false, "run": "fold1"}
+{"review_id": 6, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.26894, "gold": 0, "truncated": true, "run": "fold2"}
+{"review_id": 6, "construct": "Theme", "fold": 2, "pred": 1, "p1": 0.79819, "gold": 1, "truncated": true, "run": "fold2"}
+{"review_id": 6, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.40733, "gold": 1, "truncated": true, "run": "fold2"}
+{"review_id": 6, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.2227, "gold": 0, "truncated": true, "run": "fold2"}
+{"review_id": 6, "construct": "Critic", "fold": 2, "pred": 1, "p1": 0.95791, "gold": 1, "truncated": true, "run": "fold2"}
+{"review_id": 6, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.13296, "gold": 1, "truncated": true, "run": "fold2"}
+{"review_id": 6, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": true, "run": "fold2"}
+{"review_id": 19, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.01406, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 19, "construct": "Theme", "fold": 2, "pred": 0, "p1": 0.01799, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 19, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.03309, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 19, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.13296, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 19, "construct": "Critic", "fold": 2, "pred": 0, "p1": 0.04209, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 19, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.00103, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 19, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.0003, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 22, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.0534, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 22, "construct": "Theme", "fold": 2, "pred": 0, "p1": 0.01799, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 22, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.00591, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 22, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.16452, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 22, "construct": "Critic", "fold": 2, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 22, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.00359, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 22, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.00034, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 23, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.13296, "gold": 0, "truncated": true, "run": "fold2"}
+{"review_id": 23, "construct": "Theme", "fold": 2, "pred": 1, "p1": 0.79819, "gold": 1, "truncated": true, "run": "fold2"}
+{"review_id": 23, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.40733, "gold": 1, "truncated": true, "run": "fold2"}
+{"review_id": 23, "construct": "Ease", "fold": 2, "pred": 1, "p1": 0.70579, "gold": 1, "truncated": true, "run": "fold2"}
+{"review_id": 23, "construct": "Critic", "fold": 2, "pred": 1, "p1": 0.83548, "gold": 1, "truncated": true, "run": "fold2"}
+{"review_id": 23, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.00858, "gold": 1, "truncated": true, "run": "fold2"}
+{"review_id": 23, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": true, "run": "fold2"}
+{"review_id": 26, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.01243, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 26, "construct": "Theme", "fold": 2, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 26, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.00591, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 26, "construct": "Ease", "fold": 2, "pred": 1, "p1": 0.53121, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 26, "construct": "Critic", "fold": 2, "pred": 0, "p1": 0.1192, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 26, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.00012, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 26, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.0002, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 31, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.20181, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 31, "construct": "Theme", "fold": 2, "pred": 0, "p1": 0.24509, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 31, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.16452, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 31, "construct": "Ease", "fold": 2, "pred": 1, "p1": 0.5, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 31, "construct": "Critic", "fold": 2, "pred": 1, "p1": 0.7773, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 31, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.29421, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 31, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.01099, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 45, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.03733, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 45, "construct": "Theme", "fold": 2, "pred": 0, "p1": 0.0534, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 45, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 45, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.46879, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 45, "construct": "Critic", "fold": 2, "pred": 0, "p1": 0.40733, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 45, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.00407, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 45, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.00247, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 47, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 47, "construct": "Theme", "fold": 2, "pred": 1, "p1": 0.53121, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 47, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.2227, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 47, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.26894, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 47, "construct": "Critic", "fold": 2, "pred": 1, "p1": 0.85195, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 47, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.03733, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 47, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.03733, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 48, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.16452, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 48, "construct": "Theme", "fold": 2, "pred": 1, "p1": 0.70579, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 48, "construct": "Thought-Provoking", "fold": 2, "pred": 1, "p1": 0.53121, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 48, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.1192, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 48, "construct": "Critic", "fold": 2, "pred": 1, "p1": 0.93991, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 48, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.32082, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 48, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.34865, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 51, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 51, "construct": "Theme", "fold": 2, "pred": 0, "p1": 0.1192, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 51, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.02033, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 51, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.06009, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 51, "construct": "Critic", "fold": 2, "pred": 0, "p1": 0.06755, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 51, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.0017, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 51, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.00218, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 53, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.01243, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 53, "construct": "Theme", "fold": 2, "pred": 0, "p1": 0.18243, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 53, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.13296, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 53, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.32082, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 53, "construct": "Critic", "fold": 2, "pred": 0, "p1": 0.10669, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 53, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.00133, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 53, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.00858, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 58, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.46879, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 58, "construct": "Theme", "fold": 2, "pred": 0, "p1": 0.24509, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 58, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 58, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.18243, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 58, "construct": "Critic", "fold": 2, "pred": 1, "p1": 0.5, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 58, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.0851, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 58, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.01799, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 59, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.00063, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 59, "construct": "Theme", "fold": 2, "pred": 0, "p1": 0.00591, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 59, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.00971, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 59, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.00758, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 59, "construct": "Critic", "fold": 2, "pred": 0, "p1": 0.00247, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 59, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.00011, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 59, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.00012, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 68, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.00133, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 68, "construct": "Theme", "fold": 2, "pred": 0, "p1": 0.00117, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 68, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.0015, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 68, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.32082, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 68, "construct": "Critic", "fold": 2, "pred": 0, "p1": 0.00091, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 68, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 2e-05, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 68, "construct": "Change", "fold": 2, "pred": 0, "p1": 7e-05, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 73, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 73, "construct": "Theme", "fold": 2, "pred": 1, "p1": 0.73106, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 73, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.46879, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 73, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.16452, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 73, "construct": "Critic", "fold": 2, "pred": 1, "p1": 0.96691, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 73, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.20181, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 73, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 77, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.0017, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 77, "construct": "Theme", "fold": 2, "pred": 0, "p1": 0.06755, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 77, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.00317, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 77, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.01591, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 77, "construct": "Critic", "fold": 2, "pred": 0, "p1": 0.06755, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 77, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 2e-05, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 77, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.00026, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 82, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 82, "construct": "Theme", "fold": 2, "pred": 1, "p1": 0.5, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 82, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.20181, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 82, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.10669, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 82, "construct": "Critic", "fold": 2, "pred": 0, "p1": 0.0534, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 82, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 3e-05, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 82, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.07586, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 90, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.01591, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 90, "construct": "Theme", "fold": 2, "pred": 0, "p1": 0.00591, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 90, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 90, "construct": "Ease", "fold": 2, "pred": 1, "p1": 0.67918, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 90, "construct": "Critic", "fold": 2, "pred": 0, "p1": 0.02033, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 90, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.00133, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 90, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.00023, "gold": null, "truncated": false, "run": "fold2"}
+{"review_id": 97, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.16452, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 97, "construct": "Theme", "fold": 2, "pred": 1, "p1": 0.59267, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 97, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.43782, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 97, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 97, "construct": "Critic", "fold": 2, "pred": 1, "p1": 0.73106, "gold": 1, "truncated": false, "run": "fold2"}
+{"review_id": 97, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.03309, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 97, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.06755, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 109, "construct": "Absence of Naive Realism", "fold": 2, "pred": 0, "p1": 0.04209, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 109, "construct": "Theme", "fold": 2, "pred": 0, "p1": 0.01406, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 109, "construct": "Thought-Provoking", "fold": 2, "pred": 0, "p1": 0.02596, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 109, "construct": "Ease", "fold": 2, "pred": 0, "p1": 0.24509, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 109, "construct": "Critic", "fold": 2, "pred": 0, "p1": 0.06755, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 109, "construct": "Surprise", "fold": 2, "pred": 0, "p1": 0.03733, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 109, "construct": "Change", "fold": 2, "pred": 0, "p1": 0.0017, "gold": 0, "truncated": false, "run": "fold2"}
+{"review_id": 7, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.06009, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 7, "construct": "Theme", "fold": 3, "pred": 1, "p1": 0.7773, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 7, "construct": "Thought-Provoking", "fold": 3, "pred": 1, "p1": 0.5, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 7, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 7, "construct": "Critic", "fold": 3, "pred": 1, "p1": 0.85195, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 7, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.34865, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 7, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 8, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.04743, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 8, "construct": "Theme", "fold": 3, "pred": 1, "p1": 0.8808, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 8, "construct": "Thought-Provoking", "fold": 3, "pred": 1, "p1": 0.67918, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 8, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.43782, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 8, "construct": "Critic", "fold": 3, "pred": 1, "p1": 0.7773, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 8, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.1192, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 8, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.04743, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 15, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.06009, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 15, "construct": "Theme", "fold": 3, "pred": 1, "p1": 0.56218, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 15, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.18243, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 15, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.14805, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 15, "construct": "Critic", "fold": 3, "pred": 1, "p1": 0.7773, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 15, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.06009, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 15, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 17, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.00247, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 17, "construct": "Theme", "fold": 3, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 17, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 17, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.04743, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 17, "construct": "Critic", "fold": 3, "pred": 0, "p1": 0.32082, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 17, "construct": "Surprise", "fold": 3, "pred": 1, "p1": 0.5, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 17, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.0015, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 25, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.01099, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 25, "construct": "Theme", "fold": 3, "pred": 0, "p1": 0.26894, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 25, "construct": "Thought-Provoking", "fold": 3, "pred": 1, "p1": 0.5, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 25, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.1192, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 25, "construct": "Critic", "fold": 3, "pred": 1, "p1": 0.56218, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 25, "construct": "Surprise", "fold": 3, "pred": 1, "p1": 0.56218, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 25, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.00407, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 29, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.01099, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 29, "construct": "Theme", "fold": 3, "pred": 0, "p1": 0.43782, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 29, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 29, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 29, "construct": "Critic", "fold": 3, "pred": 1, "p1": 0.73106, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 29, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.00858, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 29, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.0015, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 34, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.00407, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 34, "construct": "Theme", "fold": 3, "pred": 0, "p1": 0.02931, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 34, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.00669, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 34, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.26894, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 34, "construct": "Critic", "fold": 3, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 34, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 34, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.00407, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 39, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.00858, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 39, "construct": "Theme", "fold": 3, "pred": 0, "p1": 0.1192, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 39, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 39, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.2227, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 39, "construct": "Critic", "fold": 3, "pred": 1, "p1": 0.62246, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 39, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 39, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.00071, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 40, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.01099, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 40, "construct": "Theme", "fold": 3, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 40, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.18243, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 40, "construct": "Ease", "fold": 3, "pred": 1, "p1": 0.5, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 40, "construct": "Critic", "fold": 3, "pred": 1, "p1": 0.56218, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 40, "construct": "Surprise", "fold": 3, "pred": 1, "p1": 0.62246, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 40, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.00858, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 41, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 41, "construct": "Theme", "fold": 3, "pred": 1, "p1": 0.85195, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 41, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 41, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.2227, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 41, "construct": "Critic", "fold": 3, "pred": 1, "p1": 0.67918, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 41, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.00669, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 41, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.00669, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 55, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 55, "construct": "Theme", "fold": 3, "pred": 1, "p1": 0.7773, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 55, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.43782, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 55, "construct": "Ease", "fold": 3, "pred": 1, "p1": 0.56218, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 55, "construct": "Critic", "fold": 3, "pred": 1, "p1": 0.73106, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 55, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.01099, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 55, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.00669, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 62, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.00858, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 62, "construct": "Theme", "fold": 3, "pred": 0, "p1": 0.2227, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 62, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 62, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.1192, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 62, "construct": "Critic", "fold": 3, "pred": 0, "p1": 0.43782, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 62, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 62, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.00247, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 65, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.00669, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 65, "construct": "Theme", "fold": 3, "pred": 0, "p1": 0.32082, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 65, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.01099, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 65, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 65, "construct": "Critic", "fold": 3, "pred": 0, "p1": 0.43782, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 65, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.00407, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 65, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.00091, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 86, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.00407, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 86, "construct": "Theme", "fold": 3, "pred": 0, "p1": 0.00669, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 86, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.00317, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 86, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.06009, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 86, "construct": "Critic", "fold": 3, "pred": 0, "p1": 0.00522, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 86, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.00247, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 86, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.00091, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 96, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.03733, "gold": 0, "truncated": true, "run": "fold3"}
+{"review_id": 96, "construct": "Theme", "fold": 3, "pred": 1, "p1": 0.5, "gold": 0, "truncated": true, "run": "fold3"}
+{"review_id": 96, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.43782, "gold": 1, "truncated": true, "run": "fold3"}
+{"review_id": 96, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": true, "run": "fold3"}
+{"review_id": 96, "construct": "Critic", "fold": 3, "pred": 1, "p1": 0.85195, "gold": 1, "truncated": true, "run": "fold3"}
+{"review_id": 96, "construct": "Surprise", "fold": 3, "pred": 1, "p1": 0.67918, "gold": 1, "truncated": true, "run": "fold3"}
+{"review_id": 96, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": true, "run": "fold3"}
+{"review_id": 98, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 98, "construct": "Theme", "fold": 3, "pred": 1, "p1": 0.7773, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 98, "construct": "Thought-Provoking", "fold": 3, "pred": 1, "p1": 0.7773, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 98, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.2227, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 98, "construct": "Critic", "fold": 3, "pred": 1, "p1": 0.62246, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 98, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.01099, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 98, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.01406, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 102, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 102, "construct": "Theme", "fold": 3, "pred": 1, "p1": 0.8808, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 102, "construct": "Thought-Provoking", "fold": 3, "pred": 1, "p1": 0.5, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 102, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 102, "construct": "Critic", "fold": 3, "pred": 1, "p1": 0.90465, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 102, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 102, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 105, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.00247, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 105, "construct": "Theme", "fold": 3, "pred": 0, "p1": 0.00858, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 105, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.00669, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 105, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 105, "construct": "Critic", "fold": 3, "pred": 0, "p1": 0.03733, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 105, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.00193, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 105, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.0008, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 106, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.01406, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 106, "construct": "Theme", "fold": 3, "pred": 1, "p1": 0.62246, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 106, "construct": "Thought-Provoking", "fold": 3, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 106, "construct": "Ease", "fold": 3, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 106, "construct": "Critic", "fold": 3, "pred": 0, "p1": 0.32082, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 106, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.1192, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 106, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.00317, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 108, "construct": "Absence of Naive Realism", "fold": 3, "pred": 0, "p1": 0.03733, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 108, "construct": "Theme", "fold": 3, "pred": 1, "p1": 0.81757, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 108, "construct": "Thought-Provoking", "fold": 3, "pred": 1, "p1": 0.73106, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 108, "construct": "Ease", "fold": 3, "pred": 1, "p1": 0.62246, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 108, "construct": "Critic", "fold": 3, "pred": 1, "p1": 0.81757, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 108, "construct": "Surprise", "fold": 3, "pred": 0, "p1": 0.1192, "gold": 0, "truncated": false, "run": "fold3"}
+{"review_id": 108, "construct": "Change", "fold": 3, "pred": 0, "p1": 0.1192, "gold": 1, "truncated": false, "run": "fold3"}
+{"review_id": 1, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.00247, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 1, "construct": "Theme", "fold": 4, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 1, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.00858, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 1, "construct": "Ease", "fold": 4, "pred": 1, "p1": 0.7773, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 1, "construct": "Critic", "fold": 4, "pred": 1, "p1": 0.5, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 1, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.00317, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 1, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.00018, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 10, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.01799, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 10, "construct": "Theme", "fold": 4, "pred": 1, "p1": 0.62246, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 10, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.07586, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 10, "construct": "Ease", "fold": 4, "pred": 0, "p1": 0.01799, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 10, "construct": "Critic", "fold": 4, "pred": 1, "p1": 0.97069, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 10, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 10, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.01406, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 16, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.04743, "gold": 0, "truncated": true, "run": "fold4"}
+{"review_id": 16, "construct": "Theme", "fold": 4, "pred": 1, "p1": 0.81757, "gold": 1, "truncated": true, "run": "fold4"}
+{"review_id": 16, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.18243, "gold": 0, "truncated": true, "run": "fold4"}
+{"review_id": 16, "construct": "Ease", "fold": 4, "pred": 1, "p1": 0.67918, "gold": 0, "truncated": true, "run": "fold4"}
+{"review_id": 16, "construct": "Critic", "fold": 4, "pred": 1, "p1": 0.85195, "gold": 1, "truncated": true, "run": "fold4"}
+{"review_id": 16, "construct": "Surprise", "fold": 4, "pred": 1, "p1": 0.73106, "gold": 1, "truncated": true, "run": "fold4"}
+{"review_id": 16, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.00317, "gold": 0, "truncated": true, "run": "fold4"}
+{"review_id": 35, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.00247, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 35, "construct": "Theme", "fold": 4, "pred": 1, "p1": 0.81757, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 35, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 35, "construct": "Ease", "fold": 4, "pred": 0, "p1": 0.01406, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 35, "construct": "Critic", "fold": 4, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 35, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.26894, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 35, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.01799, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 38, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.03733, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 38, "construct": "Theme", "fold": 4, "pred": 1, "p1": 0.90465, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 38, "construct": "Thought-Provoking", "fold": 4, "pred": 1, "p1": 0.67918, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 38, "construct": "Ease", "fold": 4, "pred": 0, "p1": 0.04743, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 38, "construct": "Critic", "fold": 4, "pred": 0, "p1": 0.43782, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 38, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 38, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.04743, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 43, "construct": "Absence of Naive Realism", "fold": 4, "pred": 1, "p1": 0.56218, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 43, "construct": "Theme", "fold": 4, "pred": 1, "p1": 0.7773, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 43, "construct": "Thought-Provoking", "fold": 4, "pred": 1, "p1": 0.5, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 43, "construct": "Ease", "fold": 4, "pred": 0, "p1": 0.32082, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 43, "construct": "Critic", "fold": 4, "pred": 1, "p1": 0.73106, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 43, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.04743, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 43, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.00669, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 44, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.03733, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 44, "construct": "Theme", "fold": 4, "pred": 0, "p1": 0.37754, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 44, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 44, "construct": "Ease", "fold": 4, "pred": 1, "p1": 0.5, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 44, "construct": "Critic", "fold": 4, "pred": 0, "p1": 0.43782, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 44, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.01406, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 44, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.00133, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 56, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.2227, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 56, "construct": "Theme", "fold": 4, "pred": 1, "p1": 0.96267, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 56, "construct": "Thought-Provoking", "fold": 4, "pred": 1, "p1": 0.8808, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 56, "construct": "Ease", "fold": 4, "pred": 1, "p1": 0.85195, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 56, "construct": "Critic", "fold": 4, "pred": 1, "p1": 0.97702, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 56, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.32082, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 56, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.1192, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 60, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.00522, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 60, "construct": "Theme", "fold": 4, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 60, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.01799, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 60, "construct": "Ease", "fold": 4, "pred": 0, "p1": 0.1192, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 60, "construct": "Critic", "fold": 4, "pred": 0, "p1": 0.06009, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 60, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.00669, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 60, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.00103, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 64, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.32082, "gold": 0, "truncated": true, "run": "fold4"}
+{"review_id": 64, "construct": "Theme", "fold": 4, "pred": 1, "p1": 0.92414, "gold": 1, "truncated": true, "run": "fold4"}
+{"review_id": 64, "construct": "Thought-Provoking", "fold": 4, "pred": 1, "p1": 0.67918, "gold": 1, "truncated": true, "run": "fold4"}
+{"review_id": 64, "construct": "Ease", "fold": 4, "pred": 1, "p1": 0.5, "gold": 0, "truncated": true, "run": "fold4"}
+{"review_id": 64, "construct": "Critic", "fold": 4, "pred": 1, "p1": 0.97702, "gold": 1, "truncated": true, "run": "fold4"}
+{"review_id": 64, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": true, "run": "fold4"}
+{"review_id": 64, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.18243, "gold": 0, "truncated": true, "run": "fold4"}
+{"review_id": 67, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.0002, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 67, "construct": "Theme", "fold": 4, "pred": 0, "p1": 0.00858, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 67, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.00026, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 67, "construct": "Ease", "fold": 4, "pred": 0, "p1": 0.0002, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 67, "construct": "Critic", "fold": 4, "pred": 0, "p1": 0.0015, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 67, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 2e-05, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 67, "construct": "Change", "fold": 4, "pred": 0, "p1": 4e-05, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 69, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 69, "construct": "Theme", "fold": 4, "pred": 1, "p1": 0.5, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 69, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.18243, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 69, "construct": "Ease", "fold": 4, "pred": 1, "p1": 0.56218, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 69, "construct": "Critic", "fold": 4, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 69, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.01099, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 69, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.00858, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 70, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.06009, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 70, "construct": "Theme", "fold": 4, "pred": 0, "p1": 0.26894, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 70, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.00522, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 70, "construct": "Ease", "fold": 4, "pred": 0, "p1": 0.32082, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 70, "construct": "Critic", "fold": 4, "pred": 1, "p1": 0.5, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 70, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.00522, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 70, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.0002, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 75, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 75, "construct": "Theme", "fold": 4, "pred": 0, "p1": 0.07586, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 75, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.00522, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 75, "construct": "Ease", "fold": 4, "pred": 0, "p1": 0.04743, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 75, "construct": "Critic", "fold": 4, "pred": 0, "p1": 0.00043, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 75, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.00247, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 75, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.00055, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 76, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 76, "construct": "Theme", "fold": 4, "pred": 0, "p1": 0.14805, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 76, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.03733, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 76, "construct": "Ease", "fold": 4, "pred": 0, "p1": 0.18243, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 76, "construct": "Critic", "fold": 4, "pred": 0, "p1": 0.1192, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 76, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.02931, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 76, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.0017, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 87, "construct": "Absence of Naive Realism", "fold": 4, "pred": 1, "p1": 0.67918, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 87, "construct": "Theme", "fold": 4, "pred": 1, "p1": 0.95257, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 87, "construct": "Thought-Provoking", "fold": 4, "pred": 1, "p1": 0.8808, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 87, "construct": "Ease", "fold": 4, "pred": 1, "p1": 0.62246, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 87, "construct": "Critic", "fold": 4, "pred": 1, "p1": 0.96267, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 87, "construct": "Surprise", "fold": 4, "pred": 1, "p1": 0.81757, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 87, "construct": "Change", "fold": 4, "pred": 1, "p1": 0.62246, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 92, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.0008, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 92, "construct": "Theme", "fold": 4, "pred": 0, "p1": 0.01099, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 92, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.00103, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 92, "construct": "Ease", "fold": 4, "pred": 0, "p1": 0.14805, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 92, "construct": "Critic", "fold": 4, "pred": 0, "p1": 7e-05, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 92, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.00014, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 92, "construct": "Change", "fold": 4, "pred": 0, "p1": 7e-05, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 94, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.03733, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 94, "construct": "Theme", "fold": 4, "pred": 1, "p1": 0.8808, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 94, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.37754, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 94, "construct": "Ease", "fold": 4, "pred": 1, "p1": 0.56218, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 94, "construct": "Critic", "fold": 4, "pred": 1, "p1": 0.93991, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 94, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.00247, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 94, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.00669, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 95, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.00247, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 95, "construct": "Theme", "fold": 4, "pred": 0, "p1": 0.01099, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 95, "construct": "Thought-Provoking", "fold": 4, "pred": 0, "p1": 0.00669, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 95, "construct": "Ease", "fold": 4, "pred": 0, "p1": 0.09535, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 95, "construct": "Critic", "fold": 4, "pred": 0, "p1": 0.02298, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 95, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.0001, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 95, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.00018, "gold": null, "truncated": false, "run": "fold4"}
+{"review_id": 100, "construct": "Absence of Naive Realism", "fold": 4, "pred": 0, "p1": 0.18243, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 100, "construct": "Theme", "fold": 4, "pred": 1, "p1": 0.81757, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 100, "construct": "Thought-Provoking", "fold": 4, "pred": 1, "p1": 0.5, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 100, "construct": "Ease", "fold": 4, "pred": 1, "p1": 0.62246, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 100, "construct": "Critic", "fold": 4, "pred": 1, "p1": 0.85195, "gold": 1, "truncated": false, "run": "fold4"}
+{"review_id": 100, "construct": "Surprise", "fold": 4, "pred": 0, "p1": 0.1192, "gold": 0, "truncated": false, "run": "fold4"}
+{"review_id": 100, "construct": "Change", "fold": 4, "pred": 0, "p1": 0.01799, "gold": 0, "truncated": false, "run": "fold4"}

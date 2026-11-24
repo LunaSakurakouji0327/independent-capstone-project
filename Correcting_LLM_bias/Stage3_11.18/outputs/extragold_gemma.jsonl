@@ -1,0 +1,1295 @@
+{"unit_id": "Y1", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y1", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y1", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y1", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y1", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y1", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y1", "construct": "Change", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y2", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y2", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y2", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y2", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y2", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y2", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y2", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y3", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y3", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y3", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y3", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y3", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y3", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y3", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y4", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y4", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y4", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y4", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y4", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y4", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y4", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y5", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y5", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y5", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y5", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y5", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y5", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y5", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y6", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y6", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y6", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y6", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y6", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y6", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y6", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y7", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y7", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y7", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y7", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y7", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y7", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y7", "construct": "Change", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y8", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y8", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y8", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y8", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y8", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y8", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y8", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y9", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y9", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y9", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y9", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y9", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y9", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y9", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y10", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y10", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y10", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y10", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y10", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y10", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y10", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y11", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y11", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y11", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y11", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y11", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y11", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y11", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y12", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y12", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y12", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y12", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y12", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y12", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y12", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y13", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y13", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y13", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y13", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y13", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y13", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y13", "construct": "Change", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y14", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y14", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y14", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y14", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y14", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y14", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y14", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y15", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y15", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y15", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y15", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y15", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y15", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y15", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y16", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y16", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y16", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y16", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y16", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y16", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y16", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y17", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y17", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y17", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y17", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y17", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y17", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y17", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y18", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y18", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y18", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y18", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y18", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y18", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y18", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y19", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y19", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y19", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y19", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y19", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y19", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y19", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y20", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y20", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y20", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y20", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y20", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y20", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y20", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y21", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y21", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y21", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y21", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y21", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y21", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y21", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y22", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y22", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y22", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y22", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y22", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y22", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y22", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y23", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y23", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y23", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y23", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y23", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y23", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y23", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y24", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y24", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y24", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y24", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y24", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y24", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y24", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y25", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y25", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y25", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y25", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y25", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y25", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y25", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y26", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y26", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y26", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y26", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y26", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y26", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y26", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y27", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y27", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y27", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y27", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y27", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y27", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y27", "construct": "Change", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y28", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y28", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y28", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y28", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y28", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y28", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y28", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y29", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y29", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y29", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y29", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y29", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y29", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y29", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y30", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y30", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y30", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y30", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y30", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y30", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y30", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y31", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y31", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y31", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y31", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y31", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y31", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y31", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y32", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y32", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y32", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y32", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y32", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y32", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y32", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y33", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y33", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y33", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y33", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y33", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y33", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y33", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y34", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y34", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y34", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y34", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y34", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y34", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y34", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y35", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y35", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y35", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y35", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y35", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y35", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y35", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y36", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y36", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y36", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y36", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y36", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y36", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y36", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y37", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y37", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y37", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y37", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y37", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y37", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y37", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y38", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y38", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y38", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y38", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y38", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y38", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y38", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y39", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y39", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y39", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y39", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y39", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y39", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y39", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y40", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y40", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y40", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y40", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y40", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y40", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y40", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y41", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y41", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y41", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y41", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y41", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y41", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y41", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y42", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y42", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y42", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y42", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y42", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y42", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y42", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y43", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y43", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y43", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y43", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y43", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y43", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y43", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y44", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y44", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y44", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y44", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y44", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y44", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y44", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y45", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y45", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y45", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y45", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y45", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y45", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y45", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y46", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y46", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y46", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y46", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y46", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y46", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y46", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y47", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y47", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y47", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y47", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y47", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y47", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y47", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y48", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y48", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y48", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y48", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y48", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y48", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y48", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y49", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y49", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y49", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y49", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y49", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y49", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y49", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y50", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y50", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y50", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y50", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y50", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y50", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y50", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y51", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y51", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y51", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y51", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y51", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y51", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y51", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y52", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y52", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y52", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y52", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y52", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y52", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y52", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y53", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y53", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y53", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y53", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y53", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y53", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y53", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y54", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y54", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y54", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y54", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y54", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y54", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y54", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y55", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y55", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y55", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y55", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y55", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y55", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y55", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y56", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y56", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y56", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y56", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y56", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y56", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y56", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y57", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y57", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y57", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y57", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y57", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y57", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y57", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y58", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y58", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y58", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y58", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y58", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y58", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y58", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y59", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y59", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y59", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y59", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y59", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y59", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y59", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y60", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y60", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y60", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y60", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y60", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y60", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y60", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y61", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y61", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y61", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y61", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y61", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y61", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y61", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y62", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y62", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y62", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y62", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y62", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y62", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y62", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y63", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y63", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y63", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y63", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y63", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y63", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y63", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y64", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y64", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y64", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y64", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y64", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y64", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y64", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y65", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y65", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y65", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y65", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y65", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y65", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y65", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y66", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y66", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y66", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y66", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y66", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y66", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y66", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y67", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y67", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y67", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y67", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y67", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y67", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y67", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y68", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y68", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y68", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y68", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y68", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y68", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y68", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y69", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y69", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y69", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y69", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y69", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y69", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y69", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y70", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y70", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y70", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y70", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y70", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y70", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y70", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y71", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y71", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y71", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y71", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y71", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y71", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y71", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y72", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y72", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y72", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y72", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y72", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y72", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y72", "construct": "Change", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y73", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y73", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y73", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y73", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y73", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y73", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y73", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y74", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y74", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y74", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y74", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y74", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y74", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y74", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y75", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y75", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y75", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y75", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y75", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y75", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y75", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y76", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y76", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y76", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y76", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y76", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y76", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y76", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y77", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y77", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y77", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y77", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y77", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y77", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y77", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y78", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y78", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y78", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y78", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y78", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y78", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y78", "construct": "Change", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y79", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y79", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y79", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y79", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y79", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y79", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y79", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y80", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y80", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y80", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y80", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y80", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y80", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y80", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y81", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y81", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y81", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y81", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y81", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y81", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y81", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y82", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y82", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y82", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y82", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y82", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y82", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y82", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y83", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y83", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y83", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y83", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y83", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y83", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y83", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y84", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y84", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y84", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y84", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y84", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y84", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y84", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y85", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y85", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y85", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y85", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y85", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y85", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y85", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y86", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y86", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y86", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y86", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y86", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y86", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y86", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y87", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y87", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y87", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y87", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y87", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y87", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y87", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y88", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y88", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y88", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y88", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y88", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y88", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y88", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y89", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y89", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y89", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y89", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y89", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y89", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y89", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y90", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y90", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y90", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y90", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y90", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y90", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y90", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y91", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y91", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y91", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y91", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y91", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y91", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y91", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y92", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y92", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y92", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y92", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y92", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y92", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y92", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y93", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y93", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y93", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y93", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y93", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y93", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y93", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y94", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y94", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y94", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y94", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y94", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y94", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y94", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y95", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y95", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y95", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y95", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y95", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y95", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y95", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y96", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y96", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y96", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y96", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y96", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y96", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y96", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y97", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y97", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y97", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y97", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y97", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y97", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y97", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y98", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y98", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y98", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y98", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y98", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y98", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y98", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y99", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y99", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y99", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y99", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y99", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y99", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y99", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y100", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y100", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y100", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y100", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "Y100", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y100", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "Y100", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K1", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K1", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K1", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K1", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K1", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K1", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K1", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K2", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K2", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K2", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K2", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K2", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K2", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K2", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K3", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K3", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K3", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K3", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K3", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K3", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K3", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K4", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K4", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K4", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K4", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K4", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K4", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K4", "construct": "Change", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K5", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K5", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K5", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K5", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K5", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K5", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K5", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K6", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K6", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K6", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K6", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K6", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K6", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K6", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K7", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K7", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K7", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K7", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K7", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K7", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K7", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K8", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K8", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K8", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K8", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K8", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K8", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K8", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K9", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K9", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K9", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K9", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K9", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K9", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K9", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K10", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K10", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K10", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K10", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K10", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K10", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K10", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K11", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K11", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K11", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K11", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K11", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K11", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K11", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K12", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K12", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K12", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K12", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K12", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K12", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K12", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K13", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K13", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K13", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K13", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K13", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K13", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K13", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K14", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K14", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K14", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K14", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K14", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K14", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K14", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K15", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K15", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K15", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K15", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K15", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K15", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K15", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K16", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K16", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K16", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K16", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K16", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K16", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K16", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K17", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K17", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K17", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K17", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K17", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K17", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K17", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K18", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K18", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K18", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K18", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K18", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K18", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K18", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K19", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K19", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K19", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K19", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K19", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K19", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K19", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K20", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K20", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K20", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K20", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K20", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K20", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K20", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K21", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K21", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K21", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K21", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K21", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K21", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K21", "construct": "Change", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K22", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K22", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K22", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K22", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K22", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K22", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K22", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K23", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K23", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K23", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K23", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K23", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K23", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K23", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K24", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K24", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K24", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K24", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K24", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K24", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K24", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K25", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K25", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K25", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K25", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K25", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K25", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K25", "construct": "Change", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K26", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K26", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K26", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K26", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K26", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K26", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K26", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K27", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K27", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K27", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K27", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K27", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K27", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K27", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K28", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K28", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K28", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K28", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K28", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K28", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K28", "construct": "Change", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K29", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K29", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K29", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K29", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K29", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K29", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K29", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K30", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K30", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K30", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K30", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K30", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K30", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K30", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K31", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K31", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K31", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K31", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K31", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K31", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K31", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K32", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K32", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K32", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K32", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K32", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K32", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K32", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K33", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K33", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K33", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K33", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K33", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K33", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K33", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K34", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K34", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K34", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K34", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K34", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K34", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K34", "construct": "Change", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K35", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K35", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K35", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K35", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K35", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K35", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K35", "construct": "Change", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K36", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K36", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K36", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K36", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K36", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K36", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K36", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K37", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K37", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K37", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K37", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K37", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K37", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K37", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K38", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K38", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K38", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K38", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K38", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K38", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K38", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K39", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K39", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K39", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K39", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K39", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K39", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K39", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K40", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K40", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K40", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K40", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K40", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K40", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K40", "construct": "Change", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K41", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K41", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K41", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K41", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K41", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K41", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K41", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K42", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K42", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K42", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K42", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K42", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K42", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K42", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K43", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K43", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K43", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K43", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K43", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K43", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K43", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K44", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K44", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K44", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K44", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K44", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K44", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K44", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K45", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K45", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K45", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K45", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K45", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K45", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K45", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K46", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K46", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K46", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K46", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K46", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K46", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K46", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K47", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K47", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K47", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K47", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K47", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K47", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K47", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K48", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K48", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K48", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K48", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K48", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K48", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K48", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K49", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K49", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K49", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K49", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K49", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K49", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K49", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K50", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K50", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K50", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K50", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K50", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K50", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K50", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K51", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K51", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K51", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K51", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K51", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K51", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K51", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K52", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K52", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K52", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K52", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K52", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K52", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K52", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K53", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K53", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K53", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K53", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K53", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K53", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K53", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K54", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K54", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K54", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K54", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K54", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K54", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K54", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K55", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K55", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K55", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K55", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K55", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K55", "construct": "Surprise", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K55", "construct": "Change", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K56", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K56", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K56", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K56", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K56", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K56", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K56", "construct": "Change", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K57", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K57", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K57", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K57", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K57", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K57", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K57", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K58", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K58", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K58", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K58", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K58", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K58", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K58", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K59", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K59", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K59", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K59", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K59", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K59", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K59", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K60", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K60", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K60", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K60", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K60", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K60", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K60", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K61", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K61", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K61", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K61", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K61", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K61", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K61", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K62", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K62", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K62", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K62", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K62", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K62", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K62", "construct": "Change", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K63", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K63", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K63", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K63", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K63", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K63", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K63", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K64", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K64", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K64", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K64", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K64", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K64", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K64", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K65", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K65", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K65", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K65", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K65", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K65", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K65", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K66", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K66", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K66", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K66", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K66", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K66", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K66", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K67", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K67", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K67", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K67", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K67", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K67", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K67", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K68", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K68", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K68", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K68", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K68", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K68", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K68", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K69", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K69", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K69", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K69", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K69", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K69", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K69", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K70", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K70", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K70", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K70", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K70", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K70", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K70", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K71", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K71", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K71", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K71", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K71", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K71", "construct": "Surprise", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K71", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K72", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K72", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K72", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K72", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K72", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K72", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K72", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K73", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K73", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K73", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K73", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K73", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K73", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K73", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K74", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K74", "construct": "Theme", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K74", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K74", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K74", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K74", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K74", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K75", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K75", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K75", "construct": "Thought-Provoking", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K75", "construct": "Ease", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K75", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K75", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K75", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K76", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K76", "construct": "Theme", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K76", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K76", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K76", "construct": "Critic", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K76", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K76", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K77", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K77", "construct": "Theme", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K77", "construct": "Thought-Provoking", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K77", "construct": "Ease", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K77", "construct": "Critic", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K77", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K77", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K78", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K78", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K78", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K78", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K78", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K78", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K78", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K79", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K79", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K79", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K79", "construct": "Ease", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K79", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K79", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K79", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K80", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K80", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K80", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K80", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K80", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K80", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K80", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K81", "construct": "Absence of Naive Realism", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K81", "construct": "Theme", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K81", "construct": "Thought-Provoking", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K81", "construct": "Ease", "prompt": "v2", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K81", "construct": "Critic", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K81", "construct": "Surprise", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K81", "construct": "Change", "prompt": "v2", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K82", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K82", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K82", "construct": "Thought-Provoking", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K82", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K82", "construct": "Critic", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K82", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K82", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K83", "construct": "Absence of Naive Realism", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K83", "construct": "Theme", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K83", "construct": "Thought-Provoking", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K83", "construct": "Ease", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K83", "construct": "Critic", "prompt": "v3", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K83", "construct": "Surprise", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K83", "construct": "Change", "prompt": "v3", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K84", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K84", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K84", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K84", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K84", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K84", "construct": "Surprise", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K84", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K85", "construct": "Absence of Naive Realism", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K85", "construct": "Theme", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K85", "construct": "Thought-Provoking", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K85", "construct": "Ease", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}
+{"unit_id": "K85", "construct": "Critic", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K85", "construct": "Surprise", "prompt": "v4", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "1"}
+{"unit_id": "K85", "construct": "Change", "prompt": "v4", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "raw": "0"}

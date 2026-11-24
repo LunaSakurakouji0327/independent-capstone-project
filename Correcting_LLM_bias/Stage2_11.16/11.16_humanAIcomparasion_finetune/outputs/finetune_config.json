@@ -1,0 +1,21 @@
+{
+ "base_model": "unsloth/Qwen3-14B-bnb-4bit",
+ "max_review_tokens": 768,
+ "lora_r": 16,
+ "lora_alpha": 32,
+ "lora_dropout": 0.05,
+ "target_modules": [
+  "q_proj",
+  "k_proj",
+  "v_proj",
+  "o_proj",
+  "gate_proj",
+  "up_proj",
+  "down_proj"
+ ],
+ "epochs": 2,
+ "lr": 0.0001,
+ "grad_accum": 8,
+ "warmup_ratio": 0.1,
+ "seed": 42
+}

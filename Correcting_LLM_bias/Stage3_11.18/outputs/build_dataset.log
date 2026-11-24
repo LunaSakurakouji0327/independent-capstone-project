@@ -1,0 +1,24 @@
+excluded texts: 5100
+0 lines, 0s
+2,000,000 lines, 40s
+4,000,000 lines, 83s
+6,000,000 lines, 124s
+10,000,000 lines, 212s
+12,000,000 lines, 255s
+14,000,000 lines, 297s
+done: 15,739,967 lines, eligible (>25 words, unused) 11,414,113; gold matched 100/100
+new English reviews: 2900
+gold: matched 100 | ambiguous (>1 match) 1 | >25 words 100 | English 100
+genre coverage: 0.994
+genre: top
+fiction                                   687
+fantasy, paranormal                       589
+romance                                   488
+mystery, thriller, crime                  322
+non-fiction                               303
+young-adult                               241
+history, historical fiction, biography    132
+children                                  107
+comics, graphic                           101
+none                                       17
+poetry                                     13

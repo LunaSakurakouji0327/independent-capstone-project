@@ -1,0 +1,220 @@
+
+=====================================================
+Outcome: Absence_of_Naive_Realism_AI 
+
+Call:
+lm(formula = f, data = df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-0.2926 -0.1415 -0.1276 -0.1177  0.9407 
+
+Coefficients:
+                                      Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                           0.135719   0.010880  12.475  < 2e-16 ***
+children                             -0.017433   0.006025  -2.893 0.003815 ** 
+comics_graphic                       -0.045601   0.007431  -6.136 8.50e-10 ***
+fantasy_paranormal                   -0.012738   0.003410  -3.735 0.000188 ***
+fiction                               0.029286   0.010330   2.835 0.004585 ** 
+history_historical_fiction_biography  0.016095   0.003825   4.208 2.58e-05 ***
+mystery_thriller_crime               -0.001951   0.003201  -0.609 0.542285    
+non_fiction                           0.044416   0.009629   4.613 3.98e-06 ***
+poetry                                0.046378   0.015266   3.038 0.002383 ** 
+romance                              -0.045401   0.004048 -11.217  < 2e-16 ***
+young_adult                           0.020732   0.003475   5.965 2.46e-09 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 0.3424 on 49988 degrees of freedom
+  (1 observation deleted due to missingness)
+Multiple R-squared:  0.005262,	Adjusted R-squared:  0.005063 
+F-statistic: 26.44 on 10 and 49988 DF,  p-value: < 2.2e-16
+
+
+=====================================================
+Outcome: Theme_AI 
+
+Call:
+lm(formula = f, data = df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-0.8907 -0.5558  0.3382  0.4193  0.5663 
+
+Coefficients:
+                                      Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                           0.593914   0.015498  38.323  < 2e-16 ***
+children                             -0.041214   0.008583  -4.802 1.58e-06 ***
+comics_graphic                       -0.052208   0.010585  -4.932 8.16e-07 ***
+fantasy_paranormal                   -0.014365   0.004858  -2.957 0.003107 ** 
+fiction                               0.064420   0.014715   4.378 1.20e-05 ***
+history_historical_fiction_biography  0.048928   0.005449   8.980  < 2e-16 ***
+mystery_thriller_crime               -0.024884   0.004560  -5.457 4.86e-08 ***
+non_fiction                           0.107784   0.013716   7.858 3.98e-15 ***
+poetry                                0.072142   0.021746   3.317 0.000909 ***
+romance                              -0.107990   0.005765 -18.730  < 2e-16 ***
+young_adult                           0.044708   0.004950   9.031  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 0.4877 on 49989 degrees of freedom
+Multiple R-squared:  0.01496,	Adjusted R-squared:  0.01476 
+F-statistic:  75.9 on 10 and 49989 DF,  p-value: < 2.2e-16
+
+
+=====================================================
+Outcome: Thought_Provoking_AI 
+
+Call:
+lm(formula = f, data = df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-0.7012 -0.2548 -0.2017 -0.1406  0.9266 
+
+Coefficients:
+                                      Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                           0.302765   0.013380  22.629  < 2e-16 ***
+children                             -0.056045   0.007410  -7.563 3.99e-14 ***
+comics_graphic                       -0.067156   0.009139  -7.348 2.04e-13 ***
+fantasy_paranormal                   -0.058156   0.004194 -13.866  < 2e-16 ***
+fiction                               0.038967   0.012704   3.067 0.002161 ** 
+history_historical_fiction_biography  0.017352   0.004704   3.689 0.000226 ***
+mystery_thriller_crime               -0.014687   0.003937  -3.731 0.000191 ***
+non_fiction                           0.173176   0.011842  14.624  < 2e-16 ***
+poetry                                0.113034   0.018774   6.021 1.75e-09 ***
+romance                              -0.128107   0.004978 -25.736  < 2e-16 ***
+young_adult                           0.055860   0.004274  13.070  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 0.4211 on 49989 degrees of freedom
+Multiple R-squared:  0.02986,	Adjusted R-squared:  0.02966 
+F-statistic: 153.9 on 10 and 49989 DF,  p-value: < 2.2e-16
+
+
+=====================================================
+Outcome: Ease_AI 
+
+Call:
+lm(formula = f, data = df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-0.8436 -0.6556  0.3022  0.3217  0.4299 
+
+Coefficients:
+                                      Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                           0.681297   0.014755  46.175  < 2e-16 ***
+children                              0.076360   0.008171   9.345  < 2e-16 ***
+comics_graphic                        0.069460   0.010078   6.892 5.56e-12 ***
+fantasy_paranormal                   -0.019541   0.004625  -4.225 2.39e-05 ***
+fiction                              -0.026853   0.014010  -1.917   0.0553 .  
+history_historical_fiction_biography -0.027190   0.005188  -5.241 1.60e-07 ***
+mystery_thriller_crime                0.004576   0.004341   1.054   0.2919    
+non_fiction                          -0.015875   0.013059  -1.216   0.2241    
+poetry                               -0.021746   0.020704  -1.050   0.2936    
+romance                               0.056028   0.005489  10.207  < 2e-16 ***
+young_adult                          -0.012667   0.004713  -2.688   0.0072 ** 
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 0.4643 on 49988 degrees of freedom
+  (1 observation deleted due to missingness)
+Multiple R-squared:  0.004838,	Adjusted R-squared:  0.004638 
+F-statistic:  24.3 on 10 and 49988 DF,  p-value: < 2.2e-16
+
+
+=====================================================
+Outcome: Critic_AI 
+
+Call:
+lm(formula = f, data = df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-0.6810 -0.5602  0.3784  0.4208  0.6925 
+
+Coefficients:
+                                      Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                           0.526652   0.015638  33.678  < 2e-16 ***
+children                             -0.110402   0.008661 -12.748  < 2e-16 ***
+comics_graphic                       -0.052116   0.010681  -4.879 1.07e-06 ***
+fantasy_paranormal                    0.032531   0.004902   6.636 3.25e-11 ***
+fiction                               0.025351   0.014848   1.707   0.0878 .  
+history_historical_fiction_biography  0.035749   0.005498   6.502 7.99e-11 ***
+mystery_thriller_crime                0.037100   0.004601   8.063 7.59e-16 ***
+non_fiction                          -0.085726   0.013841  -6.194 5.92e-10 ***
+poetry                               -0.048350   0.021943  -2.203   0.0276 *  
+romance                              -0.028949   0.005818  -4.976 6.51e-07 ***
+young_adult                           0.023633   0.004995   4.731 2.24e-06 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 0.4921 on 49989 degrees of freedom
+Multiple R-squared:  0.009391,	Adjusted R-squared:  0.009193 
+F-statistic: 47.39 on 10 and 49989 DF,  p-value: < 2.2e-16
+
+
+=====================================================
+Outcome: Surprise_AI 
+
+Call:
+lm(formula = f, data = df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-0.3647 -0.3276 -0.2877  0.6462  0.8663 
+
+Coefficients:
+                                      Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                           0.272188   0.014706  18.509  < 2e-16 ***
+children                             -0.067122   0.008144  -8.242  < 2e-16 ***
+comics_graphic                       -0.046079   0.010045  -4.587 4.50e-06 ***
+fantasy_paranormal                    0.012491   0.004610   2.710  0.00674 ** 
+fiction                              -0.001017   0.013963  -0.073  0.94195    
+history_historical_fiction_biography -0.009859   0.005170  -1.907  0.05655 .  
+mystery_thriller_crime                0.036068   0.004327   8.336  < 2e-16 ***
+non_fiction                          -0.003090   0.013016  -0.237  0.81234    
+poetry                               -0.036797   0.020635  -1.783  0.07456 .  
+romance                               0.008829   0.005471   1.614  0.10660    
+young_adult                           0.035086   0.004698   7.469 8.21e-14 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 0.4628 on 49988 degrees of freedom
+  (1 observation deleted due to missingness)
+Multiple R-squared:  0.005781,	Adjusted R-squared:  0.005582 
+F-statistic: 29.07 on 10 and 49988 DF,  p-value: < 2.2e-16
+
+
+=====================================================
+Outcome: Change_AI 
+
+Call:
+lm(formula = f, data = df)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.14236 -0.03581 -0.02525 -0.01506  1.00429 
+
+Coefficients:
+                                       Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                           0.0508701  0.0053585   9.493  < 2e-16 ***
+children                             -0.0080940  0.0029677  -2.727  0.00639 ** 
+comics_graphic                       -0.0178417  0.0036601  -4.875 1.09e-06 ***
+fantasy_paranormal                   -0.0167044  0.0016797  -9.945  < 2e-16 ***
+fiction                               0.0001363  0.0050879   0.027  0.97862    
+history_historical_fiction_biography  0.0034819  0.0018840   1.848  0.06459 .  
+mystery_thriller_crime               -0.0101951  0.0015766  -6.466 1.01e-10 ***
+non_fiction                           0.0761676  0.0047427  16.060  < 2e-16 ***
+poetry                               -0.0005553  0.0075191  -0.074  0.94113    
+romance                              -0.0207504  0.0019935 -10.409  < 2e-16 ***
+young_adult                           0.0117013  0.0017117   6.836 8.24e-12 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 0.1686 on 49989 degrees of freedom
+Multiple R-squared:  0.01529,	Adjusted R-squared:  0.01509 
+F-statistic: 77.61 on 10 and 49989 DF,  p-value: < 2.2e-16
+

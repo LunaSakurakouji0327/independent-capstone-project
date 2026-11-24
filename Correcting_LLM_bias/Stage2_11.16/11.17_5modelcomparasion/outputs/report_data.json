@@ -1,0 +1,344 @@
+{
+ "models": [
+  "Sonnet 5.5",
+  "Gemma 3 12B",
+  "Qwen3-14B fine-tuned",
+  "GPT-6 Luna",
+  "GPT-5.4 mini"
+ ],
+ "prev": {
+  "Sonnet 5.5": {
+   "Absence of Naive Realism": 0.09333333333333334,
+   "Theme": 0.36,
+   "Thought-Provoking": 0.07333333333333333,
+   "Ease": 0.2733333333333333,
+   "Critic": 0.52,
+   "Surprise": 0.2133333333333333,
+   "Change": 0.02
+  },
+  "Gemma 3 12B": {
+   "Absence of Naive Realism": 0.12,
+   "Theme": 0.44,
+   "Thought-Provoking": 0.2533333333333334,
+   "Ease": 0.2866666666666667,
+   "Critic": 0.5266666666666666,
+   "Surprise": 0.2333333333333333,
+   "Change": 0.04666666666666667
+  },
+  "Qwen3-14B fine-tuned": {
+   "Absence of Naive Realism": 0.02666666666666667,
+   "Theme": 0.38,
+   "Thought-Provoking": 0.26,
+   "Ease": 0.3,
+   "Critic": 0.4133333333333333,
+   "Surprise": 0.14,
+   "Change": 0.02666666666666667
+  },
+  "GPT-6 Luna": {
+   "Absence of Naive Realism": 0.09333333333333334,
+   "Theme": 0.4533333333333333,
+   "Thought-Provoking": 0.1333333333333333,
+   "Ease": 0.44,
+   "Critic": 0.5466666666666666,
+   "Surprise": 0.2866666666666667,
+   "Change": 0.01333333333333333
+  },
+  "GPT-5.4 mini": {
+   "Absence of Naive Realism": 0.14,
+   "Theme": 0.5333333333333333,
+   "Thought-Provoking": 0.2733333333333333,
+   "Ease": 0.4866666666666667,
+   "Critic": 0.5333333333333333,
+   "Surprise": 0.1466666666666667,
+   "Change": 0.05333333333333334
+  }
+ },
+ "pair": [
+  {
+   "pair": "Sonnet 5.5 \u2013 Gemma 3 12B",
+   "Absence of Naive Realism": 0.3715083798882681,
+   "Theme": 0.6688741721854305,
+   "Thought-Provoking": 0.3782622044826527,
+   "Ease": 0.6693850562045405,
+   "Critic": 0.6392303580972742,
+   "Surprise": 0.6350832266325224,
+   "Change": 0.3827160493827161,
+   "Macro (6, excl. Change)": 0.5603905662484481
+  },
+  {
+   "pair": "Sonnet 5.5 \u2013 Qwen3-14B fine-tuned",
+   "Absence of Naive Realism": 0.4204018547140649,
+   "Theme": 0.5283018867924527,
+   "Thought-Provoking": 0.2321589882565492,
+   "Ease": 0.6416938110749186,
+   "Critic": 0.6557203389830508,
+   "Surprise": 0.659400544959128,
+   "Change": 0.5614035087719298,
+   "Macro (6, excl. Change)": 0.5229462374633607
+  },
+  {
+   "pair": "Sonnet 5.5 \u2013 GPT-6 Luna",
+   "Absence of Naive Realism": 0.7636554621848739,
+   "Theme": 0.6987951807228916,
+   "Thought-Provoking": 0.6080760095011877,
+   "Ease": 0.6474901297236323,
+   "Critic": 0.7858672376873661,
+   "Surprise": 0.6293245469522241,
+   "Change": 0.7967479674796748,
+   "Macro (6, excl. Change)": 0.6888680944620292
+  },
+  {
+   "pair": "Sonnet 5.5 \u2013 GPT-5.4 mini",
+   "Absence of Naive Realism": 0.5173745173745173,
+   "Theme": 0.5549738219895288,
+   "Thought-Provoking": 0.3476369962307915,
+   "Ease": 0.5411193089796653,
+   "Critic": 0.7058823529411764,
+   "Surprise": 0.6861924686192469,
+   "Change": 0.5318352059925093,
+   "Macro (6, excl. Change)": 0.558863244355821
+  },
+  {
+   "pair": "Gemma 3 12B \u2013 Qwen3-14B fine-tuned",
+   "Absence of Naive Realism": 0.3346007604562737,
+   "Theme": 0.5744096650192203,
+   "Thought-Provoking": 0.5283018867924528,
+   "Ease": 0.4855305466237942,
+   "Critic": 0.6961423286947331,
+   "Surprise": 0.6103896103896105,
+   "Change": 0.7176913425345044,
+   "Macro (6, excl. Change)": 0.5382291329960142
+  },
+  {
+   "pair": "Gemma 3 12B \u2013 GPT-6 Luna",
+   "Absence of Naive Realism": 0.3016759776536313,
+   "Theme": 0.622437971952535,
+   "Thought-Provoking": 0.4986072423398328,
+   "Ease": 0.4238336143901068,
+   "Critic": 0.6381990351974272,
+   "Surprise": 0.620253164556962,
+   "Change": 0.4326777609682299,
+   "Macro (6, excl. Change)": 0.5175011676817491
+  },
+  {
+   "pair": "Gemma 3 12B \u2013 GPT-5.4 mini",
+   "Absence of Naive Realism": 0.4405182567726738,
+   "Theme": 0.6296296296296295,
+   "Thought-Provoking": 0.7423860773986719,
+   "Ease": 0.460528681891746,
+   "Critic": 0.6387154326494202,
+   "Surprise": 0.6362339514978602,
+   "Change": 0.6492048643592142,
+   "Macro (6, excl. Change)": 0.591335338306667
+  },
+  {
+   "pair": "Qwen3-14B fine-tuned \u2013 GPT-6 Luna",
+   "Absence of Naive Realism": 0.3044822256568779,
+   "Theme": 0.5499181669394435,
+   "Thought-Provoking": 0.3621399176954732,
+   "Ease": 0.5658263305322129,
+   "Critic": 0.5801259622113366,
+   "Surprise": 0.5381062355658198,
+   "Change": 0.6606334841628959,
+   "Macro (6, excl. Change)": 0.4834331397668606
+  },
+  {
+   "pair": "Qwen3-14B fine-tuned \u2013 GPT-5.4 mini",
+   "Absence of Naive Realism": 0.2881072026800671,
+   "Theme": 0.5144356955380578,
+   "Thought-Provoking": 0.4546693933197,
+   "Ease": 0.5148247978436657,
+   "Critic": 0.5518453427065027,
+   "Surprise": 0.8099891422366993,
+   "Change": 0.6543778801843319,
+   "Macro (6, excl. Change)": 0.5223119290541154
+  },
+  {
+   "pair": "GPT-6 Luna \u2013 GPT-5.4 mini",
+   "Absence of Naive Realism": 0.453024453024453,
+   "Theme": 0.6819787985865724,
+   "Thought-Provoking": 0.5006657789613848,
+   "Ease": 0.6655965757089353,
+   "Critic": 0.5974955277280858,
+   "Surprise": 0.5609569865105626,
+   "Change": 0.3869209809264306,
+   "Macro (6, excl. Change)": 0.5766196867533323
+  }
+ ],
+ "fleiss": {
+  "Absence of Naive Realism": 0.4243813395838947,
+  "Theme": 0.6009049773755658,
+  "Thought-Provoking": 0.4639806139655382,
+  "Ease": 0.5558385458599119,
+  "Critic": 0.6479098649254208,
+  "Surprise": 0.6305054685190659,
+  "Change": 0.5695592286501386,
+  "Macro (6, excl. Change)": 0.5539201350382329
+ },
+ "pe": [
+  {
+   "model": "Sonnet 5.5",
+   "prompt": "v2",
+   "labels": 300,
+   "share coded 1": 0.2633333333333333,
+   "agreement with majority of other models": 0.8566666666666667
+  },
+  {
+   "model": "Sonnet 5.5",
+   "prompt": "v3",
+   "labels": 300,
+   "share coded 1": 0.2933333333333333,
+   "agreement with majority of other models": 0.83
+  },
+  {
+   "model": "Sonnet 5.5",
+   "prompt": "v4",
+   "labels": 300,
+   "share coded 1": 0.21,
+   "agreement with majority of other models": 0.87
+  },
+  {
+   "model": "Gemma 3 12B",
+   "prompt": "v2",
+   "labels": 300,
+   "share coded 1": 0.3133333333333334,
+   "agreement with majority of other models": 0.8666666666666667
+  },
+  {
+   "model": "Gemma 3 12B",
+   "prompt": "v3",
+   "labels": 300,
+   "share coded 1": 0.34,
+   "agreement with majority of other models": 0.81
+  },
+  {
+   "model": "Gemma 3 12B",
+   "prompt": "v4",
+   "labels": 300,
+   "share coded 1": 0.2766666666666667,
+   "agreement with majority of other models": 0.8533333333333334
+  },
+  {
+   "model": "GPT-6 Luna",
+   "prompt": "v2",
+   "labels": 300,
+   "share coded 1": 0.3533333333333333,
+   "agreement with majority of other models": 0.82
+  },
+  {
+   "model": "GPT-6 Luna",
+   "prompt": "v3",
+   "labels": 300,
+   "share coded 1": 0.3366666666666667,
+   "agreement with majority of other models": 0.86
+  },
+  {
+   "model": "GPT-6 Luna",
+   "prompt": "v4",
+   "labels": 300,
+   "share coded 1": 0.2866666666666667,
+   "agreement with majority of other models": 0.8866666666666667
+  },
+  {
+   "model": "GPT-5.4 mini",
+   "prompt": "v2",
+   "labels": 300,
+   "share coded 1": 0.34,
+   "agreement with majority of other models": 0.8433333333333334
+  },
+  {
+   "model": "GPT-5.4 mini",
+   "prompt": "v3",
+   "labels": 300,
+   "share coded 1": 0.3533333333333333,
+   "agreement with majority of other models": 0.8433333333333334
+  },
+  {
+   "model": "GPT-5.4 mini",
+   "prompt": "v4",
+   "labels": 300,
+   "share coded 1": 0.3633333333333333,
+   "agreement with majority of other models": 0.87
+  }
+ ],
+ "cost": [
+  {
+   "model": "Sonnet 5.5",
+   "calls": 1050,
+   "cost_usd": 9.745,
+   "note": "API-equivalent (Claude Code CLI total_cost_usd); plus $2.70 for 48 discarded calls with the default CLI setup",
+   "input_tokens": "",
+   "cached_tokens": "",
+   "output_tokens": "",
+   "reasoning_tokens": ""
+  },
+  {
+   "model": "Gemma 3 12B",
+   "calls": 1050,
+   "cost_usd": 0.0,
+   "note": "local GPU (Ollama)",
+   "input_tokens": "",
+   "cached_tokens": "",
+   "output_tokens": "",
+   "reasoning_tokens": ""
+  },
+  {
+   "model": "Qwen3-14B fine-tuned",
+   "calls": 1050,
+   "cost_usd": 0.0,
+   "note": "local GPU",
+   "input_tokens": "",
+   "cached_tokens": "",
+   "output_tokens": "",
+   "reasoning_tokens": ""
+  },
+  {
+   "model": "GPT-6 Luna",
+   "calls": 1050,
+   "cost_usd": 0.1432,
+   "note": "$0.1/$0.01/$0.5 per 1M in/cached/out",
+   "input_tokens": 1146977.0,
+   "cached_tokens": 0.0,
+   "output_tokens": 56934.0,
+   "reasoning_tokens": 46452.0
+  },
+  {
+   "model": "GPT-5.4 mini",
+   "calls": 1050,
+   "cost_usd": 0.8804,
+   "note": "$0.75/$0.075/$4.5 per 1M in/cached/out",
+   "input_tokens": 1146977.0,
+   "cached_tokens": 0.0,
+   "output_tokens": 4482.0,
+   "reasoning_tokens": 0.0
+  }
+ ],
+ "epoch": {
+  "macro_kappa_2ep": 0.4651642021738807,
+  "macro_kappa_1ep": 0.40069694390520655,
+  "acc_2ep": 0.835,
+  "acc_1ep": 0.81,
+  "per_construct_kappa_2ep": {
+   "Absence of Naive Realism": 0.27419354838709664,
+   "Theme": 0.6231155778894473,
+   "Thought-Provoking": 0.5628946090335114,
+   "Ease": 0.5078740157480315,
+   "Critic": 0.6190858059342422,
+   "Surprise": 0.20382165605095537
+  },
+  "per_construct_kappa_1ep": {
+   "Absence of Naive Realism": 0.13793103448275867,
+   "Theme": 0.4313395113732097,
+   "Thought-Provoking": 0.3850267379679144,
+   "Ease": 0.3821292775665399,
+   "Critic": 0.6799999999999999,
+   "Surprise": 0.3877551020408164
+  },
+  "diff_1ep_minus_2ep": [
+   -0.064146328251738,
+   -0.1445392249532936,
+   0.009711422889116946,
+   0.042
+  ]
+ }
+}

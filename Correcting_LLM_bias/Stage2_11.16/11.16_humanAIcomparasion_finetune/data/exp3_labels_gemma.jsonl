@@ -1,0 +1,840 @@
+{"review_id": 0, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1057, "raw": "0"}
+{"review_id": 0, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 925, "raw": "0"}
+{"review_id": 0, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 846, "raw": "0"}
+{"review_id": 0, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 911, "raw": "1"}
+{"review_id": 0, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 933, "raw": "1"}
+{"review_id": 0, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 906, "raw": "0"}
+{"review_id": 0, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 776, "raw": "0"}
+{"review_id": 1, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1056, "raw": "0"}
+{"review_id": 1, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 924, "raw": "0"}
+{"review_id": 1, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 845, "raw": "0"}
+{"review_id": 1, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 910, "raw": "1"}
+{"review_id": 1, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 932, "raw": "0"}
+{"review_id": 1, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 905, "raw": "0"}
+{"review_id": 1, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 775, "raw": "0"}
+{"review_id": 2, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1053, "raw": "0"}
+{"review_id": 2, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 921, "raw": "0"}
+{"review_id": 2, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 842, "raw": "0"}
+{"review_id": 2, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 907, "raw": "0"}
+{"review_id": 2, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 929, "raw": "0"}
+{"review_id": 2, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 902, "raw": "0"}
+{"review_id": 2, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 772, "raw": "0"}
+{"review_id": 3, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1086, "raw": "0"}
+{"review_id": 3, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 954, "raw": "1"}
+{"review_id": 3, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 875, "raw": "1"}
+{"review_id": 3, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 940, "raw": "1"}
+{"review_id": 3, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 962, "raw": "0"}
+{"review_id": 3, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 935, "raw": "0"}
+{"review_id": 3, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 805, "raw": "0"}
+{"review_id": 4, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1038, "raw": "0"}
+{"review_id": 4, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 906, "raw": "1"}
+{"review_id": 4, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 827, "raw": "1"}
+{"review_id": 4, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 892, "raw": "1"}
+{"review_id": 4, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 914, "raw": "1"}
+{"review_id": 4, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 887, "raw": "0"}
+{"review_id": 4, "construct": "Change", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 757, "raw": "1"}
+{"review_id": 5, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1999, "raw": "0"}
+{"review_id": 5, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1867, "raw": "1"}
+{"review_id": 5, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1788, "raw": "1"}
+{"review_id": 5, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1853, "raw": "0"}
+{"review_id": 5, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1875, "raw": "1"}
+{"review_id": 5, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1848, "raw": "1"}
+{"review_id": 5, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1718, "raw": "0"}
+{"review_id": 6, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1476, "raw": "0"}
+{"review_id": 6, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1344, "raw": "0"}
+{"review_id": 6, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1265, "raw": "0"}
+{"review_id": 6, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1330, "raw": "0"}
+{"review_id": 6, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1352, "raw": "1"}
+{"review_id": 6, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1325, "raw": "1"}
+{"review_id": 6, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1195, "raw": "0"}
+{"review_id": 7, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1503, "raw": "0"}
+{"review_id": 7, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1371, "raw": "1"}
+{"review_id": 7, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1292, "raw": "1"}
+{"review_id": 7, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1357, "raw": "1"}
+{"review_id": 7, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1379, "raw": "1"}
+{"review_id": 7, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1352, "raw": "0"}
+{"review_id": 7, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1222, "raw": "0"}
+{"review_id": 8, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1016, "raw": "0"}
+{"review_id": 8, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 884, "raw": "1"}
+{"review_id": 8, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 805, "raw": "0"}
+{"review_id": 8, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 870, "raw": "0"}
+{"review_id": 8, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 892, "raw": "0"}
+{"review_id": 8, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 865, "raw": "0"}
+{"review_id": 8, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 735, "raw": "0"}
+{"review_id": 9, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1105, "raw": "0"}
+{"review_id": 9, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 973, "raw": "0"}
+{"review_id": 9, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 894, "raw": "0"}
+{"review_id": 9, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 959, "raw": "0"}
+{"review_id": 9, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 981, "raw": "1"}
+{"review_id": 9, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 954, "raw": "1"}
+{"review_id": 9, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 824, "raw": "0"}
+{"review_id": 10, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 2171, "raw": "0"}
+{"review_id": 10, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 2039, "raw": "0"}
+{"review_id": 10, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1960, "raw": "0"}
+{"review_id": 10, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 2025, "raw": "0"}
+{"review_id": 10, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 2047, "raw": "0"}
+{"review_id": 10, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 2020, "raw": "0"}
+{"review_id": 10, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1890, "raw": "0"}
+{"review_id": 11, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1649, "raw": "0"}
+{"review_id": 11, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1517, "raw": "1"}
+{"review_id": 11, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1438, "raw": "1"}
+{"review_id": 11, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1503, "raw": "0"}
+{"review_id": 11, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1525, "raw": "1"}
+{"review_id": 11, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1498, "raw": "1"}
+{"review_id": 11, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1368, "raw": "0"}
+{"review_id": 12, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1321, "raw": "0"}
+{"review_id": 12, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1189, "raw": "1"}
+{"review_id": 12, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1110, "raw": "0"}
+{"review_id": 12, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1175, "raw": "0"}
+{"review_id": 12, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1197, "raw": "1"}
+{"review_id": 12, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1170, "raw": "1"}
+{"review_id": 12, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1040, "raw": "0"}
+{"review_id": 13, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1307, "raw": "0"}
+{"review_id": 13, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1175, "raw": "1"}
+{"review_id": 13, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1096, "raw": "1"}
+{"review_id": 13, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1161, "raw": "1"}
+{"review_id": 13, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1183, "raw": "1"}
+{"review_id": 13, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1156, "raw": "1"}
+{"review_id": 13, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1026, "raw": "0"}
+{"review_id": 14, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1187, "raw": "0"}
+{"review_id": 14, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1055, "raw": "0"}
+{"review_id": 14, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 976, "raw": "0"}
+{"review_id": 14, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1041, "raw": "1"}
+{"review_id": 14, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1063, "raw": "1"}
+{"review_id": 14, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1036, "raw": "0"}
+{"review_id": 14, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 906, "raw": "0"}
+{"review_id": 15, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1772, "raw": "0"}
+{"review_id": 15, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1640, "raw": "1"}
+{"review_id": 15, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1561, "raw": "0"}
+{"review_id": 15, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1626, "raw": "1"}
+{"review_id": 15, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1648, "raw": "1"}
+{"review_id": 15, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1621, "raw": "1"}
+{"review_id": 15, "construct": "Change", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1491, "raw": "1"}
+{"review_id": 16, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1035, "raw": "0"}
+{"review_id": 16, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 903, "raw": "1"}
+{"review_id": 16, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 824, "raw": "0"}
+{"review_id": 16, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 889, "raw": "0"}
+{"review_id": 16, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 911, "raw": "1"}
+{"review_id": 16, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 884, "raw": "1"}
+{"review_id": 16, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 754, "raw": "0"}
+{"review_id": 17, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1123, "raw": "0"}
+{"review_id": 17, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 991, "raw": "1"}
+{"review_id": 17, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 912, "raw": "0"}
+{"review_id": 17, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 977, "raw": "1"}
+{"review_id": 17, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 999, "raw": "1"}
+{"review_id": 17, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 972, "raw": "0"}
+{"review_id": 17, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 842, "raw": "0"}
+{"review_id": 18, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1058, "raw": "0"}
+{"review_id": 18, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 926, "raw": "0"}
+{"review_id": 18, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 847, "raw": "1"}
+{"review_id": 18, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 912, "raw": "1"}
+{"review_id": 18, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 934, "raw": "0"}
+{"review_id": 18, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 907, "raw": "0"}
+{"review_id": 18, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 777, "raw": "0"}
+{"review_id": 19, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1445, "raw": "0"}
+{"review_id": 19, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1313, "raw": "1"}
+{"review_id": 19, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1234, "raw": "0"}
+{"review_id": 19, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1299, "raw": "1"}
+{"review_id": 19, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1321, "raw": "1"}
+{"review_id": 19, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1294, "raw": "1"}
+{"review_id": 19, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1164, "raw": "0"}
+{"review_id": 20, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1028, "raw": "0"}
+{"review_id": 20, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 896, "raw": "0"}
+{"review_id": 20, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 817, "raw": "0"}
+{"review_id": 20, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 882, "raw": "0"}
+{"review_id": 20, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 904, "raw": "0"}
+{"review_id": 20, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 877, "raw": "0"}
+{"review_id": 20, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 747, "raw": "0"}
+{"review_id": 21, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1021, "raw": "0"}
+{"review_id": 21, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 889, "raw": "0"}
+{"review_id": 21, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 810, "raw": "0"}
+{"review_id": 21, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 875, "raw": "1"}
+{"review_id": 21, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 897, "raw": "1"}
+{"review_id": 21, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 870, "raw": "0"}
+{"review_id": 21, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 740, "raw": "0"}
+{"review_id": 22, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 2175, "raw": "0"}
+{"review_id": 22, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 2043, "raw": "1"}
+{"review_id": 22, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1964, "raw": "0"}
+{"review_id": 22, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 2029, "raw": "1"}
+{"review_id": 22, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 2051, "raw": "1"}
+{"review_id": 22, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 2024, "raw": "1"}
+{"review_id": 22, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1894, "raw": "0"}
+{"review_id": 23, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1437, "raw": "1"}
+{"review_id": 23, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1305, "raw": "1"}
+{"review_id": 23, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1226, "raw": "1"}
+{"review_id": 23, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1291, "raw": "1"}
+{"review_id": 23, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1313, "raw": "1"}
+{"review_id": 23, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1286, "raw": "0"}
+{"review_id": 23, "construct": "Change", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1156, "raw": "1"}
+{"review_id": 24, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1182, "raw": "0"}
+{"review_id": 24, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1050, "raw": "0"}
+{"review_id": 24, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 971, "raw": "0"}
+{"review_id": 24, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1036, "raw": "0"}
+{"review_id": 24, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1058, "raw": "0"}
+{"review_id": 24, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1031, "raw": "1"}
+{"review_id": 24, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 901, "raw": "0"}
+{"review_id": 25, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1016, "raw": "0"}
+{"review_id": 25, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 884, "raw": "0"}
+{"review_id": 25, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 805, "raw": "0"}
+{"review_id": 25, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 870, "raw": "1"}
+{"review_id": 25, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 892, "raw": "0"}
+{"review_id": 25, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 865, "raw": "0"}
+{"review_id": 25, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 735, "raw": "0"}
+{"review_id": 26, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1505, "raw": "0"}
+{"review_id": 26, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1373, "raw": "1"}
+{"review_id": 26, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1294, "raw": "1"}
+{"review_id": 26, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1359, "raw": "1"}
+{"review_id": 26, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1381, "raw": "0"}
+{"review_id": 26, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1354, "raw": "0"}
+{"review_id": 26, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1224, "raw": "0"}
+{"review_id": 27, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1039, "raw": "0"}
+{"review_id": 27, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 907, "raw": "0"}
+{"review_id": 27, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 828, "raw": "0"}
+{"review_id": 27, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 893, "raw": "1"}
+{"review_id": 27, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 915, "raw": "0"}
+{"review_id": 27, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 888, "raw": "0"}
+{"review_id": 27, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 758, "raw": "0"}
+{"review_id": 28, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1145, "raw": "0"}
+{"review_id": 28, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1013, "raw": "0"}
+{"review_id": 28, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 934, "raw": "0"}
+{"review_id": 28, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 999, "raw": "0"}
+{"review_id": 28, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1021, "raw": "1"}
+{"review_id": 28, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 994, "raw": "0"}
+{"review_id": 28, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 864, "raw": "0"}
+{"review_id": 29, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1164, "raw": "0"}
+{"review_id": 29, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1032, "raw": "0"}
+{"review_id": 29, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 953, "raw": "0"}
+{"review_id": 29, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1018, "raw": "0"}
+{"review_id": 29, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1040, "raw": "1"}
+{"review_id": 29, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1013, "raw": "0"}
+{"review_id": 29, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 883, "raw": "0"}
+{"review_id": 30, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1109, "raw": "0"}
+{"review_id": 30, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 977, "raw": "0"}
+{"review_id": 30, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 898, "raw": "0"}
+{"review_id": 30, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 963, "raw": "1"}
+{"review_id": 30, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 985, "raw": "1"}
+{"review_id": 30, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 958, "raw": "1"}
+{"review_id": 30, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 828, "raw": "0"}
+{"review_id": 31, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1378, "raw": "0"}
+{"review_id": 31, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1246, "raw": "1"}
+{"review_id": 31, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1167, "raw": "0"}
+{"review_id": 31, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1232, "raw": "1"}
+{"review_id": 31, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1254, "raw": "1"}
+{"review_id": 31, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1227, "raw": "1"}
+{"review_id": 31, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1097, "raw": "0"}
+{"review_id": 32, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1275, "raw": "1"}
+{"review_id": 32, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1143, "raw": "1"}
+{"review_id": 32, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1064, "raw": "1"}
+{"review_id": 32, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1129, "raw": "0"}
+{"review_id": 32, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1151, "raw": "1"}
+{"review_id": 32, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1124, "raw": "1"}
+{"review_id": 32, "construct": "Change", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 994, "raw": "1"}
+{"review_id": 33, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1071, "raw": "0"}
+{"review_id": 33, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 939, "raw": "0"}
+{"review_id": 33, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 860, "raw": "0"}
+{"review_id": 33, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 925, "raw": "0"}
+{"review_id": 33, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 947, "raw": "1"}
+{"review_id": 33, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 920, "raw": "0"}
+{"review_id": 33, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 790, "raw": "0"}
+{"review_id": 34, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1017, "raw": "0"}
+{"review_id": 34, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 885, "raw": "1"}
+{"review_id": 34, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 806, "raw": "0"}
+{"review_id": 34, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 871, "raw": "0"}
+{"review_id": 34, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 893, "raw": "1"}
+{"review_id": 34, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 866, "raw": "1"}
+{"review_id": 34, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 736, "raw": "0"}
+{"review_id": 35, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1346, "raw": "0"}
+{"review_id": 35, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1214, "raw": "1"}
+{"review_id": 35, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1135, "raw": "0"}
+{"review_id": 35, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1200, "raw": "0"}
+{"review_id": 35, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1222, "raw": "0"}
+{"review_id": 35, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1195, "raw": "0"}
+{"review_id": 35, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1065, "raw": "0"}
+{"review_id": 36, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1143, "raw": "0"}
+{"review_id": 36, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1011, "raw": "1"}
+{"review_id": 36, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 932, "raw": "0"}
+{"review_id": 36, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 997, "raw": "0"}
+{"review_id": 36, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1019, "raw": "1"}
+{"review_id": 36, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 992, "raw": "0"}
+{"review_id": 36, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 862, "raw": "0"}
+{"review_id": 37, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1692, "raw": "0"}
+{"review_id": 37, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1560, "raw": "1"}
+{"review_id": 37, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1481, "raw": "1"}
+{"review_id": 37, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1546, "raw": "0"}
+{"review_id": 37, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1568, "raw": "0"}
+{"review_id": 37, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1541, "raw": "0"}
+{"review_id": 37, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1411, "raw": "0"}
+{"review_id": 38, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1062, "raw": "0"}
+{"review_id": 38, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 930, "raw": "0"}
+{"review_id": 38, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 851, "raw": "0"}
+{"review_id": 38, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 916, "raw": "0"}
+{"review_id": 38, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 938, "raw": "1"}
+{"review_id": 38, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 911, "raw": "0"}
+{"review_id": 38, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 781, "raw": "0"}
+{"review_id": 39, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1209, "raw": "0"}
+{"review_id": 39, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1077, "raw": "0"}
+{"review_id": 39, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 998, "raw": "0"}
+{"review_id": 39, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1063, "raw": "1"}
+{"review_id": 39, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1085, "raw": "0"}
+{"review_id": 39, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1058, "raw": "1"}
+{"review_id": 39, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 928, "raw": "0"}
+{"review_id": 40, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1198, "raw": "0"}
+{"review_id": 40, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1066, "raw": "1"}
+{"review_id": 40, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 987, "raw": "0"}
+{"review_id": 40, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1052, "raw": "0"}
+{"review_id": 40, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1074, "raw": "1"}
+{"review_id": 40, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1047, "raw": "0"}
+{"review_id": 40, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 917, "raw": "0"}
+{"review_id": 41, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1079, "raw": "0"}
+{"review_id": 41, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 947, "raw": "0"}
+{"review_id": 41, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 868, "raw": "0"}
+{"review_id": 41, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 933, "raw": "1"}
+{"review_id": 41, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 955, "raw": "0"}
+{"review_id": 41, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 928, "raw": "0"}
+{"review_id": 41, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 798, "raw": "0"}
+{"review_id": 42, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1361, "raw": "1"}
+{"review_id": 42, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1229, "raw": "1"}
+{"review_id": 42, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1150, "raw": "0"}
+{"review_id": 42, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1215, "raw": "1"}
+{"review_id": 42, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1237, "raw": "1"}
+{"review_id": 42, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1210, "raw": "0"}
+{"review_id": 42, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1080, "raw": "0"}
+{"review_id": 43, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1281, "raw": "1"}
+{"review_id": 43, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1149, "raw": "0"}
+{"review_id": 43, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1070, "raw": "0"}
+{"review_id": 43, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1135, "raw": "1"}
+{"review_id": 43, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1157, "raw": "0"}
+{"review_id": 43, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1130, "raw": "0"}
+{"review_id": 43, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1000, "raw": "0"}
+{"review_id": 44, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1140, "raw": "0"}
+{"review_id": 44, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1008, "raw": "0"}
+{"review_id": 44, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 929, "raw": "0"}
+{"review_id": 44, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 994, "raw": "1"}
+{"review_id": 44, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1016, "raw": "1"}
+{"review_id": 44, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 989, "raw": "0"}
+{"review_id": 44, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 859, "raw": "0"}
+{"review_id": 45, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1035, "raw": "1"}
+{"review_id": 45, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 903, "raw": "0"}
+{"review_id": 45, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 824, "raw": "0"}
+{"review_id": 45, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 889, "raw": "0"}
+{"review_id": 45, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 911, "raw": "0"}
+{"review_id": 45, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 884, "raw": "1"}
+{"review_id": 45, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 754, "raw": "0"}
+{"review_id": 46, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1171, "raw": "0"}
+{"review_id": 46, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1039, "raw": "1"}
+{"review_id": 46, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 960, "raw": "0"}
+{"review_id": 46, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1025, "raw": "0"}
+{"review_id": 46, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1047, "raw": "1"}
+{"review_id": 46, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1020, "raw": "0"}
+{"review_id": 46, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 890, "raw": "0"}
+{"review_id": 47, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1482, "raw": "0"}
+{"review_id": 47, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1350, "raw": "1"}
+{"review_id": 47, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1271, "raw": "1"}
+{"review_id": 47, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1336, "raw": "0"}
+{"review_id": 47, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1358, "raw": "1"}
+{"review_id": 47, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1331, "raw": "1"}
+{"review_id": 47, "construct": "Change", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1201, "raw": "1"}
+{"review_id": 48, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1290, "raw": "1"}
+{"review_id": 48, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1158, "raw": "1"}
+{"review_id": 48, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1079, "raw": "0"}
+{"review_id": 48, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1144, "raw": "1"}
+{"review_id": 48, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1166, "raw": "1"}
+{"review_id": 48, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1139, "raw": "0"}
+{"review_id": 48, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1009, "raw": "0"}
+{"review_id": 49, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1093, "raw": "0"}
+{"review_id": 49, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 961, "raw": "1"}
+{"review_id": 49, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 882, "raw": "0"}
+{"review_id": 49, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 947, "raw": "1"}
+{"review_id": 49, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 969, "raw": "1"}
+{"review_id": 49, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 942, "raw": "0"}
+{"review_id": 49, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 812, "raw": "0"}
+{"review_id": 50, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1014, "raw": "0"}
+{"review_id": 50, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 882, "raw": "0"}
+{"review_id": 50, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 803, "raw": "0"}
+{"review_id": 50, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 868, "raw": "0"}
+{"review_id": 50, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 890, "raw": "0"}
+{"review_id": 50, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 863, "raw": "0"}
+{"review_id": 50, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 733, "raw": "0"}
+{"review_id": 51, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1035, "raw": "0"}
+{"review_id": 51, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 903, "raw": "0"}
+{"review_id": 51, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 824, "raw": "1"}
+{"review_id": 51, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 889, "raw": "0"}
+{"review_id": 51, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 911, "raw": "1"}
+{"review_id": 51, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 884, "raw": "1"}
+{"review_id": 51, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 754, "raw": "0"}
+{"review_id": 52, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1079, "raw": "0"}
+{"review_id": 52, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 947, "raw": "0"}
+{"review_id": 52, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 868, "raw": "0"}
+{"review_id": 52, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 933, "raw": "1"}
+{"review_id": 52, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 955, "raw": "0"}
+{"review_id": 52, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 928, "raw": "0"}
+{"review_id": 52, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 798, "raw": "0"}
+{"review_id": 53, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1341, "raw": "0"}
+{"review_id": 53, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1209, "raw": "0"}
+{"review_id": 53, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1130, "raw": "0"}
+{"review_id": 53, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1195, "raw": "0"}
+{"review_id": 53, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1217, "raw": "1"}
+{"review_id": 53, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1190, "raw": "0"}
+{"review_id": 53, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1060, "raw": "0"}
+{"review_id": 54, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1424, "raw": "0"}
+{"review_id": 54, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1292, "raw": "1"}
+{"review_id": 54, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1213, "raw": "1"}
+{"review_id": 54, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1278, "raw": "1"}
+{"review_id": 54, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1300, "raw": "1"}
+{"review_id": 54, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1273, "raw": "0"}
+{"review_id": 54, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1143, "raw": "0"}
+{"review_id": 55, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1498, "raw": "0"}
+{"review_id": 55, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1366, "raw": "1"}
+{"review_id": 55, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1287, "raw": "0"}
+{"review_id": 55, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1352, "raw": "1"}
+{"review_id": 55, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1374, "raw": "1"}
+{"review_id": 55, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1347, "raw": "0"}
+{"review_id": 55, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1217, "raw": "0"}
+{"review_id": 56, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1581, "raw": "0"}
+{"review_id": 56, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1449, "raw": "0"}
+{"review_id": 56, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1370, "raw": "0"}
+{"review_id": 56, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1435, "raw": "1"}
+{"review_id": 56, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1457, "raw": "0"}
+{"review_id": 56, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1430, "raw": "1"}
+{"review_id": 56, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1300, "raw": "0"}
+{"review_id": 57, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1200, "raw": "1"}
+{"review_id": 57, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1068, "raw": "0"}
+{"review_id": 57, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 989, "raw": "1"}
+{"review_id": 57, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1054, "raw": "0"}
+{"review_id": 57, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1076, "raw": "1"}
+{"review_id": 57, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1049, "raw": "0"}
+{"review_id": 57, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 919, "raw": "0"}
+{"review_id": 58, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1053, "raw": "0"}
+{"review_id": 58, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 921, "raw": "0"}
+{"review_id": 58, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 842, "raw": "0"}
+{"review_id": 58, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 907, "raw": "0"}
+{"review_id": 58, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 929, "raw": "0"}
+{"review_id": 58, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 902, "raw": "0"}
+{"review_id": 58, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 772, "raw": "0"}
+{"review_id": 59, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1081, "raw": "0"}
+{"review_id": 59, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 949, "raw": "0"}
+{"review_id": 59, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 870, "raw": "0"}
+{"review_id": 59, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 935, "raw": "1"}
+{"review_id": 59, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 957, "raw": "0"}
+{"review_id": 59, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 930, "raw": "0"}
+{"review_id": 59, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 800, "raw": "0"}
+{"review_id": 60, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1103, "raw": "0"}
+{"review_id": 60, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 971, "raw": "1"}
+{"review_id": 60, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 892, "raw": "0"}
+{"review_id": 60, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 957, "raw": "0"}
+{"review_id": 60, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 979, "raw": "1"}
+{"review_id": 60, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 952, "raw": "0"}
+{"review_id": 60, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 822, "raw": "0"}
+{"review_id": 61, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1064, "raw": "0"}
+{"review_id": 61, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 932, "raw": "0"}
+{"review_id": 61, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 853, "raw": "0"}
+{"review_id": 61, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 918, "raw": "1"}
+{"review_id": 61, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 940, "raw": "1"}
+{"review_id": 61, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 913, "raw": "0"}
+{"review_id": 61, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 783, "raw": "0"}
+{"review_id": 62, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1033, "raw": "0"}
+{"review_id": 62, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 901, "raw": "0"}
+{"review_id": 62, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 822, "raw": "0"}
+{"review_id": 62, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 887, "raw": "0"}
+{"review_id": 62, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 909, "raw": "1"}
+{"review_id": 62, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 882, "raw": "0"}
+{"review_id": 62, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 752, "raw": "0"}
+{"review_id": 63, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 2050, "raw": "1"}
+{"review_id": 63, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1918, "raw": "1"}
+{"review_id": 63, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1839, "raw": "1"}
+{"review_id": 63, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1904, "raw": "0"}
+{"review_id": 63, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1926, "raw": "1"}
+{"review_id": 63, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1899, "raw": "0"}
+{"review_id": 63, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1769, "raw": "0"}
+{"review_id": 64, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1141, "raw": "0"}
+{"review_id": 64, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1009, "raw": "0"}
+{"review_id": 64, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 930, "raw": "0"}
+{"review_id": 64, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 995, "raw": "0"}
+{"review_id": 64, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1017, "raw": "0"}
+{"review_id": 64, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 990, "raw": "0"}
+{"review_id": 64, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 860, "raw": "0"}
+{"review_id": 65, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1049, "raw": "0"}
+{"review_id": 65, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 917, "raw": "0"}
+{"review_id": 65, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 838, "raw": "1"}
+{"review_id": 65, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 903, "raw": "0"}
+{"review_id": 65, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 925, "raw": "0"}
+{"review_id": 65, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 898, "raw": "0"}
+{"review_id": 65, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 768, "raw": "0"}
+{"review_id": 66, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1050, "raw": "0"}
+{"review_id": 66, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 918, "raw": "0"}
+{"review_id": 66, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 839, "raw": "0"}
+{"review_id": 66, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 904, "raw": "0"}
+{"review_id": 66, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 926, "raw": "0"}
+{"review_id": 66, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 899, "raw": "0"}
+{"review_id": 66, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 769, "raw": "0"}
+{"review_id": 67, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1035, "raw": "0"}
+{"review_id": 67, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 903, "raw": "0"}
+{"review_id": 67, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 824, "raw": "0"}
+{"review_id": 67, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 889, "raw": "1"}
+{"review_id": 67, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 911, "raw": "0"}
+{"review_id": 67, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 884, "raw": "0"}
+{"review_id": 67, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 754, "raw": "0"}
+{"review_id": 68, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1157, "raw": "1"}
+{"review_id": 68, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1025, "raw": "0"}
+{"review_id": 68, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 946, "raw": "0"}
+{"review_id": 68, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1011, "raw": "1"}
+{"review_id": 68, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1033, "raw": "0"}
+{"review_id": 68, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1006, "raw": "0"}
+{"review_id": 68, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 876, "raw": "0"}
+{"review_id": 69, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1029, "raw": "0"}
+{"review_id": 69, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 897, "raw": "0"}
+{"review_id": 69, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 818, "raw": "0"}
+{"review_id": 69, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 883, "raw": "1"}
+{"review_id": 69, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 905, "raw": "1"}
+{"review_id": 69, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 878, "raw": "0"}
+{"review_id": 69, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 748, "raw": "0"}
+{"review_id": 70, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1127, "raw": "0"}
+{"review_id": 70, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 995, "raw": "0"}
+{"review_id": 70, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 916, "raw": "1"}
+{"review_id": 70, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 981, "raw": "0"}
+{"review_id": 70, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1003, "raw": "1"}
+{"review_id": 70, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 976, "raw": "0"}
+{"review_id": 70, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 846, "raw": "0"}
+{"review_id": 71, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1140, "raw": "0"}
+{"review_id": 71, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1008, "raw": "0"}
+{"review_id": 71, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 929, "raw": "0"}
+{"review_id": 71, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 994, "raw": "1"}
+{"review_id": 71, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1016, "raw": "1"}
+{"review_id": 71, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 989, "raw": "0"}
+{"review_id": 71, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 859, "raw": "0"}
+{"review_id": 72, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1222, "raw": "0"}
+{"review_id": 72, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1090, "raw": "0"}
+{"review_id": 72, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1011, "raw": "0"}
+{"review_id": 72, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1076, "raw": "0"}
+{"review_id": 72, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1098, "raw": "1"}
+{"review_id": 72, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1071, "raw": "1"}
+{"review_id": 72, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 941, "raw": "0"}
+{"review_id": 73, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1386, "raw": "1"}
+{"review_id": 73, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1254, "raw": "1"}
+{"review_id": 73, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1175, "raw": "1"}
+{"review_id": 73, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1240, "raw": "1"}
+{"review_id": 73, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1262, "raw": "0"}
+{"review_id": 73, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1235, "raw": "1"}
+{"review_id": 73, "construct": "Change", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1105, "raw": "1"}
+{"review_id": 74, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1013, "raw": "0"}
+{"review_id": 74, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 881, "raw": "0"}
+{"review_id": 74, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 802, "raw": "0"}
+{"review_id": 74, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 867, "raw": "0"}
+{"review_id": 74, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 889, "raw": "0"}
+{"review_id": 74, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 862, "raw": "0"}
+{"review_id": 74, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 732, "raw": "0"}
+{"review_id": 75, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1157, "raw": "0"}
+{"review_id": 75, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1025, "raw": "0"}
+{"review_id": 75, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 946, "raw": "0"}
+{"review_id": 75, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1011, "raw": "0"}
+{"review_id": 75, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1033, "raw": "0"}
+{"review_id": 75, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1006, "raw": "0"}
+{"review_id": 75, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 876, "raw": "0"}
+{"review_id": 76, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1012, "raw": "0"}
+{"review_id": 76, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 880, "raw": "0"}
+{"review_id": 76, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 801, "raw": "0"}
+{"review_id": 76, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 866, "raw": "0"}
+{"review_id": 76, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 888, "raw": "1"}
+{"review_id": 76, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 861, "raw": "0"}
+{"review_id": 76, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 731, "raw": "0"}
+{"review_id": 77, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1365, "raw": "0"}
+{"review_id": 77, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1233, "raw": "0"}
+{"review_id": 77, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1154, "raw": "0"}
+{"review_id": 77, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1219, "raw": "0"}
+{"review_id": 77, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1241, "raw": "0"}
+{"review_id": 77, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1214, "raw": "0"}
+{"review_id": 77, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1084, "raw": "0"}
+{"review_id": 78, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1193, "raw": "0"}
+{"review_id": 78, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1061, "raw": "1"}
+{"review_id": 78, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 982, "raw": "1"}
+{"review_id": 78, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1047, "raw": "0"}
+{"review_id": 78, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1069, "raw": "1"}
+{"review_id": 78, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1042, "raw": "0"}
+{"review_id": 78, "construct": "Change", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 912, "raw": "1"}
+{"review_id": 79, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1216, "raw": "0"}
+{"review_id": 79, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1084, "raw": "1"}
+{"review_id": 79, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1005, "raw": "0"}
+{"review_id": 79, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1070, "raw": "1"}
+{"review_id": 79, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1092, "raw": "0"}
+{"review_id": 79, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1065, "raw": "0"}
+{"review_id": 79, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 935, "raw": "0"}
+{"review_id": 80, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1047, "raw": "0"}
+{"review_id": 80, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 915, "raw": "0"}
+{"review_id": 80, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 836, "raw": "1"}
+{"review_id": 80, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 901, "raw": "0"}
+{"review_id": 80, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 923, "raw": "1"}
+{"review_id": 80, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 896, "raw": "0"}
+{"review_id": 80, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 766, "raw": "0"}
+{"review_id": 81, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1058, "raw": "0"}
+{"review_id": 81, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 926, "raw": "1"}
+{"review_id": 81, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 847, "raw": "0"}
+{"review_id": 81, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 912, "raw": "0"}
+{"review_id": 81, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 934, "raw": "0"}
+{"review_id": 81, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 907, "raw": "0"}
+{"review_id": 81, "construct": "Change", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 777, "raw": "1"}
+{"review_id": 82, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1144, "raw": "0"}
+{"review_id": 82, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1012, "raw": "1"}
+{"review_id": 82, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 933, "raw": "1"}
+{"review_id": 82, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 998, "raw": "0"}
+{"review_id": 82, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1020, "raw": "1"}
+{"review_id": 82, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 993, "raw": "0"}
+{"review_id": 82, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 863, "raw": "0"}
+{"review_id": 83, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1741, "raw": "0"}
+{"review_id": 83, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1609, "raw": "0"}
+{"review_id": 83, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1530, "raw": "1"}
+{"review_id": 83, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1595, "raw": "0"}
+{"review_id": 83, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1617, "raw": "1"}
+{"review_id": 83, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1590, "raw": "1"}
+{"review_id": 83, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1460, "raw": "0"}
+{"review_id": 84, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1148, "raw": "0"}
+{"review_id": 84, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1016, "raw": "1"}
+{"review_id": 84, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 937, "raw": "0"}
+{"review_id": 84, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1002, "raw": "1"}
+{"review_id": 84, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1024, "raw": "0"}
+{"review_id": 84, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 997, "raw": "0"}
+{"review_id": 84, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 867, "raw": "0"}
+{"review_id": 85, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1022, "raw": "0"}
+{"review_id": 85, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 890, "raw": "0"}
+{"review_id": 85, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 811, "raw": "0"}
+{"review_id": 85, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 876, "raw": "0"}
+{"review_id": 85, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 898, "raw": "0"}
+{"review_id": 85, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 871, "raw": "0"}
+{"review_id": 85, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 741, "raw": "0"}
+{"review_id": 86, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1754, "raw": "1"}
+{"review_id": 86, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1622, "raw": "1"}
+{"review_id": 86, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1543, "raw": "1"}
+{"review_id": 86, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1608, "raw": "0"}
+{"review_id": 86, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1630, "raw": "1"}
+{"review_id": 86, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1603, "raw": "1"}
+{"review_id": 86, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1473, "raw": "0"}
+{"review_id": 87, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1060, "raw": "0"}
+{"review_id": 87, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 928, "raw": "0"}
+{"review_id": 87, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 849, "raw": "0"}
+{"review_id": 87, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 914, "raw": "1"}
+{"review_id": 87, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 936, "raw": "0"}
+{"review_id": 87, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 909, "raw": "0"}
+{"review_id": 87, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 779, "raw": "0"}
+{"review_id": 88, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1283, "raw": "0"}
+{"review_id": 88, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1151, "raw": "1"}
+{"review_id": 88, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1072, "raw": "0"}
+{"review_id": 88, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1137, "raw": "1"}
+{"review_id": 88, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1159, "raw": "1"}
+{"review_id": 88, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1132, "raw": "0"}
+{"review_id": 88, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1002, "raw": "0"}
+{"review_id": 89, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1037, "raw": "0"}
+{"review_id": 89, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 905, "raw": "0"}
+{"review_id": 89, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 826, "raw": "0"}
+{"review_id": 89, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 891, "raw": "1"}
+{"review_id": 89, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 913, "raw": "0"}
+{"review_id": 89, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 886, "raw": "0"}
+{"review_id": 89, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 756, "raw": "0"}
+{"review_id": 90, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 6457, "raw": "0"}
+{"review_id": 90, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 6325, "raw": "1"}
+{"review_id": 90, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 6246, "raw": "1"}
+{"review_id": 90, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 6311, "raw": "0"}
+{"review_id": 90, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 6333, "raw": "0"}
+{"review_id": 90, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 6306, "raw": "0"}
+{"review_id": 90, "construct": "Change", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 6176, "raw": "1"}
+{"review_id": 91, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1020, "raw": "0"}
+{"review_id": 91, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 888, "raw": "0"}
+{"review_id": 91, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 809, "raw": "0"}
+{"review_id": 91, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 874, "raw": "0"}
+{"review_id": 91, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 896, "raw": "0"}
+{"review_id": 91, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 869, "raw": "0"}
+{"review_id": 91, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 739, "raw": "0"}
+{"review_id": 92, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1081, "raw": "0"}
+{"review_id": 92, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 949, "raw": "0"}
+{"review_id": 92, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 870, "raw": "0"}
+{"review_id": 92, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 935, "raw": "0"}
+{"review_id": 92, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 957, "raw": "0"}
+{"review_id": 92, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 930, "raw": "0"}
+{"review_id": 92, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 800, "raw": "0"}
+{"review_id": 93, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1269, "raw": "0"}
+{"review_id": 93, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1137, "raw": "0"}
+{"review_id": 93, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1058, "raw": "0"}
+{"review_id": 93, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1123, "raw": "1"}
+{"review_id": 93, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1145, "raw": "1"}
+{"review_id": 93, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1118, "raw": "0"}
+{"review_id": 93, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 988, "raw": "0"}
+{"review_id": 94, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1048, "raw": "0"}
+{"review_id": 94, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 916, "raw": "0"}
+{"review_id": 94, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 837, "raw": "0"}
+{"review_id": 94, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 902, "raw": "0"}
+{"review_id": 94, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 924, "raw": "1"}
+{"review_id": 94, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 897, "raw": "0"}
+{"review_id": 94, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 767, "raw": "0"}
+{"review_id": 95, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1799, "raw": "0"}
+{"review_id": 95, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1667, "raw": "0"}
+{"review_id": 95, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1588, "raw": "1"}
+{"review_id": 95, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1653, "raw": "0"}
+{"review_id": 95, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1675, "raw": "1"}
+{"review_id": 95, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1648, "raw": "1"}
+{"review_id": 95, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1518, "raw": "0"}
+{"review_id": 96, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1224, "raw": "0"}
+{"review_id": 96, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1092, "raw": "1"}
+{"review_id": 96, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1013, "raw": "1"}
+{"review_id": 96, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1078, "raw": "0"}
+{"review_id": 96, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1100, "raw": "1"}
+{"review_id": 96, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1073, "raw": "0"}
+{"review_id": 96, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 943, "raw": "0"}
+{"review_id": 97, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1281, "raw": "1"}
+{"review_id": 97, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1149, "raw": "1"}
+{"review_id": 97, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1070, "raw": "1"}
+{"review_id": 97, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1135, "raw": "1"}
+{"review_id": 97, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1157, "raw": "1"}
+{"review_id": 97, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1130, "raw": "0"}
+{"review_id": 97, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1000, "raw": "0"}
+{"review_id": 98, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1135, "raw": "0"}
+{"review_id": 98, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1003, "raw": "0"}
+{"review_id": 98, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 924, "raw": "0"}
+{"review_id": 98, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 989, "raw": "1"}
+{"review_id": 98, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1011, "raw": "0"}
+{"review_id": 98, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 984, "raw": "0"}
+{"review_id": 98, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 854, "raw": "0"}
+{"review_id": 99, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1227, "raw": "0"}
+{"review_id": 99, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1095, "raw": "1"}
+{"review_id": 99, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1016, "raw": "0"}
+{"review_id": 99, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1081, "raw": "0"}
+{"review_id": 99, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1103, "raw": "0"}
+{"review_id": 99, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1076, "raw": "0"}
+{"review_id": 99, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 946, "raw": "0"}
+{"review_id": 100, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1414, "raw": "0"}
+{"review_id": 100, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1282, "raw": "1"}
+{"review_id": 100, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1203, "raw": "1"}
+{"review_id": 100, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1268, "raw": "0"}
+{"review_id": 100, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1290, "raw": "1"}
+{"review_id": 100, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1263, "raw": "0"}
+{"review_id": 100, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1133, "raw": "0"}
+{"review_id": 101, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1729, "raw": "0"}
+{"review_id": 101, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1597, "raw": "0"}
+{"review_id": 101, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1518, "raw": "0"}
+{"review_id": 101, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1583, "raw": "0"}
+{"review_id": 101, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1605, "raw": "1"}
+{"review_id": 101, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1578, "raw": "0"}
+{"review_id": 101, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1448, "raw": "0"}
+{"review_id": 102, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1202, "raw": "0"}
+{"review_id": 102, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1070, "raw": "0"}
+{"review_id": 102, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 991, "raw": "0"}
+{"review_id": 102, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1056, "raw": "0"}
+{"review_id": 102, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1078, "raw": "1"}
+{"review_id": 102, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1051, "raw": "0"}
+{"review_id": 102, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 921, "raw": "0"}
+{"review_id": 103, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1153, "raw": "0"}
+{"review_id": 103, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1021, "raw": "0"}
+{"review_id": 103, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 942, "raw": "0"}
+{"review_id": 103, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1007, "raw": "0"}
+{"review_id": 103, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1029, "raw": "1"}
+{"review_id": 103, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1002, "raw": "0"}
+{"review_id": 103, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 872, "raw": "0"}
+{"review_id": 104, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1021, "raw": "0"}
+{"review_id": 104, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 889, "raw": "0"}
+{"review_id": 104, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 810, "raw": "0"}
+{"review_id": 104, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 875, "raw": "1"}
+{"review_id": 104, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 897, "raw": "0"}
+{"review_id": 104, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 870, "raw": "0"}
+{"review_id": 104, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 740, "raw": "0"}
+{"review_id": 105, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1031, "raw": "0"}
+{"review_id": 105, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 899, "raw": "1"}
+{"review_id": 105, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 820, "raw": "0"}
+{"review_id": 105, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 885, "raw": "0"}
+{"review_id": 105, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 907, "raw": "1"}
+{"review_id": 105, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 880, "raw": "1"}
+{"review_id": 105, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 750, "raw": "0"}
+{"review_id": 106, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1025, "raw": "0"}
+{"review_id": 106, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 893, "raw": "1"}
+{"review_id": 106, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 814, "raw": "1"}
+{"review_id": 106, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 879, "raw": "0"}
+{"review_id": 106, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 901, "raw": "1"}
+{"review_id": 106, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 874, "raw": "0"}
+{"review_id": 106, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 744, "raw": "0"}
+{"review_id": 107, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1562, "raw": "0"}
+{"review_id": 107, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1430, "raw": "1"}
+{"review_id": 107, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1351, "raw": "0"}
+{"review_id": 107, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1416, "raw": "1"}
+{"review_id": 107, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1438, "raw": "1"}
+{"review_id": 107, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1411, "raw": "1"}
+{"review_id": 107, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1281, "raw": "0"}
+{"review_id": 108, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1058, "raw": "0"}
+{"review_id": 108, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 926, "raw": "0"}
+{"review_id": 108, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 847, "raw": "0"}
+{"review_id": 108, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 912, "raw": "1"}
+{"review_id": 108, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 934, "raw": "0"}
+{"review_id": 108, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 907, "raw": "0"}
+{"review_id": 108, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 777, "raw": "0"}
+{"review_id": 109, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1275, "raw": "0"}
+{"review_id": 109, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1143, "raw": "0"}
+{"review_id": 109, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1064, "raw": "1"}
+{"review_id": 109, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1129, "raw": "0"}
+{"review_id": 109, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1151, "raw": "1"}
+{"review_id": 109, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1124, "raw": "0"}
+{"review_id": 109, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 994, "raw": "0"}
+{"review_id": 110, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1071, "raw": "0"}
+{"review_id": 110, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 939, "raw": "0"}
+{"review_id": 110, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 860, "raw": "0"}
+{"review_id": 110, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 925, "raw": "0"}
+{"review_id": 110, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 947, "raw": "1"}
+{"review_id": 110, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 920, "raw": "0"}
+{"review_id": 110, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 790, "raw": "0"}
+{"review_id": 111, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1077, "raw": "0"}
+{"review_id": 111, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 945, "raw": "0"}
+{"review_id": 111, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 866, "raw": "1"}
+{"review_id": 111, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 931, "raw": "0"}
+{"review_id": 111, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 953, "raw": "1"}
+{"review_id": 111, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 926, "raw": "0"}
+{"review_id": 111, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 796, "raw": "0"}
+{"review_id": 112, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1077, "raw": "1"}
+{"review_id": 112, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 945, "raw": "1"}
+{"review_id": 112, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 866, "raw": "1"}
+{"review_id": 112, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 931, "raw": "0"}
+{"review_id": 112, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 953, "raw": "1"}
+{"review_id": 112, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 926, "raw": "0"}
+{"review_id": 112, "construct": "Change", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 796, "raw": "1"}
+{"review_id": 113, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1138, "raw": "0"}
+{"review_id": 113, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1006, "raw": "1"}
+{"review_id": 113, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 927, "raw": "1"}
+{"review_id": 113, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 992, "raw": "0"}
+{"review_id": 113, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1014, "raw": "1"}
+{"review_id": 113, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 987, "raw": "0"}
+{"review_id": 113, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 857, "raw": "0"}
+{"review_id": 114, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1250, "raw": "0"}
+{"review_id": 114, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1118, "raw": "0"}
+{"review_id": 114, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1039, "raw": "0"}
+{"review_id": 114, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1104, "raw": "0"}
+{"review_id": 114, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1126, "raw": "1"}
+{"review_id": 114, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1099, "raw": "0"}
+{"review_id": 114, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 969, "raw": "0"}
+{"review_id": 115, "construct": "Absence of Naive Realism", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1767, "raw": "1"}
+{"review_id": 115, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1635, "raw": "1"}
+{"review_id": 115, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1556, "raw": "0"}
+{"review_id": 115, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1621, "raw": "1"}
+{"review_id": 115, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1643, "raw": "1"}
+{"review_id": 115, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1616, "raw": "1"}
+{"review_id": 115, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1486, "raw": "0"}
+{"review_id": 116, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1076, "raw": "0"}
+{"review_id": 116, "construct": "Theme", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 944, "raw": "1"}
+{"review_id": 116, "construct": "Thought-Provoking", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 865, "raw": "1"}
+{"review_id": 116, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 930, "raw": "0"}
+{"review_id": 116, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 952, "raw": "1"}
+{"review_id": 116, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 925, "raw": "1"}
+{"review_id": 116, "construct": "Change", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 795, "raw": "1"}
+{"review_id": 117, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1095, "raw": "0"}
+{"review_id": 117, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 963, "raw": "0"}
+{"review_id": 117, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 884, "raw": "0"}
+{"review_id": 117, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 949, "raw": "0"}
+{"review_id": 117, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 971, "raw": "0"}
+{"review_id": 117, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 944, "raw": "0"}
+{"review_id": 117, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 814, "raw": "0"}
+{"review_id": 118, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1024, "raw": "0"}
+{"review_id": 118, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 892, "raw": "0"}
+{"review_id": 118, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 813, "raw": "0"}
+{"review_id": 118, "construct": "Ease", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 878, "raw": "0"}
+{"review_id": 118, "construct": "Critic", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 900, "raw": "1"}
+{"review_id": 118, "construct": "Surprise", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 873, "raw": "0"}
+{"review_id": 118, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 743, "raw": "0"}
+{"review_id": 119, "construct": "Absence of Naive Realism", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1145, "raw": "0"}
+{"review_id": 119, "construct": "Theme", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1013, "raw": "0"}
+{"review_id": 119, "construct": "Thought-Provoking", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 934, "raw": "0"}
+{"review_id": 119, "construct": "Ease", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 999, "raw": "1"}
+{"review_id": 119, "construct": "Critic", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 1021, "raw": "0"}
+{"review_id": 119, "construct": "Surprise", "label": "1", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 994, "raw": "1"}
+{"review_id": 119, "construct": "Change", "label": "0", "model": "gemma3:12b", "resolved_model": "gemma3:12b", "prompt_tokens": 864, "raw": "0"}

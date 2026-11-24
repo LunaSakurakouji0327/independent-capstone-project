@@ -1,0 +1,80 @@
+A done
+Absence of Naive Realism none 14s
+Absence of Naive Realism pc=3 15s
+Absence of Naive Realism pc=5 16s
+Theme none 9s
+Theme pc=3 12s
+Theme pc=5 12s
+Thought-Provoking none 13s
+Thought-Provoking pc=3 14s
+Thought-Provoking pc=5 15s
+Ease none 12s
+Ease pc=3 14s
+Ease pc=5 17s
+Critic none 10s
+Critic pc=3 12s
+Critic pc=5 12s
+Surprise none 13s
+Surprise pc=3 14s
+Surprise pc=5 14s
+PCA cumulative variance k=5,10,20: [0.157 0.248 0.365]
+== A (all 7 models, 21 pairs): median residual corr / pairs with p<.05
+                            med                            sig                         qsig                      
+D                        length  none pc=10 pc=20  pc=5 length none pc=10 pc=20 pc=5 length none pc=10 pc=20 pc=5
+construct                                                                                                        
+Absence of Naive Realism   0.41  0.41  0.37  0.34  0.43     15   15    13    13   15     19   20    15    13   19
+Critic                     0.52  0.52  0.47  0.40  0.49     20   21    19    19   19     21   21    19    20   20
+Ease                       0.56  0.53  0.39  0.35  0.39     21   21    15    14   15     21   21    15    15   16
+Surprise                   0.48  0.48  0.46  0.43  0.44     18   18    16    15   16     19   19    18    19   19
+Theme                      0.48  0.52  0.39  0.36  0.50     21   21    19    18   21     21   21    21    18   21
+Thought-Provoking          0.35  0.37  0.31  0.28  0.39     17   19    17    10   18     18   19    19    14   20
+== A (5 Stage-3 models, 10 pairs): median residual corr / pairs with p<.05
+                            med                            sig                         qsig                      
+D                        length  none pc=10 pc=20  pc=5 length none pc=10 pc=20 pc=5 length none pc=10 pc=20 pc=5
+construct                                                                                                        
+Absence of Naive Realism   0.41  0.41  0.35  0.36  0.44      6    6     5     5    5      8    9     5     5    9
+Critic                     0.53  0.53  0.47  0.42  0.49     10   10     9     9    9     10   10     9    10   10
+Ease                       0.51  0.52  0.44  0.41  0.43     10   10     7     6    7     10   10     7     7    8
+Surprise                   0.42  0.43  0.36  0.35  0.39      8    8     6     6    6      9    9     8     9    9
+Theme                      0.47  0.52  0.39  0.34  0.50     10   10     8     8   10     10   10    10     8   10
+Thought-Provoking          0.34  0.37  0.33  0.29  0.40      8   10    10     6    9      9   10    10     7   10
+== B overidentification
+               construct    D  prevalence  BVR total  bootstrap p                         worst pair  worst pair BVR
+Absence of Naive Realism none       0.103     10.003         0.04 Gemma 3 12B – Qwen3-14B fine-tuned           3.859
+Absence of Naive Realism pc=3       0.087      8.959         0.02         Gemma 3 12B – GPT-5.4 mini           3.954
+Absence of Naive Realism pc=5       0.066      7.267         0.01            Sonnet 5.5 – GPT-6 Luna           3.559
+                   Theme none       0.482      8.225         0.01            Sonnet 5.5 – GPT-6 Luna           2.957
+                   Theme pc=3       0.511      9.343         0.01            Sonnet 5.5 – GPT-6 Luna           5.048
+                   Theme pc=5       0.463      6.132         0.01            Sonnet 5.5 – GPT-6 Luna           2.346
+       Thought-Provoking none       0.282     16.335         0.02            Sonnet 5.5 – GPT-6 Luna          11.296
+       Thought-Provoking pc=3       0.281     12.562         0.01            Sonnet 5.5 – GPT-6 Luna           8.323
+       Thought-Provoking pc=5       0.281     11.011         0.01            Sonnet 5.5 – GPT-6 Luna           6.958
+                    Ease none       0.299     12.097         0.01          GPT-6 Luna – GPT-5.4 mini           6.133
+                    Ease pc=3       0.284     12.301         0.01          GPT-6 Luna – GPT-5.4 mini           6.537
+                    Ease pc=5       0.289     10.299         0.01          GPT-6 Luna – GPT-5.4 mini           5.048
+                  Critic none       0.486     13.140         0.01 Gemma 3 12B – Qwen3-14B fine-tuned           6.831
+                  Critic pc=3       0.478     11.141         0.01 Gemma 3 12B – Qwen3-14B fine-tuned           4.265
+                  Critic pc=5       0.506     13.150         0.01 Gemma 3 12B – Qwen3-14B fine-tuned           6.971
+                Surprise none       0.156      6.663         0.01            Sonnet 5.5 – GPT-6 Luna           2.109
+                Surprise pc=3       0.156      6.230         0.02            Sonnet 5.5 – GPT-6 Luna           1.910
+                Surprise pc=5       0.160      5.921         0.01            Sonnet 5.5 – GPT-6 Luna           1.807
+== B subset
+               construct    D  min subset prevalence  max subset prevalence  heterogeneity p
+Absence of Naive Realism none                  0.043                  0.136            0.066
+Absence of Naive Realism pc=3                  0.042                  0.125            0.082
+Absence of Naive Realism pc=5                  0.040                  0.132            0.066
+                   Theme none                  0.383                  0.506            0.066
+                   Theme pc=3                  0.378                  0.510            0.131
+                   Theme pc=5                  0.377                  0.525            0.262
+       Thought-Provoking none                  0.111                  0.298            0.033
+       Thought-Provoking pc=3                  0.113                  0.287            0.016
+       Thought-Provoking pc=5                  0.113                  0.286            0.033
+                    Ease none                  0.246                  0.448            0.016
+                    Ease pc=3                  0.245                  0.465            0.016
+                    Ease pc=5                  0.253                  0.440            0.016
+                  Critic none                  0.430                  0.574            0.033
+                  Critic pc=3                  0.429                  0.570            0.098
+                  Critic pc=5                  0.430                  0.560            0.115
+                Surprise none                  0.137                  0.218            0.033
+                Surprise pc=3                  0.139                  0.216            0.098
+                Surprise pc=5                  0.137                  0.223            0.066

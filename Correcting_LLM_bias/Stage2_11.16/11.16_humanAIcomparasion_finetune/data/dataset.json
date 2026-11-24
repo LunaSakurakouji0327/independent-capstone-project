@@ -1,0 +1,2415 @@
+{
+ "constructs": [
+  "Absence of Naive Realism",
+  "Theme",
+  "Thought-Provoking",
+  "Ease",
+  "Critic",
+  "Surprise",
+  "Change"
+ ],
+ "folds": 5,
+ "split_seed": 3437,
+ "items": [
+  {
+   "review_id": 1,
+   "source_row": 6,
+   "text": "I really enjoyed this one... I liked the finding the family history part and her talking with the two different cousins. It was definitely a slow simmer as far as romance. But it didn't really matter. Once it got off the ground (and I admit was slow starting) I wanted to keep reading and not to put it down. I am on to the next one! :)",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 2,
+   "source_row": 15,
+   "text": "What a non stop heart pumping ride full of twists and turns that will keep you guessing till the end. Jana has more strength than I do. I would have kicked her family to the curb long before Antonio shows up. This was a sweet love story with enough action that everyone will be happy. This was my first book by this author and I will be looking for her other work",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": "This was a sweet love story并不代表theme因为根据prompt，没有make any internal/external connections to other books or to other things in the world",
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 3,
+   "source_row": 60,
+   "text": "Memorable Quotes \n \"I could be a slut and sleep naked, or i could be a slob and sleep in what i was wearing.\" \n \"He was more big jungle cat than golden retriever.\" \n \"My heart was confused. My brain didn't want either of the men in my life. And my hooha wanted both of them!\"",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": "只出现摘录，没有任何内容，为0",
+    "Theme": "只出现摘录，没有任何内容，为0",
+    "Thought-Provoking": "只出现摘录，没有任何内容，为0",
+    "Ease": "只出现摘录，没有任何内容，为0",
+    "Critic": "只出现摘录，没有任何内容，为0",
+    "Surprise": "只出现摘录，没有任何内容，为0",
+    "Change": "只出现摘录，没有任何内容，为0"
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 4,
+   "source_row": 79,
+   "text": "The book is great but it makes me sad for all the lost. I really grow to love all the characters in the books even those who just appears only a while...and it tears my heart every time to see anyone who suffered and gone. This series is truly wonderful and bittersweet. \n can't wait to get the the next book which apparantly is the last for Celia's books. hopefully, we will have much happier ending to her story before her sisters get their books. \n 5 stars...",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": "Ease assesses whether the reviewer presents the overall reading experience as smooth, absorbing, manageable, or easy to continue.这个book review就是Minor moments of confusion, slowness, or frustration do not require a 0 if the overall experience remains clearly absorbing and positive的典例",
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 5,
+   "source_row": 115,
+   "text": "This is a book about rabbits, but is really a parallel to human lives and how we react to circumstances. I really enjoyed this book, it has a completely fresh perspective and held my attention well. I think it could have been 50 pages shorter and kept the pacing more even.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": "This is a book about rabbits, but is really a parallel to human lives and how we react to circumstances.符合theme定义：make any internal/external connections to other books or to other things in the world, then code as a 1.",
+    "Thought-Provoking": "符合construct定义：It distinguishes between a book that was simply \"consumed\" (for pleasure or information) and a book that \"lingered\" in the reviewer’s mind, prompting deeper inquiry or a shift in focus. reviewer将人类生活和兔子联想，并且讲到这本书held my attention well\n\nIf the reviewer indicates that the book made them think, prompted questions, sparked reflection, caused the reviewer to pause and consider something new",
+    "Ease": "Minor moments of confusion, slowness, or frustration do not require a 0 if the overall experience remains clearly absorbing and positive的典例",
+    "Critic": "just opinion, no supporting evidence",
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 6,
+   "source_row": 151,
+   "text": "3.5/5 stars. \n So, finally, I've gotten to the end of this sequel. I was really looking forward to it, but I just found that \"A Want So Wicked\" let me down in quite a few areas in terms of what I'd been hoping for in this book. Don't get me wrong - Young is still a fantastic writer, and I'm looking forward to her future work, but it was the insta-love and love triangle that did it for me here that just really disappointed me. This book could have been a lot more than it was, and, well, I just kind of had my hopes set a bit too high. Nonetheless, I think that if you've already read book one, if just to finish your journey with Charlotte/Elise and Harlin, you simply must read \"A Want So Wicked\". \n What I loved - the world that was so meticulously built in \"A Need So Beautiful\" stayed in this sequel, but changed more so that we focused more on the Shadows rather than the Light, which was an interesting opposite to open a sequel upon. We see Onika's descent into the Shadows in deeper detail, as well as what helps cause Shadows in the first place, and this was all really great worldbuilding that didn't happen (or really, couldn't happen because of the pacing) in book one. There are a lot of important details added in this new setting of a desert town, and I was glad we got these details to finally finish fleshing out this world of the Light versus the Shadows and how long this battle has been going on. \n What was also a great choice for the setting was the fact that the town is in a desert, period. If you've ever been to anywhere in a desert (I go every year down to Palm Desert, so I can speak from experience), you know that there's not much out there aside from lots of light, and lots of shadows. There's not much out there that's permitted to live due to temperatures and lack of water, and that makes this setting all the more extreme. Just as the setting itself is almost desolate as it is in the desert, Charlotte/Elise's Needs are harder and harder to find (and fulfill) in a small town where Shadows seem to feast easily and in droves. This book is about the Shadows where the first was about the Light, so it seems fitting that the sparseness of a desert location is also an allegory for the actual story itself. \n The sensory imagery and language was just as lovely as the first book in all areas, so I won't be touching that. \n What I wasn't a fan of: the insta-love with Harlin and Abe. While Young takes the reincarnation trope and makes it work in terms of Elise/Charlotte's attraction to Harlin (so you get a get out of jail free card here), what's been used to death in YA as of late and what I'm just plain tired of is being attracted to the bad boy (Abe), who literally is evil in this book. Yes, it made a striking comparison to the very different futures from which Elise/Charlotte must make her ultimate choice, but I just feel like it could have been done better. This is what kind of killed a lot of the enjoyment of this book for me, right here, alone. \n Also, love triangle (kind of - it's dubious consent when it comes to Abe). Need I say more? \n HOWEVER. At least the 'dubious consent' bit was made abundantly clear further into the book when Elise and Abe start getting a bit more serious with their semi-relationship. Which was nice, for a change - so much of YA glosses over that bit when you have the insta-love with the possibly totally evil bad boy, so it was pretty refreshing to have dubious consent trumpeted all over the place. \n Otherwise? I really liked the twist on what makes Charlotte/Elise's soul so special, to the point where the Shadows really want to claim it, but her future is a pretty depressing one (especially where it concerns both her actual physical self and Harlin). Young could have taken the \"happily ever after\" route, but instead went for the \"happily? ever after\" route instead, where we question whether how happy Charlotte/Elise will truly be in her situation of being so unique a creature. \n If you've read book one, you simply must finish your journey with these characters and this fascinating world. And if you haven't read book one yet - well, what are you waiting for? \"A Want So Wicked\" is out from HarperTeen now in North America, so be sure to check it out. It's definitely worth the read. \n (posted to goodreads, shelfari, and birthofanewwitch.wordpress.com)",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 1,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": "注意不要混淆的点在于，这里一直是作者在谈自己的预期，并没有谈到其他人怎么想，因此为0。虽然在最后reviewer认为，you simply must read，这个并不是理解他人的观点，只是在佐证自己认为这本书作为续作必读的观点而已，并没有承认其他人有可能与自己相反或者不相同的观点",
+    "Theme": "reviewer谈到了前一部作品，且谈到了沙漠的环境与故事的联系",
+    "Thought-Provoking": "reviewer对于环境铺垫的思考，对于沙漠环境的思考，展现了其thought-provoking",
+    "Ease": "Ease assesses whether the reviewer presents the overall reading experience as smooth, absorbing, manageable, or easy to continue.这篇book review并没有clear evidence",
+    "Critic": null,
+    "Surprise": "I was really looking forward to it, but I just found that \"A Want So Wicked\" let me down in quite a few areas in terms of what I'd been hoping for in this book.",
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 7,
+   "source_row": 153,
+   "text": "This Summer is very different than the previous one Belly shared with us. There's no Cousins beach, no Susannah, and no Conrad. Based on the title, I figured that Susannah would be gone, but I wasn't sure what that would mean for this book. I definitely enjoyed this one more than the first even though it has a darker tone, but I still didn't feel anything. I'm sure that makes me a horrible person, but I just don't have a connection with Belly's story. \n Belly and Conrad have to be two of the most frustrating characters I have ever encountered. She is whiny and thinks everything needs be exactly how she wants it, but I guess that makes her a real teenager. Conrad is the most selfish guy ever, and I couldn't wait for Belly to see that. She has this idealized picture of him, and refuses to see how he pushes people away and shuts himself down whenever things don't go his way. \n There's an actual plot this time. Conrad disappears so Jeremiah and Belly take off to go find him. Of course he's at the beach house. He's not there for the reasons that Jere and Belly think though, and I actually really enjoyed watching that plot unfold. Their dad is a super ass-hat (Laurel's word, not mine) and it's clear where Conrad gets his moodiness from. Laurel turns into super woman and saves the day, even though I couldn't help but be mad at her for one emotionally charged scene. In the end everything is nicely wrapped up and happy, since that's just what kind of series this is. \n It's Not Summer Without You is closer to a four star than the first book, but I still can't bring myself to round up. I want to feel something when I'm reading, but with this one, while I liked it, I just felt like I reading, nothing more. I think it's because I can't sympathize with Belly on any level, since I don't like her. She's not someone I would want to hang out with. I just enjoy watching her drama unfold. I am glad that's she finally seen the light though, so I'm eager to know what her final Summer has in store. \n Read more of my reviews at Pinkindle Reads & Reviews.",
+   "labels": {
+    "Absence of Naive Realism": 1,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": "I think it's because I can't sympathize with Belly on any level, since I don't like her. 这一点代表承认了自己的主观感受，确实是absence of naive realism的体现",
+    "Theme": null,
+    "Thought-Provoking": "只是在描写自己的感受和总结情节，且reviewer自己也承认了。 I want to feel something when I'm reading, but with this one, while I liked it, I just felt like I reading",
+    "Ease": "no clear evidence",
+    "Critic": "reviewer provides extensive evidence for her claim that she cannot sympathsize with the character in the book",
+    "Surprise": "第一句话只表达了the summer is very different但是并没有表达自己的预期预设。",
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 8,
+   "source_row": 167,
+   "text": "Unwind is set in the US of the near future. There has been a war over abortion, and the government kept the peace by offering a horrific compromise to pro-lifers and pro-choicers -- while no fetuses may be aborted, children between the ages of 13 and 17 can be 'unwound' (sort of a retroactive abortion). When a child is unwound, their entire body is chopped up and used for organ donations. Thus, the child is not 'dead' -- they've passed to 'another plane of existence', and all of their individual parts are kept alive. \n The novel follows three kids being unwound for three different reasons. Connor is a troublemaker, often coming home in the back of a police car. Risa is a foster kid, and the foster system is facing a budget cut. Levi is the son of a religious family who believes that everything, including children, should be tithed. \n What I liked about this book: \n The premise. OH MY GOODNESS the premise. And the plot. This is definitely a plot driven novel -- in fact, I'd say the plot grabs you by the hair, drags you to its cave and beats you. It's amazing, fast-paced, and a truly deep and intelligent look at what our society might look like if unwinding was real. \n The premise just blows my mind. Shusterman came up with a chilling world where life is both more and less precious than ever before. It was a bit reminiscent of The House of Scorpion. \n What I didn't like about this book: \n Remember when I said that this was a plot driven novel? I really wasn't kidding. The main character could have choked on a peanut and I really wouldn't have cared. They're all a bit flat and lifeless, and I had a hard time connecting to them. In that respect, it's more reminiscent of Ender's Game (don't hurt me -- you know it's true!). \n Final verdict: \n I give this book 4 stars because of the edge-of-the-chair wild rollercoaster ride Shusterman takes you on. It's amazing. There's rumors that this will be made into a movie -- if so, I'd definitely see it. There's also rumors that this will be a trilogy -- if so, I might not read it because I don't care what happens next to the characters. This novel was enough.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": "If the reviewer just recaps the plot of the book, with no additional interpretation, code as 0.",
+    "Thought-Provoking": "没有evidence",
+    "Ease": null,
+    "Critic": "no opinion, no evidence",
+    "Surprise": "no mention",
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 9,
+   "source_row": 222,
+   "text": "Amazing amazing book. Read it for the deep dive of BuBois and Malcom X: Black Political Thought in the 20th Century course with Brooklyn Institute for Social Research.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": "虽然有praise,但是单纯的praise不够，与prompt一致",
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 10,
+   "source_row": 259,
+   "text": "I must admit my rating is mostly due to the narrator of the audio edition. I found her voice grating. However, that's not all. Viola is not a likable character, she is self-centered and there's no believable growth. She's petulant about going to boarding school and her attitude barely changes as she becomes more involved in school activities and gains popularity. There is a rather undeveloped storyline and Viola has what is supposed to be an abrupt change of attitude due to a surprising revelation, but not enough is done with it. \n All-in-all, this was a disappointing read.",
+   "labels": {
+    "Absence of Naive Realism": 1,
+    "Theme": 0,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": "I must admit my rating is mostly due to the narrator of the audio edition.展现了absence of naive realism",
+    "Theme": "虽然讨论到了character但是并没有讨论主题是什么",
+    "Thought-Provoking": "There is a rather undeveloped storyline and Viola has what is supposed to be an abrupt change of attitude due to a surprising revelation, but not enough is done with it. 这句话表现出了reviewer对于故事情节的思考。",
+    "Ease": null,
+    "Critic": "作者给出了观点且给出了证据论证",
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 12,
+   "source_row": 394,
+   "text": "So to put it simply, I don't normally give a manga series that looks like scrapped Tim Burton characters and more action than substance a rating this high. To put it specifically; Soul Eater is balls out entertaining as balls with balls on top. It's a prototypical school-fantasy series that tries to be Harry Potter and the Nightmare Before Christmas, tries cocaine, develops a split personality and decides that it's both. And I'm not trying to fanboy but Soul Eater was the perfect show to start out with as it got me into the medium of anime and manga in the first place. The characters, action, and costumes try to be as over the top and flashy as possible just for the hell of it and that's really what dragged me into it. The show has three main teams of characters; two pairs and one threesome, a bunch of villains, and a ton of supporting characters, that each have their own abilities and personalities. The author takes characters from anywhere and everywhere in regards to halloween stereotypes; Death, witches, Mary Shelley wannabes and after skepticism, I found that making this halloween world actually works. The first three episodes introduce the main teams and setting, and then treats the building blocks of the show like clay and does whatever it wants, adding new characters, villains, settings, trials, tribulations, plot elements and powers, and the plot still manages to chug along at a strangely consistent pace. The dialogue throughout is pretty heartfelt but many times painfully corny in addition to the fact that there's a lot of fun humor in the series(or rather any time Excalibur is around, even if the wonderful stories about him were in the manga not much is told about him). Despite there being a huge cast of characters, some of the main characters and antagonists don't even interact with each other and could care less about them because they were just there to fight each other, leaving some of the pivotal parts of the series as action fodder that only looks cool but isn't relevant. Plus if you're looking for a deep manga don't read Soul Eater, it's able to play with the emotions but it's fairly shallow and not thought provoking whatsoever. I wanted to see it as a series that comments on being free from death makes one mad with power but even that shows how far I'm stretching for at least some substance to the comic. The characters are good if not very deep, but the plot is a little wonky. The setting is most of all what confused me. There's a world that features London but also has bizarre areas like the DWMA, and I wanted to know more about why they have the students do all this in the first place. Why are they learning? I'll never know. I also have seen the show twice, and what I noticed most about the manga was they toned down the so called offensive content in the show. The manga boasts way more panty shots, blood flying from orifices and aerial expletives, which I don't understand why the cut it out of the show. However when I want to sit down and read, I want to think critically whereas on TV I can just be spoonfed, so overall given the carefree artistic aspect of Soul Eater, it works better as an anime.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 1,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": "Plus if you're looking for a deep manga don't read Soul Eater, it's able to play with the emotions but it's fairly shallow and not thought provoking whatsoever.这句话虽然讲到了如果别人，但是这个没有承认别人可能有不同的想法。",
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": "可以看到作者的期望与作者读到的不符，作者希望这本书更有深度",
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 13,
+   "source_row": 406,
+   "text": "An apparent attempt to mash-up Ready Player One and The Hunger Games, Arena is about as marketable a book concept as one can imagine. Problematically, the plot mechanics are far more generic than in either of those books, and the supporting characters lack the psychological depth and contradictory agendas that kept the wheels spinning for Cline and Collins. \n Jennings is a solid line-by-line writer; she makes good use of Eastern philosophy and is pleasantly unafraid to write YA/NA with an explicit edge. I suspect the romantic sections will resonate well with many readers. \n The problem is not the author's skills; the problem is that the entire work, from start to finish, is absolutely ENSLAVED by formula and genre tropes. Here is your ass-kicking female protagonist; here is her collection of ridiculously attractive multicultural allies, who have few recognizable characteristics outside of their skin color/sexual orientation, no meaningful volition or motives that part from the protagonist's, and who spawn near-magical abilities when necessary to advance the plot; here is the gorgeous \"bad boy\" with the secret heart of gold; here are the ugly, ogrish stock villains and here is the uncaring corporate establishment. Yes, it's all building up to a massive set-piece battle at the end, and yes, that battle ends exactly as you think it will. There are pleasant moments of writing to be found herein, but there are no surprises of any sort. \n Still, Jennings has legitimate chops; I'm hoping this will sell well for her, so that she can write her next book free of the expectation that she regurgitate the genre template quite so exactly.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": "I suspect the romantic sections will resonate well with many readers. 虽然这句话讲到其他人可能的观点，但是并没有承认其他人的观点可能自己相违背。",
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": "没有evidence",
+    "Critic": "谈到书为什么写的不好，用了较多的例子",
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 14,
+   "source_row": 408,
+   "text": "I want to preface this review with the fact that this is the first review I have ever taken seriously. \n I first heard about Hunger when I became Jackie Morse Kessler's twitter follower. The summary of Hunger immediately grabbed my attention. I remember thinking this is going to be awesomely original or one big mess. Thankfully, it was the former. Lisabeth's story is dark, witty, and real. Morse Kessler tackled the issue of eating disorders with grit and grace. None of the gory intimate details of anorexia were glossed over or left unexplored. Lisabeth's internal struggle for self-acceptance and forgiveness was written masterfully. \n When Famine enters the story, you're hooked. The apocalyptic Horsemen, especially Death, were enthralling. As Lisabeth battles to understand Famine and her own inner demons, you begin to understand the thought process one can go through under duress of an eating disorder. Only when Lisabeth looks through the eyes of Famine does she truly understand. Then her capitulation to food and self-loathing is superseded with the desire to live. \n Hunger is brilliant. Fact. The whimsical element of the Horseman matched with the intensity of the trials and struggles of the real world balance perfectly. This clever well-paced story ends and you are treated with an Author's note that is as touching, as it is brave. I commend Morse Kessler, as a portion of the proceeds from the sale of Hunger will be donated to the National Eating Disorders Association. I look forward to Rage due to be published in April of 2011.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 1,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": "只是在讲剧情，虽然讨论了character，但是并没有make connections",
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 15,
+   "source_row": 420,
+   "text": "I LOVED Delirium. Pandemonium . . . well, I liked it. It was fun and low-stress and I enjoyed reading it, but I just wasn't as interested. The peripheral characters don't live up to the ones in Delirium. Raven wasn't nearly as compelling as Hana for me (and I kept picturing her looking like Ani DiFranco) and Julian is no Alex. I liked the now/then back and forth chapters, because they helped distract from the fact that not that much actually happens in the \"now.\" They're locked in a room for a LONG time. \n I'm still a Lauren Oliver fan. But I felt like Delirium was a step forward from Before I Fall, and this was too much of the same for me. Once Requiem comes out, I could see myself reevaluating this and liking it more in the context of the full trilogy, but on its own I just didn't love it quite as much.",
+   "labels": {
+    "Absence of Naive Realism": 1,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": "I could see myself, I just wasn't as interested, Raven wasn't nearly as compelling as Hana for me,这些都表明了其他人可能与自己有不同的观点",
+    "Theme": null,
+    "Thought-Provoking": "既没有剧情思考描写，更多是自己的感受。如果是thought-provoking，需要进一步写到哪里不喜欢，对于小说题材，还需要写到自己对于剧情的思考",
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 16,
+   "source_row": 437,
+   "text": "Unusually for Ellis Peters, this medieval whodunnit sees Cadfael out-smarted by a young girl, whose deductive powers discover the murderer before the author's amateur sleuth Cadfael does. It's a lovely novel, full of twists and turns, with excellent characterisations of all concerned and a large dollop of good humour thrown in that makes fun of the less amiable aspects of Church. Not crassly, but in Ellis Peter's usual gentle way. \n The year is 1144. Following the Earl of Essex, robber-baron Geoffrey de Mandeville's, death in the summer of 1143, the Fen country can breath again, for its inhabitants have had to endure a 12-month period of pillage, murder and anarchy thanks to Mandeville's gangs of cut-throats and thieves. \n Ramsey Abbey was one of the robber-baron's victims. Stripped of everything that could possibly have a value, the abbey was eventually abandoned and given back to the Church upon Mandeville's death. Now Ramsey's abbot Walter is forced to send out for help to Benedictine brothers in other parts of England in order to restore Ramsey Abbey to its former glory and to recall its brothers, who fled to safety, when robbers attacked. \n Two such emissaries, Sub-Prior Herluin and his novice helper Tutilo, a gifted musician and singer, have come to Shrewsbury Abbey to ask for alms on behalf of Ramsey Abbey. Shrewsbury's inhabitants and the Benedictine abbey are more than willing to give generously. \n However, before Herluin can leave with his treasures, a swollen River Severn and excessive rainfall cause widespread flooding in Shrewsbury. Every brother and layman staying at Shrewsbury Abbey must help to bring the abbey's treasures to safety on higher ground. Their rescue efforts include the relics of their beloved Saint Winifred. This is a saintly lady much coveted by others, especially Tutilo, who wants glory and restoration for his own abbey. Tutilo believes a purloined saint would attract large numbers of pilgrims to Ramsey Abbey, ready to spend money to please the saint and receive miracles in return. \n Once the theft of Saint Winifred is discovered by a shocked Shrewsbury Abbey congregation and the main suspect, Tutilo, stands accused, there is only one thing left to do for Brother Cadfael: a witness, a young shepherd who looks after flock outside of Shrewsbury's grounds, must be sent for to identify the holy thief. Before long, said witness is murdered and identification cannot take place. \n I won't give away anymore of the plot for fear of spoiling it for Goodreads bookworms. Suffice to say, nothing is as it seems at first glance and there is a happy ending of sorts, but not quite the way we'd expect it to happen. \n I particularly enjoyed the spats between Ramsey's high-handed and unpleasant Sub-Prior Herluin and Shrewsbury's own Norman pest, Prior Robert. Stung into action by Robert, the formidable Earl of Leicester, who makes a claim for Saint Winifred's relics, the two churchmen snarl, bite and bicker to outsmart each other and the Earl, but without success. And for all those Ellis Peters' fans who, like me, despise busy-body Brother Jerome, Prior Robert's devoted acolyte, there's a nice juicy surprise in store. \n As always, the author's novel has been meticulously researched, revealing just enough medieval background information to draw us into a period of English history that was as turbulent and bloody as it gets. A hugely enjoyable read and, as a determined non-believer, I'm happy to see criticism of Church practices that have nothing to do with Christianity and everything to do with greed.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 1,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": "谈论到了As always, the author's novel has been meticulously researched, revealing just enough medieval background information to draw us into a period of English history that was as turbulent and bloody as it gets. 谈论到了作者的笔风，且谈论到了书中背景",
+    "Thought-Provoking": "I'm happy to see criticism of Church practices that have nothing to do with Christianity and everything to do with greed. 只是表示自己happy，但是自己没给出理由",
+    "Ease": "No evidence",
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 17,
+   "source_row": 443,
+   "text": "This book is a creepy...apathetic... and psychological thriller. It slowly reveals David's thoughts and gets more intense as the story goes on. True American story and very relevant. And the female characters are smarter than you think...which was a great twist. Spoiler?",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": "只是事实陈述",
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": "第二句话虽然看起来像critic，但是讲的太少了，起码要讲讲为什么gets more intense as the sotory goes on",
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 18,
+   "source_row": 531,
+   "text": "Karen Amanda Hooper made me dream with this novel. I never thought that I would be so into Merkfolk :-) \n The storyline itself is quite intriguing but what grasped me the most is that the characters with all their magical traits stay so close to us in their emotions, in their reactions... \n The romance sizzles and the plot thickens as the reader gets sucked into the undersea, into its rules, its drama, its beauty. \n If you would like to escape for a few hours, get to know what it means to be a siren or a mermaid or a selkie and dive into Tangled Tides. I don't think you'll regret it! I definitely didn't :-)",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 19,
+   "source_row": 551,
+   "text": "Actually worth 3 1/2 stars. Poor, poor T-Rex. When you're a big, bad dinosaur with short, stubby arms, sometimes life can be difficult, and your options limited. This was a cute, amusing little book, readable from start to finish within a few minutes unless you stop to ruminate over the drawings. Good for a few laughs.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 20,
+   "source_row": 600,
+   "text": "Wow. I just finished this book and it was honestly one of the best contemporary books I've read this year. It was so light and fluffy, but also dealt with family, alcohol, and friendship. I adore this book so much! \n Before reading this, I honestly thought it would be oozing with cheese and be just another light and fun book. It was so much more! It had a beautiful and adorable romance, lovable characters, and an extremely realistic plot. Every second of this was a joy to read, or most of it. \n Lets get the one problem I had with it out of the way. I was not a fan of the sexual content. I personally am not into reading about that and never really find it necessary to linger on that subject to long. I know some teens do engage in that, but I personally wish the author would have been a bit less graphic. It wasn't to graphic by all means, but it was a bit shocking to me. \n That's really the only problem I had with it. It that tells you anything about the book, it was pretty much flawless, especially the characters. Our main character Samantha was so fun to read about. She has to deal with her irritating senator of a mother who is very selfish. Sam may seem to have everything, but that struggle is very real. I loved how Sam told her mom how she felt about everything and wasn't afraid to stand her ground. She also was so kind and compassionate. \n Her other half, Jace, melted my heart. He was the perfect book boyfriend. Finally we have a good boy that can give young girls a model of who to look for, not some Christian Gray or Edward Cullen, and even Roth from White Hot Kiss. Instead we have a sweet, loving, family man who also has a fantastic sense of humor. Oh, how I love Jace. \n The whole Garret family was so fun to read about, especially George. George was absolutely adorable and was the perfect addition to the story. I loved some of the things he would say. It was exactly what a four year old would respond with! \n I can't really explain the plot because spoilers, but let me tell you this is a book worth reading.",
+   "labels": {
+    "Absence of Naive Realism": 1,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 1,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": "I personally am not into reading about that这个是personally",
+    "Theme": "but also dealt with family, alcohol, and friendship.",
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 21,
+   "source_row": 608,
+   "text": "I loved the book. Very realistic and accurate compared to the Bible. It is fiction, but based on historical facts about the region and times. This is book 1 in a new series. I have just ordered the next two books.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 22,
+   "source_row": 637,
+   "text": "The twins definitely have a difficult personality, especially if you're not one for loud, bossy characters. The art is still utterly fantastic in its detail, so on I go to the next volume!",
+   "labels": {
+    "Absence of Naive Realism": 1,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 23,
+   "source_row": 638,
+   "text": "From Chapter Five of The Peach Keeper... \n \"... dreaming of warmer months, of kingfisher-blue skies and leaves so green they looked like they'd just been painted, as if the color would smear if you touched it.\" \n That's how you know you're reading a book by Sarah Addison Allen. While you're reading, the words create a story so real you feel like you could reach out and hug the characters. Their pain makes your eyes tear and your heart ache, and their joy makes you giddy. Sarah doesn't just write stories about a journey that's being traveled, she hands you a suitcase and coat and welcomes you along for the ride. And the ride is ALWAYS worth taking. \n The Peach Keeper is a book about friendships. About nurturing old ones, about creating new ones, about losing them and finding them, and how being true to yourself is the only way to be a real friend to someone else. \n In 1936, Georgie Jackson and Agatha Osgood were girlhood friends in Walls of Water, North Carolina. 75 Years later, their granddaughters, Willa Jackson and Paxton Osgood find themselves in the awkward position of trying to uncover what tragedy changed that friendship, and their town, all those years ago. Awkward because they are NOT friends. \n Sparked by a gruesome discovery during the renovation of a town landmark, the Walls of Water High School Joker and the president of the Women's Society Club find that not everything, or everyone, is as it seems. Willa has spent her entire adult life trying to live down the reputation she worked diligently in high school to earn. Paxton is the reluctant face of Walls of Water high society. They've both fallen into the daily routine of being what they think people want from them, instead of being true to themselves. It takes a skeleton, some quality time with a spunky old lady, and a little push from a \"wiser than they realize\" cast of side characters to put the women on the right track. \n I love that Sarah brought front and center the importance of embracing and preserving family history. This story is built on the foundation that Georgie and Agatha created with the strength of their friendship. I also love that Sarah's characters are so much like people we all know in our own lives. The support that Willa and Paxton get comes from a well-rounded, engaging group of friends and family. We all know someone like Rachel, the nature lover and health nut... or Sophie, the mother who's trying desperately to hold on to the glamour of her youth by living vicariously through her daughter. \n And let's not forget the men in their lives. Colin Osgood, who's been successfully running a business, and running from his family, returns to finish up the renovation of the historic Blue Ridge Madam. He's also been harboring admiration for the girl Willa was when they were in school, and is surprised and confused by who she's become. Paxton's best friend, Sebastian Rogers, delivers a bit of confusion and surprise of his own. And not in the ways you might think. Both Colin and Sebastian have choices to make for themselves, in addition to figuring out if they can be what Willa and Paxton need. The blend of attraction, tension, sweetness, and wowza! is enough to make any romance fan swoon. \n So far, this all sounds very serious. There ARE very serious threads making up the fabric of this story. The town's mysterious secrets, and the growth the characters go through are told in a very real, very thoughtful way. But one of my favorite aspects of Sarah's writing is how she brings humor, whimsy, and of course magic, into her stories. For every harrowing moment outside the Gas Me Up, there is a Women's Society Club meeting that reads like a scene from the movie Liar, Liar. For every unearthed murder weapon, there's a barista who can guess your personality by your drink order. And for every uncomfortable situation the main characters find themselves in romantically... there is a happily ever after. The balance of heavy to light, heart-breaking to heart-warming, and serious to silly makes the story so much stronger. \n The Peach Keeper did surprise me in one interesting way. In previous books, the magical element has been a dedicated trait of one or more characters. It was also something that, to me, was lovely and sing-song-y and pure. This time, the magic in the story started as a part of the town's past, attributed to a shady character who chose to use his charms against those who trusted him. Later, it seemed to evolve into something that encompassed the town. The birds, the trees, the clouds, the mail, even the air itself was magical. In it's new form, the magic became the embodiment of goodness I'm used to. \n Speaking of goodness, we get a cameo by Claire Waverley in The Peach Keeper! I love love LOVE that she made an appearance. I really hope this is the beginning of a new trend for Sarah's books. I know I'm not the only one who's anxious to know what's happening with the friends we made in Garden Spells, The Sugar Queen, and The Girl Who Chased The Moon. \n This all boils down to the fact that I got exactly what I hoped for from a Sarah Addison Allen tale. Amazing, real characters who lived out a story that was both gripping and fanciful. I know you'll be as enchanted by the goings on in Walls of Water, North Carolina as I was. But watch out... the air is turning white... and you just might find you have paint on your fingers.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 1,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 25,
+   "source_row": 786,
+   "text": "A book I wish I'd written, this is one that pulls you in slowly, and it's worth it. An excellent read that stays with you. \n If I know nothing about a book going in, I skip the back cover, being one that likes surprises. Having done this, TLTOE almost lost me with the gore of the intro (I'm the queasy sort), so I initially put it down. \n I'm glad I picked it up again. \n The tale is set in 1918 in a small, isolated, Pacific NW mill village that chooses to cut itself off from the world to avoid the flu (that ultimately kills more than 100 million people worldwide), and all this while the the first World War is also decimating families. \n It's definitely not a feel-good read, but it's a smart one. Memorable characters, original story, very well-written. I highly recommend.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": "No enough supporting evidence",
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 26,
+   "source_row": 797,
+   "text": "This was a page turner. Though the plot line is not very feasible, the hero and heroine captured my heart and I thoroughly enjoyed the book. A very good Scottish medieval romance.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 27,
+   "source_row": 828,
+   "text": "I've always had an innate fascination and interest with Holocaust novels, and movies. It started in Middle School with things like history class, a visit to the Holocaust exhibit at the museum, and Number the Stars by Lois Lowry. And it didn't stop there -it followed me into High School once again with World History, Summer of My German Soldier by Bette Green, and movies like Schindler's List. So when I find a novel based on that time period I don't hesitate to pick it up. \n When I read the blurb for 'Risking Exposure' it instantly piqued my interest, I had never read anything set from the German perspective and reading through the eyes of a young girl in the Hitler Youth truly sold me on this book. I don't believe many people think about how WWII affected the German people, a few years ago I spent quite some time with a patient of mine who was from Germany. She told me a lot about her life and the struggles of her family during the Holocaust. So, to say the least this book really pulled on my heart strings to imagine a child on either side of this war battling things like this while not being able to feel like they can actually 'do' something about it. \n In 'Risking Exposure' we meet Sophie Adler while she's attending a Hitlerjugend meeting with her Jungmadel troop in Munich, Germany. The Hitlerjugend also known as the HJ, were the Hitler Youth. You can tell from the very beginning that Sophie questions what is going on around her and doesn't accept the Nazi teachings because her troop leaders say so, while her older brother Klaus couldn't be any more gung-ho about it all. Sophie is always armed with her trusty camera preparing to be the official Youth photographer for their region. When she contracts polio she soon finds a very different side to what her troop is doing, and finds a way to make a difference. \n This book felt like I was reading a biography, the characters and story were all very real. Risking Exposure was certainly geared towards young adults, but this story captivated me from the beginning til the end - so it most certainly can hold the attention of an adult audience. I don't want to spoil too much, but the anticipation at the end of this book was killing me. I was flipping pages almost faster than I could read them and then it just ended! IT JUST ENDED. No resolution, it was just over! \n Thankfully I have been reassured by the author that a sequel is in the works.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": "谈到题材为Holocaust novels，且联系到战争",
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 28,
+   "source_row": 872,
+   "text": "I didn't know what to write about this book and I still kind of don't. It was the perfect balance of thriller/suspense and romance. I loved it. It was heartbreaking but hopeful. It was exhilarating and calming. I was enthralled from start to finish.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 29,
+   "source_row": 920,
+   "text": "Scorched Eggs \n by Laura Childs \n Pretty good, I like the Cackleberry Club series. I always wonder how 3 such different people became friends and opened a business together, but the author makes it work. I like the setup of the cafe, book nook and knitting corner. It's just like what I would want in a small business of my own, a little bit of everything. \n I think the one thing that bugs me is that when people ask Suzanne to help investigate, she acts all demur and \"Oh I couldn't, No I'm not really good at that, etc.\" Such false modesty after several books doesn't ring true to me. You've helped before, it's time to own it. \n Like the recipes in the back.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 30,
+   "source_row": 1052,
+   "text": "Gone with the Wolf has Werewolf Alpha & CEO of Wilder Finance, Drake pitted against Bar Owner & Temp Secretary, Emelia. \n They had some funny moments, Emi was mad about him ignoring her emails & phone calls about the Bar and decided to get a temp job at Wilder Financial to get some inside dirt on him. \n However, Drake has a brother who wants to be Alpha and to do so needs to remove Emi, as she is his brother's mate (called luminary in this world). \n As Drake was such a sweetheart with Emi, except for a few instances, he never came across as a competent Alpha. There was too much telling & not enough showing for me. He never even beat Silas, the brother, when they were fighting. \n It did have all the feels and a very nice HEA, so I might well read further into the series.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": "no evidence",
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 31,
+   "source_row": 1099,
+   "text": "This is a quick, gripping read that I enjoyed more than I thought I would. \n I do not have much to say other than it will shock the heck out of you. The plot twists and turns in many directions, and the ending is nothing short of sinister. You'll hate the characters, they'll make you seething mad. And I think that's the beauty of it. \n Although I enjoyed this book thoroughly, the ending did make me cringe a bit; I was not really a fan of how it ended. I think Flynn could have done better. But, I will totally be seeing the movie!",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 33,
+   "source_row": 1114,
+   "text": "Fat Girl is the incredibly depressing account of an insecure woman's loveless childhood. Quotes on the back cover assure that the depressing subject--growing up fat--will be tempered by dark humor. But the quotes lie. Augusten Burroughs, you are a liar. \n This book is 100% depressing, 0% funny. There is no dark humor. There is no intentional humor. There is no unintentional humor. It's just Judith Moore talking dead-pan about her shitty childhood. Chapter One: I Am Abandoned At Age Four, Chapter Two: I Am Molested In a Theater, Chapter Three: My Mother Beats Me With the Clasp End of a Belt All Summer Long, Chapter Four: My Peers Crap All Over Me. \n I'm giving this book a 5 because, even though its back-cover advertising is a liar, Fat Girl is a fantastic representation of what it's like to be fat. This book isn't the story of every fat person, to be sure. But it's a nice reminder that fat doesn't happen in a vacuum. Fat is genetics, abuse, diet culture, and the abundance of food that's strategically designed to entice and to sell, sell, sell. Fat will happen in our culture. It just will. It's cruel and pointless to punish fat people, when the problem (if we can call it that) is all of ours.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 34,
+   "source_row": 1128,
+   "text": "This is an awesome recipe book that not only shows you how to crochet, focuses on the skill of amigurumi, but also shows you the variety of ways you can make individual people. I could not crochet before buying this book. After getting it I made all 11 Doctor Whos based on her fabulously clear patterns. A must buy, you can make people you know, your children's favourite characters, the sky is the limit!",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 35,
+   "source_row": 1137,
+   "text": "Light read. I picked up this book with very high expectation but it did not live up to it. But I really liked the emphasis given on family values, relationship and hard work.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 1,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 36,
+   "source_row": 1165,
+   "text": "Giving this a 5 star rating is not much of a surprise since I am a big sucker of hate-love stories. As the saying goes, there is a thin line between love and hate. Sometimes when you hate someone, you are obsessed with the hatred that without you knowing it, the feeling will eventually evolve to a strong emotion such as infatuation or fascination. This is what happened to Violet and Martin I guess. \n Martin was about to marry Violet's bestfriend Elizabeth, his girlfriend for almost 6 years. Violet and Martin hardly tolerated each other, civil at times mostly Elizabeth acting as their buffer. Martin thinks Violet is spoiled and Violet thinks Martin is stiff and a total bore. Conflict started when Elizabeth call off the wedding and went to Australia to find his real father. Both Martin and Violet were devastated, Martin losing his dream bride/life and Violet losing her bestfriend and life saver. Things started to get messy when Violet decided to console Martin by visiting his office and giving him a peach flavored wine. \n I love how the author developed Martin's character as the story progresses. He is one of my favorite fiction male character *swoon*. Do I need to convince you? Check this out.. \n He was a good man. A real man. The kind who honored his commitments and did the right thing and stood up for what he believed in. He also cooked like a dream and f*cked like a god and he made her feel important and sexy and special. \n Okay,do I need to say more? \n As for Violet, Martin is definitely what she needs. They fit the puzzle. \n Darn, I believe this has been my longest review ever (and I don't normally do reviews). But this book totally deserve my rant :)",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 37,
+   "source_row": 1217,
+   "text": "This is an interesting read for someone curious about the famous WikiLeaks organization. It also humanizes, in both positive and negative ways, at least two high end hackers... the sort of people that we muggles know so little about and who the media caricatures as villains so often. Lastly, it is a rather sad story about the dissolution of a seemingly successful team and friendship that wrought a fantastic public service by exposing the \"collateral murder\" video to the world.... not to mention other secrets about the nefarious actions of governments and industry. It's worth a read just as a vote of support for the author and WikiLeaks mission. And let's hope that this and similar organizations can get back together and continue the good works that should have earned them, Bradley Manning and Edward Snowden Nobel prizes by now.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": "unlcear evidence",
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 38,
+   "source_row": 1316,
+   "text": "Unbroken has special meaning for me. Laura Hillenbrand writes a well researched story about Louis Zamperini. He had been an Olympic runner in the Berlin games and had high hopes for the next games in Finland - which were canceled because of the war. The story revolves around his experiences flying in the South Pacific, going down in his plane, surviving a record number of days at sea, followed by capture, imprisonment and torture at the hands of the Japanese. Hillenbrand writes of the aircraft, \"One of them, the Green Hornet, looked haggard, its sides splattered with something black, the paint worn off the engines. Even with an empty bomb bay and all four engines going, it was only just able to stay airborne.... Louie went up in it for a short hop, came away referring to it as 'the craziest plane,' and hoped he'd never have to fly in it again.\" I have a possible clue why. \n Zamperini was in the same bomb group as my father. Dad didn't know him personally but knew of him. He said Zamperini was about five years older and \"ran with a different crowd.\" As it turns out, my father was co-pilot on the original crew of the plane, the Green Hornet, that Zamperini went down in. \n Topeka Kansas was a regular pick up and departure place for the Air Corps. The Green Hornet was dropped off and assigned a crew that included my father. The plane needed 'breaking in,' so they were told to take it out on a night flight. They decided to fly up to Rice Lake Wisconsin which was my father's home town. They buzzed the main street about ten o'clock at night. The town, in ignorance and panic, went to go into blackout, shutting off all power thinking they were being attacked. On the return leg to Topeka, just before landing, they hit a flock of ducks rising up out of a pond. The plane was a mess, covered in debris stuck in the engines. \n A few days later, they departed Kansas for Albuquerque, New Mexico. Before they could land, their third engine gave out. Could this have been a failure due to hitting the ducks or some other cause? While the engine was in the process of being replaced, someone on the ground crew commented that the plane hadn't been named yet. The crew decided that since Dad was the baby of the group, he could have the honor. He named it obviously after the radio show of that era. \n I have a second copy of the photograph that is on pg 116, plus another taken that day with my father's crew on the other side of the plane. These were shot at McClellen AFB as they were loading to fly to Hawaii. You can see the black stuff all over the side, near that #3 engine. Duck debris - no wonder the plane was unreliable. The pics are on my profile - the last two black and whites. Dad is the skinny guy second from right in the back row. \n My father eventually left the Green Hornet crew after an incident involving the pilot. The entire crew was given the option of being re-assigned elsewhere in the squadron. Dad then moved to the Brunnhilda, which was later destroyed on the ground during a Japanese bombing run. My Dad saw the pilot a couple times after the war. He said the man was extremely apologetic, but who knows, perhaps his actions ultimately saved their lives!",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": "unclear evidence",
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 39,
+   "source_row": 1323,
+   "text": "This ghost story was such fun to read. I like that there main character is a ghost of a suicide victim who volunteers at a suicide watch centre.. That's pretty twisted but cool. I like that there are witches too and a mystery surrounding missing ghosts. I felt the end was too easy and felt like this would have worked better as a full length novel. All the same, I really enjoyed it.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 40,
+   "source_row": 1343,
+   "text": "I was gifted with the most enjoyable afternoon courtesy of the amazing Emma South. It was the first time I've signed on as an advance reader and I really had to remember TO BE HONEST!!! I had LOVED Nick and Harper's story so this one had better be damn good to compete. HOLY COW!!! Did it ever. It was an incredibly emotional read for me. Emma moves us back and forth throughout the book and kept this movement of this amazing emotional roller coaster the entire book through. There are parts of this story that I was soooo upset about (Nick) BUT then Emma gave me Dean. I do not want to give a thing away because I hate it when I read the reviews and I've read the book by the time I'm done reading the review. What I will tell you is that this is one hell of a sequel. It stands on its own and shouts \"I've been written by a REALLY great author\". I have already read this book so I really don't need to buy it but will I?...heck yes...happily. Great job Emma! denise bailey",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 1,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 41,
+   "source_row": 1358,
+   "text": "This was a great book. It was full of excitement! Princess Amalie's personality seemed perfect for her role as future queen as well as being the one Cammon falls for. Her personality is perfect for other reasons, too, but I don't like to give too many spoilers! Between the two of them was a cute romance, but it wasn't my favorite. Away from the romantic side of the story, the \"battle\" for Gillengaria was wonderful. Looking back on this book as well as the previous three, Sharon Shinn did an amazing job of progressing the conflict of magic users and magic haters all the while her characters finding love. Shinn is very talented. I felt though like this was the end of the series. I feel like everything concluded nicely. However, I know there is another book after this one. It just seems weird and I don't see where it can continue. Otherwise, I'm very glad to have read this series, and it has proven to me that I should read some of Shinn's other work.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 42,
+   "source_row": 1366,
+   "text": "This is the second time around reading this amazing series. I'm halfway through this book right now, and am so glad I don't remember some of it and it's fresh and new for me, yet other things flow right back like meeting old friends. I have such fixed images in my head of the people in this book, and I promise not to be disappointed in the actors and actresses chosen for the mini series. Diana Gabaldon, I salute you and your talent!",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 43,
+   "source_row": 1392,
+   "text": "I bought this book on Amazon for the great price of $0.99. I just want to start off by saying that this book is very dark. There may even be things that might offend some people. It really depends on your personal preference. However, I did keep reading no matter what I came up to. Goodreads.com has it listed as 320 pages which usually seems short but this book is very descriptive and it can seem longer. I don't usually mind descriptive books because then you can visualize the world it is in better. You're able to feel the eerie mysteriousness of the whole book. \n Katherine is born with mystic healing and an affinity for herbalism which she gets from her mothers' heritage. Her father is a drunk Irishman, and her mother was a Navajo Indian. Her father is sick. He actually rapes his own daughter, eww. Who knows, this takes place in the time of the great depression I guess, who knows what kind of sickos there were. Take it as you want. Anyways, they end up in this town in Missouri, which is where her father abandons her at the Inn she is working at. \n This book was spooky and interesting too. I like the spiritual side or the traditions that come across when you are reading. The book follows Katherine during her lifetime and her twins, which is personally weird for me because my mother was a twin until recently. I liked Katherine as a character. Then there were other times where I was so frustrated or emotional. It probably has nothing to do with the character herself, but more so about the things that happen to her or the circumstances of the situation. \n If you enjoy reading a book about a different time, and a different world, then this could be the book for you. It's listed at a good price, so try it.",
+   "labels": {
+    "Absence of Naive Realism": 1,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 44,
+   "source_row": 1454,
+   "text": "Until the Twelfth Night by Cherie Chulick is a 2013 Bolero Books publication. I was provided a copy of this book by the publisher and Netgalley in exchange for an honest review. \n Christmas in May? Well, actually May could be the perfect time to read a Christmas story because usually during the actual season, I get burned out on holiday fare. \n This short story is centered around Lady Elizabeth, a woman widowed at a very young age, and still grieving the loss of her husband. Her family is pressuring her to re-marry, so when her former in laws invite her to spend Christmas with them she jumps at the chance to get away. However, it's not long before she begins to wonder if she made the right choice. A certain Captain Wolfe has arrived and while handsome, he gets under her skin. However, it's the story a young maid tells her about trying to reunite with her lost love, that has Elizabeth determined to remain until the twelfth night. \n This is a short and sweet Christmas story with a little haunting twist to spice things up. Heartwarming, but not sticky sweet, like many holiday themes books can be. The book was intended to be a light, clean, heartwarming story, so from that perspective, this is an enjoyable read, no matte what time of year. Interesting holiday traditions, a ghost story, and the promise of new love makes the book worth your time. 3 stars",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": "仅仅在总结情节",
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 45,
+   "source_row": 1500,
+   "text": "** spoiler alert ** \n CONTAINS SPOILERS! \n I enjoyed this book, especially the first two parts. My only quibble was with the ending, as I would have liked to have seen how Lena turned out and whether anythig blossomed romantically between Rob and Rebecca. I feel like those were loose ends left untied, almost like it needed a sequel. So a bit disappointed with the ending, but loved the general fast pace of the book. It pretty much kicks off from the get go and I also did like the characters and vivid descriptions of the Isle of Man. There's also the odd bit that made me chuckle in there so the humor was alright as well. Definitely a good read for anyone into espionage/crime novels, and all that kind of thing.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 46,
+   "source_row": 1706,
+   "text": "lots of people have told me how much they enjoyed this book but I found it very hard to get into. I am sure that it is well-written but somehow I just could not get into it. It is probably me or maybe I read it at the wrong time.",
+   "labels": {
+    "Absence of Naive Realism": 1,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 47,
+   "source_row": 1710,
+   "text": "I loved this book, fantastic first novel! It is pretty much the same story as far as plot device goes: \"...villain scene where the villain tells the hero exactly what his evil plans were, giving the hero time to escape or devise a way out.\" It is the typical King/Kingdom in that the cause of adversity as well as resolution stems from the Kingdom. What made this book great in my opinion is that it was a different vehicle for magic, a language to go with it that didn't seem contrived at all and the characters developed before your eyes. Sometimes it seems to take ages for the characters to fully flesh out and the book drones on and on until that is done; but this one felt like you were growing alongside the characters and living their lives as they did. So for me, it sucked when I picked up Fire and realized I was now going to read about Leck, who I could care less about at this point.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 48,
+   "source_row": 1738,
+   "text": "I grabbed this for the sex scenes, and even those weren't enough to make me like this book. \n I should've known better--I hate love triangles. I think they're stupid. You're not actually interested in one of those people, you're just being selfish and leading people on. It's not fair to anyone involved and I hate people who purposely involve themselves in love triangles in real life. STOP BEING SELFISH. \n As with anyone else rating this badly, my biggest problem was with how Eve became Marked. You're telling me a 17 year old virgin is SO GOOD at exuding sex that she's able to seduce a being who is hundreds of years old or some saintly demigod thing or whatever? And that she will now ALSO be blamed for him being turned on by an underage girl? \n Seriously? \n Let's try putting this into a new scenario: \n A 17 year old girl is walking down the street wearing a skirt. A guy in his fifties sees her, makes eye contact, and then makes sure she sees as he looks at everything she has to offer, without regard to whether or not she actually wants this. She has enough confidence to shake it off and continue to walk confidently down the street. The man in his fifties is turned on even more by the fact that she's not damaged by his looks. \n So he takes her into an alleyway and rapes her and then says to her, \"This is your fault for tempting me.\" \n THIS IS LITERALLY WHY WE HAVE FEMINISM. Why is it that it's okay because it's a \"romance\" novel? Because it's not. It's really not. The scenario in this book is never okay. That immediately left a very bad taste in my mouth and I never got past it. It tainted any sex scenes (which were weirdly aggressive anyway--I feel like my vagina would be sore for at least a week with all the relentless pounding that was happening) that Eve had with one of the brothers, and frankly there was just no point to the action. \n Day might actually have a promising career as an urban fantasy writer, or maybe she already has a reputation for that. I don't know. I've never read her books before, and you can bet this will be the last time I read anything from her.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 50,
+   "source_row": 1795,
+   "text": "I love Albie so much (protagonist) and found that I was incredibly interested in his life and struggles. Albie is an everyboy, working hard, not always understanding the rules of society but still doing his best and caring about his friends and family. As a parent, I found some parts of the book incredibly hard to read (and maybe even w/o being a parent I would've found them hard) but the author's sure voice keeps you reading and trusting that Albie will be okay in the end. Just a fantastic book.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 51,
+   "source_row": 1835,
+   "text": "A little too scientific for me, but I did like the main characters quite a bit. I still think the author is at his best when teaming up with Lincoln Child.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 52,
+   "source_row": 1954,
+   "text": "I really enjoyed this book until the end. The ending pissed me off so bad that I gave the book one star. The buildup for the ghost was good. Then the reveal/solution happened. I read this and was like \"wait what????\" throws book across room.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 1,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 53,
+   "source_row": 2009,
+   "text": "This was the second time I had started reading this book. I read the whole book this time. The first time I had found the story to sad. The characters became like neighbors to me; I was interested in what was happening in their lives and I could of sat and listened to them talk for hours. I cheered every \"baby-step\" that Helen took. I wanted to live in the house that Dan and Tom built for Helen. This book had a mellow mood that really enjoyed.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 54,
+   "source_row": 2030,
+   "text": "This book took me 2 weeks to read. I don't know why, other than that it was a little boring. I loved both MCs, Kestrel for her fierceness, Arin for his fierceness. I had a hard time, though, believing in their connection, this is probably why I struggled. It seemed to me more like convenience that brought them together than any real attraction and, again, connection. I wanted Kestrel to pick Ronan, I'm probably the only one in that respect, and I wanted Arin to fall for some bad-ass girl slave. The writing was beautiful, very poetic and lyrical, but this style made the characters feel isolated from me. Everything they said and did was catalogued beautifully, but it blurred the action a little, making what was happening seem choreographed like an opera. It was all very dramatic, but safe. I loved the way the author turned a phrase. This is why I kept reading, despite the story not calling to me. I would read a little every day, but nothing pulled to me to continue, I wasn't anxious to know what would happen. The world building was really great, though that is not what I really look for in a book since I mostly read contemporary. I am vaguely interested in what is going to happen next, which is why I will read the next book, but they've got to step it up a little. The last few chapters really turned it around, which is unfortunate because it was the end of the book. I felt that it finally started to gather momentum, and this is why I ultimately gave it four stars. This is why I love and loathe a series. I'll probably forget most of the story by the time the next book is out.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 55,
+   "source_row": 2089,
+   "text": "How do you finish a series up that have kept readers enthralled with the characters? The answer is you take an extremely gifted author that draws you into the final story with suspense, a town that makes you feel at home and characters that make you feel like family. The author really shines with this emotional page turner that tucks at your heartstrings. \n Levi is the one I have been waiting to really get to know and I loved how his character came full circle. He has come a long way in his walk with forgiveness and coming to terms with tragedy. I found him to be a strong character with a heart of gold. The family is glad to have him back home. Will he be able to find joy being home? The author has done a great job of giving readers a character that is strong yet vulnerable at times. It has been hard for Levi to let go of someone he loved. Can Levi finally find peace and move forward in his life? \n Julia is a young woman who has come to town with her small daughter. What secret is she hiding? As she and Levi become friends, I enjoyed the gradual trust they developed between each other. Julia is guarded at times, but knows she needs to trust someone. I liked how her character was wanting to protect her daughter and shield her from danger. Will Julia's lies cause her and her daughter to face danger? \n I really liked this story because it was a deeper more emotional story about a subject that is not easy to read about. The author made the story so realistic and there were times I wanted to tell Julia and her daughter to run. There is a great level of intrigue that will keep you glued to the book. I find that the author always writes with such great passion and raw emotions. This book closes the series in an unforgettable story of family, forgiveness, overcoming loss, trust and a time to celebrate the holiday season. Be sure you grab a copy of this book. I would recommend you get the entire series and follow the Kinsinger family on their journey . \n I received a copy of this book from the author and Litfuse . The review is my own opinion and I was not compensated for it.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 56,
+   "source_row": 2100,
+   "text": "Dickensian might be the vogue way to describe her writing (reviews abound with the term), but Tarttian is the better way to describe it. I say that because as I read it, I had no inklings that it was written either by or like someone else. It's like it was written in a vacuum of sorts, perhaps ahead of her time. Not in a futuristic sense -- just that it's writing that looks familiar enough to absorb, yet without a predecessor. Like a premonition or a prophecy. \n Tartt brings enough detail to move the plot forward, but allows it to be just ornate enough to recognize how beautiful the prose is. Thrillers -- as is well known -- can push the plot from page one till the end without a memorable sentence in the book. Some Literary Novels provide nothing but flowery, memorable sentences in which only Comparative Lit grad school students can parse plotwise. It's a special kind of mastery that can both push the plot cleanly like skiis down a slope while wowing with sentence content and structure. \n The Goldfinch provides that mastery. I feel I could recommend the book to lit snobs and beach readers alike. Tartt's delicate intricacies within the plot weave in and out between various big name cities; from New York to Las Vegas to Amsterdam. \n It shows high-brow tastes interacting with blue collar mentality. I imagine it being like John Steinbeck guiding a tour of the Louvre. An explosion at a museum leaves many dead, including the mother of book's protagonist, Theo. The young kid survives the blast, and snags a priceless painting before it succumbs to the disaster. The painting -- Carel Fabritius's 'The Goldfinch' -- has once again survived an explosion: over 350 years ago, Fabritius, a student of Rembrandt, was killed at 32 when a gunpowder magazine exploded and destroyed most of his works as well. The parallels, although obvious throughout, are richly explored. \n Theo bounces across and out of the country as a result of his watershed moment, and kerfuffles abound. Family, friends, scam artists and drug fiends interact on scales micro and macro, and Theo rides the inner waves as a modern Hamlet forced into Dostoyevskyian binds. \n Tartt's writing and storytelling is in top form, and I will definitely reread this novel at some point in the near future. Certainly one of, if not the, best books I've read this year.",
+   "labels": {
+    "Absence of Naive Realism": 1,
+    "Theme": 0,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": "Dickensian might be the vogue way to describe her writing (reviews abound with the term), but Tarttian is the better way to describe it. 表现了作者承认了别人可能存在的看法",
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 57,
+   "source_row": 2198,
+   "text": "Reviewed for Read Your Writes Book Reviews \n by Kim \n There are not enough words to express how excited I was to read this book. One Night of Scandal is the follow up to One Night of Sin. Both books are standalones. In One Night of Sin, you get introduced to Gage Holt, Reed Miller and AJ Walsh. All three men are friends and former MMA fighters. They are also business partners in a nightclub called Sin. It goes without saying that I fell for all three. Thus, explaining why I was excited for Reed's story. \n Reed and AJ have been best friends since childhood. For the past five months, AJ has been dating Darcy Grant. And for the past five months, Reed has been fighting his attraction to Darcy. He knows that his friend's girlfriend is off limits and he goes out of the way to avoid her. \n When Reed spots Darcy at a competing nightclub, flirting with another man, his first instinct is to protect his friend's interest. Reed is out of the loop on the recent break up of AJ and Darcy. Even after he finds out, he wants to make sure that no one gets close in case AJ and Darcy get back together again. Ultimately, the two act on the attraction they feel, only to regret their actions. I will admit I wasn't sure how I was going to feel about Reed getting together with his best friend's ex. I mean it seems totally wrong. But this storyline works for these characters and nothing comes across as scandalous. \n Reed wants to have a serious relationship with Darcy but she wants a nice, responsible, good guy. She knows Reed isn't the permanent type, but she thinks he's just who she needs to have an \"adventure\" with. Reed has a past and oozes bad boy charm. He sets out to show Darcy just what he's capable of in the bedroom and out. Reed is incredibly HOT. He's also a nice guy, who just doesn't like to show his true colors. When Reed pulls out the charm and actually starts to date Darcy, she's forced to face her feelings for him, much to her dismay. She ultimately realizes that Reed is everything she wants in a partner. \n There is a mini storyline from One Night of Sin that is carried over into Scandal. Unfortunately, that storyline didn't play out the way I would have liked and seemed just a little too easy and maybe a little rushed. But for me, it wasn't that big of a deal. Ultimately, One Night of Scandal gives you a couple who needs each other to complete themselves and show them what life is all about. How good it can be if you just change your outlook a little. One Night of Scandal is also sexy and hot. Not really a whole lot more I can ask for. \n I'm on pins and needles waiting for AJ's story. \n Source: Publisher",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 1,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 58,
+   "source_row": 2264,
+   "text": "This is one of the strangest books I have ever read. It was extremely weird, but weird in a good way. The storyline was indeed \"curious\" and if you can get past the weirdness then you can enjoy it. At times I could get past the strange aspects of these stories, but other times I thought it was a bit too ridiculous and confusing to say the least. A few times, I had to read a sentence more than once to fully grasp its meaning. There is not really any plot to this book, but I can see how it may be a fun book to read to kids. \n Definitely not my favorite books, but I did enjoy Alice's Adventures in Wonderland more than Through the Looking Glass. I'm not going to say don't read this because I know a great deal of people enjoy this classic...it's just that I didn't find it all that great. Nevertheless, if you find the time, pick it up if you want to. It's a quick read and you can make your own judgment about it.",
+   "labels": {
+    "Absence of Naive Realism": 1,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 59,
+   "source_row": 2311,
+   "text": "Mildred Lathbury has resigned to her fate as a spinster, an excellent woman very useful to those around her but not the kind to ever marry. The available bachelors aren't really her type anyway. This is something she has to keep telling herself when the Napiers become her next door neighbors, and their marriage turns out to be in trouble.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 60,
+   "source_row": 2375,
+   "text": "Read the kindle format, because I was too impatient for my paper copy to come through the mail. As usual, love her writing. Kick ass women, sometimes even vs other kick ass women, and it's not all about the men. Amelia is fanastic, and lives up to the expectations I have for her name. (I'd backed this on Kickstarter, and at some point I'll need to finish reading the series, but the order doesn't seem to matter on these.)",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 61,
+   "source_row": 2403,
+   "text": "Instead of the lame film Pearl Harbour, Michael Bay should have tried to write the script based on this story, would have turned out a much better film (or not, knowing Bay's track record!). But jokes aside, this is quite a gripping World War spy thriller, with lots of emotions thrown in around the issues of love, patriotism, family and friendship. Too many coincidences admittedly, but makes for quite a compelling narrative that doesn't paint the opponents in World War as simple heroes and villains. Best of all, fits in quite nicely in Wilson's super ambitious 'Secret History of the World'.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 62,
+   "source_row": 2515,
+   "text": "The book is far grittier and tightly written that the previous three books, but \n Mind you the last book in the chronicles of the necromancer was quite a Good read. \n The story is more gripping and wish this was a longer series where the characters could have been developed further. The two main leads feels more mature in the way they are presented. Loved it overall and started on the dredd",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 63,
+   "source_row": 2549,
+   "text": "Loved this! Exciting and sweet. \n Even though at times I felt a little disorientated and struggled to follow everything that was going on--perhaps because so much was going on--I just loved the chemistry between the characters. \n Excellent read.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 64,
+   "source_row": 2560,
+   "text": "A tempestuous classic romantic tale set during the Victorian Industrial Revolution has been told in this charming, gentle yet passionate 'what if' variation. It asks 'what would have happened if Mr. Thornton had been hit with the striker's thrown stone and then what would have happened if Margaret had said 'yes' to his first proposal?' \n I read North & South by Elizabeth Gaskell for the first time a few years ago. This was one of the rare times that I saw a movie adaption before reading a book particularly an older classic. In truth, I didn't even know about Elizabeth Gaskell's works until I saw Wives & Daughters. I was enchanted by that story and then watched North & South and that's when the real love affair with the author began. But I thought all that I could do was read other Gaskell books, re-read N&S and re-watch the movie until recently. \n It was lovely to discover an author had take her own love of the story and retold it in her own way. In Consequence is the result. But I will say up front that this story assumes by the way it is told that the reader is already somewhat familiar with Gaskell's original N&S storyline. And as such, the reader will see that yes there are alterations of character and actions lead along a slightly different path though familiar characters and scenes are very present. \n When Margaret says 'yes', this sets in motion something new. John Thornton has hope and it gets him through the end of the strike and all his self-doubt because of their class differences and differences of upbringing and family history. Her change of heart is inexplicable in the face of their former antagonism. He is content that he will have her for his wife and dreams of winning her complete to feelings of love for him. In the meantime, he has a cotton mill to keep running and somehow fulfill the orders that the strike interfered with, other mill owners to finesse, a family to care for and a new lady and family to woo in the face of events that set him back. \n Margaret Hale has endured much change in her life and loss. Her knee-jerk response to Mr. Thornton's proposal leaves her as mystified by her answer as it does others who know her and her previous encounters with the brooding, hard Master Marlborough Mills. Only, she has seen something during that horrible day of the strike and was left even more struck by his ardent and honest feelings for her. There is more to him than she imagined and now she will tentatively give this little flutter a chance. \n Her mind is not as made up as her affirmative response that first day. The conflict of her poor union worker friends and Thornton's being a master, Bessy's death, Mrs. Hale's health, and her own fears that marriage will squash all her freedom are balanced against the slowly revealed nature of the man she has agreed to marry. \n Their courtship is long, starting tentatively and building into the passionate love affair between two people who reach across a chasm to build something new and special together. \n The story is a long and gently paced. It lacks for strong conflict, but it is not devoid of all conflict. The early rivalry of mind between John and Margaret are still present as is the greater conflict going on as worker and business owner clash over the issues of the work environment and treatment of workers and beyond this is a differences between middle and upper class depicted by the growing prosperous new rich industrious North and gentle bred landed South. \n The pace is uneven at times. The book had stronger beginning and end with the lag in spots in the middle. There is a lot of introspection on the part of Margaret and John as they ponder their circumstances and what the other is thinking. Thornton is deeply in love for the whole story, but he has to patiently court his lady and grow to be her match. Margaret has a few crisis moments where she doubts and her mind and loyalties are divided between family and new engagement so their introspections arise from different things. \n I will give fair warning here that this is not a fade to black romance. It is still very much of the sweet sort, but their passion is described. \n The characters are familiar and I enjoyed that all the familiar faces were present. They are engaging, well-drawn, developed characters. Perspectives were mostly from Margaret and John's point of view, but others like austere Mrs. Hannah Thornton, puckish Mr. Bell, and envious Henry Lennox got their turn to narrate. The reader does have to pay attention because there is head hopping going on swiftly, sometimes one paragraph to the next and back. \n Though it did take time, this story was a thing of tender loveliness. The romance and romance of the author for the story comes shining through. I had several swoony moments, smiles, and ended the book on a satisfied sigh. \n All in all, my first encounter with the author and a N&S variation was a resounding success. I would definitely pick up more of this author's books. I think historical romance lovers who like mostly sweet with some spice should give this a try and most definitely fans of the North and South story.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 65,
+   "source_row": 2587,
+   "text": "This book contains the 3 novellas that make up the first 3 stories in the Seraph Chronicles. This review will be of the third novella, Tomb of the Aeons, as I have already reviewed the first two novellas. \n This story sees a return to World War II, this time in North Africa. As in the other stories, this is told through the eyes of someone other than Seraph. Houlihan has written another good story, exploring more aspects of the Cthulhu Mythos, this time ancient serpent races. We also learn more about the title character, with strong indications that he isn't human - at least, not a standard human. \n Overall, this series has been very enjoyable so far, and is a worthwhile addition to the genre.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 67,
+   "source_row": 2622,
+   "text": "This book is a collection of messages delivered at a \"Together for the Gospel\" Conference in 2012. Although the messages are directed toward pastors and church leaders, the content is applicable to all Christians. Eight testimonies are included in the book. It is worth getting the book just to read the testimonies. Nine outstanding preachers delivered the messages.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 68,
+   "source_row": 2634,
+   "text": "I have actually completed reading this book last year (2014) but I didn't have the time to update my Goodreads. Anyway, it is a wonderful read. I finished it all in just one week. That's considered fast with my busy schedules.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 69,
+   "source_row": 2667,
+   "text": "I'm torn in two now after reading this book by Natalie. \n I loved book 1, and thought Jamie and Olivia were great together, but now I sort of love Connor, yes his a bad boy maybe that's why? But is he really? His certainly sexy, cheeky and well endowed lol \n This book runs along with book 1 time line but is from Connor Riley's point of view, I'm so glad we got his story it's a great read and I'm sure your going to love him even if you don't want too! \n A note though read Broken Ever After first, Then you can torture yourself about falling for the so called bad guy too :). \n I'm on tender books now waiting for book 2. \n I was gifted a copy if this book for an honest review.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 70,
+   "source_row": 2732,
+   "text": "This was a fun quick read perfect for staying up all night taking care of a sick kid. Will I read the sequels? I don't know; I liked the characters a lot but the amount of action was more than I lean towards.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 71,
+   "source_row": 2736,
+   "text": "I was gifted this book in exchange for an honest review. \n I enjoyed reading this. \n The tentacle monster was a nice touch and i liked the dream weaver idea. We have Mack a bear shifter and Werewolves. All after the same thing. Fiona who can see others lustful fantasies and mould them. Thus making her a very desirable asset. \n The story does kind of take after its name as Fiona was a Nocturnal Voyeur. But she was also able to day dream. I am still left a little confused to what it was I actually reading about. \n I found it difficult to connect to the characters and was left with a lot of questions. \n I did enjoy reading this though.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 72,
+   "source_row": 2790,
+   "text": "This book is why I love historical fiction. It was well written. The characters were well developed and history was brought to life. There was only one slip-up that I could see and that was when one character is beheaded and relates being greeted on the other side. Um....I like the idea that the person was greeted by family there, but really....I don't think there is a way the character could record that for us in the story - just sayin'. \n This is the story of Richard III and how he came to the throne. The author used all historical figures creating scenarios and plausible explanations for the events that occurred. It was an enjoyable read, and even brought a tear to my eye at one point. \n Good job, Susan Higginbotham!",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 73,
+   "source_row": 2858,
+   "text": "I have read all of Toni Morrison's books because each seems to impart such in depth understanding of her characters and their motivations, good or bad. Not this one. It starts out strongly, the light-skinned mother giving birth to the blackest skinned baby. Her shock and horror are very real. And the fact that the baby grows into a stunningly beautiful woman is not only satisfying but also very possible. The rest of the book seems poorly thought out, a kind of a picaresque novel in which Bride just hits the road, briefly meeting people for better or worse and then moving on. Bride and Booker and Sweetness seem too smart to act out the way they do. Their behavior serves only to drive the story (and the lesson) along. Each plot turn is more shocking than the last, just like GONE GIRL. The characters are all selfish and violent in their own way. They lurch from emotion to emotion without consideration. For instance, Bride seems to make an instant and lasting connection to Queen although Queen hasn't been much of a mother to her children, even less than Sweetness was to Bride. I expect nuanced characters from Morrison and this book is a disappointment.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 1,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 74,
+   "source_row": 2940,
+   "text": "Loved this! I know many people also loved this, but I am not, nor ever have been 'a gamer' so I wasn't sure that I would love it. I did, but why I did had nothing to do with gaming. \n It had to do with the dystopian world laid out in the story. \n ' Standing there, under the bleak fluorescents of my tiny one-room apartment, there was no escaping the truth. In real life, I was nothing but an antisocial hermit. A recluse. A pale-skinned pop culture-obsessed geek. An agoraphobic shut-in, with no real friends, family, or genuine human contact. I was just another sad, lost, lonely soul, wasting his life on a glorified videogame.' \n I found it horrifying that people would spend all of their lives in a virtual world and yet also identified with it strongly because I am an avid reader who spends most of her time outside of work and family, lost in the world of books. \n You can see how easy it would be for our world to become that world, some may argue it already is. \n I was right behind Wade and the others cheering them on. \n And James Halliday's final message to Wade and to me and to all others who live in a fantasy world was very moving: \n 'I created the OASIS because I never felt at home in the real world. I didn't know how to connect with the people there. I was afraid, for all of my life. Right up until I knew it was ending. That was when I realized, as terrifying and painful as reality can be, it's also the only place where you can find true happiness. Because reality is real.' \n I'd love to tell you that this inspired me enough to run out directly and start connecting with all my peeps and living my life but truth be told, I'm already lining up my next read...",
+   "labels": {
+    "Absence of Naive Realism": 1,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 1,
+    "Change": 1
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 75,
+   "source_row": 2955,
+   "text": "Was so delightful. I love the movie so I decided to see how the book compares. They are different from one another and overall I love both movie and book.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": "只提到了电影和书的比较，但是没有具体写哪里不一样，感受不一样，因此只提到的话，不能算作theme 1",
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 76,
+   "source_row": 3001,
+   "text": "Super sweet. Super short., Super hot! \n Layla is the virginal heroine and she's madly in love with her bodyguard, Lachlan. How does he feel about her? \n \"I love her, want her as mine, and I need to show Layla that she was meant for me.\" \n Thanks for making his feelings and intentions abundantly clear from the get-go, Jenika! As the first book I've ever read from this author, it was an amazing introduction and I'll definitely be looking out for more of her work. \n Release Date: June 28, 2017 \n Genre: Erotica \n POV: Dual - 1st person \n Heat: 4 out of 5 \n Type: Standalone - Book 14 of the A Real Man series",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 77,
+   "source_row": 3005,
+   "text": "This is Steven James' best book so far. I feel that he used all his experience in writing his Patrick Bowers series and put it into this one book.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 79,
+   "source_row": 3118,
+   "text": "An extremely thorough look at the efforts to save the 33 miners who were trapped in the San Jose Mine in Chile in 2010. From drilling experts and geologists psychologists to technology companies and everyone in between, the world truly did pull together to bring those men home alive. Includes a section on the history of mining, modern mining practices, the life of a miner, and not only the physical efforts (drilling, etc) that brought them home, but also the generosity of people who did all sorts of things to boost morale. I have to admit I choked up a bit when I read about how an image of the trapped men watching a soccer game on a tiny cell phone screen was broadcast to fans who were actually at the game. So cool! Probably the best part of this book, though, was the author's note at the end in which he talks about the challenge of writing about a current event and having to use the Internet as your primary research tool. An excellent teaching tool about finding good quality sources in the digital age.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 80,
+   "source_row": 3130,
+   "text": "Another Cold Fury Scorchingly sweet and & hot win for the team! Lucas & Stephanie's characters are extremely explosive in the sexy department! I felt that their characters developed well and their reaction to the situations that happen felt real & relatable. They are captivating from page one for me till the very end. I couldn't stop reading and over all I finished the book in about 5 hours or so. I love all the feelers and heart you can feel is put in to the book and how it sucks you in making you feel each & every one of them. From the shock of the news & it's reaction, the heat & intensity between the characters along with all the feelers that you get from the other characters in the story. Along with the angst of the hurt and pain felt and the feeling not good enough along with the fear of the unknown of what that future could hold if you just let go & jump. Last but not least the love and happiness that is spread through out the whole story! This was another great reads for me and I truly hope that you will give it a chance. Hopefully you will love it as much as I do!",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 81,
+   "source_row": 3238,
+   "text": "Some brilliant writing here -- captivating. I enjoyed it all but the bridge story seemed to lose its objective when the protagonist got on the train. \n Best bit for me was the barbarian's trip through the underworld. \n Some of the parts were great but the total was less than the sum of the parts - I think!",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 82,
+   "source_row": 3282,
+   "text": "I highly recommend this book to any one who is facing a change in life- Change is hard but Henry Cloud makes a strong, encouraging case to move from the past to new chapters in your life. It has been very helpful personnally to read this book- and it's principles while mostly from a business angle, are applicable to volunteer work, relationships and any other life change event.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 1
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 83,
+   "source_row": 3284,
+   "text": "Yeah, yeah, yeah, same old same old - Anita has to seduce everyone around her to save the world, blah, blah, blah then the sub plot (which is usually FAR more interesting) is resolved in a few hurried pages at the end. I keep reading these thinking that Hamilton will have outgrown her real life 'newlywed' obsession with all things sex, but no - she just gets more 'creative' in her pairings, or threesomes or whatever. I miss the days when Anita did her job - remember when she really was a Vampire HUNTER? Now folks just show up and she either sleeps with them or kills them... \n She has become way too introspective as well Too much sex apparently leads to intense navel gazing... \n Glad the library bought this and not me.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 84,
+   "source_row": 3304,
+   "text": "** spoiler alert ** \n No. \n That was all I was going to write as a review, but I figured 525 pages deserved a little more. \n I was so excited to read this book. I really loved Divergent and enjoyed Insurgent and I couldn't wait to find out how the series ended. \n It took me a long time to read Allegiant. The first half was incredibly slow and boring compared to the first two books. I couldn't understand why the Bureau was letting Tris and her friends run around and scheme and get into trouble, especially when the Bureau believed some of them to be genetically damaged. They were allowed in research rooms and control rooms which didn't make sense with how the Bureau seemed to want to have \"control\" over genetically damaged people. Why would they let them have that much freedom? They knew what Tris and her friends were capable of and the sorts of things they did while they were in the city, and yet they allowed them to go wherever they wanted and do whatever they wanted. And honestly, they've been doing their best to keep the residents of the city inside the city limits and clueless as to what is going on outside, why would they let Tris and her friends out and then let them have no restrictions whatsoever? I still can't make sense of it. \n I think the genetically damaged and genetically pure idea was a good one, but I just don't think The Bureau acted the way they should have. Especially after Nita and Four rebelled. Four was basically set free and he was Tris' boyfriend and instead of being suspected, she was invited to council meetings. The entire time I was distracted by the fact that the storyline was pretty far-fetched. The Bureau was not acting the way they should have. \n Another reason I had a hard time getting into this book was that I desperately missed the dynamic relationship Tris and Four had in the first book. I missed the energy and excitement of the Dauntless. The compound was boring and the storyline was filled with information about genetic tampering and blah blah blah...I didn't care. I wanted train jumping and ziplining and excitement. Anyway, Tris and Four spent most of their time not trusting each other and they made hardly any effort to be together. I had a hard time believing they were in love. \n The good...it was very well written. Roth is a fantastic writer who developed strong characters with strong emotions. \n But despite the writing and the creative ideas, I hated the ending. I think Roth was very daring to write an ending like she did, but I still hated it. I thought it was a joke when I saw someone post something on Pinterest about Tris dying. When it happened in the book, I kept thinking there were plenty of pages left to fix it somehow, but it didn't happen. Tris died and I was mad. After I finish writing this review, I'm just going to imagine a different ending that doesn't piss me off. \n I hated the ending so much, I wanted to give Allegiant a 2-star rating. But, I didn't because the book was well written and it was brave. One could even say Dauntless-brave. But despite it being a brave ending to choose (one that Roth had to know most of her fans would hate), I have to say it is also sort of unfair. To make us love this couple and love Tris for her bravery and then take her away and not let us have the happy ending? It sucked. I know it's \"real\" but I don't read for \"real,\" I read to escape and this ending made me angry.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 1,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 86,
+   "source_row": 3307,
+   "text": "just a great, heartwarming book! i'm glad i finally read it and now i'll have to watch the movie. i'd definitely recommend this to anyone looking for a feel-good story!",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 87,
+   "source_row": 3313,
+   "text": "I'm not sure what to make of it. I completely missed that it's fiction and was originally reading along thinking it was based on a true story. When that illusion was shattered, I didn't like it as much but that's no fault of the author. I think I'll reread it later, knowing it's fiction, and then assign a rating. \n Edit after a second read: \n I saw the movie first, which is the only way I can explain how I missed the many signs that The Help is fiction. I didn't read the synopsis and apparently missed \"a novel\" scribbled on the cover. Instead, I thought the movie was about how the book was written, so I expected the book to be the compilation of stories from the maids. I wanted real-life stories about experiences far outside my experience. \n What I got was a book similar to the movie. It's about a white woman trying to make her mark in the publishing industry and get her start as a writer. It's about colored maids, how they're treated, and the complicated dynamic between white families and the colored help. When the movie came out, there were complaints and speculation about it being written by a rich white woman whose family had a colored maid, which Stockett addresses at the end of the audio book. \n Perhaps it's because I'm white and I didn't live during the segregation, but I don't understand why it's such a big deal that The Help is written by a white woman. If we limit authors to writing their own race, we wouldn't have To Kill a Mockingbird or Antony and Cleopatra. It's ridiculous to think authors should not write other races. The argument is that a white woman whose family employed a colored maid can never accurately give a voice to the maid. Even Stockett admits that this terrified her, but how is that different than a white person writing historical fiction about pilgrims and Indians? Please leave your thoughts in the comments section. \n The Story \n It was beautiful and the ending made me cry. Screw the angry critics, I'm glad Stockett wrote the book and I don't care that she's white. I would have liked it better if it was nonfiction because I liked seeing good stories of white people taking care of their maids along with the bad. I'm not going to pretend that it wasn't awful, separate but equal was far from equal, but it's nice to see that other side. \n Stockett also had a great grasp of how to teach kids. Aibileen's lessons were creative and digestable to a three year old. Overall well written and poigniant. My favorite character was one of the white women, Cecilia. She \"didn't see the lines,\" as Minnie put it. She sat with her maid at lunch, protected Minnie from an attack, and didn't understand that she was in a different leaugue from the women with whom she wanted to spend time. \n Book vs. Movie \n I liked the characters in the movie better, particularly Skeeter's Mom. Mrs. Feeling fires the Maid who raised her daughter and had been with the family for twenty-some-odd years (or longer, I don't remember). In the book, she tries to justify her actions and shows no remourse, while in the movie she regrets what she did eveen though she is unable to fix it. She also has an amazing line about Two Slice Hillie in the movie that wasn't in the book. \n Overall, 4 out of 5 stars. I liked it, I'd reread it, but it didn't bow my socks off.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 88,
+   "source_row": 3419,
+   "text": "I am almost done reading this aloud to my friend, Sarah. We are enjoying this tale of a brother and sister in the magical realm of Fablehaven. One more chapter to go, and we'll be ready for the next one! So many have highly recommended this series for years as one to read if you're sad that Harry Potter has ended. I'm agreeing with that!",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 89,
+   "source_row": 3441,
+   "text": "Glitch: Lost in Time Book 1 by Brenda Pandos was an intriguing blend of zombie-pocalypse, time travel and dystopian YA genres. Our heroine, Abby, as a result of her leap year birthday discovers herself to be a glitch in a complex system of parallel universes and time hopping. Her birthday has always caused her problems in the 'system' which tracks everyone's activity but this time, something is really off and the stranger with blue eyes confirms it. Before she knows it, she's evading dystopian dictator governments with secret programs, involuntarily joining rebel groups and finding herself at the mercy of some rather handsome rescuers-each vying for her hand-while trying to prevent a zombie virus outbreak. If it sounds crazy, I assure you, it is. \n Now I'm not one for zombie tales, like at all, but the descriptions were stark enough to be impactful and repulsive and infrequent enough to keep the book enjoyable. This book centers a little more on world building and relationships so there are some slow parts at the beginning but enough intrigue to keep you going. The second half of the book will have you turning pages so fast you can hardly keep up for sure! \n Brenda has an incredible imagination. I haven't even heard of a story that has anything close to the plot and elements that Glitch has. She has woven a fascinatingly complex tale and left us with a cliffhanger that is sure to entice people to follow Abby and become lost in time with her.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 90,
+   "source_row": 3492,
+   "text": "Patterson does it again. Thrilling, twisting, exciting. Like many (but not all) of his novels, this one is not for the squeamish. I was rooting for our heroine through it all. I could not put it down so I am behind with my work!",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": null
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 92,
+   "source_row": 3514,
+   "text": "This book is actually quite comical and it only takes about 45 minutes to read. I would incourage everyone to read it as it is a good book to start out the new year with.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 94,
+   "source_row": 3647,
+   "text": "Maeko must choose where her loyalties lie - with the Pirates or just those she loves. Can she betray her new friends to keep her loved ones safe? New information from the Lits' secret prison isn't good and Maeko won't be able to ignore it. \n Maeko only wants to do right by those she loves, but she can't always save everyone. In fact, those around her seem to get into just as much trouble as she does! Maeko's love and empathy for everyone around her, even the cat (and so much the cat) is quite endearing. She is a phenomenal person (even for a Rat and a Pickpocket) and a well-built main character. She is loyal to a fault and stubborn and brave. \n Macak the cat even gets his own mini chapter in this third book and he's more important than ever! He is one of my favorite literary 'pets' even though he's more like a sidekick to Maeko. I wish I had a cat that sat on my shoulder and followed me into all sorts of danger! \n The story line continues to be amazing and the balance between action and storytelling is perfect. I do wish there was more to the Maeko and her mother story line, but such is the way between parents and their children sometimes. \n McCormack is a professional storyteller and I would read anything she writes.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 95,
+   "source_row": 3690,
+   "text": "This is REALLY good. What a great collection of information on the best methods for propagating various woody plants. Twice as long as the first edition, so probably has much more detail. If you want to take existing plants and trees, and make more of them, this is the book for you. Read it once, consult it for years.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": null
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 96,
+   "source_row": 3842,
+   "text": "** spoiler alert ** \n *3.5 stars* \n I think I went into this books expecting what I had gotten from the Peaches Monroe trilogy, that was a mistake on my part. While I did like this book it just wasn't what I expected. As I am sitting here writing this I am still not 100% on how I truly felt about this book. There was so many conflicting things with me here. Sigh \n So we get to meet Skye. She is a dance teacher and a former stripper who apparently has a strong distaste for rich people. The thing that threw me off about her story were the reasons why she had such strong feelings to the people from the pretty side of the track. It all came down to her rich father who basically left her and her mother high and dry after he died. He left all his money to his wife and other children, because it turns out he was married with a whole other family. And maybe some of her hatred came from her former job also. I'm just guessing here. I was kind of hoping besides her daddy issues there was some rich guy that had used her and all that fun stuff. But that was it, I kind of wanted more. I will tell you what I did love about her, for once she was the fucked up train wrecked basket case who needed to be hugged. Sadly you didn't get much of her pre-Charlie sexcapades but you got a few snippets here and there of some umm funny business. I loved it! \n And then we get Charlie who is a pretty much relaxed guy whom is everybody's hero, or well Mr. Fixer of Problems anyways. He always seems to have the answer or solution for any task, great or small. I honestly just never really got Charlie, I just could never peg him. One minute he seemed all loved dovey geeky sweet and the next he was almost a wanna be alpha male. I wish he would of just stuck to being geeky, that part drew me more to him than the 5 second alpha. He didn't seem to pull that off all that great. but I give him props for trying. Oh I also must mention that he is also one of the upper class. Beside being a fixer, that seemed to be his only downfall. Well when him and Skye meet, it is a case of mistaken identity due to a dress and some serious lust at first site. Now there relationship was kind of lukewarm for me. Now don't get me wrong, I loved their sex life but other than that ehh. It was like if he wasn't trying to save her and she wasn't pushing him away there was nothing, to me they really had no chemistry. Besides the lust, I got nothing. It made me sad. I almost liked her relationship with Duncan better. \n As for the story, well I didn't love it and I didn't hate it. At times it almost seemed like this was two different stories being shoved into one. It had it's funny moments but at times they almost seem to fall flat. I had a couple of laugh out louds but not many. It was almost like they were trying to hard to be funny at times. I did like the snarky smart ass stuff though, it was great. Now the sex was hot, hot and more hot. Especially the scene out in the rain, grrrrr. There was this one part in there that I think I may have passed out for a minute or two. Shiver Now this story did have a couple of surprises in it and there were a few times I remember loudly saying \"HOLY SHIT!\" So really when all comes down to it, I am feeling a little disappointed with this book but the two things that really made me enjoy what I did, was that for once the girl was the fucked up one and that one rain scene. \n My song for this book: Use Me Up by Wanderhouse.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 1,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 97,
+   "source_row": 3916,
+   "text": "I won this book through the Goodreads giveaway. \n While I follow the news quite closely I do not remember having heard of the plane crash involving Hannah Luce. Hannah Luce is the daughter of minister Ron Luce, who is also the founder of Teen Mania which is where she was heading with her friends when the plane they were aboard crashed. This is the story of Hannah's life thus far, as well as the plane crash she survived last year which took the life of four of her close friends. \n The reason I gave this review 4 stars, it was written so soon after the plane crash. This didn't allow Hannah to reflect on how it changed her beyond the immediate loss of her friends and the extensive burns she suffered. This mad the ending of the book feel quite rushed as it lacked much reflection. \n This book is good for anyone who may be questioning their faith as in the novel Hannah certainly questions hers. Having known friends who were the sole survivors of accident and sat there often wondering, why me, why am I the one who survived, I think Hannah's story would be told much better in a few years. I wonder as well what her relationship is with her parents today.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  },
+  {
+   "review_id": 98,
+   "source_row": 3981,
+   "text": "Delphine lives in a beach town that fills up with tourists every summer, most of those are wealthy. She meets Maggie and they develop a fast friendship even though there are gulfs between the two, they share everything each summer as they grow. Now both are heading for middle age and they meet again at age 49. Del quit school and returned home to Maine to work for the family business while Maggie marries, has a successful career and children. Del and Maggie lose touch with each other and only at Maggie's insistence do they reconnect. The story alternates between the two growing up together during summers in Maine and their current lives. \n I know everyone has a friendship like this one, where a move can sometimes cause two best friends to lose track with each other. Sometimes there is a falling out, sometimes geography plays an important role, but a lot of times, social conditions rule where life takes you. The girls who share everything growing up find themselves with little in common as adults. I thought Del was a quiet individual always trying to be responsible to her family, putting them before herself, while Maggie was a force of nature, knowing what she wants and how to get it. Part of me was upset with Del for not pushing a bit harder in her life, but at the same time, I thought she was right where she wanted to be. This is just one of those books that is a perfect summer read that is still thought provoking and will have you thinking about your own friends.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 99,
+   "source_row": 4046,
+   "text": "Where Tree Tops Glisten was an amazing book. This book was the best of two types of books that I love to read. It takes place during WWII & it is also is a collection of 3 short stories written by 3 different authors. It also helps that I love all three of the authors in this book so reading it was great. I am not going to get into each of the stories but this such a sweet book and perfect for the holiday season. This book will leave you smiling and wanting more. I do wish that each of the stories would have been a whole book because I did love each of them and wanted to read more about them. If you are looking for a heart warming story to read during the holidays than this is the book for you!",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 1,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 100,
+   "source_row": 4081,
+   "text": "Filled with blood, snow, and mysterious characters NAMELESS is a much much darker version of Snow White - but as a lover of fairytale retellings, the words Snow White alone were enough to pull me in. \n When Camille was six, she was found in the snow by Enrico Vultusino. Now, Cami is sixteen and lives as a Vultusino heiress. But something is happening, and Cami's carefully built world is beginning to crumble. Enter Tor, a mysterious garden boy, who has scars of his own, and who seems to hold the keys to her mysterious past. A past that is springing to life once again. \n I wouldn't say that I loved NAMELESS. Although the author created a fantastic story, she didn't really explain anything, and the world building? I'm not even going to begin to explain. So yeah, that part could've been improved. But still NAMELESS was pretty good. You could see where Lili St. Crow mixed her imagination with various fairy tales. The confusion won't really matter, because by the time you turn the last page, you'll be dying for more. \n Read Full Review Here",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 4
+  },
+  {
+   "review_id": 101,
+   "source_row": 4096,
+   "text": "The London Project is a well-structured futuristic who-done-it novel about a woman police detective on the tail of the killer of a fourteen year old girl who was badly tortured before her death. It's set in a time when London has a sophisticated web system--a kind of natural extension of the present world wide web--run by the Portal company. The London Project was the rolling out of this web across all of central London so that no one was ever off the grid--or mostly anyway; a few dead zones remain. \n Think of a kind of far-reaching Facebook/You Tube that stores medical records and other official data, and tracks all your personal events via feeds that you share with your subscribers. Linked to this is an automatic driving system where you program in your destination and the car takes you via the most efficient route, avoiding all the other cars sensed by the GPS software. Sensors line the street so that people can be located at any time. This alone has made London safer. The police force has been cut back because most crimes can solved using the Portal's resources. Business boomed with the introduction of the London Project so, though it has its critics, the overwhelming response has been positive. The benefits seem to outweigh the disadvantages. It's a beneficial big brother--or is it? \n It's a chilling vision because it's all too possible. \n Like any good crime mystery, there are many twists and turns. The plot and pacing are impeccable, and the characters and their relationships are well developed and realistic. It's an entertaining read for anyone who likes a good mystery. \n The only reason I didn't give it 5 stars was because the quality of the prose was not as good as the rest of the book. The author relies too much on passive verbs which rob the prose of its power. Also, the author and editor are not aware that commas are required after introductory phrases, not just to be pedantic, but in order for the reading to be smooth and easy to understand. \n I received a copy of this book from the author in return for a review",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 102,
+   "source_row": 4194,
+   "text": "I don't usually like to review books in a series until I've read the entire series. It's much easier to see what works and what doesn't once I've finished the series. As with most Beverly Lewis books, The Rose Trilogy was fraught with romance, mystery, and a deep inside look into the Amish life. I know many Amish people; after all, I'm from a rural county in southern Michigan. The Amish of Beverly Lewis's books tend to be Old Order--not even inflatable tires are allowed. Where I'm from, the Amish ride bikes everywhere. \n The Rose Trilogy focuses on the Kauffman family--Solomon and his wife Emma, and their two daughters Hannah--also known as Hen--and Rose Ann. Hen, easily the least likable character in the entire series, is at best, impetuous but really she's selfish, prideful, and without any kind of regard for anyone but herself. After defying her family and church to marry an outsider--Brandon Orringer, an English man--she suddenly has a change of heart five years later. She uproots their four-year-old daughter, Mattie Sue, and moves back home with her parents and resumes her Plain lifestyle. Needless to say, Brandon is completely confused and begins divorce proceedings. After all, he's a modern man who married a woman who despised her Plain life and wanted all the trappings of the modern world. Throughout the entire series, Hen whines. That's all she does. Not once did I ever feel sorry for her. In fact, I felt more sorry for Brandon and wanted to know more from his point of view. Of course, we don't see his perspective yet we're somehow supposed to believe he's the bad guy and Hen is the wronged party. You'll never see it from this viewpoint. In short, us Englishers have a word for Hen: bi-polar. \n Rose Ann has pretty much given up her life to care for her ailing mother. Emma was injured in a tragic buggy accident that left her paralyzed and in great pain. Rose Ann is devoted to her mother and to the Amish lifestyle. Having taken her vows at fifteen--considerable young even in the Amish world--she upholds all aspects of the church. I couldn't help liking Rose Ann. She has a bit of spunk and fire that seeps out every now and then. She experiences the ups and downs of romance just like anyone else her age. She wants the best and wonders if she's ever going to find it. You almost cheer when she does find true love because you love the guy yourself. \n Nick Franco is a foster kid taken in by the district bishop. Nick never does quite adapt to being Amish and the first chance he gets, he leaves. You never hear much about Nick's time in the world. Like Brandon, you don't get Nick's perspective at all, even though he's the one you want to know about. Nick's good heart and worldly looks make him so easy to fall in love with, and when the church begins pointing fingers at him, you stand with him. \n I never rate Mrs. Lewis's books high because honestly, they tend to be a bit sugary sweet and dull; however, there are times I can't deal with the high end drama that saturates so much of the literary world. After reading multiple books that just wring you dry, it's relaxing to sit down with a book that will evoke almost no emotion and allow you a few hours of a life you won't live otherwise.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 103,
+   "source_row": 4212,
+   "text": "Still unsure of the need to make Robert attractive to each new female character in this series like a James Bond character. The closer comparison should be to Indiana Jones. And even he was drawn back to Marion. Sorry, just nags at me a bit. Still, do enjoy the fail-ability of the character. He is not always right, and sometimes he has to rely on the supporting characters. \n The only other drawback is the way Brown telegraphs his ending. Sorry, there is a virus that they are racing to stop. He does not outright say what the virus will do, but there are so many overt clues from the beginning of the book that it easier to glean than the location of the virus which Robert has to find. \n I did like the ending of this book, and I almost raised my review to 4 stars because of it, but the impact of it upon this universe will be so little it did not seem to be worthy. There managed to get that out without giving away the core of the book. Once you mention the core topic, the story unfold from there.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 104,
+   "source_row": 4226,
+   "text": "My 1 star is generously brought to you by the last 10% of the book. I'm not a bra burning women's liberation member but could Lexi be any more pathetic? \n Jack didn't own a single quality to draw me into Lexi's addiction to him so the whole plot line to me was lacking & empty of meaning. \n Ramsey was the only redeeming part of this book, even Lexi & Chyna's friendship lacked any believable grounding, basically they were clubbing mates, I felt no real deep rooted friendship. \n I felt like I was wading through treacle to get to the end because the book couldn't hold my attention for more than 7% at a time, it was a relief to get to the end & I'll be AVOIDING the sequel. Sorry",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 0
+  },
+  {
+   "review_id": 105,
+   "source_row": 4232,
+   "text": "What a great book. I could not get enough of Brew, and Rick. I loved the storyline of this book. It was well written, and informative. Can't wait to read book two.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 106,
+   "source_row": 4306,
+   "text": "In the same way that douglas Adams twisted sci fi, Christopher Moore takes the story of Jesus Christ and makes it human to the point of almost realisum - only not. Hillarious for thoes not easily offended by people making fun of religions.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 107,
+   "source_row": 4325,
+   "text": "Thoroughly disturbing book on the influence of money on every aspect of our democracy. The extent of the utter disregard for fairness is appalling. Overflowing with examples of greed and misinformation. Heart breaking to anyone who loves America.",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 1
+  },
+  {
+   "review_id": 108,
+   "source_row": 4345,
+   "text": "Wow! What an amazing journey! I am astounded. Sensational! Five great stories, heart -wrenching, exciting, wincing and cheering, though I can't bring myself to feel too badly for any of the Greek gods, well ...Er... except for Hades- Henry because they are psychos! \n Aimee Carter is a very talented writer! Carter is just too much and I can't wait for the next chapter of her writing career... after the Goddess test series because Carter tells stories that captivates and bring old tales back to existence anew. I never get tired of the way Aimee Carter portrays her Greek gods and it's amazing to read about their actions and reactions to certain issues. Honestly, its just plain weird! And the Drama! OMG! Kate has a lot to fix in her new family, and I am glad she has the strength to take them on because after reading this book, I am certain she is what the gods need. The Goddess legacy was no different from Carter's books it was enriching, fascinating, emotionally draining and I loved every minute I spent reading this masterpiece. I love how some of our questions where answered and I smiled at Henry's reaction when he'd first seen Kate and hers to him! The only problem I had with this book, is that it was too short especially Henry/Hades tale, but no matter I would let my imagination go wild. \n Okay... when they say \"the gods must be crazy\", this book took that phrase literally! Take Hera/Calliope for instance, I understand everything she'd went through and I understand she didn't get the life she'd wanted, but in the end... she became the worst of the lot! She is prideful and ruthless and bitter! I almost felt sorry for her... Almost. I didn't! Serves her right! Zeus, well what can I say? He is the male version of his wife; the only difference is that she believes in fidelity in a way and Zeus not so much! The maddening aspect, in a good way ... of this book, is seeing that the gods act like teens, and are ruled by their emotions, it was comical and I finally realized that each one of the gods doesn't really merit to be called a god.... Er... Well... Hades does and Kate too. All I can say is that this book rocked! And I will read it over and over again despite how royally messed up and dysfunctional this family is... er... except for Hades ...Agh! Henry. I can't wait until the third and final book The goddess Inheritance! Well-done Aimee Carter! \n A big thanks to Netgalley and Harlequin publishers for the Advanced Readers Copy of The Goddess Legacy expected publication date July 31st , 2012",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 1,
+    "Thought-Provoking": 1,
+    "Ease": 1,
+    "Critic": 1,
+    "Surprise": 0,
+    "Change": 1
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 3
+  },
+  {
+   "review_id": 109,
+   "source_row": 4347,
+   "text": "I did get through this book a little quicker than I normally do, mostly due to skipping over a chapter or two that didn't relate to me as I don't have kids yet & just couldn't couldn't relate to those two chapters (& only reason why it got a 4 star from me) \n otherwise, this was a good read & I enjoyed it :)",
+   "labels": {
+    "Absence of Naive Realism": 0,
+    "Theme": 0,
+    "Thought-Provoking": 0,
+    "Ease": 0,
+    "Critic": 0,
+    "Surprise": 0,
+    "Change": 0
+   },
+   "evidence": {
+    "Absence of Naive Realism": null,
+    "Theme": null,
+    "Thought-Provoking": null,
+    "Ease": null,
+    "Critic": null,
+    "Surprise": null,
+    "Change": null
+   },
+   "fold": 2
+  }
+ ]
+}

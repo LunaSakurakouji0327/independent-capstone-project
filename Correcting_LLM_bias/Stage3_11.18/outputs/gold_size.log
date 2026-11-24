@@ -1,0 +1,80 @@
+Absence of Naive Realism 14s
+Theme 13s
+Thought-Provoking 14s
+Ease 13s
+Critic 14s
+Surprise 14s
+               construct                 estimator   n  prevalence  mean_SE  SD_across_draws  rating_coef  rating_mean_SE  rating_SD_across_draws  draws  n_actual
+Absence of Naive Realism                   DMM-DSL 100       0.109    0.106            0.076       -1.364         163.512                   8.503    200     100.0
+Absence of Naive Realism                   DMM-DSL 200       0.103    0.087            0.034       -0.246        5256.073                  19.626    200     200.0
+Absence of Naive Realism                   DMM-DSL 300       0.105    0.080              NaN       -0.838          16.505                     NaN      1     273.0
+Absence of Naive Realism DSL, supervised predictor 100       0.132    0.032            0.025       -0.363           0.315                   0.287    200     100.0
+Absence of Naive Realism DSL, supervised predictor 200       0.127    0.022            0.012       -0.380           0.220                   0.136    200     200.0
+Absence of Naive Realism DSL, supervised predictor 300       0.121    0.019              NaN       -0.403           0.192                     NaN      1     273.0
+Absence of Naive Realism          human codes only 100       0.164    0.037            0.030       -0.257           0.385                   0.356    200     100.0
+Absence of Naive Realism          human codes only 200       0.161    0.026            0.013       -0.296           0.296                   0.176    200     200.0
+Absence of Naive Realism          human codes only 300       0.161    0.022              NaN       -0.300           0.255                     NaN      1     273.0
+                  Critic                   DMM-DSL 100       0.517    0.063            0.054       -0.731           0.352                   0.249    200     100.0
+                  Critic                   DMM-DSL 200       0.518    0.045            0.023       -0.668           0.206                   0.102    200     200.0
+                  Critic                   DMM-DSL 300       0.520    0.039              NaN       -0.659           0.173                     NaN      1     272.0
+                  Critic DSL, supervised predictor 100       0.483    0.035            0.032       -0.623           0.191                   0.166    200     100.0
+                  Critic DSL, supervised predictor 200       0.480    0.025            0.015       -0.616           0.121                   0.070    200     200.0
+                  Critic DSL, supervised predictor 300       0.470    0.021              NaN       -0.603           0.101                     NaN      1     272.0
+                  Critic          human codes only 100       0.543    0.050            0.043       -0.561           0.285                   0.240    200     100.0
+                  Critic          human codes only 200       0.544    0.035            0.017       -0.564           0.203                   0.112    200     200.0
+                  Critic          human codes only 300       0.544    0.030              NaN       -0.566           0.174                     NaN      1     272.0
+                    Ease                   DMM-DSL 100       0.331    0.066            0.054        0.879           1.085                   0.657    200     100.0
+                    Ease                   DMM-DSL 200       0.337    0.047            0.026        0.790           0.216                   0.118    200     200.0
+                    Ease                   DMM-DSL 300       0.335    0.040              NaN        0.769           0.171                     NaN      1     273.0
+                    Ease DSL, supervised predictor 100       0.338    0.043            0.033        0.566           0.173                   0.139    200     100.0
+                    Ease DSL, supervised predictor 200       0.344    0.030            0.018        0.531           0.114                   0.070    200     200.0
+                    Ease DSL, supervised predictor 300       0.341    0.026              NaN        0.537           0.096                     NaN      1     273.0
+                    Ease          human codes only 100       0.349    0.048            0.037        0.558           0.230                   0.196    200     100.0
+                    Ease          human codes only 200       0.356    0.034            0.018        0.516           0.162                   0.093    200     200.0
+                    Ease          human codes only 300       0.355    0.029              NaN        0.521           0.137                     NaN      1     273.0
+                Surprise                   DMM-DSL 100       0.243    0.052            0.036        0.127           3.479                   0.604    200     100.0
+                Surprise                   DMM-DSL 200       0.243    0.042            0.016        0.153           1.855                   0.251    200     200.0
+                Surprise                   DMM-DSL 300       0.242    0.039              NaN        0.180           1.590                     NaN      1     274.0
+                Surprise DSL, supervised predictor 100       0.211    0.033            0.026       -0.135           0.233                   0.188    200     100.0
+                Surprise DSL, supervised predictor 200       0.205    0.023            0.013       -0.136           0.159                   0.084    200     200.0
+                Surprise DSL, supervised predictor 300       0.209    0.020              NaN       -0.127           0.132                     NaN      1     274.0
+                Surprise          human codes only 100       0.236    0.042            0.036       -0.199           0.342                   0.290    200     100.0
+                Surprise          human codes only 200       0.234    0.030            0.016       -0.219           0.245                   0.146    200     200.0
+                Surprise          human codes only 300       0.234    0.026              NaN       -0.203           0.212                     NaN      1     274.0
+                   Theme                   DMM-DSL 100       0.387    0.073            0.051        0.115         222.603                  10.567    200     100.0
+                   Theme                   DMM-DSL 200       0.384    0.057            0.024        0.675           0.715                   0.212    200     200.0
+                   Theme                   DMM-DSL 300       0.384    0.052              NaN        0.632           0.620                     NaN      1     276.0
+                   Theme DSL, supervised predictor 100       0.444    0.041            0.039        0.126           0.208                   0.175    200     100.0
+                   Theme DSL, supervised predictor 200       0.439    0.028            0.017        0.123           0.135                   0.075    200     200.0
+                   Theme DSL, supervised predictor 300       0.438    0.024              NaN        0.120           0.114                     NaN      1     276.0
+                   Theme          human codes only 100       0.491    0.050            0.041        0.218           0.261                   0.234    200     100.0
+                   Theme          human codes only 200       0.491    0.035            0.018        0.200           0.184                   0.102    200     200.0
+                   Theme          human codes only 300       0.493    0.030              NaN        0.189           0.157                     NaN      1     276.0
+       Thought-Provoking                   DMM-DSL 100       0.321    0.075            0.063       14.005       47759.706                 186.276    200     100.0
+       Thought-Provoking                   DMM-DSL 200       0.321    0.054            0.027       -0.007           0.782                   0.372    200     200.0
+       Thought-Provoking                   DMM-DSL 300       0.324    0.046              NaN       -0.058           0.549                     NaN      1     273.0
+       Thought-Provoking DSL, supervised predictor 100       0.319    0.038            0.034        0.175           0.248                   0.211    200     100.0
+       Thought-Provoking DSL, supervised predictor 200       0.306    0.026            0.016        0.173           0.171                   0.093    200     200.0
+       Thought-Provoking DSL, supervised predictor 300       0.300    0.022              NaN        0.174           0.146                     NaN      1     273.0
+       Thought-Provoking          human codes only 100       0.407    0.049            0.042        0.197           0.292                   0.263    200     100.0
+       Thought-Provoking          human codes only 200       0.409    0.035            0.019        0.202           0.205                   0.110    200     200.0
+       Thought-Provoking          human codes only 300       0.410    0.030              NaN        0.201           0.175                     NaN      1     273.0
+               construct        source   n  human-code prevalence    SE  LLM majority on same reviews  agreement with LLM majority  DSL prevalence  DSL SE
+Absence of Naive Realism gold_original 100                  0.100 0.030                         0.070                        0.910           0.115   0.027
+Absence of Naive Realism    gold_yuhao  99                  0.162 0.037                         0.121                        0.919           0.142   0.026
+Absence of Naive Realism    gold_group  74                  0.243 0.050                         0.216                        0.811           0.253   0.050
+                   Theme gold_original 100                  0.360 0.048                         0.540                        0.720           0.357   0.042
+                   Theme    gold_yuhao 100                  0.610 0.049                         0.520                        0.790           0.537   0.040
+                   Theme    gold_group  76                  0.513 0.058                         0.737                        0.724           0.491   0.053
+       Thought-Provoking gold_original 100                  0.290 0.046                         0.270                        0.760           0.261   0.035
+       Thought-Provoking    gold_yuhao 100                  0.320 0.047                         0.390                        0.850           0.301   0.036
+       Thought-Provoking    gold_group  73                  0.699 0.054                         0.603                        0.767           0.255   0.045
+                    Ease gold_original 100                  0.320 0.047                         0.400                        0.760           0.323   0.039
+                    Ease    gold_yuhao  99                  0.313 0.047                         0.475                        0.596           0.312   0.047
+                    Ease    gold_group  74                  0.459 0.058                         0.365                        0.851           0.877   0.041
+                  Critic gold_original 100                  0.440 0.050                         0.530                        0.790           0.420   0.035
+                  Critic    gold_yuhao 100                  0.540 0.050                         0.650                        0.890           0.482   0.028
+                  Critic    gold_group  72                  0.694 0.055                         0.625                        0.819           0.561   0.051
+                Surprise gold_original 100                  0.120 0.033                         0.180                        0.920           0.127   0.025
+                Surprise    gold_yuhao 100                  0.300 0.046                         0.280                        0.860           0.260   0.040
+                Surprise    gold_group  74                  0.297 0.053                         0.257                        0.878           0.335   0.039

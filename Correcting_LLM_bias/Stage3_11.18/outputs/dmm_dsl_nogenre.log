@@ -1,0 +1,53 @@
+groups: ['Gemma', 'Qwen-FT', 'GPT'] | D: nogenre
+units with complete labels: 3000 of 3000
+Absence of Naive Realism 1s {'naive (majority of groups)': np.float64(0.086), 'gold only (100 reviews)': np.float64(0.1), 'DMM': np.float64(0.052), 'DMM-DSL': np.float64(0.089)}
+Theme 1s {'naive (majority of groups)': np.float64(0.483), 'gold only (100 reviews)': np.float64(0.36), 'DMM': np.float64(0.498), 'DMM-DSL': np.float64(0.297)}
+Thought-Provoking 1s {'naive (majority of groups)': np.float64(0.274), 'gold only (100 reviews)': np.float64(0.29), 'DMM': np.float64(0.257), 'DMM-DSL': np.float64(0.349)}
+Ease 1s {'naive (majority of groups)': np.float64(0.399), 'gold only (100 reviews)': np.float64(0.32), 'DMM': np.float64(0.381), 'DMM-DSL': np.float64(0.337)}
+Critic 1s {'naive (majority of groups)': np.float64(0.535), 'gold only (100 reviews)': np.float64(0.44), 'DMM': np.float64(0.51), 'DMM-DSL': np.float64(0.446)}
+Surprise 1s {'naive (majority of groups)': np.float64(0.205), 'gold only (100 reviews)': np.float64(0.12), 'DMM': np.float64(0.188), 'DMM-DSL': np.float64(0.132)}
+diag Absence of Naive Realism
+diag Theme
+diag Thought-Provoking
+diag Ease
+diag Critic
+diag Surprise
+               construct                  estimator  prevalence  prevalence SE  rating coef  rating coef SE
+Absence of Naive Realism naive (majority of groups)       0.086          0.005       -0.278           0.070
+Absence of Naive Realism    gold only (100 reviews)       0.100          0.030       -0.219           0.487
+Absence of Naive Realism                        DMM       0.052          0.021       -0.063           0.482
+Absence of Naive Realism                    DMM-DSL       0.089          0.052       -1.923           2.090
+                   Theme naive (majority of groups)       0.483          0.009        0.248           0.045
+                   Theme    gold only (100 reviews)       0.360          0.048        0.106           0.248
+                   Theme                        DMM       0.498          0.039        1.065           1.535
+                   Theme                    DMM-DSL       0.297          0.079        1.430           2.596
+       Thought-Provoking naive (majority of groups)       0.274          0.008        0.166           0.049
+       Thought-Provoking    gold only (100 reviews)       0.290          0.046       -0.467           0.269
+       Thought-Provoking                        DMM       0.257          0.012        0.209           0.076
+       Thought-Provoking                    DMM-DSL       0.349          0.081       -3.795         174.598
+                    Ease naive (majority of groups)       0.399          0.009        0.831           0.034
+                    Ease    gold only (100 reviews)       0.320          0.047        0.533           0.237
+                    Ease                        DMM       0.381          0.013        0.742           0.050
+                    Ease                    DMM-DSL       0.337          0.070        1.020           0.461
+                  Critic naive (majority of groups)       0.535          0.009       -0.585           0.042
+                  Critic    gold only (100 reviews)       0.440          0.050       -0.463           0.291
+                  Critic                        DMM       0.510          0.015       -0.457           0.072
+                  Critic                    DMM-DSL       0.446          0.078       -1.885           2.120
+                Surprise naive (majority of groups)       0.205          0.007       -0.263           0.053
+                Surprise    gold only (100 reviews)       0.120          0.033       -0.431           0.499
+                Surprise                        DMM       0.188          0.008       -0.231           0.063
+                Surprise                    DMM-DSL       0.132          0.037       -0.177           0.497
+               construct  mean H | gold X*=1  mean H | gold X*=0  n gold   H min   H max
+Absence of Naive Realism               0.271               0.040     100 -34.698  17.121
+                   Theme               0.858               0.394     100 -15.769 105.030
+       Thought-Provoking               0.324               0.147     100  -7.356   6.020
+                    Ease               0.731               0.191     100 -14.858   6.192
+                  Critic               0.818               0.257     100 -14.928   9.343
+                Surprise               0.817               0.089     100  -4.006   2.958
+               construct  bootstrap p      worst pair  subset prevalence min  subset prevalence max  gold residual corr median  gold pairs p<.05  gold pairs
+Absence of Naive Realism        0.016 Gemma – Qwen-FT                  0.086                  0.113                      0.389                 2           3
+                   Theme        0.033   Qwen-FT – GPT                  0.452                  0.471                      0.329                 3           3
+       Thought-Provoking        0.016     Gemma – GPT                  0.236                  0.266                      0.451                 3           3
+                    Ease        0.016   Qwen-FT – GPT                  0.384                  0.399                      0.388                 2           3
+                  Critic        0.180   Qwen-FT – GPT                  0.495                  0.518                      0.440                 3           3
+                Surprise        0.016   Qwen-FT – GPT                  0.181                  0.193                      0.285                 1           3

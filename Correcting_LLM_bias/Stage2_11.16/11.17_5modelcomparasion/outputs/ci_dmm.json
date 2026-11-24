@@ -1,0 +1,2378 @@
+{
+ "A": [
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Sonnet 5.5 (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.31154338194011394,
+   "perm p": 0.2988505747126437,
+   "q (BH, within construct)": 0.32638680659670166
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Qwen3-14B Ollama (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.2565665112500551,
+   "perm p": 0.1619190404797601,
+   "q (BH, within construct)": 0.20310433018784724
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.7155209765201446,
+   "perm p": 0.0009995002498750624,
+   "q (BH, within construct)": 0.010494752623688156
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.3734607743563072,
+   "perm p": 0.16441779110444776,
+   "q (BH, within construct)": 0.20310433018784724
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.3185881327487124,
+   "perm p": 0.0944527736131934,
+   "q (BH, within construct)": 0.1416791604197901
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.40277104432277666,
+   "perm p": 0.009495252373813094,
+   "q (BH, within construct)": 0.039880059970014994
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Qwen3-14B Ollama (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.36841638241334257,
+   "perm p": 0.022988505747126436,
+   "q (BH, within construct)": 0.053639846743295014
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.3265464164383503,
+   "perm p": 0.07846076961519241,
+   "q (BH, within construct)": 0.1267443201476185
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.3661368579656713,
+   "perm p": 0.13093453273363317,
+   "q (BH, within construct)": 0.18330834582708644
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.4839188286134901,
+   "perm p": 0.004997501249375313,
+   "q (BH, within construct)": 0.026236881559220392
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.10321442245103077,
+   "perm p": 0.6531734132933533,
+   "q (BH, within construct)": 0.6531734132933533
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.35490406422929943,
+   "perm p": 0.021989005497251374,
+   "q (BH, within construct)": 0.053639846743295014
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.35281252997589474,
+   "perm p": 0.044977511244377814,
+   "q (BH, within construct)": 0.08586615783017583
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.3807036927651437,
+   "perm p": 0.01199400299850075,
+   "q (BH, within construct)": 0.04197901049475262
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.30151021093439095,
+   "perm p": 0.02048975512243878,
+   "q (BH, within construct)": 0.053639846743295014
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.4912854052642127,
+   "perm p": 0.034482758620689655,
+   "q (BH, within construct)": 0.07241379310344828
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.194867186025643,
+   "perm p": 0.31084457771114443,
+   "q (BH, within construct)": 0.32638680659670166
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.4097333038720932,
+   "perm p": 0.0029985007496251873,
+   "q (BH, within construct)": 0.02098950524737631
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Qwen3-14B fine-tuned (CV, v1)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.29440825016470407,
+   "perm p": 0.1794102948525737,
+   "q (BH, within construct)": 0.20931201066133598
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "Qwen3-14B fine-tuned (CV, v1)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.32774646576325417,
+   "perm p": 0.06996501749125437,
+   "q (BH, within construct)": 0.12243878060969515
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "model 1": "GPT-6 Luna (v2/v3/v4)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.5052767685923598,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.010494752623688156
+  },
+  {
+   "construct": "Theme",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Sonnet 5.5 (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.6286591873496665,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Qwen3-14B Ollama (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.5488145863654718,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.5268779202728268,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.35878587220638075,
+   "perm p": 0.00399800099950025,
+   "q (BH, within construct)": 0.004664334499416958
+  },
+  {
+   "construct": "Theme",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.48891332844391666,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.2108664479170095,
+   "perm p": 0.015492253873063468,
+   "q (BH, within construct)": 0.016266866566716644
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Qwen3-14B Ollama (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.47184087948830183,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.6180771578056965,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.41284080570853027,
+   "perm p": 0.0014992503748125937,
+   "q (BH, within construct)": 0.001967766116941529
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.5490396131549251,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.25219086287635695,
+   "perm p": 0.0024987506246876563,
+   "q (BH, within construct)": 0.0030866919481435757
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.6055447467602193,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.46661048109361275,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.5440216594178537,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.4442287333776545,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.253069047218686,
+   "perm p": 0.041979010494752625,
+   "q (BH, within construct)": 0.041979010494752625
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.6620102960228017,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.44496827849092035,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Qwen3-14B fine-tuned (CV, v1)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.4610245248526642,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Theme",
+   "model 1": "Qwen3-14B fine-tuned (CV, v1)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.27062611703865946,
+   "perm p": 0.010494752623688156,
+   "q (BH, within construct)": 0.011599463426181646
+  },
+  {
+   "construct": "Theme",
+   "model 1": "GPT-6 Luna (v2/v3/v4)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.45640017754653595,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006996501749125438
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Sonnet 5.5 (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.4139250985799779,
+   "perm p": 0.008995502248875561,
+   "q (BH, within construct)": 0.014531195940491293
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Qwen3-14B Ollama (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.6225536363814572,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.002623688155922039
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.5600804530462401,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.002623688155922039
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.31058600908709105,
+   "perm p": 0.011494252873563218,
+   "q (BH, within construct)": 0.017241379310344827
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 97,
+   "residual corr | X*, length": 0.39574640943517564,
+   "perm p": 0.01249375312343828,
+   "q (BH, within construct)": 0.01749125437281359
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.5224149889166827,
+   "perm p": 0.0009995002498750624,
+   "q (BH, within construct)": 0.004197901049475263
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Qwen3-14B Ollama (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.2897239642991752,
+   "perm p": 0.05897051474262868,
+   "q (BH, within construct)": 0.06879893386640012
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.2744636037523751,
+   "perm p": 0.037481259370314844,
+   "q (BH, within construct)": 0.04630037922215363
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.14280742983921682,
+   "perm p": 0.2783608195902049,
+   "q (BH, within construct)": 0.2783608195902049
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 97,
+   "residual corr | X*, length": 0.5811695423818516,
+   "perm p": 0.0014992503748125937,
+   "q (BH, within construct)": 0.005247376311844077
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.35274061994459427,
+   "perm p": 0.0069965017491254375,
+   "q (BH, within construct)": 0.012243878060969516
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.3308692036193075,
+   "perm p": 0.00399800099950025,
+   "q (BH, within construct)": 0.009328668998833917
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.3030267407913957,
+   "perm p": 0.006496751624187906,
+   "q (BH, within construct)": 0.012243878060969516
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 97,
+   "residual corr | X*, length": 0.2221968666052011,
+   "perm p": 0.1854072963518241,
+   "q (BH, within construct)": 0.1946776611694153
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.3822217312219141,
+   "perm p": 0.0024987506246876563,
+   "q (BH, within construct)": 0.007496251874062969
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.21054074074059886,
+   "perm p": 0.062468765617191405,
+   "q (BH, within construct)": 0.06904442515584312
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 97,
+   "residual corr | X*, length": 0.32422487645276676,
+   "perm p": 0.017491254372813594,
+   "q (BH, within construct)": 0.02295727136431784
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.4761111501919345,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.002623688155922039
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Qwen3-14B fine-tuned (CV, v1)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 97,
+   "residual corr | X*, length": 0.3640077914971885,
+   "perm p": 0.0029985007496251873,
+   "q (BH, within construct)": 0.007871064467766116
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "Qwen3-14B fine-tuned (CV, v1)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.32454568421026486,
+   "perm p": 0.005497251374312844,
+   "q (BH, within construct)": 0.011544227886056972
+  },
+  {
+   "construct": "Thought-Provoking",
+   "model 1": "GPT-6 Luna (v2/v3/v4)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 95,
+   "residual corr | X*, length": 0.48631998937357734,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.002623688155922039
+  },
+  {
+   "construct": "Ease",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Sonnet 5.5 (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.48891598469748404,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Ease",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Qwen3-14B Ollama (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.6810227258106355,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Ease",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.6776371131008908,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Ease",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.27432606700300144,
+   "perm p": 0.004997501249375313,
+   "q (BH, within construct)": 0.0061733838962871514
+  },
+  {
+   "construct": "Ease",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.6530665182489015,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Ease",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.7176783995325378,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Qwen3-14B Ollama (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.3551458162443204,
+   "perm p": 0.0024987506246876563,
+   "q (BH, within construct)": 0.003279610194902549
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.4887841668154962,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.27763290884592234,
+   "perm p": 0.010494752623688156,
+   "q (BH, within construct)": 0.012151818827428391
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.6376122096773884,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.5960981311769307,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.5234881518564958,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.23749235738550958,
+   "perm p": 0.014492753623188406,
+   "q (BH, within construct)": 0.015217391304347827
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.5616260342270321,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.5968717838957565,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.33974635413096316,
+   "perm p": 0.0009995002498750624,
+   "q (BH, within construct)": 0.0013993003498250875
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.5492099179725336,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.6372131834913866,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Qwen3-14B fine-tuned (CV, v1)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.20950620597214062,
+   "perm p": 0.03498250874562719,
+   "q (BH, within construct)": 0.03498250874562719
+  },
+  {
+   "construct": "Ease",
+   "model 1": "Qwen3-14B fine-tuned (CV, v1)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.23679553228466207,
+   "perm p": 0.010994502748625687,
+   "q (BH, within construct)": 0.012151818827428391
+  },
+  {
+   "construct": "Ease",
+   "model 1": "GPT-6 Luna (v2/v3/v4)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 96,
+   "residual corr | X*, length": 0.63191876152571,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0007496251874062968
+  },
+  {
+   "construct": "Critic",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Sonnet 5.5 (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.490503714436345,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Qwen3-14B Ollama (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.41265570514546135,
+   "perm p": 0.001999000499750125,
+   "q (BH, within construct)": 0.002332167249708479
+  },
+  {
+   "construct": "Critic",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.558242556110959,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.24469981396894513,
+   "perm p": 0.04897551224387806,
+   "q (BH, within construct)": 0.04897551224387807
+  },
+  {
+   "construct": "Critic",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.47086896186643107,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.42727890162390697,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Qwen3-14B Ollama (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.5006720626066563,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.5524013500525804,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.5136516339719133,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.46007314277266537,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.5059690655823869,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.5664163233617784,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.6059764995135779,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.3563913068957623,
+   "perm p": 0.001999000499750125,
+   "q (BH, within construct)": 0.002332167249708479
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.6013383173219902,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.3287392838812283,
+   "perm p": 0.0029985007496251873,
+   "q (BH, within construct)": 0.00331413240748047
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.5584455964032966,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.6307320737641241,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Qwen3-14B fine-tuned (CV, v1)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.24967085234767097,
+   "perm p": 0.028985507246376812,
+   "q (BH, within construct)": 0.030434782608695653
+  },
+  {
+   "construct": "Critic",
+   "model 1": "Qwen3-14B fine-tuned (CV, v1)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.4514991041092482,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Critic",
+   "model 1": "GPT-6 Luna (v2/v3/v4)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 98,
+   "residual corr | X*, length": 0.5185220435321276,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0006559220389805098
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Sonnet 5.5 (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.570385443263634,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0008745627186406797
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Qwen3-14B Ollama (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.5248829448960374,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0008745627186406797
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.5001320058276459,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0008745627186406797
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.22341643183777624,
+   "perm p": 0.13243378310844578,
+   "q (BH, within construct)": 0.13905547226386808
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.5415132214613331,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0008745627186406797
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "GPT-4o (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 96,
+   "residual corr | X*, length": 0.5220266683632677,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0008745627186406797
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Qwen3-14B Ollama (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.5383251973848184,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0008745627186406797
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.3203008656015945,
+   "perm p": 0.00399800099950025,
+   "q (BH, within construct)": 0.005247376311844078
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.2876677722577313,
+   "perm p": 0.021989005497251374,
+   "q (BH, within construct)": 0.024303637654856783
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.5554045806471252,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0008745627186406797
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Sonnet 5.5 (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 96,
+   "residual corr | X*, length": 0.48225558552785797,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0008745627186406797
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "Gemma 3 12B (v2)",
+   "n": 100,
+   "residual corr | X*, length": 0.7033100308401123,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0008745627186406797
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.6003997135225704,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0008745627186406797
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.3877518105715435,
+   "perm p": 0.0029985007496251873,
+   "q (BH, within construct)": 0.004497751124437781
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Qwen3-14B Ollama (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 96,
+   "residual corr | X*, length": 0.3831948615674844,
+   "perm p": 0.0034982508745627187,
+   "q (BH, within construct)": 0.004897551224387806
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "Qwen3-14B fine-tuned (CV, v1)",
+   "n": 100,
+   "residual corr | X*, length": 0.5200924575320022,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0008745627186406797
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.344381779702578,
+   "perm p": 0.013993003498250875,
+   "q (BH, within construct)": 0.016325170747959354
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Gemma 3 12B (v2)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 96,
+   "residual corr | X*, length": 0.42750092962542474,
+   "perm p": 0.0004997501249375312,
+   "q (BH, within construct)": 0.0008745627186406797
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Qwen3-14B fine-tuned (CV, v1)",
+   "model 2": "GPT-6 Luna (v2/v3/v4)",
+   "n": 99,
+   "residual corr | X*, length": 0.15691299565000252,
+   "perm p": 0.17991004497751126,
+   "q (BH, within construct)": 0.17991004497751126
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "Qwen3-14B fine-tuned (CV, v1)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 96,
+   "residual corr | X*, length": 0.4029961186391606,
+   "perm p": 0.005497251374312844,
+   "q (BH, within construct)": 0.006790722285915866
+  },
+  {
+   "construct": "Surprise",
+   "model 1": "GPT-6 Luna (v2/v3/v4)",
+   "model 2": "GPT-5.4 mini (v2/v3/v4)",
+   "n": 96,
+   "residual corr | X*, length": 0.46142095066858846,
+   "perm p": 0.0009995002498750624,
+   "q (BH, within construct)": 0.0016145773267212547
+  }
+ ],
+ "kap": {
+  "GPT-4o (v2)": {
+   "Absence of Naive Realism": 0.45945945945945954,
+   "Theme": 0.2597898758357211,
+   "Thought-Provoking": 0.3708971553610504,
+   "Ease": 0.4556765163297045,
+   "Critic": 0.6365105008077545,
+   "Surprise": 0.5588235294117647
+  },
+  "Sonnet 5.5 (v2)": {
+   "Absence of Naive Realism": 0.29487179487179493,
+   "Theme": 0.43336355394378967,
+   "Thought-Provoking": 0.22744128553770082,
+   "Ease": 0.5998315080033698,
+   "Critic": 0.5497259201252936,
+   "Surprise": 0.6065808297567954
+  },
+  "Qwen3-14B Ollama (v2)": {
+   "Absence of Naive Realism": 0.3396226415094339,
+   "Theme": 0.34709351305812974,
+   "Thought-Provoking": 0.37677053824362605,
+   "Ease": 0.30959302325581406,
+   "Critic": 0.4349181605611846,
+   "Surprise": 0.5350500715307582
+  },
+  "Gemma 3 12B (v2)": {
+   "Absence of Naive Realism": 0.33333333333333337,
+   "Theme": 0.371859296482412,
+   "Thought-Provoking": 0.40505701536936045,
+   "Ease": 0.4147157190635452,
+   "Critic": 0.37791601866251945,
+   "Surprise": 0.5591939546599496
+  },
+  "Qwen3-14B fine-tuned (CV, v1)": {
+   "Absence of Naive Realism": 0.27419354838709664,
+   "Theme": 0.6231155778894473,
+   "Thought-Provoking": 0.5628946090335114,
+   "Ease": 0.5078740157480315,
+   "Critic": 0.6190858059342422,
+   "Surprise": 0.20382165605095537
+  },
+  "GPT-6 Luna (v2/v3/v4)": {
+   "Absence of Naive Realism": 0.4431818181818181,
+   "Theme": 0.4537351443123939,
+   "Thought-Provoking": 0.30983182406209575,
+   "Ease": 0.5105872952457051,
+   "Critic": 0.48,
+   "Surprise": 0.6775244299674267
+  },
+  "GPT-5.4 mini (v2/v3/v4)": {
+   "Absence of Naive Realism": 0.32436772380570045,
+   "Theme": 0.34097633136094674,
+   "Thought-Provoking": 0.2826855123674912,
+   "Ease": 0.38388998035363453,
+   "Critic": 0.45108910891089105,
+   "Surprise": 0.3865814696485623
+  }
+ },
+ "B": [
+  {
+   "construct": "Absence of Naive Realism",
+   "prevalence (5-model LCM)": 0.10272656744468976,
+   "deviance": 23.281689351120125,
+   "bootstrap p (overidentification)": 0.0399002493765586,
+   "sens Sonnet 5.5": 0.8584870163327334,
+   "sens Gemma 3 12B": 0.5259603028985752,
+   "sens Qwen3-14B fine-tuned": 0.25958869439919385,
+   "sens GPT-6 Luna": 0.8169033406456918,
+   "sens GPT-5.4 mini": 0.7350674459035146,
+   "FPR Sonnet 5.5": 0.0057328220841100334,
+   "FPR Gemma 3 12B": 0.07352263098126834,
+   "FPR Qwen3-14B fine-tuned": 0.0001,
+   "FPR GPT-6 Luna": 0.010493632011244113,
+   "FPR GPT-5.4 mini": 0.0718722321448222
+  },
+  {
+   "construct": "Theme",
+   "prevalence (5-model LCM)": 0.4819552519184888,
+   "deviance": 52.87969927830535,
+   "bootstrap p (overidentification)": 0.0024937655860349127,
+   "sens Sonnet 5.5": 0.7269769956516058,
+   "sens Gemma 3 12B": 0.8363181585910126,
+   "sens Qwen3-14B fine-tuned": 0.7147717927804536,
+   "sens GPT-6 Luna": 0.878393362518171,
+   "sens GPT-5.4 mini": 0.93788168813866,
+   "FPR Sonnet 5.5": 0.01858839213686829,
+   "FPR Gemma 3 12B": 0.0712912761475404,
+   "FPR Qwen3-14B fine-tuned": 0.06855002522036809,
+   "FPR GPT-6 Luna": 0.05788503624138983,
+   "FPR GPT-5.4 mini": 0.15696776843674004
+  },
+  {
+   "construct": "Thought-Provoking",
+   "prevalence (5-model LCM)": 0.281895532947845,
+   "deviance": 29.54246405277418,
+   "bootstrap p (overidentification)": 0.022443890274314215,
+   "sens Sonnet 5.5": 0.2601436118802344,
+   "sens Gemma 3 12B": 0.8823063725773255,
+   "sens Qwen3-14B fine-tuned": 0.6661063037267202,
+   "sens GPT-6 Luna": 0.4494450012860081,
+   "sens GPT-5.4 mini": 0.865264148421783,
+   "FPR Sonnet 5.5": 0.0001,
+   "FPR Gemma 3 12B": 0.006426792234441058,
+   "FPR Qwen3-14B fine-tuned": 0.10058092077819,
+   "FPR GPT-6 Luna": 0.009242102604254069,
+   "FPR GPT-5.4 mini": 0.04096790428567951
+  },
+  {
+   "construct": "Ease",
+   "prevalence (5-model LCM)": 0.2988386527332505,
+   "deviance": 47.35897553460463,
+   "bootstrap p (overidentification)": 0.0024937655860349127,
+   "sens Sonnet 5.5": 0.8906640390907539,
+   "sens Gemma 3 12B": 0.7495859019322774,
+   "sens Qwen3-14B fine-tuned": 0.7968436976452469,
+   "sens GPT-6 Luna": 0.9999,
+   "sens GPT-5.4 mini": 0.9999,
+   "FPR Sonnet 5.5": 0.01022374077156597,
+   "FPR Gemma 3 12B": 0.08936805468477663,
+   "FPR Qwen3-14B fine-tuned": 0.08824260378570768,
+   "FPR GPT-6 Luna": 0.20132879993215763,
+   "FPR GPT-5.4 mini": 0.2678983080511601
+  },
+  {
+   "construct": "Critic",
+   "prevalence (5-model LCM)": 0.4863428595254082,
+   "deviance": 73.67794831594101,
+   "bootstrap p (overidentification)": 0.0024937655860349127,
+   "sens Sonnet 5.5": 0.9789277162363791,
+   "sens Gemma 3 12B": 0.9040100776511153,
+   "sens Qwen3-14B fine-tuned": 0.790998000585219,
+   "sens GPT-6 Luna": 0.9730617292985383,
+   "sens GPT-5.4 mini": 0.8920955638141465,
+   "FPR Sonnet 5.5": 0.08547626764490497,
+   "FPR Gemma 3 12B": 0.16938890478899432,
+   "FPR Qwen3-14B fine-tuned": 0.05575139834205152,
+   "FPR GPT-6 Luna": 0.14294562843424474,
+   "FPR GPT-5.4 mini": 0.19364867733781885
+  },
+  {
+   "construct": "Surprise",
+   "prevalence (5-model LCM)": 0.1559388018548765,
+   "deviance": 34.99134122811738,
+   "bootstrap p (overidentification)": 0.0024937655860349127,
+   "sens Sonnet 5.5": 0.9615476585784409,
+   "sens Gemma 3 12B": 0.9999,
+   "sens Qwen3-14B fine-tuned": 0.8122522310754009,
+   "sens GPT-6 Luna": 0.9999,
+   "sens GPT-5.4 mini": 0.8480212809266788,
+   "FPR Sonnet 5.5": 0.07510207040384563,
+   "FPR Gemma 3 12B": 0.09169536437137445,
+   "FPR Qwen3-14B fine-tuned": 0.015802598569231222,
+   "FPR GPT-6 Luna": 0.15488033197129605,
+   "FPR GPT-5.4 mini": 0.017092651816275294
+  }
+ ],
+ "S": [
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + Qwen3-14B fine-tuned",
+   "prevalence": 0.04256340850468105,
+   "boot 2.5%": 0.013749438583449682,
+   "boot 97.5%": 0.08657434239911899,
+   "heterogeneity p (construct)": 0.1044776119402985
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-6 Luna",
+   "prevalence": 0.10875498919583255,
+   "boot 2.5%": 0.0531692579590475,
+   "boot 97.5%": 0.16144180521848936,
+   "heterogeneity p (construct)": 0.1044776119402985
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-5.4 mini",
+   "prevalence": 0.0887247530946321,
+   "boot 2.5%": 0.04349608269146503,
+   "boot 97.5%": 0.1461881997363788,
+   "heterogeneity p (construct)": 0.1044776119402985
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "prevalence": 0.09325533248031555,
+   "boot 2.5%": 0.046081372185161486,
+   "boot 97.5%": 0.1399767893006504,
+   "heterogeneity p (construct)": 0.1044776119402985
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "prevalence": 0.06432798460772525,
+   "boot 2.5%": 0.03175744347542032,
+   "boot 97.5%": 0.11213791455423826,
+   "heterogeneity p (construct)": 0.1044776119402985
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Sonnet 5.5 + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.10135358126331315,
+   "boot 2.5%": 0.05394779347834188,
+   "boot 97.5%": 0.14620562668007697,
+   "heterogeneity p (construct)": 0.1044776119402985
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "prevalence": 0.047461864347484235,
+   "boot 2.5%": 0.013333578386336356,
+   "boot 97.5%": 0.12560872251020821,
+   "heterogeneity p (construct)": 0.1044776119402985
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "prevalence": 0.06182576616189932,
+   "boot 2.5%": 0.023019278643627208,
+   "boot 97.5%": 0.10996655981215223,
+   "heterogeneity p (construct)": 0.1044776119402985
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Gemma 3 12B + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.1358911514165376,
+   "boot 2.5%": 0.06464375396058948,
+   "boot 97.5%": 0.23501382103583032,
+   "heterogeneity p (construct)": 0.1044776119402985
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Qwen3-14B fine-tuned + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.07671740764857127,
+   "boot 2.5%": 0.0355532599784215,
+   "boot 97.5%": 0.1500750584967171,
+   "heterogeneity p (construct)": 0.1044776119402985
+  },
+  {
+   "construct": "Theme",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + Qwen3-14B fine-tuned",
+   "prevalence": 0.40385397252039734,
+   "boot 2.5%": 0.3058258501431472,
+   "boot 97.5%": 0.4874841998035413,
+   "heterogeneity p (construct)": 0.04477611940298507
+  },
+  {
+   "construct": "Theme",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-6 Luna",
+   "prevalence": 0.3828555940159906,
+   "boot 2.5%": 0.30483268088221943,
+   "boot 97.5%": 0.46585576213384544,
+   "heterogeneity p (construct)": 0.04477611940298507
+  },
+  {
+   "construct": "Theme",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-5.4 mini",
+   "prevalence": 0.43133074684329775,
+   "boot 2.5%": 0.3495552813431784,
+   "boot 97.5%": 0.5143607993281004,
+   "heterogeneity p (construct)": 0.04477611940298507
+  },
+  {
+   "construct": "Theme",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "prevalence": 0.39662352286103947,
+   "boot 2.5%": 0.32132993279144295,
+   "boot 97.5%": 0.4887998992397418,
+   "heterogeneity p (construct)": 0.04477611940298507
+  },
+  {
+   "construct": "Theme",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "prevalence": 0.46209330745155003,
+   "boot 2.5%": 0.3596322561354462,
+   "boot 97.5%": 0.5562419572362648,
+   "heterogeneity p (construct)": 0.04477611940298507
+  },
+  {
+   "construct": "Theme",
+   "triple": "Sonnet 5.5 + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.4367119369237285,
+   "boot 2.5%": 0.35293839608476113,
+   "boot 97.5%": 0.5189619648850827,
+   "heterogeneity p (construct)": 0.04477611940298507
+  },
+  {
+   "construct": "Theme",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "prevalence": 0.4843085266432352,
+   "boot 2.5%": 0.3896864853455484,
+   "boot 97.5%": 0.5730843399166959,
+   "heterogeneity p (construct)": 0.04477611940298507
+  },
+  {
+   "construct": "Theme",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "prevalence": 0.5062397924839727,
+   "boot 2.5%": 0.4076437802043894,
+   "boot 97.5%": 0.5870836114675205,
+   "heterogeneity p (construct)": 0.04477611940298507
+  },
+  {
+   "construct": "Theme",
+   "triple": "Gemma 3 12B + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.48400686488988354,
+   "boot 2.5%": 0.39133896293075554,
+   "boot 97.5%": 0.5816063130761792,
+   "heterogeneity p (construct)": 0.04477611940298507
+  },
+  {
+   "construct": "Theme",
+   "triple": "Qwen3-14B fine-tuned + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.47565643388401724,
+   "boot 2.5%": 0.3711135510338012,
+   "boot 97.5%": 0.560822122176815,
+   "heterogeneity p (construct)": 0.04477611940298507
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + Qwen3-14B fine-tuned",
+   "prevalence": 0.2241576938363291,
+   "boot 2.5%": 0.1349757838835528,
+   "boot 97.5%": 0.306795343316281,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-6 Luna",
+   "prevalence": 0.1207442510581643,
+   "boot 2.5%": 0.06145573348656803,
+   "boot 97.5%": 0.1842421373871061,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-5.4 mini",
+   "prevalence": 0.2098674840558479,
+   "boot 2.5%": 0.14907151184085726,
+   "boot 97.5%": 0.2896987103420431,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "prevalence": 0.11111450128562905,
+   "boot 2.5%": 0.053244145227693246,
+   "boot 97.5%": 0.17495873398591544,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "prevalence": 0.2075490553573592,
+   "boot 2.5%": 0.12207044900654418,
+   "boot 97.5%": 0.30530483148488274,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Sonnet 5.5 + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.12906992343529855,
+   "boot 2.5%": 0.07034252820322535,
+   "boot 97.5%": 0.1961618130103816,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "prevalence": 0.22279823796997217,
+   "boot 2.5%": 0.1356287565104063,
+   "boot 97.5%": 0.3299445570336724,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "prevalence": 0.29768814706995045,
+   "boot 2.5%": 0.21829605971004243,
+   "boot 97.5%": 0.3684755531069711,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Gemma 3 12B + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.25224779053512986,
+   "boot 2.5%": 0.17429151056430173,
+   "boot 97.5%": 0.349656782182057,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Qwen3-14B fine-tuned + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.22449068371374048,
+   "boot 2.5%": 0.14531817706333952,
+   "boot 97.5%": 0.31493904868646494,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Ease",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + Qwen3-14B fine-tuned",
+   "prevalence": 0.24629449556687347,
+   "boot 2.5%": 0.17918479303909746,
+   "boot 97.5%": 0.31884547854515033,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Ease",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-6 Luna",
+   "prevalence": 0.2733397023296425,
+   "boot 2.5%": 0.20666370357088623,
+   "boot 97.5%": 0.35343283337118714,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Ease",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-5.4 mini",
+   "prevalence": 0.29890357861268496,
+   "boot 2.5%": 0.21918459799201884,
+   "boot 97.5%": 0.37496826871434935,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Ease",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "prevalence": 0.3335423016280706,
+   "boot 2.5%": 0.25380334089739315,
+   "boot 97.5%": 0.42133639414542035,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Ease",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "prevalence": 0.3290692050464741,
+   "boot 2.5%": 0.2366258367418102,
+   "boot 97.5%": 0.40404663390536416,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Ease",
+   "triple": "Sonnet 5.5 + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.37725141611960605,
+   "boot 2.5%": 0.28813902236924616,
+   "boot 97.5%": 0.4548342902553639,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Ease",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "prevalence": 0.29288256812350133,
+   "boot 2.5%": 0.19713261013663144,
+   "boot 97.5%": 0.3863576284924731,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Ease",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "prevalence": 0.3494616380473629,
+   "boot 2.5%": 0.24857731182926376,
+   "boot 97.5%": 0.4404316730722804,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Ease",
+   "triple": "Gemma 3 12B + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.4069271699282991,
+   "boot 2.5%": 0.31402674879780706,
+   "boot 97.5%": 0.5048118564252401,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Ease",
+   "triple": "Qwen3-14B fine-tuned + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.44823582647816085,
+   "boot 2.5%": 0.36429940538149386,
+   "boot 97.5%": 0.5392915322849281,
+   "heterogeneity p (construct)": 0.004975124378109453
+  },
+  {
+   "construct": "Critic",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + Qwen3-14B fine-tuned",
+   "prevalence": 0.46593991994976286,
+   "boot 2.5%": 0.375217237985522,
+   "boot 97.5%": 0.5463914793006112,
+   "heterogeneity p (construct)": 0.024875621890547265
+  },
+  {
+   "construct": "Critic",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-6 Luna",
+   "prevalence": 0.5089766699037038,
+   "boot 2.5%": 0.4272392844275029,
+   "boot 97.5%": 0.5929832188549023,
+   "heterogeneity p (construct)": 0.024875621890547265
+  },
+  {
+   "construct": "Critic",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-5.4 mini",
+   "prevalence": 0.5735474747778619,
+   "boot 2.5%": 0.4862385280263588,
+   "boot 97.5%": 0.6490388370685921,
+   "heterogeneity p (construct)": 0.024875621890547265
+  },
+  {
+   "construct": "Critic",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "prevalence": 0.49495067517932323,
+   "boot 2.5%": 0.4154959043337875,
+   "boot 97.5%": 0.5797654982590115,
+   "heterogeneity p (construct)": 0.024875621890547265
+  },
+  {
+   "construct": "Critic",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "prevalence": 0.4790086042547252,
+   "boot 2.5%": 0.3911899883911265,
+   "boot 97.5%": 0.5580488924852522,
+   "heterogeneity p (construct)": 0.024875621890547265
+  },
+  {
+   "construct": "Critic",
+   "triple": "Sonnet 5.5 + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.5328069286298512,
+   "boot 2.5%": 0.4496693044419153,
+   "boot 97.5%": 0.6050521880628723,
+   "heterogeneity p (construct)": 0.024875621890547265
+  },
+  {
+   "construct": "Critic",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "prevalence": 0.4932155504425303,
+   "boot 2.5%": 0.39948685108528215,
+   "boot 97.5%": 0.5738228223116777,
+   "heterogeneity p (construct)": 0.024875621890547265
+  },
+  {
+   "construct": "Critic",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "prevalence": 0.482835241287933,
+   "boot 2.5%": 0.3891066819148488,
+   "boot 97.5%": 0.5576600546533023,
+   "heterogeneity p (construct)": 0.024875621890547265
+  },
+  {
+   "construct": "Critic",
+   "triple": "Gemma 3 12B + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.5408947809699809,
+   "boot 2.5%": 0.44352251483014166,
+   "boot 97.5%": 0.6277875413026465,
+   "heterogeneity p (construct)": 0.024875621890547265
+  },
+  {
+   "construct": "Critic",
+   "triple": "Qwen3-14B fine-tuned + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.43003539739167207,
+   "boot 2.5%": 0.32378951283642876,
+   "boot 97.5%": 0.5171776454104101,
+   "heterogeneity p (construct)": 0.024875621890547265
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + Qwen3-14B fine-tuned",
+   "prevalence": 0.15452331816156814,
+   "boot 2.5%": 0.1013441459672609,
+   "boot 97.5%": 0.21165882539638955,
+   "heterogeneity p (construct)": 0.029850746268656716
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-6 Luna",
+   "prevalence": 0.21773031292137063,
+   "boot 2.5%": 0.1588688775494042,
+   "boot 97.5%": 0.29026291915621494,
+   "heterogeneity p (construct)": 0.029850746268656716
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-5.4 mini",
+   "prevalence": 0.17133319237322414,
+   "boot 2.5%": 0.11572823115690349,
+   "boot 97.5%": 0.2422026284099681,
+   "heterogeneity p (construct)": 0.029850746268656716
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "prevalence": 0.183113556027838,
+   "boot 2.5%": 0.12033063792428968,
+   "boot 97.5%": 0.253344456129701,
+   "heterogeneity p (construct)": 0.029850746268656716
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "prevalence": 0.13801528702774893,
+   "boot 2.5%": 0.0851233757459321,
+   "boot 97.5%": 0.19836599063642724,
+   "heterogeneity p (construct)": 0.029850746268656716
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Sonnet 5.5 + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.20447487786113616,
+   "boot 2.5%": 0.14039792085305147,
+   "boot 97.5%": 0.26921041527798234,
+   "heterogeneity p (construct)": 0.029850746268656716
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "prevalence": 0.1885236982460697,
+   "boot 2.5%": 0.13151136077423178,
+   "boot 97.5%": 0.2633417069602486,
+   "heterogeneity p (construct)": 0.029850746268656716
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "prevalence": 0.13717592201883552,
+   "boot 2.5%": 0.09058468631426253,
+   "boot 97.5%": 0.19716045086817383,
+   "heterogeneity p (construct)": 0.029850746268656716
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Gemma 3 12B + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.18807311520137684,
+   "boot 2.5%": 0.13393202243110325,
+   "boot 97.5%": 0.26318840103627145,
+   "heterogeneity p (construct)": 0.029850746268656716
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Qwen3-14B fine-tuned + GPT-6 Luna + GPT-5.4 mini",
+   "prevalence": 0.15273650832256708,
+   "boot 2.5%": 0.09945995656734356,
+   "boot 97.5%": 0.21596967665464126,
+   "heterogeneity p (construct)": 0.029850746268656716
+  }
+ ],
+ "C": [
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + Qwen3-14B fine-tuned",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.27419354838709664,
+   "mean kappa vs human (gold)": 0.300799558864075,
+   "max |residual corr| (gold)": 0.4912854052642127,
+   "min perm p (gold)": 0.034482758620689655,
+   "mean pairwise kappa (150 new)": 0.3755036650195356
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.29487179487179493,
+   "mean kappa vs human (gold)": 0.3571289821289822,
+   "max |residual corr| (gold)": 0.4839188286134901,
+   "min perm p (gold)": 0.004997501249375313,
+   "mean pairwise kappa (150 new)": 0.4789466065755911
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.29487179487179493,
+   "mean kappa vs human (gold)": 0.3175242840036096,
+   "max |residual corr| (gold)": 0.4097333038720932,
+   "min perm p (gold)": 0.0029985007496251873,
+   "mean pairwise kappa (150 new)": 0.4431337180118198
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.27419354838709664,
+   "mean kappa vs human (gold)": 0.33741572048023655,
+   "max |residual corr| (gold)": 0.4839188286134901,
+   "min perm p (gold)": 0.004997501249375313,
+   "mean pairwise kappa (150 new)": 0.4961798475186055
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.27419354838709664,
+   "mean kappa vs human (gold)": 0.297811022354864,
+   "max |residual corr| (gold)": 0.3661368579656713,
+   "min perm p (gold)": 0.06996501749125437,
+   "mean pairwise kappa (150 new)": 0.4086278582562164
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Sonnet 5.5 + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.29487179487179493,
+   "mean kappa vs human (gold)": 0.35414044561977115,
+   "max |residual corr| (gold)": 0.5052767685923598,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5780181441946147
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.27419354838709664,
+   "mean kappa vs human (gold)": 0.3502362333007494,
+   "max |residual corr| (gold)": 0.4912854052642127,
+   "min perm p (gold)": 0.034482758620689655,
+   "mean pairwise kappa (150 new)": 0.3135863212555943
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.27419354838709664,
+   "mean kappa vs human (gold)": 0.31063153517537684,
+   "max |residual corr| (gold)": 0.4912854052642127,
+   "min perm p (gold)": 0.0029985007496251873,
+   "mean pairwise kappa (150 new)": 0.35440873996967154
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Gemma 3 12B + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.32436772380570045,
+   "mean kappa vs human (gold)": 0.366960958440284,
+   "max |residual corr| (gold)": 0.5052767685923598,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.39840622915025276
+  },
+  {
+   "construct": "Absence of Naive Realism",
+   "triple": "Qwen3-14B fine-tuned + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.27419354838709664,
+   "mean kappa vs human (gold)": 0.3472476967915384,
+   "max |residual corr| (gold)": 0.5052767685923598,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.3485379604537993
+  },
+  {
+   "construct": "Theme",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + Qwen3-14B fine-tuned",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.371859296482412,
+   "mean kappa vs human (gold)": 0.4761128094385496,
+   "max |residual corr| (gold)": 0.6180771578056965,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5905285746657012
+  },
+  {
+   "construct": "Theme",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.371859296482412,
+   "mean kappa vs human (gold)": 0.4196526649128652,
+   "max |residual corr| (gold)": 0.6620102960228017,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6633691082869524
+  },
+  {
+   "construct": "Theme",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.34097633136094674,
+   "mean kappa vs human (gold)": 0.38206639392904945,
+   "max |residual corr| (gold)": 0.6180771578056965,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6178258746015296
+  },
+  {
+   "construct": "Theme",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.43336355394378967,
+   "mean kappa vs human (gold)": 0.5034047587152103,
+   "max |residual corr| (gold)": 0.5490396131549251,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5923384114849293
+  },
+  {
+   "construct": "Theme",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.34097633136094674,
+   "mean kappa vs human (gold)": 0.4658184877313946,
+   "max |residual corr| (gold)": 0.41284080570853027,
+   "min perm p (gold)": 0.0014992503748125937,
+   "mean pairwise kappa (150 new)": 0.5325704681066797
+  },
+  {
+   "construct": "Theme",
+   "triple": "Sonnet 5.5 + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.34097633136094674,
+   "mean kappa vs human (gold)": 0.40935834320571013,
+   "max |residual corr| (gold)": 0.5490396131549251,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6452492670996642
+  },
+  {
+   "construct": "Theme",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.371859296482412,
+   "mean kappa vs human (gold)": 0.48290333956141773,
+   "max |residual corr| (gold)": 0.6620102960228017,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5822552679703996
+  },
+  {
+   "construct": "Theme",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.34097633136094674,
+   "mean kappa vs human (gold)": 0.445317068577602,
+   "max |residual corr| (gold)": 0.44496827849092035,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5728249967289692
+  },
+  {
+   "construct": "Theme",
+   "triple": "Gemma 3 12B + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.34097633136094674,
+   "mean kappa vs human (gold)": 0.3888569240519176,
+   "max |residual corr| (gold)": 0.6620102960228017,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.644682133389579
+  },
+  {
+   "construct": "Theme",
+   "triple": "Qwen3-14B fine-tuned + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.34097633136094674,
+   "mean kappa vs human (gold)": 0.4726090178542626,
+   "max |residual corr| (gold)": 0.4610245248526642,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5821108870213579
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + Qwen3-14B fine-tuned",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.22744128553770082,
+   "mean kappa vs human (gold)": 0.3984643033135242,
+   "max |residual corr| (gold)": 0.2744636037523751,
+   "min perm p (gold)": 0.037481259370314844,
+   "mean pairwise kappa (150 new)": 0.37957435984388493
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.22744128553770082,
+   "mean kappa vs human (gold)": 0.3141100416563857,
+   "max |residual corr| (gold)": 0.5811695423818516,
+   "min perm p (gold)": 0.0014992503748125937,
+   "mean pairwise kappa (150 new)": 0.49498181877455777
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.22744128553770082,
+   "mean kappa vs human (gold)": 0.3050612710915175,
+   "max |residual corr| (gold)": 0.4761111501919345,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.489428426037372
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.22744128553770082,
+   "mean kappa vs human (gold)": 0.36672257287776927,
+   "max |residual corr| (gold)": 0.5811695423818516,
+   "min perm p (gold)": 0.0014992503748125937,
+   "mean pairwise kappa (150 new)": 0.4007916384844033
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.22744128553770082,
+   "mean kappa vs human (gold)": 0.35767380231290113,
+   "max |residual corr| (gold)": 0.35274061994459427,
+   "min perm p (gold)": 0.005497251374312844,
+   "mean pairwise kappa (150 new)": 0.3448217926023469
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Sonnet 5.5 + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.22744128553770082,
+   "mean kappa vs human (gold)": 0.2733195406557626,
+   "max |residual corr| (gold)": 0.5811695423818516,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.485459594897788
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.30983182406209575,
+   "mean kappa vs human (gold)": 0.42592781615498926,
+   "max |residual corr| (gold)": 0.3640077914971885,
+   "min perm p (gold)": 0.0029985007496251873,
+   "mean pairwise kappa (150 new)": 0.46301634894258625
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.2826855123674912,
+   "mean kappa vs human (gold)": 0.416879045590121,
+   "max |residual corr| (gold)": 0.4761111501919345,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5751191191702749
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Gemma 3 12B + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.2826855123674912,
+   "mean kappa vs human (gold)": 0.33252478393298246,
+   "max |residual corr| (gold)": 0.48631998937357734,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5805530328999632
+  },
+  {
+   "construct": "Thought-Provoking",
+   "triple": "Qwen3-14B fine-tuned + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.2826855123674912,
+   "mean kappa vs human (gold)": 0.38513731515436617,
+   "max |residual corr| (gold)": 0.48631998937357734,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.43915836332551933
+  },
+  {
+   "construct": "Ease",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + Qwen3-14B fine-tuned",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.4147157190635452,
+   "mean kappa vs human (gold)": 0.5074737476049821,
+   "max |residual corr| (gold)": 0.4887841668154962,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5988698046344177
+  },
+  {
+   "construct": "Ease",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.4147157190635452,
+   "mean kappa vs human (gold)": 0.5083781741042067,
+   "max |residual corr| (gold)": 0.6376122096773884,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.58023626677276
+  },
+  {
+   "construct": "Ease",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.38388998035363453,
+   "mean kappa vs human (gold)": 0.46614573580684987,
+   "max |residual corr| (gold)": 0.6372131834913866,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.557011015691984
+  },
+  {
+   "construct": "Ease",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.5078740157480315,
+   "mean kappa vs human (gold)": 0.5394309396657021,
+   "max |residual corr| (gold)": 0.6376122096773884,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6183367571102546
+  },
+  {
+   "construct": "Ease",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.38388998035363453,
+   "mean kappa vs human (gold)": 0.49719850136834526,
+   "max |residual corr| (gold)": 0.5960981311769307,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5658793059660833
+  },
+  {
+   "construct": "Ease",
+   "triple": "Sonnet 5.5 + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.38388998035363453,
+   "mean kappa vs human (gold)": 0.4981029278675699,
+   "max |residual corr| (gold)": 0.6376122096773884,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6180686714707443
+  },
+  {
+   "construct": "Ease",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.4147157190635452,
+   "mean kappa vs human (gold)": 0.47772567668576055,
+   "max |residual corr| (gold)": 0.5492099179725336,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.49173016384870466
+  },
+  {
+   "construct": "Ease",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.38388998035363453,
+   "mean kappa vs human (gold)": 0.43549323838840376,
+   "max |residual corr| (gold)": 0.6372131834913866,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.48696134211973535
+  },
+  {
+   "construct": "Ease",
+   "triple": "Gemma 3 12B + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.38388998035363453,
+   "mean kappa vs human (gold)": 0.43639766488762827,
+   "max |residual corr| (gold)": 0.6372131834913866,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5166529573302627
+  },
+  {
+   "construct": "Ease",
+   "triple": "Qwen3-14B fine-tuned + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.38388998035363453,
+   "mean kappa vs human (gold)": 0.46745043044912366,
+   "max |residual corr| (gold)": 0.63191876152571,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5820825680282713
+  },
+  {
+   "construct": "Critic",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + Qwen3-14B fine-tuned",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.37791601866251945,
+   "mean kappa vs human (gold)": 0.5155759149073518,
+   "max |residual corr| (gold)": 0.5524013500525804,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6636976752583528
+  },
+  {
+   "construct": "Critic",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.37791601866251945,
+   "mean kappa vs human (gold)": 0.46921397959593775,
+   "max |residual corr| (gold)": 0.5584455964032966,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6877655436606892
+  },
+  {
+   "construct": "Critic",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.37791601866251945,
+   "mean kappa vs human (gold)": 0.45957701589956806,
+   "max |residual corr| (gold)": 0.6307320737641241,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.661276047895957
+  },
+  {
+   "construct": "Critic",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.48,
+   "mean kappa vs human (gold)": 0.549603908686512,
+   "max |residual corr| (gold)": 0.5136516339719133,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6739045129605845
+  },
+  {
+   "construct": "Critic",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.45108910891089105,
+   "mean kappa vs human (gold)": 0.5399669449901423,
+   "max |residual corr| (gold)": 0.5136516339719133,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6378160115435766
+  },
+  {
+   "construct": "Critic",
+   "triple": "Sonnet 5.5 + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.45108910891089105,
+   "mean kappa vs human (gold)": 0.4936050096787283,
+   "max |residual corr| (gold)": 0.5185220435321276,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6964150394522095
+  },
+  {
+   "construct": "Critic",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.37791601866251945,
+   "mean kappa vs human (gold)": 0.49233394153225385,
+   "max |residual corr| (gold)": 0.5584455964032966,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6381557753678323
+  },
+  {
+   "construct": "Critic",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.37791601866251945,
+   "mean kappa vs human (gold)": 0.4826969778358842,
+   "max |residual corr| (gold)": 0.6307320737641241,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6289010346835521
+  },
+  {
+   "construct": "Critic",
+   "triple": "Gemma 3 12B + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.37791601866251945,
+   "mean kappa vs human (gold)": 0.43633504252447014,
+   "max |residual corr| (gold)": 0.6307320737641241,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.624803331858311
+  },
+  {
+   "construct": "Critic",
+   "triple": "Qwen3-14B fine-tuned + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.45108910891089105,
+   "mean kappa vs human (gold)": 0.5167249716150444,
+   "max |residual corr| (gold)": 0.5185220435321276,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5764889442153084
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + Qwen3-14B fine-tuned",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.20382165605095537,
+   "mean kappa vs human (gold)": 0.45653214682256676,
+   "max |residual corr| (gold)": 0.5200924575320022,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6349577939937536
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.5591939546599496,
+   "mean kappa vs human (gold)": 0.6144330714613906,
+   "max |residual corr| (gold)": 0.5554045806471252,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6282203127139028
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Sonnet 5.5 + Gemma 3 12B + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.3865814696485623,
+   "mean kappa vs human (gold)": 0.5174520846884357,
+   "max |residual corr| (gold)": 0.48225558552785797,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6525032155832098
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.20382165605095537,
+   "mean kappa vs human (gold)": 0.4959756385917258,
+   "max |residual corr| (gold)": 0.5554045806471252,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.608943775825724
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Sonnet 5.5 + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.20382165605095537,
+   "mean kappa vs human (gold)": 0.39899465181877103,
+   "max |residual corr| (gold)": 0.48225558552785797,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.7185273852716914
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Sonnet 5.5 + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.3865814696485623,
+   "mean kappa vs human (gold)": 0.5568955764575948,
+   "max |residual corr| (gold)": 0.5554045806471252,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6254913340273446
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-6 Luna",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.20382165605095537,
+   "mean kappa vs human (gold)": 0.4801800135594439,
+   "max |residual corr| (gold)": 0.5200924575320022,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.5895830035041308
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Gemma 3 12B + Qwen3-14B fine-tuned + GPT-5.4 mini",
+   "distinct families": 3,
+   "min kappa vs human (gold)": 0.20382165605095537,
+   "mean kappa vs human (gold)": 0.3831990267864891,
+   "max |residual corr| (gold)": 0.5200924575320022,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.68553756804139
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Gemma 3 12B + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.3865814696485623,
+   "mean kappa vs human (gold)": 0.5410999514253129,
+   "max |residual corr| (gold)": 0.46142095066858846,
+   "min perm p (gold)": 0.0004997501249375312,
+   "mean pairwise kappa (150 new)": 0.6058147008551282
+  },
+  {
+   "construct": "Surprise",
+   "triple": "Qwen3-14B fine-tuned + GPT-6 Luna + GPT-5.4 mini",
+   "distinct families": 2,
+   "min kappa vs human (gold)": 0.20382165605095537,
+   "mean kappa vs human (gold)": 0.4226425185556481,
+   "max |residual corr| (gold)": 0.46142095066858846,
+   "min perm p (gold)": 0.0009995002498750624,
+   "mean pairwise kappa (150 new)": 0.6363507881043605
+  }
+ ]
+}
